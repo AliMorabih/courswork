@@ -4,10 +4,12 @@ services:
   app:
     build: .
 
-  # world-db is  world-db folder
+  # db is is db folder
   world-db:
-     build: world-db/.
-     command: --default-authentication-plugin=mysql_native_password
-     restart: always
-  
+    build: world-db/.
+    command: --default-authentication-plugin=mysql_native_password
+    restart: always
+    ports:
+      - "33060:3306"
+
 
