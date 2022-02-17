@@ -14,9 +14,9 @@ public class App
         //Employee emp = a.getEmployee();
         //Employee emp = a.getEmployee(255530 );
         // Display results
-        ArrayList<Country> country = a.getEmployee();
+        ArrayList<Country> country = a.getCountry();
 
-        a.printEpmplyeeByRole(country);
+        a.printCountry(country);
 
         // Disconnect from database
         a.disconnect();
@@ -96,7 +96,7 @@ public class App
      * Salaries by Role Feature
      * @return A list of all employees and salaries by Role and we filter by Engineer
      */
-    public ArrayList<Country> getEmployee()
+    public ArrayList<Country> getCountry()
     {
         try
         {
@@ -104,7 +104,7 @@ public class App
             Statement stmt = con.createStatement();
             // Create string for SQL statement
                  String strSelect =
-                "SELECT code, name, continent "
+                "SELECT code, name, continent, region "
                         + "FROM country ";
 
 
@@ -118,6 +118,7 @@ public class App
                 emp.Code = rset.getString("country.Code");
                 emp.Name = rset.getString("country.name");
                 emp.Continent = rset.getString("country.continent");
+                emp.Region = rset.getString("country.Region");
                 country.add(emp);
             }
             return country;
@@ -131,16 +132,16 @@ public class App
     }
 
 
-    public void printEpmplyeeByRole(ArrayList<Country> country)
+    public void printCountry(ArrayList<Country> country)
     {
         // Print header
-        System.out.println(String.format("%-10s %-15s %-20s ", "Emp No", "First Name", "Last Name"));
+        System.out.println(String.format("%-10s %-15s %-20s %-20s ", " Code ", " Name", " Continent " , " Region "));
         // Loop over all employees in the list
         for (Country emp : country)
         {
             String emp_string =
-                    String.format("%-10s %-15s %-20s ",
-                            emp.Code, emp.Name, emp.Continent);
+                    String.format("%-10s %-15s %-20s %-20s ",
+                            emp.Code, emp.Name, emp.Continent,  emp.Region);
             System.out.println(emp_string);
         }
     }
