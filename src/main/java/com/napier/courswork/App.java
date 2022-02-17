@@ -10,9 +10,7 @@ public class App
         App a = new App();
         // Connect to database
         a.connect();
-        // Get Employee
-        //Employee emp = a.getEmployee();
-        //Employee emp = a.getEmployee(255530 );
+
         // Display results
         ArrayList<Country> country = a.getCountry();
 
@@ -114,12 +112,12 @@ public class App
             ArrayList<Country> country = new ArrayList<Country>();
             while (rset.next())
             {
-                Country emp = new Country();
-                emp.Code = rset.getString("country.Code");
-                emp.Name = rset.getString("country.name");
-                emp.Continent = rset.getString("country.continent");
-                emp.Region = rset.getString("country.Region");
-                country.add(emp);
+                Country cont = new Country();
+                cont.Code = rset.getString("country.Code");
+                cont.Name = rset.getString("country.name");
+                cont.Continent = rset.getString("country.continent");
+                cont.Region = rset.getString("country.Region");
+                country.add(cont);
             }
             return country;
         }
@@ -135,13 +133,13 @@ public class App
     public void printCountry(ArrayList<Country> country)
     {
         // Print header
-        System.out.println(String.format("%-10s %-15s %-20s %-20s ", " Code ", " Name", " Continent " , " Region "));
+        System.out.println(String.format("%-10s %-10s %-10s %-10s ", "Code", "Name", "Continent" , "Region" ));
         // Loop over all employees in the list
-        for (Country emp : country)
+        for (Country cont : country)
         {
             String emp_string =
-                    String.format("%-10s %-15s %-20s %-20s ",
-                            emp.Code, emp.Name, emp.Continent,  emp.Region);
+                    String.format("%-10s %-10s %-10s %-10s ",
+                            cont.Code, cont.Name, cont.Continent,  cont.Region);
             System.out.println(emp_string);
         }
     }
