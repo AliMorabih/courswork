@@ -102,7 +102,7 @@ public class App
             Statement stmt = con.createStatement();
             // Create string for SQL statement
                  String strSelect =
-                "SELECT code, name, continent, region "
+                "SELECT code, name, continent, region, Population "
                         + "FROM country ";
 
 
@@ -117,6 +117,7 @@ public class App
                 cont.Name = rset.getString("country.name");
                 cont.Continent = rset.getString("country.continent");
                 cont.Region = rset.getString("country.Region");
+                cont.Population = rset.getInt("country.population");
                 country.add(cont);
             }
             return country;
@@ -133,13 +134,13 @@ public class App
     public void printCountry(ArrayList<Country> country)
     {
         // Print header
-        System.out.println(String.format("%-10s %-10s %-10s %-10s ", "Code", "Name", "Continent" , "Region" ));
+        System.out.println(String.format("%-10s %-10s %-10s %-10s %-10s ", "Code", "Name", "Continent" , "Region", "Population" ));
         // Loop over all employees in the list
         for (Country cont : country)
         {
             String emp_string =
-                    String.format("%-10s %-10s %-10s %-10s ",
-                            cont.Code, cont.Name, cont.Continent,  cont.Region);
+                    String.format("%-10s %-10s %-10s %-10s %-10s",
+                            cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population);
             System.out.println(emp_string);
         }
     }
