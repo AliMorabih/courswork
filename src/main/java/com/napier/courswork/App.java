@@ -8,13 +8,13 @@ public class App
     {
         // Create new Application
         App a = new App();
-
+        Country_DAL DAL = new Country_DAL();
         // Connect to database
         a.connect();
         // Get Country
-        Country ctry = a.getCountry("JAM");
+        Country ctry = DAL.getCountry(con,"JAM");
         // Display results
-        a.displayCountry(ctry);
+        DAL.displayCountry(ctry);
 
         // Disconnect from database
         a.disconnect();
@@ -23,7 +23,7 @@ public class App
     /**
      * Connection to MySQL database.
      */
-    private Connection con = null;
+    private static Connection con = null;
 
     /**
      * Connect to the MySQL database.
@@ -82,56 +82,6 @@ public class App
             {
                 System.out.println("Error closing connection to database");
             }
-        }
-    }
-
-
-    public Country getCountry(String Code)
-    {
-        try
-        {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-            // Create string for SQL statement
-            System.out.println("Country details");
-            String strSelect =
-                    "SELECT code, name, continent "
-                            + "FROM country "
-                            + "WHERE code = '" + Code + "'";
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(strSelect);
-            // Return new countryif valid.
-            // Check one is returned
-            if (rset.next())
-            {
-                System.out.println("Display details");
-                Country ctry = new Country();
-                ctry.Code = rset.getString("code");
-                ctry.Name = rset.getString("name");
-                ctry.Continent = rset.getString("continent");
-                return ctry;
-            }
-            else {
-                System.out.println("No records");
-                return null;
-            }
-        }
-        catch (Exception e)
-        {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get country details");
-            return null;
-        }
-    }
-
-    public void displayCountry(Country ctry)
-    {
-        if (ctry != null)
-        {
-            System.out.println(
-                    "Country Code: " +  ctry.Code + "\n"
-                            + "Country Name: " + ctry.Name + "\n"
-                            + "Continent: " + ctry.Continent + "\n");
         }
     }
 }
