@@ -103,7 +103,8 @@ public class App
             // Create string for SQL statement
                  String strSelect =
                 "SELECT code, name, continent, region, Population "
-                        + "FROM country ";
+                        + "FROM country "
+                        + "ORDER BY Population DESC " ;
 
 
             // Execute SQL statement
