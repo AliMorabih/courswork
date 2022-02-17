@@ -1,25 +1,26 @@
 package com.napier.courswork;
 
-import java.sql.*;
+import  java.sql.*;
+import java.util.ArrayList;
 
 public class App
 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         // Create new Application
         App a = new App();
-
         // Connect to database
         a.connect();
-        // Get Country
-        Country ctry = a.getCountry("JAM");
+        // Get Employee
+        //Employee emp = a.getEmployee();
+        //Employee emp = a.getEmployee(255530 );
         // Display results
-        a.displayCountry(ctry);
+        ArrayList<Country> country = a.getEmployee();
+
+        a.printEpmplyeeByRole(country);
 
         // Disconnect from database
         a.disconnect();
     }
-
     /**
      * Connection to MySQL database.
      */
@@ -28,8 +29,8 @@ public class App
     /**
      * Connect to the MySQL database.
      */
-    public void connect()
-    {
+    public void connect(){
+
         try
         {
             // Load Database driver
@@ -56,7 +57,7 @@ public class App
             }
             catch (SQLException sqle)
             {
-                System.out.println("Failed to connect to database attempt " + i);
+                System.out.println("Failed to connect to database attempt " + Integer.toString(i));
                 System.out.println(sqle.getMessage());
             }
             catch (InterruptedException ie)
@@ -84,54 +85,65 @@ public class App
             }
         }
     }
-
-
-    public Country getCountry(String Code)
+    /******************************************************************************************************************
+     *  Create a SQL statement - a Statement object from the database connection.
+     Define the SQL query string to execute.
+     Execute a query (executeQuery) to extract data from the database. This will return a ResultSet object.
+     Test that the ResultSet has a value - call next on the ResultSet and check this is true.
+     Extract the information from the current record in the ResultSet using getInt for integer data, getString for string data, etc.
+     *******************************************************************************************************************/
+    /**
+     * Salaries by Role Feature
+     * @return A list of all employees and salaries by Role and we filter by Engineer
+     */
+    public ArrayList<Country> getEmployee()
     {
         try
         {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // Create string for SQL statement
-            System.out.println("Country details");
-            String strSelect =
-                    "SELECT code, name, continent "
-                            + "FROM country "
-                            + "WHERE code = '" + Code + "'";
+                 String strSelect =
+                "SELECT code, name, continent "
+                        + "FROM country ";
+
+
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
-            // Return new countryif valid.
-            // Check one is returned
-            if (rset.next())
+            // Extract employee information
+            ArrayList<Country> country = new ArrayList<Country>();
+            while (rset.next())
             {
-                System.out.println("Display details");
-                Country ctry = new Country();
-                ctry.Code = rset.getString("code");
-                ctry.Name = rset.getString("name");
-                ctry.Continent = rset.getString("continent");
-                return ctry;
+                Country emp = new Country();
+                emp.Code = rset.getString("country.Code");
+                emp.Name = rset.getString("country.name");
+                emp.Continent = rset.getString("country.continent");
+                country.add(emp);
             }
-            else {
-                System.out.println("No records");
-                return null;
-            }
+            return country;
         }
         catch (Exception e)
         {
             System.out.println(e.getMessage());
-            System.out.println("Failed to get country details");
+            System.out.println("Failed to get salary details");
             return null;
         }
     }
 
-    public void displayCountry(Country ctry)
+
+    public void printEpmplyeeByRole(ArrayList<Country> country)
     {
-        if (ctry != null)
+        // Print header
+        System.out.println(String.format("%-10s %-15s %-20s ", "Emp No", "First Name", "Last Name"));
+        // Loop over all employees in the list
+        for (Country emp : country)
         {
-            System.out.println(
-                    "Country Code: " +  ctry.Code + "\n"
-                            + "Country Name: " + ctry.Name + "\n"
-                            + "Continent: " + ctry.Continent + "\n");
+            String emp_string =
+                    String.format("%-10s %-15s %-20s ",
+                            emp.Code, emp.Name, emp.Continent);
+            System.out.println(emp_string);
         }
     }
+
+
 }
