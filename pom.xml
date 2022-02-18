@@ -8,6 +8,13 @@
     <artifactId>courswork</artifactId>
     <version>0.1.0.1</version>
 
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <projet.build.sourceEncoding>UTF-8</projet.build.sourceEncoding>
+    </properties>
+
+
     <dependencies>
         <dependency>
             <groupId>mysql</groupId>
@@ -15,13 +22,6 @@
             <version>8.0.25</version>
         </dependency>
     </dependencies>
-
-    <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <projet.build.sourceEncoding>UTF-8</projet.build.sourceEncoding>
-    </properties>
-
     <build>
         <plugins>
             <plugin>
@@ -50,5 +50,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
