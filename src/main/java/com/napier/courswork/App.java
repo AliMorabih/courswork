@@ -8,13 +8,14 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
+        CountryExt DAL = new CountryExt();
         // Connect to database
         a.connect();
 
         // Display results
-        ArrayList<Country> country = a.getCountry();
+        ArrayList<Country> country = DAL.getCountry(a.con);
 
-        a.printCountry(country);
+        DAL.printCountry(country);
 
         // Disconnect from database
         a.disconnect();
@@ -94,57 +95,57 @@ public class App
      * Salaries by Role Feature
      * @return A list of all employees and salaries by Role and we filter by Engineer
      */
-    public ArrayList<Country> getCountry()
-    {
-        try
-        {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-            // Create string for SQL statement
-                 String strSelect =
-                "SELECT code, name, continent, region, Population "
-                        + "FROM country "
-                        + "ORDER BY Population DESC " ;
+    /** public ArrayList<Country> getCountry()
+     {
+     try
+     {
+     // Create an SQL statement
+     Statement stmt = con.createStatement();
+     // Create string for SQL statement
+     String strSelect =
+     "SELECT code, name, continent, region, Population "
+     + "FROM country "
+     + "ORDER BY Population DESC " ;
 
 
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(strSelect);
-            // Extract employee information
-            ArrayList<Country> country = new ArrayList<Country>();
-            while (rset.next())
-            {
-                Country cont = new Country();
-                cont.Code = rset.getString("country.Code");
-                cont.Name = rset.getString("country.name");
-                cont.Continent = rset.getString("country.continent");
-                cont.Region = rset.getString("country.Region");
-                cont.Population = rset.getInt("country.population");
-                country.add(cont);
-            }
-            return country;
-        }
-        catch (Exception e)
-        {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get salary details");
-            return null;
-        }
-    }
+     // Execute SQL statement
+     ResultSet rset = stmt.executeQuery(strSelect);
+     // Extract employee information
+     ArrayList<Country> country = new ArrayList<Country>();
+     while (rset.next())
+     {
+     Country cont = new Country();
+     cont.Code = rset.getString("country.Code");
+     cont.Name = rset.getString("country.name");
+     cont.Continent = rset.getString("country.continent");
+     cont.Region = rset.getString("country.Region");
+     cont.Population = rset.getInt("country.population");
+     country.add(cont);
+     }
+     return country;
+     }
+     catch (Exception e)
+     {
+     System.out.println(e.getMessage());
+     System.out.println("Failed to get salary details");
+     return null;
+     }
+     }**/
 
-
-    public void printCountry(ArrayList<Country> country)
-    {
-        // Print header
-        System.out.println(String.format("%-10s %-10s %-10s %-10s %-10s ", "Code", "Name", "Continent" , "Region", "Population" ));
-        // Loop over all employees in the list
-        for (Country cont : country)
-        {
-            String emp_string =
-                    String.format("%-10s %-10s %-10s %-10s %-10s",
-                            cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population);
-            System.out.println(emp_string);
-        }
-    }
+    /**
+     public void printCountry(ArrayList<Country> country)
+     {
+     // Print header
+     System.out.println(String.format("%-10s %-30s %-15s %-10s %-10s ", "Code", "Name", "Continent" , "Region", "Population" ));
+     // Loop over all employees in the list
+     for (Country cont : country)
+     {
+     String emp_string =
+     String.format("%-10s %-30s %-15s %-10s %-10s",
+     cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population);
+     System.out.println(emp_string);
+     }
+     }**/
 
 
 }
