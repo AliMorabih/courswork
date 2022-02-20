@@ -12,10 +12,15 @@ public class App
         // Connect to database
         a.connect();
 
-        // Display results
-        ArrayList<Country> country = DAL.getCountry(a.con);
+        //Q1 Display results Countries
+        //ArrayList<Country> country = DAL.getCountry(a.con);
 
+        //DAL.printCountry(country);
+
+        //Q Display  Countries by Continent
+        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
         DAL.printCountry(country);
+
 
         // Disconnect from database
         a.disconnect();
