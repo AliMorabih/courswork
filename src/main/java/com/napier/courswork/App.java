@@ -84,68 +84,6 @@ public class App
             }
         }
     }
-    /******************************************************************************************************************
-     *  Create a SQL statement - a Statement object from the database connection.
-     Define the SQL query string to execute.
-     Execute a query (executeQuery) to extract data from the database. This will return a ResultSet object.
-     Test that the ResultSet has a value - call next on the ResultSet and check this is true.
-     Extract the information from the current record in the ResultSet using getInt for integer data, getString for string data, etc.
-     *******************************************************************************************************************/
-    /**
-     * Salaries by Role Feature
-     * @return A list of all employees and salaries by Role and we filter by Engineer
-     */
-    /** public ArrayList<Country> getCountry()
-     {
-     try
-     {
-     // Create an SQL statement
-     Statement stmt = con.createStatement();
-     // Create string for SQL statement
-     String strSelect =
-     "SELECT code, name, continent, region, Population "
-     + "FROM country "
-     + "ORDER BY Population DESC " ;
-
-
-     // Execute SQL statement
-     ResultSet rset = stmt.executeQuery(strSelect);
-     // Extract employee information
-     ArrayList<Country> country = new ArrayList<Country>();
-     while (rset.next())
-     {
-     Country cont = new Country();
-     cont.Code = rset.getString("country.Code");
-     cont.Name = rset.getString("country.name");
-     cont.Continent = rset.getString("country.continent");
-     cont.Region = rset.getString("country.Region");
-     cont.Population = rset.getInt("country.population");
-     country.add(cont);
-     }
-     return country;
-     }
-     catch (Exception e)
-     {
-     System.out.println(e.getMessage());
-     System.out.println("Failed to get salary details");
-     return null;
-     }
-     }**/
-
-    /**
-     public void printCountry(ArrayList<Country> country)
-     {
-     // Print header
-     System.out.println(String.format("%-10s %-30s %-15s %-10s %-10s ", "Code", "Name", "Continent" , "Region", "Population" ));
-     // Loop over all employees in the list
-     for (Country cont : country)
-     {
-     String emp_string =
-     String.format("%-10s %-30s %-15s %-10s %-10s",
-     cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population);
-     System.out.println(emp_string);
-     }
-     }**/
 
 
 }
