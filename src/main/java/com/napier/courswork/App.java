@@ -13,16 +13,25 @@ public class App
         a.connect();
 
         //Q1 Display results Countries
-        //ArrayList<Country> country = DAL.getCountry(a.con);
-
+        System.out.println("***********************************");
+        System.out.println(" Display Countries in the World ");
+        ArrayList<Country> country = DAL.getCountry(a.con);
+        DAL.printCountry(country);
         //DAL.printCountry(country);
 
-        //Q Display  Countries by Continent
-        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
-        DAL.printCountry(country);
+        //Q2 Display  Countries by Continent
+        System.out.println("***********************************");
+        System.out.println(" Display Countries by Continent Asia ");
+        ArrayList<Country> countryC = DAL.getCountryByContinent(a.con);
+        DAL.printCountry(countryC);
 
+        // Q3 Display Countries by Region
+        System.out.println("*******************************************");
+        System.out.println("Display Countries by Region of Eastern Asia ");
+        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(countryR);
 
-        // Disconnect from database
+        //Disconnect from database
         a.disconnect();
     }
     /**
