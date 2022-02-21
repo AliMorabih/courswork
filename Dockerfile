@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/classes/com /tmp/com
+COPY ./target/courswork-0.1.0.1-jar-with-dependencies.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "com.napier.courswork.App"]
+ENTRYPOINT ["java", "-jar", "courswork-0.1.0.1-jar-with-dependencies.jar"]
