@@ -20,6 +20,11 @@ public class App
         CIT.printCities(Cities);
 
 
+        //Print Cities by Continent
+        System.out.println("Display the Cities In Continent of Africa");
+        ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        CIT.printCities(CitiesC);
+
         // Disconnect from database
         a.disconnect();
     }

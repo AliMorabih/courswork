@@ -41,6 +41,41 @@ public class CityWorld {
             return null;
         }
     }
+    public ArrayList<City> getCityByContinent(Connection con)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // This SQL Query will select countries based on population//
+            String strSelect =
+                    "SELECT ID, NAME, Population "
+                            + " FROM city "
+                            + " WHERE Continent IN ('Africa')"
+                            + "ORDER BY Population DESC ";
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Extract Cities information
+            ArrayList<City> cities = new ArrayList<City>();
+            while (rset.next())
+            {
+                City cin = new City();
+                cin.ID = rset.getInt("city.id");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cities.add(cin);
+            }
+            return cities;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get Cities details");
+            return null;
+        }
+    }
 
     public void printCities(ArrayList<City> cities)
     {
