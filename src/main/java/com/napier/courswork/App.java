@@ -8,18 +8,16 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
-        CountryExt DAL = new CountryExt();
-        // Connect to database
+
+        CityWorld CIT = new CityWorld();
+
+        //Connect to database
         a.connect();
 
-        //Q1 Display results Countries
-        //ArrayList<Country> country = DAL.getCountry(a.con);
-
-        //DAL.printCountry(country);
-
-        //Q Display  Countries by Continent
-        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
-        DAL.printCountry(country);
+        //Print Cities
+        System.out.println("Display the Cities");
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities);
 
 
         // Disconnect from database
