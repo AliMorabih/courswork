@@ -8,28 +8,45 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
+        // Create Instances
         CountryExt DAL = new CountryExt();
-        // Connect to database
+        CityWorld CIT = new CityWorld();
+
+        // Connect to our database Mysql
         a.connect();
 
-        //Q1 Display results Countries
-        System.out.println("***********************************");
+        // All the countries in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
         System.out.println(" Display Countries in the World ");
+        System.out.println("*******************************************");
         ArrayList<Country> country = DAL.getCountry(a.con);
         DAL.printCountry(country);
-        //DAL.printCountry(country);
 
-        //Q2 Display  Countries by Continent
-        System.out.println("***********************************");
+        // All the countries in a continent organised by largest population to smallest.
+        System.out.println("******************************************");
         System.out.println(" Display Countries by Continent Asia ");
+        System.out.println("*******************************************");
         ArrayList<Country> countryC = DAL.getCountryByContinent(a.con);
         DAL.printCountry(countryC);
 
-        // Q3 Display Countries by Region
+        // All the countries in a region organised by largest population to smallest.
         System.out.println("*******************************************");
-        System.out.println("Display Countries by Region of Eastern Asia ");
+        System.out.println(" Display Countries by Region of Eastern Asia ");
+        System.out.println("*******************************************");
         ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
         DAL.printCountry(countryR);
+
+        // All the cities in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities in the world ");
+        System.out.println("*******************************************");
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities);
+
+
+
+
+
 
         //Disconnect from database
         a.disconnect();
