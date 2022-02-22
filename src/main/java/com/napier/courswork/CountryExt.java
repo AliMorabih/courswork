@@ -81,7 +81,7 @@ public class CountryExt {
         catch (Exception e)
         {
             System.out.println(e.getMessage());
-            System.out.println("Failed to get Country details");
+            System.out.println("Failed to get Country By Continent details");
             return null;
         }
     }
@@ -124,7 +124,7 @@ public class CountryExt {
      catch (Exception e)
      {
      System.out.println(e.getMessage());
-     System.out.println("Failed to get Country details");
+     System.out.println("Failed to get Country By Region details");
      return null;
      }
      }

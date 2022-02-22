@@ -13,7 +13,7 @@ public class CityWorld {
         {
             // Create an SQL statement
             Statement stmt = con.createStatement();
-            // This SQL Query will select countries based on population//
+            // This SQL Query will select City By Population
             String strSelect =
                     "SELECT ID, NAME, Population " +
                             "FROM city " +
@@ -47,12 +47,13 @@ public class CityWorld {
         {
             // Create an SQL statement
             Statement stmt = con.createStatement();
-            // This SQL Query will select countries based on population//
+            // This SQL Query will select City by Continent
             String strSelect =
-                    "SELECT ID, NAME, Population "
-                            + " FROM city "
-                            + " WHERE Continent IN ('Africa')"
-                            + "ORDER BY Population DESC ";
+                    "SELECT City.ID, City.Name, City.Population, Country.Continent "
+                         + " FROM City, Country "
+                         + " WHERE City.CountryCode = Country.Code "
+                         + " AND Country.Code = City.ID "
+                         + " AND Country.Continent IN ('Africa') ";
 
 
             // Execute SQL statement
@@ -66,13 +67,14 @@ public class CityWorld {
                 cin.Name = rset.getString("city.name");
                 cin.Population = rset.getInt("city.population");
                 cities.add(cin);
+
             }
             return cities;
         }
         catch (Exception e)
         {
             System.out.println(e.getMessage());
-            System.out.println("Failed to get Cities details");
+            System.out.println("Failed to get Cities  By Continent details");
             return null;
         }
     }
