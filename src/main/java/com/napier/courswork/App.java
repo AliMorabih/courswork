@@ -44,14 +44,15 @@ public class App
         ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
         CIT.printCities(Cities);
 
-        /**
+
+
          // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
         CIT.printCities(CitiesC);
-          **/
+
 
 
 

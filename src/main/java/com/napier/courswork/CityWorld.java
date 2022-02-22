@@ -48,12 +48,11 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect =
-                    "SELECT City.ID, City.Name, City.Population, Country.Continent "
-                         + " FROM City, Country "
-                         + " WHERE City.CountryCode = Country.Code "
-                         + " AND Country.Code = City.ID "
-                         + " AND Country.Continent IN ('Africa') ";
+            String strSelect = "SELECT  city.ID, city.Name, city.CountryCode, city.Population, country.Continent"
+                + " FROM city, country "
+                + " WHERE city.CountryCode = country.Code "
+                + " AND country.Continent IN ('Africa')  "
+                + "ORDER BY Population DESC ";
 
 
             // Execute SQL statement
@@ -66,6 +65,7 @@ public class CityWorld {
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
                 cin.Population = rset.getInt("city.population");
+                cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
             }
@@ -82,13 +82,13 @@ public class CityWorld {
     public void printCities(ArrayList<City> cities)
     {
         // Print header
-        System.out.println(String.format("%-10s %-30s %-15s ", "ID", "Name", "Population"));
+        System.out.println(String.format("%-10s %-30s %-15s  %15s " , "ID", "Name", "Population",  "Country Code"));
         // Loop over all cities in the list
         for (City con : cities)
         {
             String city_string =
-                    String.format("%-10s %-30s %-15s",
-                            con.ID, con.Name, con.Population);
+                    String.format("%-10s %-30s %-15s %15s ",
+                            con.ID, con.Name, con.Population, con.CountryCode);
             System.out.println(city_string);
         }
     }
