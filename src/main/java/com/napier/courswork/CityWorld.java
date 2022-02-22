@@ -15,7 +15,7 @@ public class CityWorld {
             Statement stmt = con.createStatement();
             // This SQL Query will select countries based on population//
             String strSelect =
-                "SELECT name, Population " +
+                "SELECT ID, NAME, Population " +
                     "FROM city " +
                     "ORDER BY Population DESC ";
 
@@ -23,13 +23,14 @@ public class CityWorld {
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
             // Extract Cities information
+            ArrayList<City> cities = new ArrayList<City>();
             while (rset.next())
             {
-                City city = new City();
-                city.ID = rset.getInt("city.id");
-                city.Name = rset.getString("city.name");
-                city.Population = rset.getInt("country.population");
-                cities.add(city);
+                City cin = new City();
+                cin.ID = rset.getInt("city.id");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cities.add(cin);
             }
             return cities;
         }
@@ -46,11 +47,11 @@ public class CityWorld {
         // Print header
         System.out.println(String.format("%-10s %-30s %-15s ", "ID", "Name", "Population"));
         // Loop over all cities in the list
-        for (City city : cities)
+        for (City con : cities)
         {
             String city_string =
                     String.format("%-10s %-30s %-15s",
-                            city.ID, city.Name, city.Population);
+                            con.ID, con.Name, con.Population);
             System.out.println(city_string);
         }
     }
