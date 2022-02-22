@@ -8,18 +8,16 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
-        CountryExt DAL = new CountryExt();
+        CityPopulationDAL DAL = new CityPopulationDAL();
         // Connect to database
         a.connect();
 
-        //Q1 Display results Countries
-        //ArrayList<Country> country = DAL.getCountry(a.con);
 
-        //DAL.printCountry(country);
+        ArrayList<CityPopulation> citypopulation = DAL.getWorldCityListByPop(a.con);
+        DAL.printCityPopulation(citypopulation);
 
-        //Q Display  Countries by Continent
-        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
-        DAL.printCountry(country);
+        ArrayList<CityPopulation> citycontinent = DAL.getCityContinentListByPop(a.con);
+        DAL.printCityPopulation(citycontinent);
 
 
         // Disconnect from database
@@ -46,7 +44,7 @@ public class App
             System.exit(-1);
         }
 
-        int retries = 10;
+        int retries = 5;
         for (int i = 0; i < retries; ++i)
         {
             System.out.println("Connecting to database...");
@@ -61,7 +59,7 @@ public class App
             }
             catch (SQLException sqle)
             {
-                System.out.println("Failed to connect to database attempt " + Integer.toString(i));
+                System.out.println("Failed to connect to database attempt " + i);
                 System.out.println(sqle.getMessage());
             }
             catch (InterruptedException ie)
