@@ -41,7 +41,7 @@ company
 
 a request for the report is sent to data analysts 
 
-##Main Success Scenario: 
+## Main Success Scenario: 
 
 1. the manager requests the reports to the data analysts 
 2. the data analysts captures the requested information to display on the reports 
