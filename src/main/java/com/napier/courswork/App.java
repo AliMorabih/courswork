@@ -8,17 +8,22 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
-        CityPopulationDAL DAL = new CityPopulationDAL();
+        PopulationDAL DAL = new PopulationDAL();
         // Connect to database
         a.connect();
 
+        // Population
+        ArrayList<Population> population = DAL.getTopNPopulatedCountries(a.con);
+        DAL.printPopulation(population);
 
-        ArrayList<CityPopulation> citypopulation = DAL.getWorldCityListByPop(a.con);
-        DAL.printCityPopulation(citypopulation);
+        // Continent
+        ArrayList<Population> continent = DAL.getTopNPopulatedCountriesGroupByContinent(a.con);
+        DAL.printPopulation(continent);
 
-        ArrayList<CityPopulation> citycontinent = DAL.getCityContinentListByPop(a.con);
-        DAL.printCityPopulation(citycontinent);
 
+        // Region
+        ArrayList<Population> region = DAL.getTopNPopulatedCountriesGroupByRegion(a.con);
+        DAL.printPopulation(region);
 
         // Disconnect from database
         a.disconnect();
