@@ -11,6 +11,8 @@ public class App
         // Create Instances
         CountryExt DAL = new CountryExt();
         CityWorld CIT = new CityWorld();
+        PopulationDAL POP = new PopulationDAL();
+
 
         // Connect to our database Mysql
         a.connect();
@@ -43,9 +45,6 @@ public class App
         System.out.println("*******************************************");
         ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
         CIT.printCities(Cities);
-
-
-
          // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
@@ -55,6 +54,27 @@ public class App
 
 
 
+        // Population
+        System.out.println("*******************************************");
+        System.out.println(" TOP 5 populated countries in the world ");
+        System.out.println("*******************************************");
+        ArrayList<Population> populations = POP.getTopNPopulatedCountries(a.con);
+        POP.printPopulation(populations);
+
+        // Continent
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a continent  ");
+        System.out.println("*******************************************");
+        ArrayList<Population> continents = POP.getTopNPopulatedCountriesGroupByContinent(a.con);
+        POP.printPopulation(continents);
+
+
+        // Region
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a region ");
+        System.out.println("*******************************************");
+        ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
+        POP.printPopulation(regions);
 
 
 
@@ -106,7 +126,6 @@ public class App
             }
         }
     }
-
     /**
      * Disconnect from the MySQL database.
      */
