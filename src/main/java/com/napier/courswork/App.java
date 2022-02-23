@@ -8,15 +8,77 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
-        // Connect to database
+        // Create Instances
+        CountryExt DAL = new CountryExt();
+        CityWorld CIT = new CityWorld();
+        PopulationDAL POP = new PopulationDAL();
+
+
+        // Connect to our database Mysql
         a.connect();
 
-        // Display results
-        ArrayList<Country> country = a.getCountry();
 
-        a.printCountry(country);
+        // All the countries in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries in the World ");
+        System.out.println("*******************************************");
+        ArrayList<Country> country = DAL.getCountry(a.con);
+        DAL.printCountry(country);
 
-        // Disconnect from database
+        // All the countries in a continent organised by largest population to smallest.
+        System.out.println("******************************************");
+        System.out.println(" Display Countries by Continent Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryC = DAL.getCountryByContinent (a.con);
+        DAL.printCountry(countryC);
+
+        // All the countries in a region organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries by Region of Eastern Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(countryR);
+
+        // All the cities in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities in the world ");
+        System.out.println("*******************************************");
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities);
+         // All the cities in a continent organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities by Continent  ");
+        System.out.println("*******************************************");
+        ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        CIT.printCities(CitiesC);
+
+
+
+        // Population
+        System.out.println("*******************************************");
+        System.out.println(" TOP 5 populated countries in the world ");
+        System.out.println("*******************************************");
+        ArrayList<Population> populations = POP.getTopNPopulatedCountries(a.con);
+        POP.printPopulation(populations);
+
+        // Continent
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a continent  ");
+        System.out.println("*******************************************");
+        ArrayList<Population> continents = POP.getTopNPopulatedCountriesGroupByContinent(a.con);
+        POP.printPopulation(continents);
+
+
+        // Region
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a region ");
+        System.out.println("*******************************************");
+        ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
+        POP.printPopulation(regions);
+
+
+
+        //Disconnect from database
         a.disconnect();
     }
     /**
@@ -64,7 +126,6 @@ public class App
             }
         }
     }
-
     /**
      * Disconnect from the MySQL database.
      */
@@ -81,68 +142,6 @@ public class App
             {
                 System.out.println("Error closing connection to database");
             }
-        }
-    }
-    /******************************************************************************************************************
-     *  Create a SQL statement - a Statement object from the database connection.
-     Define the SQL query string to execute.
-     Execute a query (executeQuery) to extract data from the database. This will return a ResultSet object.
-     Test that the ResultSet has a value - call next on the ResultSet and check this is true.
-     Extract the information from the current record in the ResultSet using getInt for integer data, getString for string data, etc.
-     *******************************************************************************************************************/
-    /**
-     * Salaries by Role Feature
-     * @return A list of all employees and salaries by Role and we filter by Engineer
-     */
-    public ArrayList<Country> getCountry()
-    {
-        try
-        {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-            // Create string for SQL statement
-                 String strSelect =
-                "SELECT code, name, continent, region, Population "
-                        + "FROM country "
-                        + "ORDER BY Population DESC " ;
-
-
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(strSelect);
-            // Extract employee information
-            ArrayList<Country> country = new ArrayList<Country>();
-            while (rset.next())
-            {
-                Country cont = new Country();
-                cont.Code = rset.getString("country.Code");
-                cont.Name = rset.getString("country.name");
-                cont.Continent = rset.getString("country.continent");
-                cont.Region = rset.getString("country.Region");
-                cont.Population = rset.getInt("country.population");
-                country.add(cont);
-            }
-            return country;
-        }
-        catch (Exception e)
-        {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get salary details");
-            return null;
-        }
-    }
-
-
-    public void printCountry(ArrayList<Country> country)
-    {
-        // Print header
-        System.out.println(String.format("%-10s %-10s %-10s %-10s %-10s ", "Code", "Name", "Continent" , "Region", "Population" ));
-        // Loop over all employees in the list
-        for (Country cont : country)
-        {
-            String emp_string =
-                    String.format("%-10s %-10s %-10s %-10s %-10s",
-                            cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population);
-            System.out.println(emp_string);
         }
     }
 
