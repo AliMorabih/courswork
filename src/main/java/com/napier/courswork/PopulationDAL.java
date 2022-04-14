@@ -127,6 +127,40 @@ public class PopulationDAL {
         }
     }//End getWorldContinentListByPop
 
+    public ArrayList<Population> getPopulationOfPeopleFromEachContinent(Connection con)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            System.out.println("•\tThe population of people in each continent\n");
+
+            String strSelect =
+                    "SELECT SUM(c.Population), c.continent FROM country c GROUP BY c.continent";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<Population> pop = new ArrayList<>();
+
+            while (rset.next())
+            {
+                Population continent = new Population();
+                continent.Population = rset.getInt("c.Population");
+                continent.continent = rset.getString("c.continent");
+                pop.add(continent);
+            }
+            return pop;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get region Population details");
+            return null;
+        }
+    }//End getWorldContinentListByPop
+
+
     public void printPopulation(ArrayList<Population> population)
     {
         // Print header
@@ -137,6 +171,20 @@ public class PopulationDAL {
             String emp_string =
                     String.format("%-30s %-30s %-20s %-20s",
                             pop.continent, pop.country, pop.region, pop.Population);
+            System.out.println(emp_string);
+        }
+    }
+
+    public void printPopulation1(ArrayList<Population> population)
+    {
+        // Print header
+        System.out.println(String.format("%-30s %-20s", "Continent", "Population"));
+        // Loop over all countries in the list
+        for (Population pop : population)
+        {
+            String emp_string =
+                    String.format("%-30s %-20s",
+                            pop.continent, pop.Population);
             System.out.println(emp_string);
         }
     }
