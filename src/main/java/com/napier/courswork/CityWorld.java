@@ -49,10 +49,10 @@ public class CityWorld {
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
             String strSelect = "SELECT  city.ID, city.Name, city.CountryCode, city.Population, country.Continent"
-                + " FROM city, country "
-                + " WHERE city.CountryCode = country.Code "
-                + " AND country.Continent IN ('Africa')  "
-                + "ORDER BY Population DESC ";
+                    + " FROM city, country "
+                    + " WHERE city.CountryCode = country.Code "
+                    + " AND country.Continent IN ('Africa')  "
+                    + "ORDER BY Population DESC ";
 
 
             // Execute SQL statement
@@ -79,6 +79,48 @@ public class CityWorld {
         }
     }
 
+    public ArrayList<City> getTopNPopulatedCapitalCitiesInRegion(Connection con, Integer n)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            System.out.println("•\tThe top N populated capital cities in a region where N is provided by the user\n");
+
+            String strSelect =
+                    "SELECT country.Region, city.Name , city.Population\n" +
+                            "FROM country c\n" +
+                            "LEFT JOIN city city on city.ID = country.Capital\n" +
+                            "WHERE country.Region = 'Southern Europe'\n" +
+                            "ORDER BY Population DESC\n" +
+                            "LIMIT " + n;
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> cities = new ArrayList<>();
+
+            while (rset.next())
+            {
+                City cin = new City();
+                cin.Region = rset.getString("country.region");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cities.add(cin);
+            }
+            return cities;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get region Population details");
+            return null;
+        }
+    }
+
+
+
+
     public void printCities(ArrayList<City> cities)
     {
         // Print header
@@ -92,4 +134,5 @@ public class CityWorld {
             System.out.println(city_string);
         }
     }
+
 }

@@ -1,13 +1,26 @@
 package com.napier.courswork;
 
-import  java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class App
 {
     public static void main(String[] args) {
-        // Create new Application
+        // Create new Application and connect to database
         App a = new App();
+
+        if(args.length < 1){
+            a.connect("localhost:33060", 30000);
+        }else{
+            a.connect(args[0], Integer.parseInt(args[1]));
+        }
+
+
+        //_____________
+        // Create new Application
         // Create Instances
         CountryExt DAL = new CountryExt();
         CityWorld CIT = new CityWorld();
@@ -15,7 +28,7 @@ public class App
 
 
         // Connect to our database Mysql
-        a.connect();
+        //  a.connect();
 
 
         // All the countries in the world organised by largest population to smallest.
@@ -45,14 +58,12 @@ public class App
         System.out.println("*******************************************");
         ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
         CIT.printCities(Cities);
-         // All the cities in a continent organised by largest population to smallest.
+        // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
         CIT.printCities(CitiesC);
-
-
 
         // Population
         System.out.println("*******************************************");
@@ -76,6 +87,18 @@ public class App
         ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
         POP.printPopulation(regions);
 
+        //The top N populated capital cities in a region where N is provided by the user
+        System.out.println("*******************************************");
+        System.out.println("The top N populated capital cities in a region where N is provided by the user");
+        System.out.println("*******************************************");
+        Scanner scanner = new Scanner(System.in);  // Create a Scanner object
+        //get user input N
+        System.out.println("This report will print the top N populated capital cities in Southern Europe.");
+        System.out.println("Please enter N: ");
+        Integer userInput = scanner.nextInt();
+        ArrayList<City> capitalCitiesInRegion = CIT.getTopNPopulatedCapitalCitiesInRegion(a.con, userInput);
+        //CIT.printCities(capitalCitiesInRegion);
+
 
 
         //Disconnect from database
@@ -87,9 +110,11 @@ public class App
     private Connection con = null;
 
     /**
-     * Connect to the MySQL database.
+     * Connect to the MySQL database
      */
-    public void connect(){
+
+
+    public void connect(String location, int delay){
 
         try
         {
@@ -109,9 +134,9 @@ public class App
             try
             {
                 // Wait a bit for db to start
-                Thread.sleep(30000);
+                Thread.sleep(3);
                 // Connect to database
-                con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=false", "root", "example");
+                con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=false", "root", "example");
                 System.out.println("Successfully connected");
                 break;
             }
@@ -126,6 +151,7 @@ public class App
             }
         }
     }
+
     /**
      * Disconnect from the MySQL database.
      */
@@ -147,3 +173,4 @@ public class App
 
 
 }
+
