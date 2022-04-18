@@ -1,7 +1,10 @@
 package com.napier.courswork;
 
-import  java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class App
 {
@@ -85,12 +88,22 @@ public class App
         POP.printPopulation(regions);
 
         // The population of people, people living in cities, and people not living in cities in each continent.
-        //The population of people in each continent.
         System.out.println("*******************************************");
-        System.out.println("The population of people in each continent");
+        System.out.println("The population of people, people living in cities, and people not living in cities in each continent");
         System.out.println("*******************************************");
         ArrayList<Population> populations1 = POP.getPopulationOfPeopleFromEachContinent(a.con);
         POP.printPopulation1(populations1);
+
+        //The top N populated capital cities in a region where N is provided by the user
+        System.out.println("*******************************************");
+        System.out.println("The top N populated capital cities in a region where N is provided by the user");
+        System.out.println("*******************************************");
+        Scanner scanner = new Scanner(System.in);  // Create a Scanner object
+        //get user input N
+        System.out.println("Enter N: ");
+        Integer userInput = scanner.nextInt();
+        ArrayList<City> capitalCitiesInRegion = CIT.getTopNPopulatedCapitalCitiesInRegion(a.con, userInput);
+        CIT.printCities(capitalCitiesInRegion);
 
 
 
@@ -127,7 +140,7 @@ public class App
             try
             {
                 // Wait a bit for db to start
-                 Thread.sleep(30000);
+                  Thread.sleep(3);
                 // Connect to database
                 con = DriverManager.getConnection("jdbc:mysql://localhost:33060/world?useSSL=false", "root", "example");
                 //+923426472313 for docker you should have connection string like this  === "jdbc:mysql://db:3306/world?useSSL=false"
