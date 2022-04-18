@@ -105,6 +105,16 @@ public class App
         ArrayList<City> capitalCitiesInRegion = CIT.getTopNPopulatedCapitalCitiesInRegion(a.con, userInput);
         CIT.printCities(capitalCitiesInRegion);
 
+        //The top N populated capital cities in the world where N is provided by the user
+       System.out.println("*******************************************");
+        System.out.println("The top N populated capital cities in the world where N is provided by the user");
+        System.out.println("*******************************************");
+        //get user input N
+        System.out.println("Enter N: ");
+        Integer userInput1 = scanner.nextInt();
+        ArrayList<City> capitalCitiesWorld = CIT.getTopNPopulatedCapitalCitiesInWorld(a.con, userInput1);
+        CIT.printCities(capitalCitiesWorld);
+
 
 
         //Disconnect from database
