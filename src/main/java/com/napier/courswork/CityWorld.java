@@ -78,11 +78,121 @@ public class CityWorld {
             return null;
         }
     }
+    // Display the 4 populated Cities in a Continent
+    public ArrayList<City> getFourPopulatedCityByContinent(Connection con)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // This SQL Query will select City by Continent
+            String strSelect =   "SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent "
+                    +" FROM city, country"
+                    +" WHERE city.CountryCode = country.Code "
+                    +" AND Continent IN ('South America') "
+                    +" AND  (city.Population > '4703954')";
 
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Extract Cities information
+            ArrayList<City> cities = new ArrayList<City>();
+            while (rset.next())
+            {
+                City cin = new City();
+                cin.ID = rset.getInt("city.id");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cin.CountryCode = rset.getString("city.countryCode");
+                cities.add(cin);
+
+            }
+            return cities;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get Cities  By Continent details");
+            return null;
+        }
+    }
+    // Display the 4 populated Cities in a region
+    public ArrayList<City> getFourPopulatedCityByRegion(Connection con)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // This SQL Query will select City by Continent
+            String strSelect =   " SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.Region "
+                +"FROM city, country  "
+                +"WHERE city.CountryCode = country.Code  "
+                +"AND country.Region IN ('Eastern Europe')  "
+                +"AND  (city.Population > '1811552')  "
+                +"ORDER BY Population DESC ;  " ;
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Extract Cities information
+            ArrayList<City> cities = new ArrayList<City>();
+            while (rset.next())
+            {
+                City cin = new City();
+                cin.ID = rset.getInt("city.id");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cin.CountryCode = rset.getString("city.countryCode");
+                cities.add(cin);
+
+            }
+            return cities;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get Cities  By Region of  Eastern Europe");
+            return null;
+        }
+    }
+    // Display the top four  populated cities in the world
+    public ArrayList<City> getFourPopulatedCityWorld(Connection con) {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // This SQL Query will select City by Continent
+            String strSelect = "SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.Region "
+                +"FROM city, country "
+                +"WHERE city.CountryCode = country.Code"
+                +" AND  (city.Population > '9604900')"
+                +"ORDER BY Population DESC ";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Extract Cities information
+            ArrayList<City> cities = new ArrayList<City>();
+            while (rset.next())
+            {
+                City cin = new City();
+                cin.ID = rset.getInt("city.id");
+                cin.Name = rset.getString("city.name");
+                cin.Population = rset.getInt("city.population");
+                cin.CountryCode = rset.getString("city.countryCode");
+                cities.add(cin);
+
+            }
+            return cities;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get Cities  in the World ");
+            return null;
+        }
+}
     public void printCities(ArrayList<City> cities)
     {
         // Print header
-        System.out.println(String.format("%-10s %-30s %-15s  %15s " , "ID", "Name", "Population",  "Country Code"));
+        System.out.println(String.format("%-10s %-30s %-15s  %15s   " , "ID", "Name", "Population", "Country Code"));
         // Loop over all cities in the list
         for (City con : cities)
         {
