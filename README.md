@@ -1,8 +1,8 @@
 # courswork
 
 
-### Software Engineering Methods
+### Software Engineering Methodss
 
 
 
-* Develop Build Status  ![workflow](https://github.com/AliMorabih/courswork/actions/A workflow for courswork/main.yml/badge.svg)
+* Develop Build Status  ![workflow](https://github.com/AliMorabih/courswork/actions/Aworkflowforcourswork/main.yml/badge.svg)
