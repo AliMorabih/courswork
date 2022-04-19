@@ -1,11 +1,117 @@
 package com.napier.courswork;
 
-import java.sql.*;
+import  java.sql.*;
+import java.util.ArrayList;
 
 public class App
 {
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
+        // Create new Application
+        App a = new App();
+        // Create Instances
+        CountryExt DAL = new CountryExt();
+        CityWorld CIT = new CityWorld();
+        PopulationDAL POP = new PopulationDAL();
+
+        // Connect to our database Mysql
+        a.connect();
+
+
+        // All the countries in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries in the World ");
+        System.out.println("*******************************************");
+        ArrayList<Country> country = DAL.getCountry(a.con);
+        DAL.printCountry(country);
+
+        // All the countries in a continent organised by largest population to smallest.
+        System.out.println("******************************************");
+        System.out.println(" Display Countries by Continent Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryC = DAL.getCountryByContinent (a.con);
+        DAL.printCountry(countryC);
+
+        // All the countries in a region organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries by Region of Eastern Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(countryR);
+
+        // All the cities in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities in the world ");
+        System.out.println("*******************************************");
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities);
+         // All the cities in a continent organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities by Continent  ");
+        System.out.println("*******************************************");
+        ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        CIT.printCities(CitiesC);
+
+
+
+        // Population
+        System.out.println("*******************************************");
+        System.out.println(" TOP 5 populated countries in the world ");
+        System.out.println("*******************************************");
+        ArrayList<Population> populations = POP.getTopNPopulatedCountries(a.con);
+        POP.printPopulation(populations);
+
+        // Continent
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a continent  ");
+        System.out.println("*******************************************");
+        ArrayList<Population> continents = POP.getTopNPopulatedCountriesGroupByContinent(a.con);
+        POP.printPopulation(continents);
+
+
+        // Region
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a region ");
+        System.out.println("*******************************************");
+        ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
+        POP.printPopulation(regions);
+
+
+        // Top 4 Populated cities in a Continent of South America
+        System.out.println("**********************************************************************");
+        System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
+        System.out.println("**********************************************************************");
+        ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
+        CIT.printCities(Citi);
+
+        // The Top 4 Populated cities in a region of Eastern Europe
+        System.out.println("*************************************************************");
+        System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
+        CIT.printCities(CitiR);
+
+        //  Display the top four  populated cities in the world
+        System.out.println("*************************************************************");
+        System.out.println("****Display the top four  populated cities in the world******");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
+        CIT.printCities(CitiW);
+
+
+
+        //Disconnect from database
+        a.disconnect();
+    }
+    /**
+     * Connection to MySQL database.
+     */
+    private Connection con = null;
+
+    /**
+     * Connect to the MySQL database.
+     */
+    public void connect(){
+
         try
         {
             // Load Database driver
@@ -17,9 +123,7 @@ public class App
             System.exit(-1);
         }
 
-        // Connection to the database
-        Connection con = null;
-        int retries = 100;
+        int retries = 10;
         for (int i = 0; i < retries; ++i)
         {
             System.out.println("Connecting to database...");
@@ -28,11 +132,8 @@ public class App
                 // Wait a bit for db to start
                 Thread.sleep(30000);
                 // Connect to database
-                con = DriverManager.getConnection("jdbc:mysql://db:3306/city?useSSL=false", "root", "example");
+                con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=false", "root", "example");
                 System.out.println("Successfully connected");
-                // Wait a bit
-                Thread.sleep(10000);
-                // Exit for loop
                 break;
             }
             catch (SQLException sqle)
@@ -45,7 +146,12 @@ public class App
                 System.out.println("Thread interrupted? Should not happen.");
             }
         }
-
+    }
+    /**
+     * Disconnect from the MySQL database.
+     */
+    public void disconnect()
+    {
         if (con != null)
         {
             try
@@ -59,4 +165,6 @@ public class App
             }
         }
     }
+
+
 }
