@@ -191,11 +191,19 @@ public class CityWorld {
 }
     public void printCities(ArrayList<City> cities)
     {
+        // Check employees is not null
+        if (cities == null)
+        {
+            System.out.println("No cities");
+            return;
+        }
         // Print header
         System.out.println(String.format("%-10s %-30s %-15s  %15s   " , "ID", "Name", "Population", "Country Code"));
         // Loop over all cities in the list
         for (City con : cities)
         {
+            if (con == null)
+            continue;
             String city_string =
                     String.format("%-10s %-30s %-15s %15s ",
                             con.ID, con.Name, con.Population, con.CountryCode);
