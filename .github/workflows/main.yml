@@ -1,9 +1,9 @@
-name: A workflow for courswork
+name: Courswork Workflow
 on: push
 
 jobs:
   build:
-    name: courswork
+    name: Hello world action
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
