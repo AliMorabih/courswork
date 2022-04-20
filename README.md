@@ -8,4 +8,6 @@
 
 ## New Release
 
-* Release [![Releases](https://img.shields.io/github/release/AliMorabih/courswork/all.svg?style=flat-square)](https://github.com/AliMorabih/courswork/releases)
+** Release [![Releases](https://img.shields.io/github/release/AliMorabih/courswork/all.svg?style=flat-square)](https://github.com/AliMorabih/courswork/releases)
+
+
