@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.sql.*;
 
 public class CityPopulationDAL {
+
     public ArrayList<CityPopulation> getWorldCityListByPop(Connection con)
     {
         try
@@ -84,12 +85,12 @@ public class CityPopulationDAL {
         }
     }//End getWorldContinentListByPop
 
-    public void printCityPopulation(ArrayList<CityPopulation> citypopulation)
+    public void printCityPopulation(ArrayList<CityPopulation> cityPopulation)
     {
         // Print header
         System.out.println(String.format("%-30s %-30s %-20s %-20s ", "CityName", "Country Name", "District" , "Population"));
         // Loop over all employees in the list
-        for (CityPopulation city : citypopulation)
+        for (CityPopulation city : cityPopulation)
         {
             String emp_string =
                     String.format("%-30s %-30s %-20s %-20s",

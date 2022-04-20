@@ -13,7 +13,6 @@ public class App
         CityWorld CIT = new CityWorld();
         PopulationDAL POP = new PopulationDAL();
 
-
         // Connect to our database Mysql
         a.connect();
 
@@ -75,6 +74,28 @@ public class App
         System.out.println("*******************************************");
         ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
         POP.printPopulation(regions);
+
+
+        // Top 4 Populated cities in a Continent of South America
+        System.out.println("**********************************************************************");
+        System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
+        System.out.println("**********************************************************************");
+        ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
+        CIT.printCities(Citi);
+
+        // The Top 4 Populated cities in a region of Eastern Europe
+        System.out.println("*************************************************************");
+        System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
+        CIT.printCities(CitiR);
+
+        //  Display the top four  populated cities in the world
+        System.out.println("*************************************************************");
+        System.out.println("****Display the top four  populated cities in the world******");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
+        CIT.printCities(CitiW);
 
 
 
