@@ -1,4 +1,4 @@
 FROM openjdk:latest
-COPY ./target/courswork-0.1.0.1-jar-with-dependencies.jar /tmp
+COPY ./target/courswork.jar /tmp
 WORKDIR /tmp
-ENTRYPOINT ["java", "-jar", "courswork-0.1.0.1-jar-with-dependencies.jar"]
+ENTRYPOINT ["java", "-jar", "courswork.jar", "db:3306", "30000"]
