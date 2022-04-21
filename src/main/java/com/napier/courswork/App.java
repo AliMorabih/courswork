@@ -198,5 +198,39 @@ public class App
         }
     }
 
+    public City getCity(int ID)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // Create string for SQL statement
+            String strSelect =
+                 "SELECT city.ID, city.Name, city.CountryCode, city.Population "
+                    +"FROM city, country "
+                    +"WHERE city.CountryCode = country.Code"
+                    +" AND  ID = " + ID;
 
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Return new employee if valid.
+            // Check one is returned
+            if (rset.next())
+            {
+                City ct = new City();
+                ct.ID = rset.getInt("city.ID");
+                ct.Name = rset.getString("city.Name");
+                ct.Population = rset.getInt("city.Population");
+                return ct;
+            }
+            else
+                return null;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get employee details");
+            return null;
+        }
+    }
 }
