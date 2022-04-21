@@ -170,11 +170,18 @@ public class PopulationDAL {
 
     public void printPopulation(ArrayList<Population> population)
     {
+        if (population == null)
+        {
+            System.out.println("No population Data");
+            return;
+        }
         // Print header
         System.out.println(String.format("%-30s %-30s %-20s %-20s ", "Continent", "Country Name", "Region" , "Population"));
         // Loop over all employees in the list
-        for (Population pop : population)
+        for (Population  pop: population)
         {
+            if (pop == null)
+                continue;
             String emp_string =
                     String.format("%-30s %-30s %-20s %-20s",
                             pop.continent, pop.country, pop.region, pop.Population);
