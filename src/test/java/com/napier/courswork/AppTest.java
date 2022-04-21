@@ -15,7 +15,6 @@ public class AppTest
     static CountryExt appce;
     static PopulationDAL appd;
 
-
     @BeforeAll
     static void init(){
         app = new CityWorld();
@@ -23,7 +22,6 @@ public class AppTest
         appce = new CountryExt();
         appd = new PopulationDAL();
     }
-
     @Test
     void printCitiesTestNull(){
         app.printCities(null);
@@ -67,8 +65,4 @@ public class AppTest
         population.add(null);
         appd.printPopulation(population);
     }
-
-
-
-
 }
