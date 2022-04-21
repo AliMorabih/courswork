@@ -8,13 +8,16 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
+        // Connect to our database Mysql
+        if(args.length < 1){
+            a.connect("localhost:33060", 30000);
+        }else{
+            a.connect(args[0], Integer.parseInt(args[1]));
+        }
         // Create Instances
         CountryExt DAL = new CountryExt();
         CityWorld CIT = new CityWorld();
         PopulationDAL POP = new PopulationDAL();
-
-        // Connect to our database Mysql
-        a.connect();
 
 
         // All the countries in the world organised by largest population to smallest.
@@ -110,7 +113,7 @@ public class App
     /**
      * Connect to the MySQL database.
      */
-    public void connect(){
+    /*public void connect(){
 
         try
         {
@@ -146,6 +149,35 @@ public class App
                 System.out.println("Thread interrupted? Should not happen.");
             }
         }
+    }*/
+    public void connect(String location, int delay) {
+        try {
+            // Load Database driver
+            Class.forName("com.mysql.cj.jdbc.Driver");
+        } catch (ClassNotFoundException e) {
+            System.out.println("Could not load SQL driver");
+            System.exit(-1);
+        }
+
+        int retries = 10;
+        for (int i = 0; i < retries; ++i) {
+            System.out.println("Connecting to database...");
+            try {
+                // Wait a bit for db to start
+                Thread.sleep(delay);
+                // Connect to database This will allow us to run  it locally
+                // con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=false", "root", "example");
+                con = DriverManager.getConnection("jdbc:mysql://" + location + "/world?allowPublicKeyRetrieval=true&useSSL=false",
+                        "root", "example");
+                System.out.println("Successfully connected");
+                break;
+            } catch (SQLException sqle) {
+                System.out.println("Failed to connect to database attempt " +                                  Integer.toString(i));
+                System.out.println(sqle.getMessage());
+            } catch (InterruptedException ie) {
+                System.out.println("Thread interrupted? Should not happen.");
+            }
+        }
     }
     /**
      * Disconnect from the MySQL database.
@@ -166,5 +198,39 @@ public class App
         }
     }
 
+    public City getCity(int ID)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // Create string for SQL statement
+            String strSelect =
+                 "SELECT city.ID, city.Name, city.CountryCode, city.Population "
+                    +"FROM city, country "
+                    +"WHERE city.CountryCode = country.Code"
+                    +" AND  ID = " + ID;
 
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Return new employee if valid.
+            // Check one is returned
+            if (rset.next())
+            {
+                City ct = new City();
+                ct.ID = rset.getInt("city.ID");
+                ct.Name = rset.getString("city.Name");
+                ct.Population = rset.getInt("city.Population");
+                return ct;
+            }
+            else
+                return null;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get employee details");
+            return null;
+        }
+    }
 }
