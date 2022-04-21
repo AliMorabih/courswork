@@ -135,11 +135,18 @@ public class CountryExt {
 
     public void printCountry(ArrayList<Country> country)
     {
+        if (country == null)
+        {
+            System.out.println("No country Data");
+            return;
+        }
         // Print header
         System.out.println(String.format("%-10s %-30s %-15s %-20s %-20s %-20s ", "Code", "Name", "Continent" , "Region", "Population", "Capital"));
         // Loop over all employees in the list
         for (Country cont : country)
         {
+            if (cont == null)
+                continue;
             String emp_string =
                     String.format("%-10s %-30s %-15s %-20s %-20s %-20s",
                             cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population, cont.Capital);
