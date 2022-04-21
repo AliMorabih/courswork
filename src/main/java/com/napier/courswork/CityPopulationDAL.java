@@ -87,11 +87,18 @@ public class CityPopulationDAL {
 
     public void printCityPopulation(ArrayList<CityPopulation> cityPopulation)
     {
+        if (cityPopulation == null)
+        {
+            System.out.println("No city Population Data");
+            return;
+        }
         // Print header
         System.out.println(String.format("%-30s %-30s %-20s %-20s ", "CityName", "Country Name", "District" , "Population"));
-        // Loop over all employees in the list
+        // Loop over all cities in the list
         for (CityPopulation city : cityPopulation)
         {
+            if (city == null)
+                continue;
             String emp_string =
                     String.format("%-30s %-30s %-20s %-20s",
                             city.CityName, city.CountryName, city.District, city.Population);

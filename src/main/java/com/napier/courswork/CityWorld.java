@@ -191,7 +191,7 @@ public class CityWorld {
 }
     public void printCities(ArrayList<City> cities)
     {
-        // Check employees is not null
+        // Check Cities is not null
         if (cities == null)
         {
             System.out.println("No cities");
