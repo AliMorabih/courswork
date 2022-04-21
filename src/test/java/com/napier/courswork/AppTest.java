@@ -15,18 +15,12 @@ public class AppTest
     static CountryExt appce;
     static PopulationDAL appd;
 
-
     @BeforeAll
     static void init(){
         app = new CityWorld();
         appc = new CityPopulationDAL();
         appce = new CountryExt();
         appd = new PopulationDAL();
-    }
-
-    @Test
-    void printCitiesTestNull(){
-        app.printCities(null);
     }
     @Test
     void printCitiesTestContainsNull(){
@@ -67,8 +61,4 @@ public class AppTest
         population.add(null);
         appd.printPopulation(population);
     }
-
-
-
-
 }
