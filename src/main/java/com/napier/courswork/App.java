@@ -8,21 +8,98 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
+        // Create Instances
         CountryExt DAL = new CountryExt();
-        // Connect to database
+        CityWorld CIT = new CityWorld();
+        PopulationDAL POP = new PopulationDAL();
+
+        // Connect to our database Mysql
         a.connect();
 
-        //Q1 Display results Countries
-        //ArrayList<Country> country = DAL.getCountry(a.con);
 
-        //DAL.printCountry(country);
-
-        //Q Display  Countries by Continent
-        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
+        // All the countries in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries in the World ");
+        System.out.println("*******************************************");
+        ArrayList<Country> country = DAL.getCountry(a.con);
         DAL.printCountry(country);
 
+        // All the countries in a continent organised by largest population to smallest.
+        System.out.println("******************************************");
+        System.out.println(" Display Countries by Continent Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryC = DAL.getCountryByContinent (a.con);
+        DAL.printCountry(countryC);
 
-        // Disconnect from database
+        // All the countries in a region organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display Countries by Region of Eastern Asia ");
+        System.out.println("*******************************************");
+        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(countryR);
+
+        // All the cities in the world organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities in the world ");
+        System.out.println("*******************************************");
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities);
+         // All the cities in a continent organised by largest population to smallest.
+        System.out.println("*******************************************");
+        System.out.println(" Display the  cities by Continent  ");
+        System.out.println("*******************************************");
+        ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        CIT.printCities(CitiesC);
+
+
+
+        // Population
+        System.out.println("*******************************************");
+        System.out.println(" TOP 5 populated countries in the world ");
+        System.out.println("*******************************************");
+        ArrayList<Population> populations = POP.getTopNPopulatedCountries(a.con);
+        POP.printPopulation(populations);
+
+        // Continent
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a continent  ");
+        System.out.println("*******************************************");
+        ArrayList<Population> continents = POP.getTopNPopulatedCountriesGroupByContinent(a.con);
+        POP.printPopulation(continents);
+
+
+        // Region
+        System.out.println("*******************************************");
+        System.out.println("The top 5 populated countries in a region ");
+        System.out.println("*******************************************");
+        ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
+        POP.printPopulation(regions);
+
+
+        // Top 4 Populated cities in a Continent of South America
+        System.out.println("**********************************************************************");
+        System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
+        System.out.println("**********************************************************************");
+        ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
+        CIT.printCities(Citi);
+
+        // The Top 4 Populated cities in a region of Eastern Europe
+        System.out.println("*************************************************************");
+        System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
+        CIT.printCities(CitiR);
+
+        //  Display the top four  populated cities in the world
+        System.out.println("*************************************************************");
+        System.out.println("****Display the top four  populated cities in the world******");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
+        CIT.printCities(CitiW);
+
+
+
+        //Disconnect from database
         a.disconnect();
     }
     /**
@@ -70,7 +147,6 @@ public class App
             }
         }
     }
-
     /**
      * Disconnect from the MySQL database.
      */
