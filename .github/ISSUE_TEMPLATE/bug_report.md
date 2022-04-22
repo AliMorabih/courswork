@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug Report
 about: Create a report to help us improve
 title: ''
 labels: ''
@@ -30,9 +30,9 @@ If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+ - OS: Windows 10
+ - Browser Google Chrome
+ - Version 4.5
 
 **Additional context**
 Add any other context about the problem here.
