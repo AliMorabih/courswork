@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: bug
-assignees: rayduruguru, stephensonc-jm, AliMorabih, marreo473, Quintranela, gio7777777
+labels: ''
+assignees: ''
 
 ---
 
