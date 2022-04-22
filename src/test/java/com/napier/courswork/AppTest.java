@@ -23,10 +23,6 @@ public class AppTest
         appd = new PopulationDAL();
     }
     @Test
-    void printCitiesTestNull(){
-        app.printCities(null);
-    }
-    @Test
     void printCitiesTestContainsNull(){
         ArrayList<City> cities = new ArrayList<City>();
         cities.add(null);
