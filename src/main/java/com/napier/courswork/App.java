@@ -19,8 +19,7 @@ public class App
         CityWorld CIT = new CityWorld();
         PopulationDAL POP = new PopulationDAL();
 
-        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
-        CIT.printCities(Cities, "cities.md");
+
 
 
 
@@ -49,8 +48,9 @@ public class App
         System.out.println("*******************************************");
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
-        //ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
-        // CIT.printCities(Cities);
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities, "cities.md");
+
 
         // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
@@ -58,8 +58,6 @@ public class App
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
         CIT.printCities(CitiesC, "citiesByContinent.md");
-       // CIT.printCities(CitiesC);
-
 
 
         // Population
@@ -93,24 +91,22 @@ public class App
         CIT.printCities(Citi, "getFourPopulatedCityByContinent.md");
 
 
-
-        //  CIT.printCities(Citi);
-
         // The Top 4 Populated cities in a region of Eastern Europe
         System.out.println("*************************************************************");
         System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
         System.out.println("*************************************************************");
         ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
+        CIT.printCities(CitiR, "getFourPopulatedCityByRegion.md");
 
-       // CIT.printCities(CitiR);
+
 
         //  Display the top four  populated cities in the world
         System.out.println("*************************************************************");
         System.out.println("****Display the top four  populated cities in the world******");
         System.out.println("*************************************************************");
         ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
+        CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
-       // CIT.printCities(CitiW);
 
 
 
@@ -125,43 +121,7 @@ public class App
     /**
      * Connect to the MySQL database.
      */
-    /*public void connect(){
 
-        try
-        {
-            // Load Database driver
-            Class.forName("com.mysql.cj.jdbc.Driver");
-        }
-        catch (ClassNotFoundException e)
-        {
-            System.out.println("Could not load SQL driver");
-            System.exit(-1);
-        }
-
-        int retries = 10;
-        for (int i = 0; i < retries; ++i)
-        {
-            System.out.println("Connecting to database...");
-            try
-            {
-                // Wait a bit for db to start
-                Thread.sleep(30000);
-                // Connect to database
-                con = DriverManager.getConnection("jdbc:mysql://db:3306/world?useSSL=false", "root", "example");
-                System.out.println("Successfully connected");
-                break;
-            }
-            catch (SQLException sqle)
-            {
-                System.out.println("Failed to connect to database attempt " + Integer.toString(i));
-                System.out.println(sqle.getMessage());
-            }
-            catch (InterruptedException ie)
-            {
-                System.out.println("Thread interrupted? Should not happen.");
-            }
-        }
-    }*/
     public void connect(String location, int delay) {
         try {
             // Load Database driver
