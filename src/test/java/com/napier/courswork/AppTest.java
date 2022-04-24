@@ -39,16 +39,11 @@ public class AppTest
         cityPopulation.add(null);
         appc.printCityPopulation(cityPopulation);
     }
-    @Test
-    void printCountryNull(){
-        appce.printCountry(null);
-    }
-    @Test
+      @Test
     void printCountryContainNull(){
 
         ArrayList<Country> country = new ArrayList<Country>();
         country.add(null);
-        appce.printCountry(country);
     }
     @Test
     void printPopulationNull(){

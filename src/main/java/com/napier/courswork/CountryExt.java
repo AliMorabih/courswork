@@ -1,5 +1,9 @@
 package com.napier.courswork;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.sql.*;
 
@@ -128,11 +132,7 @@ public class CountryExt {
      return null;
      }
      }
-
-
-
-
-
+/*
     public void printCountry(ArrayList<Country> country)
     {
         if (country == null)
@@ -151,6 +151,31 @@ public class CountryExt {
                     String.format("%-10s %-30s %-15s %-20s %-20s %-20s",
                             cont.Code, cont.Name, cont.Continent,  cont.Region, cont.Population, cont.Capital);
             System.out.println(emp_string);
+        }
+    }*/
+    public void printCountry(ArrayList<Country> country, String filename) {
+        // Check employees is not null
+        if (country == null) {
+            System.out.println("No Country");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Code |  Name | Continent | Region | Population | Capital |\r\n");
+        sb.append("| --- | --- | --- | --- | --- | --- | \r\n");
+        // Loop over
+        for (Country cont : country) {
+            if (cont == null) continue;
+            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + " | " +   cont.Capital + " |");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 }

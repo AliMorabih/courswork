@@ -28,21 +28,21 @@ public class App
         System.out.println(" Display Countries in the World ");
         System.out.println("*******************************************");
         ArrayList<Country> country = DAL.getCountry(a.con);
-        DAL.printCountry(country);
+        DAL.printCountry(country,"getCountry.md");
 
         // All the countries in a continent organised by largest population to smallest.
         System.out.println("******************************************");
         System.out.println(" Display Countries by Continent Asia ");
         System.out.println("*******************************************");
         ArrayList<Country> countryC = DAL.getCountryByContinent (a.con);
-        DAL.printCountry(countryC);
+        DAL.printCountry(countryC,"getCountryByContinent.md");
 
         // All the countries in a region organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display Countries by Region of Eastern Asia ");
         System.out.println("*******************************************");
         ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(countryR);
+        DAL.printCountry(countryR,"getCountryByRegion.md");
 
         // All the cities in the world organised by largest population to smallest.
         System.out.println("*******************************************");
