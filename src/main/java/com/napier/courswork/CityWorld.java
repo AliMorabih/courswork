@@ -52,10 +52,10 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect = "SELECT  city.ID, city.Name, city.CountryCode, city.Population, country.Continent"
+            String strSelect = "SELECT  city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.name AS  countryname"
                 + " FROM city, country "
                 + " WHERE city.CountryCode = country.Code "
-                + " AND country.Continent IN ('Africa')  "
+                + " AND country.Continent = 'Africa'  "
                 + "ORDER BY Population DESC ";
 
 
@@ -70,6 +70,7 @@ public class CityWorld {
                 cin.Name = rset.getString("city.name");
                 cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
+                cin.CountryName = rset.getString("countryname");
                 cities.add(cin);
 
             }
@@ -127,7 +128,7 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect =   " SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.Region "
+            String strSelect =   " SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.name as countryname, country.Region "
                 +"FROM city, country  "
                 +"WHERE city.CountryCode = country.Code  "
                 +"AND country.Region IN ('Eastern Europe')  "
@@ -145,6 +146,7 @@ public class CityWorld {
                 cin.Name = rset.getString("city.name");
                 cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
+                cin.CountryName =  rset.getString("countryname");
                 cities.add(cin);
 
             }
