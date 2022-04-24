@@ -50,16 +50,14 @@ public class App
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
         //ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        // CIT.printCities(Cities);
 
-       // CIT.printCities(Cities);
-
-         // All the cities in a continent organised by largest population to smallest.
+        // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
         CIT.printCities(CitiesC, "citiesByContinent.md");
-
        // CIT.printCities(CitiesC);
 
 
@@ -92,8 +90,11 @@ public class App
         System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
         System.out.println("**********************************************************************");
         ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
+        CIT.printCities(Citi, "getFourPopulatedCityByContinent.md");
 
-      //  CIT.printCities(Citi);
+
+
+        //  CIT.printCities(Citi);
 
         // The Top 4 Populated cities in a region of Eastern Europe
         System.out.println("*************************************************************");
