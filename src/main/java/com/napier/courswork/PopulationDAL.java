@@ -202,10 +202,11 @@ public class PopulationDAL {
             StringBuilder sb = new StringBuilder();
             // Print header
             sb.append("| Continent |  Country Name | Region | Population |\r\n");
-            sb.append("| --- | --- | --- | --- | --- | --- | \r\n");
+            sb.append("| --- | --- | --- | --- | \r\n");
             // Loop over
             for (Population pop : population) {
-                if (pop == null) continue;
+                if (pop == null)
+                    continue;
                 sb.append("| " + pop.continent + " | " +  pop.country + " | " + pop.region + " | " +   pop.Population + " | \r\n");
             }
             try {
