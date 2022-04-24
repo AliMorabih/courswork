@@ -111,7 +111,7 @@ public class App
         System.out.println("*************************************************************");
         ArrayList<City> PopulationByRegion = CIT.getPopulationByRegion(a.con);
         CIT.printCities(PopulationByRegion, "getPopulationByRegion.md");
-        
+
 
 
 

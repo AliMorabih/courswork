@@ -202,7 +202,7 @@ public class CityWorld {
 
             System.out.println("All the cities in a region organised by largest population to smallest. \n");
             String strSelect =
-                    "SELECT city.id, city.name, country.region, city.Population FROM city "
+                    "SELECT city.id, city.name, country.region, city.Population, country.Name AS countryname, country.Code FROM city "
                             + " INNER JOIN country ON country.Capital=city.ID"
                             + " where country.region = 'Western Europe'"
                             + " order by city.population desc ";
@@ -218,6 +218,7 @@ public class CityWorld {
                 city.Name = rset.getString("city.name");
                 city.Region = rset.getString("country.region");
                 city.Population = rset.getDouble("city.Population");
+                city.CountryName = rset.getString("countryname");
                 citypop.add(city);
             }
             return citypop;
@@ -243,12 +244,12 @@ public class CityWorld {
 
         StringBuilder sb = new StringBuilder();
         // Print header
-        sb.append("| ID |  Name | Population | Country Code |\r\n");
+        sb.append("| ID |  Name | Population | Country Name |\r\n");
         sb.append("| --- | --- | --- | --- | \r\n");
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
-            sb.append("| " + con.ID + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryCode + " | \r\n");
+            sb.append("| " + con.ID + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();
