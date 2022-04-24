@@ -20,9 +20,6 @@ public class App
         PopulationDAL POP = new PopulationDAL();
 
 
-
-
-
         // All the countries in the world organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display Countries in the World ");
@@ -65,14 +62,14 @@ public class App
         System.out.println(" TOP 5 populated countries in the world ");
         System.out.println("*******************************************");
         ArrayList<Population> populations = POP.getTopNPopulatedCountries(a.con);
-        POP.printPopulation(populations);
+        POP.printPopulation(populations,"getTopNPopulatedCountries.md");
 
         // Continent
         System.out.println("*******************************************");
         System.out.println("The top 5 populated countries in a continent  ");
         System.out.println("*******************************************");
         ArrayList<Population> continents = POP.getTopNPopulatedCountriesGroupByContinent(a.con);
-        POP.printPopulation(continents);
+        POP.printPopulation(continents,"getTopNPopulatedCountriesGroupByContinent.md");
 
 
         // Region
@@ -80,7 +77,7 @@ public class App
         System.out.println("The top 5 populated countries in a region ");
         System.out.println("*******************************************");
         ArrayList<Population> regions = POP.getTopNPopulatedCountriesGroupByRegion(a.con);
-        POP.printPopulation(regions);
+        POP.printPopulation(regions,"getTopNPopulatedCountriesGroupByRegion.md");
 
 
         // Top 4 Populated cities in a Continent of South America

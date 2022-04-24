@@ -1,5 +1,9 @@
 package com.napier.courswork;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.sql.*;
 
@@ -167,7 +171,7 @@ public class PopulationDAL {
         }
     }
 
-
+/*
     public void printPopulation(ArrayList<Population> population)
     {
         if (population == null)
@@ -187,5 +191,30 @@ public class PopulationDAL {
                             pop.continent, pop.country, pop.region, pop.Population);
             System.out.println(emp_string);
         }
-    }
+    }*/
+        public void printPopulation(ArrayList<Population> population, String filename) {
+            // Check employees is not null
+            if (population == null) {
+                System.out.println("No population");
+                return;
+            }
+
+            StringBuilder sb = new StringBuilder();
+            // Print header
+            sb.append("| Continent |  Country Name | Region | Population |\r\n");
+            sb.append("| --- | --- | --- | --- | --- | --- | \r\n");
+            // Loop over
+            for (Population pop : population) {
+                if (pop == null) continue;
+                sb.append("| " + pop.continent + " | " +  pop.country + " | " + pop.region + " | " +   pop.Population + " | \r\n");
+            }
+            try {
+                new File("./reports/").mkdir();
+                BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+                writer.write(sb.toString());
+                writer.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
 }

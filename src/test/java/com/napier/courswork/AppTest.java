@@ -45,15 +45,10 @@ public class AppTest
         ArrayList<Country> country = new ArrayList<Country>();
         country.add(null);
     }
-    @Test
-    void printPopulationNull(){
-        appd.printPopulation(null);
-    }
-    @Test
+       @Test
     void printPopulationContainNull(){
 
         ArrayList<Population> population = new ArrayList<Population>();
         population.add(null);
-        appd.printPopulation(population);
     }
 }
