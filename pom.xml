@@ -27,9 +27,18 @@
         <maven.compiler.target>17</maven.compiler.target>
         <projet.build.sourceEncoding>UTF-8</projet.build.sourceEncoding>
     </properties>
-
     <build>
         <plugins>
+            <plugin>
+                <artifactId>maven-jar-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>default-jar</id>
+                        <!-- skip building the default-jar-->
+                        <phase>none</phase>
+                    </execution>
+                </executions>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-assembly-plugin</artifactId>
