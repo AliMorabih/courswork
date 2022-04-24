@@ -1,5 +1,5 @@
 | Continent |  Country Name | Region | Population |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | 
 | Asia | China | Eastern Asia | 1277558000 | 
 | Asia | India | Southern and Central Asia | 1013662000 | 
 | North America | United States | North America | 278357000 | 

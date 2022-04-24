@@ -1,5 +1,5 @@
 | Continent |  Country Name | Region | Population |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | 
 | Antarctica | Heard Island and McDonald Islands | Antarctica | 0 | 
 | Antarctica | Antarctica | Antarctica | 0 | 
 | Antarctica | French Southern territories | Antarctica | 0 | 

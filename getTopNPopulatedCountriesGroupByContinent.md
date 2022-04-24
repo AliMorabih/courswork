@@ -1,5 +1,5 @@
 | Continent |  Country Name | Region | Population |
-| --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | 
 | Asia | Indonesia | Southeast Asia | 212107000 | 
 | Asia | Pakistan | Southern and Central Asia | 156483000 | 
 | Asia | Bangladesh | Southern and Central Asia | 129155000 | 
