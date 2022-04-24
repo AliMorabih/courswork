@@ -1,5 +1,9 @@
 package com.napier.courswork;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.sql.*;
 
@@ -189,6 +193,7 @@ public class CityWorld {
             return null;
         }
 }
+/*
     public void printCities(ArrayList<City> cities)
     {
         // Check Cities is not null
@@ -208,6 +213,37 @@ public class CityWorld {
                     String.format("%-10s %-30s %-15s %15s ",
                             con.ID, con.Name, con.Population, con.CountryCode);
             System.out.println(city_string);
+        }
+    }*/
+    /**
+     * Outputs to Markdown
+     *
+     * @param cities
+     */
+
+    public void printCities(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| ID |  Name | Population | Country Code |\r\n");
+        sb.append("| --- | --- | --- | --- | \r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.ID + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryCode + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
         }
     }
 }
