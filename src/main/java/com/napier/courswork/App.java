@@ -58,6 +58,7 @@ public class App
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        CIT.printCities(CitiesC, "citiesByContinent.md");
 
        // CIT.printCities(CitiesC);
 
