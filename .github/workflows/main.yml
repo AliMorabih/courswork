@@ -71,7 +71,7 @@ jobs:
           files: |
             ./target/*.jar
       - name: Copy Output
-        run: docker container cp /courswork-app-1:./tmp/reports ./
+        run: docker container cp /courswork_app_1:./tmp/reports ./
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
