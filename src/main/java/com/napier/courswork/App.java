@@ -46,13 +46,16 @@ public class App
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
         ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
-        CIT.printCities(Cities);
+
+       // CIT.printCities(Cities);
+
          // All the cities in a continent organised by largest population to smallest.
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
         ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
-        CIT.printCities(CitiesC);
+
+       // CIT.printCities(CitiesC);
 
 
 
@@ -84,21 +87,24 @@ public class App
         System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
         System.out.println("**********************************************************************");
         ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
-        CIT.printCities(Citi);
+
+      //  CIT.printCities(Citi);
 
         // The Top 4 Populated cities in a region of Eastern Europe
         System.out.println("*************************************************************");
         System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
         System.out.println("*************************************************************");
         ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
-        CIT.printCities(CitiR);
+
+       // CIT.printCities(CitiR);
 
         //  Display the top four  populated cities in the world
         System.out.println("*************************************************************");
         System.out.println("****Display the top four  populated cities in the world******");
         System.out.println("*************************************************************");
         ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
-        CIT.printCities(CitiW);
+
+       // CIT.printCities(CitiW);
 
 
 
