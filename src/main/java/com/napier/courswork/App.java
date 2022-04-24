@@ -19,6 +19,10 @@ public class App
         CityWorld CIT = new CityWorld();
         PopulationDAL POP = new PopulationDAL();
 
+        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        CIT.printCities(Cities, "cities.md");
+
+
 
         // All the countries in the world organised by largest population to smallest.
         System.out.println("*******************************************");
@@ -45,7 +49,7 @@ public class App
         System.out.println("*******************************************");
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
-        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        //ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
 
        // CIT.printCities(Cities);
 
