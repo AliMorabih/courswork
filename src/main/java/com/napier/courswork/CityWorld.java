@@ -33,7 +33,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getDouble("city.population");
                 cities.add(cin);
             }
             return cities;
@@ -68,7 +68,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -105,7 +105,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -143,7 +143,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -179,7 +179,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getDouble("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -193,6 +193,40 @@ public class CityWorld {
             return null;
         }
 }
+
+
+    public ArrayList<City> getPopulationByRegion(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("All the cities in a region organised by largest population to smallest. \n");
+            String strSelect =
+                    "SELECT city.id, city.name, country.region, city.Population FROM city "
+                            + " INNER JOIN country ON country.Capital=city.ID"
+                            + " where country.region = 'Western Europe'"
+                            + " order by city.population desc ";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.ID = rset.getInt("city.id");
+                city.Name = rset.getString("city.name");
+                city.Region = rset.getString("country.region");
+                city.Population = rset.getDouble("city.Population");
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }//End
 
     /**
      * Outputs to Markdown

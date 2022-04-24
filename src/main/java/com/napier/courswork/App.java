@@ -105,6 +105,18 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
+        // Get Population by region
+        System.out.println("*************************************************************");
+        System.out.println("****Get Population by region******");
+        System.out.println("*************************************************************");
+        ArrayList<City> PopulationByRegion = CIT.getPopulationByRegion(a.con);
+        CIT.printCities(PopulationByRegion, "getPopulationByRegion.md");
+        
+
+
+
+
+
 
 
         //Disconnect from database
@@ -189,7 +201,7 @@ public class App
                 City ct = new City();
                 ct.ID = rset.getInt("city.ID");
                 ct.Name = rset.getString("city.Name");
-                ct.Population = rset.getInt("city.Population");
+                ct.Population = rset.getDouble("city.Population");
                 return ct;
             }
             else
