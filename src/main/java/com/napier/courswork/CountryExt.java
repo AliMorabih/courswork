@@ -167,7 +167,7 @@ public class CountryExt {
         // Loop over
         for (Country cont : country) {
             if (cont == null) continue;
-            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + " | " +   cont.Capital + " |");
+            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + " | " +   cont.Capital + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();
