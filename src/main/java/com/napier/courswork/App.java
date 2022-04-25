@@ -105,8 +105,6 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
-
-
         // Get Country By Region test
         System.out.println("*************************************************************");
         System.out.println("****Get Country by region******");
@@ -114,20 +112,34 @@ public class App
         ArrayList<Country> Test = DAL.getCountryByRegion(a.con);
         DAL.printCountry(Test, "GetCountryByRegions.md");
 
-
         // Region Cities By Population
+        System.out.println("*************************************************************");
+        System.out.println("****Region Cities By Population******");
+        System.out.println("*************************************************************");
         ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
         CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
 
-
         // Capital Cities By Populations Desc
+        System.out.println("*************************************************************");
+        System.out.println("****Region Cities By Population DESC******");
+        System.out.println("*************************************************************");
         ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
         CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
 
         // People Cities Countries
-        ArrayList<City> PeopleCitiesCountries = CIT.getPeopleCitiesCountries(a.con);
-        CIT.printCities(PeopleCitiesCountries, "PeopleCitiesC.md");
+        System.out.println("*************************************************************");
+        System.out.println("****Get People Cities Countries******");
+        System.out.println("*************************************************************");
+        ArrayList<City> PeopleCitiesC = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printCities(PeopleCitiesC, "PeopleCitiesC.md");
 
+
+        //
+        System.out.println("*************************************************************");
+        System.out.println("**********");
+        System.out.println("*************************************************************");
+        ArrayList<City> PO = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printRegionCitiesByPopulation(PO, "PeopleCitiesCount.md");
 
 
 
