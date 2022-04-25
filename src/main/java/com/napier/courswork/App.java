@@ -8,18 +8,17 @@ public class App
     public static void main(String[] args) {
         // Create new Application
         App a = new App();
-        CountryExt DAL = new CountryExt();
+        CapitalCityWorldDAL DAL = new CapitalCityWorldDAL();
         // Connect to database
         a.connect();
 
-        //Q1 Display results Countries
-        //ArrayList<Country> country = DAL.getCountry(a.con);
+        // Top N populated capital cities in the world.
+        System.out.println("*******************************************");
+        System.out.println(" Top N populated capital cities in the world ");
+        System.out.println("*******************************************");
+        ArrayList<CapitalCityWorld> cities = DAL.getTopNPopCapCities(a.con);
+        DAL.PrintCities(cities,"TopNPopCapCities.md");
 
-        //DAL.printCountry(country);
-
-        //Q Display  Countries by Continent
-        ArrayList<Country> country = DAL.getCountryByContinent(a.con);
-        DAL.printCountry(country);
 
 
         // Disconnect from database
