@@ -105,19 +105,14 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
-        // Get Country By Region
-        System.out.println("*************************************************************");
-        System.out.println("****Get Country by region******");
-        System.out.println("*************************************************************");
-        ArrayList<Country> PopulationByRegions = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(PopulationByRegions, "getCountryByRegions.md");
+
 
         // Get Country By Region test
         System.out.println("*************************************************************");
         System.out.println("****Get Country by region******");
         System.out.println("*************************************************************");
         ArrayList<Country> Test = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(Test, "getCountryByR.md");
+        DAL.printCountry(Test, "CountryByRegions.md");
 
 
         // Region Cities By Population
@@ -131,7 +126,7 @@ public class App
 
         // People Cities Countries
         ArrayList<City> PeopleCitiesCountries = CIT.getPeopleCitiesCountries(a.con);
-        CIT.printRegionCitiesByPopulation(PeopleCitiesCountries, "getPeopleCitiesCountries.md");
+        CIT.printCities(PeopleCitiesCountries, "PeopleCitiesC.md");
 
 
 

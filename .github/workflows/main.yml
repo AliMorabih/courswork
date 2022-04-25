@@ -46,6 +46,7 @@ jobs:
           directory: ./target/site/jacoco
           flags: Integration Tests # optional
           verbose: true # optional (default = false)
+
   build:
     name: Build and Start Using docker-compose
     runs-on: ubuntu-latest
@@ -63,17 +64,3 @@ jobs:
         run: |
           mvn package -DskipTests
           docker-compose up --abort-on-container-exit
-      - uses: "marvinpinto/action-automatic-releases@latest"
-        with:
-          repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          prerelease: false
-          automatic_release_tag: "latest"
-          files: |
-            ./target/*.jar
-      - name: Copy Output
-        run: docker container cp courswork_app_1:./tmp/reports ./
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
-        with:
-          branch: reports # The branch the action should deploy to.
-          folder: reports # The folder we are copying
