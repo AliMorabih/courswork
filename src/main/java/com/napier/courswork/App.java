@@ -110,7 +110,7 @@ public class App
         System.out.println("****Get Country by region******");
         System.out.println("*************************************************************");
         ArrayList<Country> PopulationByRegions = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(PopulationByRegions, "getCountryByRegion.md");
+        DAL.printCountry(PopulationByRegions, "getCountryByRegions.md");
 
 
 
