@@ -265,6 +265,47 @@ public class CityWorld {
             return null;
         }
     }
+
+    /*
+     **********************************Next 3*****************************************************************
+     */
+
+    public ArrayList<City> getCapitalCitiesByPopDesc(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("All the capital cities in the world organised by largest population to smallest. \n");
+
+            String strSelect =
+                    "SELECT city.id, city.name, country.name, city.Population FROM city "
+                            + " INNER JOIN country ON country.Capital=city.ID"
+                            + " order by city.population desc ";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.ID = rset.getInt("city.id");
+                city.Name = rset.getString("city.name");
+                city.CountryName = rset.getString("country.name");
+                city.Population = rset.getDouble("city.Population");
+
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }//End
+
+
+
     /**
      * Outputs to Markdown
      *
@@ -297,7 +338,7 @@ public class CityWorld {
         }
     }
 
-    // Print
+    // Print Region Cities by populations
     public void printRegionCitiesByPopulation(ArrayList<City> cities, String filename) {
         // Check employees is not null
         if (cities == null) {
@@ -323,4 +364,5 @@ public class CityWorld {
             e.printStackTrace();
         }
     }
+
 }

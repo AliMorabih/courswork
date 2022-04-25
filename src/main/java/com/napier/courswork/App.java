@@ -125,6 +125,10 @@ public class App
         CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
 
 
+        // Capital Cities By Populations Desc
+        ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
+        CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
+
 
 
 
