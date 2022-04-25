@@ -112,6 +112,12 @@ public class App
         ArrayList<Country> PopulationByRegions = DAL.getCountryByRegion(a.con);
         DAL.printCountry(PopulationByRegions, "getCountryByRegions.md");
 
+        // Get Country By Region test
+        System.out.println("*************************************************************");
+        System.out.println("****Get Country by region******");
+        System.out.println("*************************************************************");
+        ArrayList<Country> Test = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(Test, "getCountryByR.md");
 
 
 
