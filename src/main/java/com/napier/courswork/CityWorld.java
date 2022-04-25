@@ -332,6 +332,8 @@ public class CityWorld {
 
             while (rset.next()) {
                 City city = new City();
+                city.ID = rset.getInt("city.id");
+                city.Name = rset.getString("city.name");
                 city.CountryName = rset.getString("name");
                 city.Population = rset.getDouble("regionpopulation");
                 city.CityPopulation = rset.getDouble("citypopulation");
