@@ -105,6 +105,35 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
+        // Get Country By Region
+        System.out.println("*************************************************************");
+        System.out.println("****Get Country by region******");
+        System.out.println("*************************************************************");
+        ArrayList<Country> PopulationByRegions = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(PopulationByRegions, "getCountryByRegions.md");
+
+        // Get Country By Region test
+        System.out.println("*************************************************************");
+        System.out.println("****Get Country by region******");
+        System.out.println("*************************************************************");
+        ArrayList<Country> Test = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(Test, "getCountryByR.md");
+
+
+        // Region Cities By Population
+        ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
+        CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
+
+
+        // Capital Cities By Populations Desc
+        ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
+        CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
+
+        // People Cities Countries
+        ArrayList<City> PeopleCitiesCountries = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printCities(PeopleCitiesCountries, "PeopleCitiesC.md");
+
+
 
 
         //Disconnect from database
@@ -189,7 +218,7 @@ public class App
                 City ct = new City();
                 ct.ID = rset.getInt("city.ID");
                 ct.Name = rset.getString("city.Name");
-                ct.Population = rset.getInt("city.Population");
+                ct.Population = rset.getLong("city.Population");
                 return ct;
             }
             else
