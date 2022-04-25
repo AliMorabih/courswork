@@ -131,7 +131,7 @@ public class App
 
         // People Cities Countries
         ArrayList<City> PeopleCitiesCountries = CIT.getPeopleCitiesCountries(a.con);
-        CIT.printRegionCitiesByPopulation(PeopleCitiesCountries, "getPeopleCitiesCountries.md");
+        CIT.printCities(PeopleCitiesCountries, "PeopleCitiesC.md");
 
 
 
