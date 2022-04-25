@@ -129,7 +129,9 @@ public class App
         ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
         CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
 
-
+        //
+        ArrayList<City> PeopleCitiesCountries = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printRegionCitiesByPopulation(PeopleCitiesCountries, "getPeopleCitiesCountries.md");
 
 
 

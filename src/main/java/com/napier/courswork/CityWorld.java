@@ -304,6 +304,48 @@ public class CityWorld {
         }
     }//End
 
+    /*
+     ***********************************End getRegionCitiesByPopulation***************************************************************
+     *************************************************************************************************
+     **************************************************************************************************
+     *************************************************************************************************
+     */
+
+    public ArrayList<City> getPeopleCitiesCountries(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("The population of people, people living in cities, and people not living in cities in each country. \n");
+            String strSelect =
+                    "select cc.name, sum(cc.population) regionpopulation,"
+                            + " sum(cc.population)-sum(c.citypopulation) as ruralpopulation,"
+                            + " sum(c.citypopulation) as citypopulation from country cc inner join"
+                            + " (select CountryCode,sum(population) as citypopulation from city"
+                            + " group by countrycode) c on c.countrycode = cc.Code"
+                            + " group by cc.name";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.CountryName = rset.getString("name");
+                city.Population = rset.getDouble("regionpopulation");
+                city.CityPopulation = rset.getDouble("citypopulation");
+                city.RuralPopulation = rset.getDouble("ruralpopulation");
+
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }
 
 
     /**
