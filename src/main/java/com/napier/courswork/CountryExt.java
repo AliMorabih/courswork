@@ -109,6 +109,7 @@ public class CountryExt {
                  + "ORDER BY Population DESC ";
 
 
+
      // Execute SQL statement
      ResultSet rset = stmt.executeQuery(strSelect);
      // Extract Countries information
