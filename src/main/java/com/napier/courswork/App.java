@@ -105,12 +105,12 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
-        // Get Population by region
+        // Get Country By Region
         System.out.println("*************************************************************");
-        System.out.println("****Get Population by region******");
+        System.out.println("****Get Country by region******");
         System.out.println("*************************************************************");
-        ArrayList<City> PopulationByRegion = CIT.getPopulationByRegion(a.con);
-        CIT.printCities(PopulationByRegion, "getPopulationByRegion.md");
+        ArrayList<Country> PopulationByRegions = DAL.getCountryByRegion(a.con);
+        DAL.printCountry(PopulationByRegions, "getCountryByRegion.md");
 
 
 
