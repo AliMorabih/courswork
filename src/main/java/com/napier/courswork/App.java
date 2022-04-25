@@ -120,6 +120,11 @@ public class App
         DAL.printCountry(Test, "getCountryByR.md");
 
 
+        // Region Cities By Population
+        ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
+        CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
+
+
 
 
 

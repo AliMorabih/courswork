@@ -231,6 +231,40 @@ public class CityWorld {
         }
     }//End
 
+    public ArrayList<City> getRegionCitiesByPopulation(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("The population of people, people living in cities, and people not living in cities in each region. \n");
+            String strSelect =
+                    "select cc.region, sum(cc.population) regionpopulation,sum(cc.population)-sum(c.citypopulation) as ruralpopulation,"
+                            + " sum(c.citypopulation) as citypopulation from country cc inner join"
+                            + " (select CountryCode,sum(population) as citypopulation from city"
+                            + " group by countrycode) c on c.countrycode = cc.Code"
+                            + " group by region";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.Region = rset.getString("region");
+                city.Population = rset.getDouble("regionpopulation");
+                city.CityPopulation = rset.getDouble("citypopulation");
+                city.RuralPopulation = rset.getDouble("ruralpopulation");
+
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }
     /**
      * Outputs to Markdown
      *
@@ -252,6 +286,33 @@ public class CityWorld {
         for (City con : cities) {
             if (con == null) continue;
             sb.append("| " + con.ID + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    // Print
+    public void printRegionCitiesByPopulation(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| ID |  Name | Population | Country Name | CityPopulation | Ruralpopulation | \r\n");
+        sb.append("| --- | --- | --- | --- |  --- | --- | \r\n");
+        // Loop over
+        for (City cont : cities) {
+            if (cont == null) continue;
+            sb.append("| " + cont.ID + " | " +  cont.Name + " | " + cont.Population + " | " +   cont.CountryName + " |  " + cont.CityPopulation + " | " +   cont.RuralPopulation + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();
