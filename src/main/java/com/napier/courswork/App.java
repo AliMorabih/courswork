@@ -225,7 +225,7 @@ public class App
                 City ct = new City();
                 ct.ID = rset.getInt("city.ID");
                 ct.Name = rset.getString("city.Name");
-                ct.Population = rset.getInt("city.Population");
+                ct.Population = rset.getLong("city.Population");
                 return ct;
             }
             else

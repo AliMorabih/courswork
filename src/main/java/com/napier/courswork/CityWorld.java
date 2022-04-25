@@ -33,7 +33,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getLong("city.population");
                 cities.add(cin);
             }
             return cities;
@@ -68,7 +68,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getLong("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cin.CountryName = rset.getString("countryname");
                 cities.add(cin);
@@ -106,7 +106,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getLong("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -144,7 +144,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getLong("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cin.CountryName =  rset.getString("countryname");
                 cities.add(cin);
@@ -181,7 +181,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getInt("city.population");
+                cin.Population = rset.getLong("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cities.add(cin);
 
@@ -219,7 +219,7 @@ public class CityWorld {
                 city.ID = rset.getInt("city.id");
                 city.Name = rset.getString("city.name");
                 city.Region = rset.getString("country.region");
-                city.Population = rset.getInt("city.Population");
+                city.Population = rset.getLong("city.Population");
                 city.CountryName = rset.getString("countryname");
                 citypop.add(city);
             }
@@ -252,7 +252,7 @@ public class CityWorld {
             while (rset.next()) {
                 City city = new City();
                 city.Region = rset.getString("region");
-                city.Population = rset.getInt("regionpopulation");
+                city.Population = rset.getLong("regionpopulation");
                 city.CityPopulation = rset.getDouble("citypopulation");
                 city.RuralPopulation = rset.getDouble("ruralpopulation");
 
@@ -292,7 +292,7 @@ public class CityWorld {
                 city.ID = rset.getInt("city.id");
                 city.Name = rset.getString("city.name");
                 city.CountryName = rset.getString("country.name");
-                city.Population = rset.getInt("city.Population");
+                city.Population = rset.getLong("city.Population");
 
                 citypop.add(city);
             }
@@ -335,7 +335,7 @@ public class CityWorld {
                 city.ID = rset.getInt("city.id");
                 city.Name = rset.getString("city.name");
                 city.CountryName = rset.getString("name");
-                city.Population = rset.getInt("regionpopulation");
+                city.Population = rset.getLong("regionpopulation");
                 city.CityPopulation = rset.getDouble("citypopulation");
                 city.RuralPopulation = rset.getDouble("ruralpopulation");
 
