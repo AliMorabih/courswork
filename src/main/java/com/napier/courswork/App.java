@@ -128,7 +128,7 @@ public class App
 
         // People Cities Countries
         System.out.println("*************************************************************");
-        System.out.println("****Get People Cities Countries******");
+        System.out.println("**** People Cities Countries******");
         System.out.println("*************************************************************");
         ArrayList<City> PeopleCitiesC = CIT.getPeopleCitiesCountries(a.con);
         CIT.printCities(PeopleCitiesC, "PeopleCitiesC.md");
@@ -225,7 +225,7 @@ public class App
                 City ct = new City();
                 ct.ID = rset.getInt("city.ID");
                 ct.Name = rset.getString("city.Name");
-                ct.Population = rset.getLong("city.Population");
+                ct.Population = rset.getInt("city.Population");
                 return ct;
             }
             else
