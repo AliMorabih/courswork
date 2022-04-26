@@ -42,12 +42,12 @@ public class App
         DAL.printCountry(countryR,"getCountryByRegion.md");
 
         // All the cities in the world organised by largest population to smallest.
-        //
+        // ****************Done******************************************
         System.out.println("*******************************************");
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
-        ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
-        CIT.printCities(Cities, "cities.md");
+        //ArrayList<City> Cities = CIT.getCityByPopulation(a.con);
+        //CIT.printCities(Cities, "cities.md");
 
 
         // All the cities in a continent organised by largest population to smallest.
@@ -121,6 +121,7 @@ public class App
         CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
 
         // Capital Cities By Populations Desc
+        //***********
         System.out.println("*************************************************************");
         System.out.println("****Region Cities By Population DESC******");
         System.out.println("*************************************************************");

@@ -294,7 +294,7 @@ public class CityWorld {
                 city.ID = rset.getInt("city.id");
                 city.Name = rset.getString("city.name");
                 city.CountryName = rset.getString("country.name");
-                city.Population = rset.getLong("city.Population");
+                city.CityPopulation = rset.getLong("city.Population");
 
                 citypop.add(city);
             }
