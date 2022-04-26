@@ -19,9 +19,10 @@ public class CityWorld {
             Statement stmt = con.createStatement();
             // This SQL Query will select City By Population
             String strSelect =
-                    "SELECT ID, NAME, Population " +
-                            "FROM city " +
-                            "ORDER BY Population DESC ";
+                    "SELECT ID, city.name AS cityname, city.population AS citypopulation, country.name AS countryname " +
+                               "FROM city, country "
+                             + " WHERE city.countrycode = country.code "
+                             +    "ORDER BY city.population DESC ";
 
 
             // Execute SQL statement
@@ -34,6 +35,7 @@ public class CityWorld {
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
                 cin.Population = rset.getLong("city.population");
+                cin.CountryName = rset.getString("countryname");
                 cities.add(cin);
             }
             return cities;
@@ -253,7 +255,7 @@ public class CityWorld {
                 City city = new City();
                 city.Region = rset.getString("region");
                 city.Population = rset.getLong("regionpopulation");
-                city.CityPopulation = rset.getDouble("citypopulation");
+                city.CityPopulation = rset.getLong("citypopulation");
                 city.RuralPopulation = rset.getDouble("ruralpopulation");
 
                 citypop.add(city);
@@ -336,7 +338,7 @@ public class CityWorld {
                 city.Name = rset.getString("city.name");
                 city.CountryName = rset.getString("name");
                 city.Population = rset.getLong("regionpopulation");
-                city.CityPopulation = rset.getDouble("citypopulation");
+                city.CityPopulation = rset.getLong("citypopulation");
                 city.RuralPopulation = rset.getDouble("ruralpopulation");
 
                 citypop.add(city);
