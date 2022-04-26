@@ -540,12 +540,12 @@ public class CityWorld {
 
         StringBuilder sb = new StringBuilder();
         // Print header
-        sb.append("| Continent |  Name | Population | Country Name |\r\n");
+        sb.append("| region |  Name | Population | Country Name |\r\n");
         sb.append("| --- | --- | --- | --- | \r\n");
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
-            sb.append("| " + con.Continent + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
+            sb.append("| " + con.Region + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();
