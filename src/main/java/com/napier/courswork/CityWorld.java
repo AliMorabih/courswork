@@ -33,8 +33,8 @@ public class CityWorld {
             {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
-                cin.Name = rset.getString("city.name");
-                cin.Population = rset.getLong("city.population");
+                cin.Name = rset.getString("cityname");
+                cin.Population = rset.getLong("citypopulation");
                 cin.CountryName = rset.getString("countryname");
                 cities.add(cin);
             }
@@ -372,7 +372,7 @@ public class CityWorld {
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
-            sb.append("| " + con.ID + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
+            sb.append("| " + con.ID + " | " +  con.Name + " | " + con.CityPopulation + " | " +   con.CountryName + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();
