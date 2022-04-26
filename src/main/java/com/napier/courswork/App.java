@@ -41,7 +41,7 @@ public class App
         System.out.println(" Display Countries by Region of Eastern Asia ");
         System.out.println("*******************************************");
         ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
-        DAL.printCountryByContinent(countryR,"getCountryByRegions.md");
+        DAL.printCountryByRegion(countryR,"getCountryByRegions.md");
 
         // All the cities in the world organised by largest population to smallest.
         // ****************Done******************************************

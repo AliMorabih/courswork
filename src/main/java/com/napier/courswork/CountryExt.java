@@ -182,4 +182,29 @@ public class CountryExt {
             e.printStackTrace();
         }
     }
+    public void printCountryByRegion(ArrayList<Country> country, String filename) {
+        // Check employees is not null
+        if (country == null) {
+            System.out.println("No Country");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Code |  Name | Continent | Region | Population  |\r\n");
+        sb.append("| --- | --- | --- | --- | --- |  \r\n");
+        // Loop over
+        for (Country cont : country) {
+            if (cont == null) continue;
+            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + "  | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
