@@ -51,6 +51,7 @@ public class App
 
 
         // All the cities in a continent organised by largest population to smallest.
+        //
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
@@ -114,19 +115,20 @@ public class App
         DAL.printCountry(Test, "GetCountryByRegions.md");
 
         // Region Cities By Population
+        //
         System.out.println("*************************************************************");
         System.out.println("****Region Cities By Population******");
         System.out.println("*************************************************************");
         ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
-        CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "citiesByContinent.md");
+        CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "RegioncitiesByContinent.md");
 
         // Capital Cities By Populations Desc
-        //***********
+        //***********Done*****************************************************************
         System.out.println("*************************************************************");
         System.out.println("****Region Cities By Population DESC******");
         System.out.println("*************************************************************");
-        ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
-        CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
+        //ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
+        //CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
 
         // People Cities Countries
         System.out.println("*************************************************************");
