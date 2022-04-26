@@ -101,7 +101,7 @@ public class CountryExt {
      Statement stmt = con.createStatement();
      // SQL Query to display All the countries in a region of Eastern Asia organised by largest population to smallest
      String strSelect =
-             " SELECT code, country.Name, continent, region, city.Population, city.name AS Capital "
+             " SELECT code, country.Name, continent, region, city.Population "
                  + " FROM country, city "
                  + "WHERE region = 'Eastern Asia' "
                  + "AND country.capital = city.id "
@@ -121,7 +121,6 @@ public class CountryExt {
      cont.Continent = rset.getString("country.continent");
      cont.Region = rset.getString("country.Region");
      cont.Population = rset.getInt("country.population");
-     cont.Capital = rset.getInt("Capital");
      country.add(cont);
      }
      return country;
