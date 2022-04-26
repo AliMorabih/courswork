@@ -133,7 +133,7 @@ public class CountryExt {
      return null;
      }
      }
-    public void printCountryByContinent(ArrayList<Country> country, String filename) {
+    public void printCountry(ArrayList<Country> country, String filename) {
         // Check employees is not null
         if (country == null) {
             System.out.println("No Country");
@@ -158,7 +158,7 @@ public class CountryExt {
             e.printStackTrace();
         }
     }
-    public void printCountry(ArrayList<Country> country, String filename) {
+    public void printCountryByContinent(ArrayList<Country> country, String filename) {
         // Check employees is not null
         if (country == null) {
             System.out.println("No Country");
