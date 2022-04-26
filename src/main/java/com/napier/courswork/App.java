@@ -40,8 +40,8 @@ public class App
         System.out.println("*******************************************");
         System.out.println(" Display Countries by Region of Eastern Asia ");
         System.out.println("*******************************************");
-        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
-        DAL.printCountryByRegion(countryR,"getCountryByRegionss.md");
+        ArrayList<Country> countryR = CIT.getCountryByRegion(a.con);
+        CIT.printCountryByRegion(countryR,"getCountryByRegion.md");
 
         // All the cities in the world organised by largest population to smallest.
         // ****************Done******************************************
@@ -109,12 +109,6 @@ public class App
         CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
 
 
-        // Get Country By Region test
-        System.out.println("*************************************************************");
-        System.out.println("****Get Country by region******");
-        System.out.println("*************************************************************");
-        ArrayList<Country> Test = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(Test, "GetCountryByRegions.md");
 
         // Region Cities By Population
         //*****************************Done**************************************************

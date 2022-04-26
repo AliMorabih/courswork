@@ -352,6 +352,74 @@ public class CityWorld {
     }
 
 
+    public ArrayList<Country> getCountryByRegion(Connection con)
+    {
+        try
+        {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+            // SQL Query to display All the countries in a region of Eastern Asia organised by largest population to smallest
+            String strSelect =
+                    " SELECT code, country.Name, continent, region, city.Population "
+                            + " FROM country, city "
+                            + "WHERE region = 'Eastern Asia' "
+                            + "AND country.capital = city.id "
+                            + "ORDER BY Population DESC ";
+
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+            // Extract Countries information
+            ArrayList<Country> country = new ArrayList<Country>();
+            while (rset.next())
+            {
+                Country cont = new Country();
+                cont.Code = rset.getString("country.Code");
+                cont.Name = rset.getString("country.name");
+                cont.Continent = rset.getString("country.continent");
+                cont.Region = rset.getString("country.Region");
+                cont.Population = rset.getInt("country.population");
+                country.add(cont);
+            }
+            return country;
+        }
+        catch (Exception e)
+        {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get Country By Region details");
+            return null;
+        }
+    }
+    public void printCountryByRegion(ArrayList<Country> country, String filename) {
+        // Check employees is not null
+        if (country == null) {
+            System.out.println("No Country");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Code |  Name | Continent | Region | Population  |\r\n");
+        sb.append("| --- | --- | --- | --- | --- |  \r\n");
+        // Loop over
+        for (Country cont : country) {
+            if (cont == null) continue;
+            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + "  | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+
+
     /**
      * Outputs to Markdown
      *
@@ -436,5 +504,7 @@ public class CityWorld {
             e.printStackTrace();
         }
     }
+
+
 
 }
