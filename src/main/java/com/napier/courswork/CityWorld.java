@@ -70,7 +70,7 @@ public class CityWorld {
                 City cin = new City();
                 cin.ID = rset.getInt("city.id");
                 cin.Name = rset.getString("city.name");
-                cin.Population = rset.getLong("city.population");
+                cin.CityPopulation = rset.getLong("city.population");
                 cin.CountryCode = rset.getString("city.countryCode");
                 cin.CountryName = rset.getString("countryname");
                 cities.add(cin);
