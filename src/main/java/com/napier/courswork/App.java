@@ -28,7 +28,7 @@ public class App
         DAL.printCountry(country,"getCountry.md");
 
         // All the countries in a continent organised by largest population to smallest.
-        //
+        //********************Done**************************************************
         System.out.println("******************************************");
         System.out.println(" Display Countries by Continent Asia ");
         System.out.println("*******************************************");
@@ -40,7 +40,7 @@ public class App
         System.out.println(" Display Countries by Region of Eastern Asia ");
         System.out.println("*******************************************");
         ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(countryR,"getCountryByRegion.md");
+        DAL.printCountryByContinent(countryR,"getCountryByRegion.md");
 
         // All the cities in the world organised by largest population to smallest.
         // ****************Done******************************************
