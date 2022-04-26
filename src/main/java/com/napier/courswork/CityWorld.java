@@ -94,10 +94,12 @@ public class CityWorld {
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
             String strSelect =
-                  "select * from (select cc.continent,c.name,c.population,cc.name as countryname,"
-                + "row_number() over (partition by cc.continent order by c.population desc) as country_rank"
-                 +"from city c inner join country cc on c.id = cc.Capital"
-                + "ranks  where country_rank <= 4 ";
+                      " select * from (select cc.continent,c.name,c.population,cc.name as countryname, "
+                    + " row_number() over (partition by cc.continent order by c.population desc) as country_rank "
+                            + " from city c inner join country cc on c.id = cc.Capital) "
+                            + " ranks  where country_rank <= 4 ";
+            
+
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
