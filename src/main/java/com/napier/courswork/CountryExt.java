@@ -59,7 +59,7 @@ public class CountryExt {
             Statement stmt = con.createStatement();
             // This SQL Query will filter only countries in the continent of Asia//
             String strSelect =
-                    "SELECT code, name, continent, region, Population, Capital "
+                    "SELECT code, name, continent, region, Population "
                             + "FROM country "
                             + " WHERE Continent IN ('Asia') "
                             + "ORDER BY Population DESC " ;
@@ -77,7 +77,6 @@ public class CountryExt {
                 cont.Continent = rset.getString("country.continent");
                 cont.Region = rset.getString("country.Region");
                 cont.Population = rset.getInt("country.population");
-                cont.Capital = rset.getInt("country.Capital");
                 country.add(cont);
             }
             return country;
@@ -134,7 +133,7 @@ public class CountryExt {
      return null;
      }
      }
-    public void printCountry(ArrayList<Country> country, String filename) {
+    public void printCountryByContinent(ArrayList<Country> country, String filename) {
         // Check employees is not null
         if (country == null) {
             System.out.println("No Country");
@@ -149,6 +148,31 @@ public class CountryExt {
         for (Country cont : country) {
             if (cont == null) continue;
             sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + " | " +   cont.Capital + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+    public void printCountry(ArrayList<Country> country, String filename) {
+        // Check employees is not null
+        if (country == null) {
+            System.out.println("No Country");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Code |  Name | Continent | Region | Population  |\r\n");
+        sb.append("| --- | --- | --- | --- | --- |  \r\n");
+        // Loop over
+        for (Country cont : country) {
+            if (cont == null) continue;
+            sb.append("| " + cont.Code + " | " +  cont.Name + " | " + cont.Continent + " | " +   cont.Region + " | "  +   cont.Population + "  | \r\n");
         }
         try {
             new File("./reports/").mkdir();
