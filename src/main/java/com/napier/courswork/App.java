@@ -85,6 +85,7 @@ public class App
 
 
         // Top 4 Populated cities in a Continent of South America
+        //******************************Done*************************************
         System.out.println("**********************************************************************");
         System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
         System.out.println("**********************************************************************");
@@ -97,7 +98,7 @@ public class App
         System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
         System.out.println("*************************************************************");
         ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
-        CIT.printCities(CitiR, "getFourPopulatedCityByRegion.md");
+        CIT.printFourPopulatedCityByRegion(CitiR, "getFourPopulatedCityByRegion.md");
 
 
 

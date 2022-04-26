@@ -98,7 +98,7 @@ public class CityWorld {
                     + " row_number() over (partition by cc.continent order by c.population desc) as country_rank "
                             + " from city c inner join country cc on c.id = cc.Capital) "
                             + " ranks  where country_rank <= 4 ";
-            
+
 
 
             // Execute SQL statement
@@ -132,12 +132,11 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect =   " SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.name as countryname, country.Region "
-                +"FROM city, country  "
-                +"WHERE city.CountryCode = country.Code  "
-                +"AND country.Region IN ('Eastern Europe')  "
-                +"AND  (city.Population > '1811552')  "
-                +"ORDER BY Population DESC ;  " ;
+            String strSelect =
+            " select * from (select cc.region,c.name,c.population,cc.name as countryname, "
+              + " row_number() over (partition by cc.region order by c.population desc) as country_rank "
+              + " from city c inner join country cc on c.id = cc.Capital) "
+              + " ranks  where country_rank <= 4 ";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
@@ -146,10 +145,9 @@ public class CityWorld {
             while (rset.next())
             {
                 City cin = new City();
-                cin.ID = rset.getInt("city.id");
-                cin.Name = rset.getString("city.name");
-                cin.Population = rset.getLong("city.population");
-                cin.CountryCode = rset.getString("city.countryCode");
+                cin.Region = rset.getString("region");
+                cin.Name = rset.getString("name");
+                cin.Population = rset.getLong("population");
                 cin.CountryName =  rset.getString("countryname");
                 cities.add(cin);
 
@@ -508,6 +506,32 @@ public class CityWorld {
     }
 
     public void printgetFourPopulatedCityByContinent(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Continent |  Name | Population | Country Name |\r\n");
+        sb.append("| --- | --- | --- | --- | \r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.Continent + " | " +  con.Name + " | " + con.Population + " | " +   con.CountryName + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void printFourPopulatedCityByRegion(ArrayList<City> cities, String filename) {
         // Check employees is not null
         if (cities == null) {
             System.out.println("No Cities");
