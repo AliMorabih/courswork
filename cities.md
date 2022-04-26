@@ -1,4081 +1,4081 @@
 | ID |  Name | Population | Country Name |
 | --- | --- | --- | --- | 
-| 1024 | Mumbai (Bombay) | 1.05E7 | null | 
-| 2331 | Seoul | 9981619.0 | null | 
-| 206 | São Paulo | 9968485.0 | null | 
-| 1890 | Shanghai | 9696300.0 | null | 
-| 939 | Jakarta | 9604900.0 | null | 
-| 2822 | Karachi | 9269265.0 | null | 
-| 3357 | Istanbul | 8787958.0 | null | 
-| 2515 | Ciudad de México | 8591309.0 | null | 
-| 3580 | Moscow | 8389200.0 | null | 
-| 3793 | New York | 8008278.0 | null | 
-| 1532 | Tokyo | 7980230.0 | null | 
-| 1891 | Peking | 7472000.0 | null | 
-| 456 | London | 7285000.0 | null | 
-| 1025 | Delhi | 7206704.0 | null | 
-| 608 | Cairo | 6789479.0 | null | 
-| 1380 | Teheran | 6758845.0 | null | 
-| 2890 | Lima | 6464693.0 | null | 
-| 1892 | Chongqing | 6351600.0 | null | 
-| 3320 | Bangkok | 6320174.0 | null | 
-| 2257 | Santafé de Bogotá | 6260862.0 | null | 
-| 207 | Rio de Janeiro | 5598953.0 | null | 
-| 1893 | Tianjin | 5286800.0 | null | 
-| 2298 | Kinshasa | 5064000.0 | null | 
-| 2823 | Lahore | 5063499.0 | null | 
-| 554 | Santiago de Chile | 4703954.0 | null | 
-| 3581 | St Petersburg | 4694000.0 | null | 
-| 1026 | Calcutta [Kolkata] | 4399819.0 | null | 
-| 1894 | Wuhan | 4344600.0 | null | 
-| 1365 | Baghdad | 4336000.0 | null | 
-| 1895 | Harbin | 4289800.0 | null | 
-| 1896 | Shenyang | 4265200.0 | null | 
-| 1897 | Kanton [Guangzhou] | 4256300.0 | null | 
-| 3208 | Singapore | 4017733.0 | null | 
-| 3769 | Ho Chi Minh City | 3980000.0 | null | 
-| 1027 | Chennai (Madras) | 3841396.0 | null | 
-| 2332 | Pusan | 3804522.0 | null | 
-| 3794 | Los Angeles | 3694820.0 | null | 
-| 150 | Dhaka | 3612850.0 | null | 
-| 3068 | Berlin | 3386667.0 | null | 
-| 2710 | Rangoon (Yangon) | 3361700.0 | null | 
-| 1898 | Chengdu | 3361500.0 | null | 
-| 1533 | Jokohama [Yokohama] | 3339594.0 | null | 
-| 609 | Alexandria | 3328196.0 | null | 
-| 3173 | Riyadh | 3324000.0 | null | 
-| 130 | Sydney | 3276207.0 | null | 
-| 3358 | Ankara | 3038159.0 | null | 
-| 69 | Buenos Aires | 2982146.0 | null | 
-| 1028 | Hyderabad | 2964638.0 | null | 
-| 2485 | Casablanca | 2940623.0 | null | 
-| 3795 | Chicago | 2896016.0 | null | 
-| 653 | Madrid | 2879052.0 | null | 
-| 1029 | Ahmedabad | 2876710.0 | null | 
-| 1899 | Nanking [Nanjing] | 2870300.0 | null | 
-| 131 | Melbourne | 2865329.0 | null | 
-| 1900 | Changchun | 2812000.0 | null | 
-| 1901 | Xi´an | 2761400.0 | null | 
-| 1902 | Dalian | 2697000.0 | null | 
-| 940 | Surabaya | 2663820.0 | null | 
-| 1030 | Bangalore | 2660088.0 | null | 
-| 1464 | Roma | 2643581.0 | null | 
-| 3263 | Taipei | 2641312.0 | null | 
-| 3426 | Kyiv | 2624000.0 | null | 
-| 1903 | Qingdao | 2596000.0 | null | 
-| 1534 | Osaka | 2595674.0 | null | 
-| 2333 | Inchon | 2559424.0 | null | 
-| 2334 | Taegu | 2548568.0 | null | 
-| 2812 | Abidjan | 2500000.0 | null | 
-| 756 | Addis Abeba | 2495000.0 | null | 
-| 2318 | Pyongyang | 2484000.0 | null | 
-| 941 | Bandung | 2429000.0 | null | 
-| 712 | Cape Town | 2352121.0 | null | 
-| 208 | Salvador | 2302832.0 | null | 
-| 1881 | Nairobi | 2290000.0 | null | 
-| 1904 | Jinan | 2278100.0 | null | 
-| 2413 | La Habana | 2256000.0 | null | 
-| 610 | Giza | 2221868.0 | null | 
-| 1905 | Hangzhou | 2190500.0 | null | 
-| 765 | Quezon | 2173831.0 | null | 
-| 35 | Alger | 2168000.0 | null | 
-| 1535 | Nagoya | 2154376.0 | null | 
-| 209 | Belo Horizonte | 2139125.0 | null | 
-| 3359 | Izmir | 2130359.0 | null | 
-| 2974 | Paris | 2125246.0 | null | 
-| 3503 | Toskent | 2117500.0 | null | 
-| 1906 | Zhengzhou | 2107200.0 | null | 
-| 210 | Fortaleza | 2097757.0 | null | 
-| 2258 | Cali | 2077386.0 | null | 
-| 593 | Guayaquil | 2070040.0 | null | 
-| 3174 | Jedda | 2046300.0 | null | 
-| 1907 | Shijiazhuang | 2041500.0 | null | 
-| 56 | Luanda | 2022000.0 | null | 
-| 3018 | Bucuresti | 2016131.0 | null | 
-| 936 | Kowloon and New Kowloon | 1987996.0 | null | 
-| 2824 | Faisalabad | 1977246.0 | null | 
-| 3539 | Caracas | 1975294.0 | null | 
-| 211 | Brasília | 1969868.0 | null | 
-| 1908 | Taiyuan | 1968400.0 | null | 
-| 3796 | Houston | 1953631.0 | null | 
-| 1381 | Mashhad | 1887405.0 | null | 
-| 1031 | Kanpur | 1874409.0 | null | 
-| 2259 | Medellín | 1861265.0 | null | 
-| 942 | Medan | 1843919.0 | null | 
-| 1909 | Kunming | 1829500.0 | null | 
-| 3483 | Budapest | 1811552.0 | null | 
-| 1910 | Changsha | 1809800.0 | null | 
-| 1536 | Sapporo | 1790886.0 | null | 
-| 144 | Baku | 1787800.0 | null | 
-| 1 | Kabul | 1780000.0 | null | 
-| 3305 | Dar es Salaam | 1747000.0 | null | 
-| 3069 | Hamburg | 1704735.0 | null | 
-| 1911 | Nanchang | 1691600.0 | null | 
-| 2441 | Tripoli | 1682000.0 | null | 
-| 3520 | Minsk | 1674000.0 | null | 
-| 2516 | Guadalajara | 1647720.0 | null | 
-| 1032 | Nagpur | 1624752.0 | null | 
-| 2517 | Ecatepec de Morelos | 1620303.0 | null | 
-| 1033 | Lucknow | 1619115.0 | null | 
-| 2928 | Warszawa | 1615369.0 | null | 
-| 587 | Santo Domingo de Guzmán | 1609966.0 | null | 
-| 1523 | Wien | 1608144.0 | null | 
-| 1912 | Fuzhou | 1593800.0 | null | 
-| 212 | Curitiba | 1584232.0 | null | 
-| 766 | Manila | 1581082.0 | null | 
-| 594 | Quito | 1573458.0 | null | 
-| 1034 | Pune | 1566651.0 | null | 
-| 1913 | Lanzhou | 1565800.0 | null | 
-| 2741 | Lagos | 1518000.0 | null | 
-| 3797 | Philadelphia | 1517550.0 | null | 
-| 654 | Barcelona | 1503451.0 | null | 
-| 3427 | Harkova [Harkiv] | 1500000.0 | null | 
-| 1035 | Surat | 1498817.0 | null | 
-| 3264 | Kaohsiung | 1475505.0 | null | 
-| 1914 | Guiyang | 1465200.0 | null | 
-| 1537 | Kioto | 1461974.0 | null | 
-| 1036 | Jaipur | 1458483.0 | null | 
-| 1803 | Douala | 1448300.0 | null | 
-| 2742 | Ibadan | 1432000.0 | null | 
-| 2335 | Taejon | 1425835.0 | null | 
-| 1538 | Kobe | 1425139.0 | null | 
-| 3770 | Hanoi | 1410000.0 | null | 
-| 4068 | Harare | 1410000.0 | null | 
-| 2825 | Rawalpindi | 1406214.0 | null | 
-| 3582 | Novosibirsk | 1398800.0 | null | 
-| 151 | Chittagong | 1392860.0 | null | 
-| 213 | Recife | 1378087.0 | null | 
-| 1804 | Yaoundé | 1372800.0 | null | 
-| 1915 | Ningbo | 1371200.0 | null | 
-| 1916 | Hefei | 1369100.0 | null | 
-| 2336 | Kwangju | 1368341.0 | null | 
-| 3583 | Nizni Novgorod | 1357000.0 | null | 
-| 3250 | Damascus | 1347000.0 | null | 
-| 2518 | Puebla | 1346176.0 | null | 
-| 3798 | Phoenix | 1321045.0 | null | 
-| 3162 | Lusaka | 1317000.0 | null | 
-| 214 | Porto Alegre | 1314032.0 | null | 
-| 937 | Victoria | 1312637.0 | null | 
-| 1917 | Urumtši [Ürümqi] | 1310100.0 | null | 
-| 1539 | Fukuoka | 1308379.0 | null | 
-| 3540 | Maracaíbo | 1304776.0 | null | 
-| 1465 | Milano | 1300977.0 | null | 
-| 2464 | Kuala Lumpur | 1297526.0 | null | 
-| 132 | Brisbane | 1291117.0 | null | 
-| 3224 | Omdurman | 1271403.0 | null | 
-| 70 | La Matanza | 1266461.0 | null | 
-| 3584 | Jekaterinburg | 1266300.0 | null | 
-| 1382 | Esfahan | 1266072.0 | null | 
-| 3251 | Aleppo | 1261983.0 | null | 
-| 215 | Manaus | 1255049.0 | null | 
-| 126 | Yerevan | 1248700.0 | null | 
-| 3492 | Montevideo | 1236000.0 | null | 
-| 905 | Tbilisi | 1235200.0 | null | 
-| 2519 | Nezahualcóyotl | 1224924.0 | null | 
-| 3799 | San Diego | 1223400.0 | null | 
-| 2260 | Barranquilla | 1223260.0 | null | 
-| 943 | Palembang | 1222764.0 | null | 
-| 2520 | Juárez | 1217818.0 | null | 
-| 1540 | Kawasaki | 1217359.0 | null | 
-| 2521 | Tijuana | 1212232.0 | null | 
-| 1792 | Beograd | 1204000.0 | null | 
-| 1918 | Anshan | 1200000.0 | null | 
-| 1919 | Fushun | 1200000.0 | null | 
-| 944 | Tangerang | 1198300.0 | null | 
-| 3070 | Munich [München] | 1194560.0 | null | 
-| 1383 | Tabriz | 1191043.0 | null | 
-| 3800 | Dallas | 1188580.0 | null | 
-| 216 | Belém | 1186926.0 | null | 
-| 2826 | Multan | 1182441.0 | null | 
-| 3339 | Praha | 1181126.0 | null | 
-| 767 | Kalookan | 1177604.0 | null | 
-| 1920 | Nanning | 1161800.0 | null | 
-| 71 | Córdoba | 1157507.0 | null | 
-| 3585 | Samara | 1156100.0 | null | 
-| 2827 | Hyderabad | 1151274.0 | null | 
-| 3586 | Omsk | 1148900.0 | null | 
-| 768 | Davao | 1147116.0 | null | 
-| 3801 | San Antonio | 1144646.0 | null | 
-| 1921 | Zibo | 1140000.0 | null | 
-| 2522 | León | 1133576.0 | null | 
-| 3360 | Adana | 1131198.0 | null | 
-| 1860 | Almaty | 1129400.0 | null | 
-| 2828 | Gujranwala | 1124749.0 | null | 
-| 539 | Sofija | 1122302.0 | null | 
-| 1541 | Hiroshima | 1119117.0 | null | 
-| 2523 | Monterrey | 1108499.0 | null | 
-| 945 | Semarang | 1104405.0 | null | 
-| 3428 | Dnipropetrovsk | 1103000.0 | null | 
-| 3587 | Kazan | 1101000.0 | null | 
-| 2438 | Beirut | 1100000.0 | null | 
-| 133 | Perth | 1096829.0 | null | 
-| 217 | Guarulhos | 1095874.0 | null | 
-| 3361 | Bursa | 1095842.0 | null | 
-| 1037 | Indore | 1091674.0 | null | 
-| 3588 | Ufa | 1091200.0 | null | 
-| 926 | Conakry | 1090610.0 | null | 
-| 2337 | Ulsan | 1084891.0 | null | 
-| 3589 | Tšeljabinsk | 1083200.0 | null | 
-| 910 | Accra | 1070000.0 | null | 
-| 1922 | Qiqihar | 1070000.0 | null | 
-| 1038 | Bhopal | 1062771.0 | null | 
-| 946 | Ujung Pandang | 1060257.0 | null | 
-| 218 | Goiânia | 1056330.0 | null | 
-| 1384 | Shiraz | 1053025.0 | null | 
-| 3429 | Donetsk | 1050000.0 | null | 
-| 1039 | Ludhiana | 1042740.0 | null | 
-| 1923 | Jilin | 1040000.0 | null | 
-| 1924 | Tangshan | 1040000.0 | null | 
-| 1040 | Vadodara (Baroda) | 1031346.0 | null | 
-| 2698 | Maputo | 1018938.0 | null | 
-| 1810 | Montréal | 1016376.0 | null | 
-| 1542 | Kitakyushu | 1016264.0 | null | 
-| 1041 | Kalyan | 1014557.0 | null | 
-| 457 | Birmingham | 1013000.0 | null | 
-| 3590 | Rostov-na-Donu | 1012700.0 | null | 
-| 3430 | Odesa | 1011000.0 | null | 
-| 3591 | Perm | 1009700.0 | null | 
-| 1466 | Napoli | 1002619.0 | null | 
-| 2524 | Zapopan | 1002239.0 | null | 
-| 1786 | Amman | 1000000.0 | null | 
-| 3214 | Mogadishu | 997000.0 | null | 
-| 3592 | Volgograd | 993400.0 | null | 
-| 1543 | Sendai | 989975.0 | null | 
-| 2829 | Peshawar | 988005.0 | null | 
-| 1925 | Baotou | 980000.0 | null | 
-| 134 | Adelaide | 978100.0 | null | 
-| 1042 | Madurai | 977856.0 | null | 
-| 3175 | Mekka | 965700.0 | null | 
-| 3071 | Köln | 962507.0 | null | 
-| 2734 | Managua | 959000.0 | null | 
-| 3802 | Detroit | 951270.0 | null | 
-| 1926 | Shenzhen | 950500.0 | null | 
-| 1043 | Haora (Howrah) | 950435.0 | null | 
-| 219 | Campinas | 950043.0 | null | 
-| 2296 | Brazzaville | 950000.0 | null | 
-| 3225 | Khartum | 947483.0 | null | 
-| 1385 | Karaj | 940968.0 | null | 
-| 3265 | Taichung | 940589.0 | null | 
-| 193 | Santa Cruz de la Sierra | 935361.0 | null | 
-| 1044 | Varanasi (Benares) | 929270.0 | null | 
-| 1045 | Patna | 917243.0 | null | 
-| 1927 | Hohhot | 916700.0 | null | 
-| 72 | Rosario | 907718.0 | null | 
-| 3593 | Voronez | 907700.0 | null | 
-| 713 | Soweto | 904165.0 | null | 
-| 1467 | Torino | 903705.0 | null | 
-| 3803 | San Jose | 894943.0 | null | 
-| 1046 | Srinagar | 892506.0 | null | 
-| 1047 | Agra | 891790.0 | null | 
-| 3425 | Kampala | 890800.0 | null | 
-| 2711 | Mandalay | 885300.0 | null | 
-| 929 | Port-au-Prince | 884472.0 | null | 
-| 1366 | Mosul | 879000.0 | null | 
-| 3541 | Barquisimeto | 877239.0 | null | 
-| 3594 | Krasnojarsk | 875500.0 | null | 
-| 3595 | Saratov | 874000.0 | null | 
-| 611 | Shubra al-Khayma | 870716.0 | null | 
-| 220 | São Gonçalo | 869254.0 | null | 
-| 2338 | Songnam | 869094.0 | null | 
-| 1544 | Chiba | 863930.0 | null | 
-| 221 | Nova Iguaçu | 862225.0 | null | 
-| 2525 | Naucalpan de Juárez | 857511.0 | null | 
-| 3197 | Pikine | 855287.0 | null | 
-| 2299 | Lubumbashi | 851381.0 | null | 
-| 2440 | Monrovia | 850000.0 | null | 
-| 3207 | Freetown | 850000.0 | null | 
-| 3431 | Zaporizzja | 848000.0 | null | 
-| 1928 | Handan | 840000.0 | null | 
-| 222 | São Luís | 837588.0 | null | 
-| 1929 | Wuxi | 830000.0 | null | 
-| 549 | Ouagadougou | 824000.0 | null | 
-| 922 | Ciudad de Guatemala | 823301.0 | null | 
-| 1048 | Coimbatore | 816321.0 | null | 
-| 933 | Tegucigalpa | 813900.0 | null | 
-| 1930 | Xuzhou | 810000.0 | null | 
-| 2482 | Bamako | 809552.0 | null | 
-| 2300 | Mbuji-Mayi | 806475.0 | null | 
-| 2261 | Cartagena | 805757.0 | null | 
-| 1386 | Ahvaz | 804980.0 | null | 
-| 2442 | Bengasi | 804000.0 | null | 
-| 1049 | Thane (Thana) | 803389.0 | null | 
-| 2929 | Lódz | 800110.0 | null | 
-| 1931 | Datong | 800000.0 | null | 
-| 1932 | Yichun | 800000.0 | null | 
-| 2975 | Marseille | 798430.0 | null | 
-| 1545 | Sakai | 797735.0 | null | 
-| 3542 | Valencia | 794246.0 | null | 
-| 1050 | Allahabad | 792858.0 | null | 
-| 3804 | Indianapolis | 791926.0 | null | 
-| 3362 | Gaziantep | 789056.0 | null | 
-| 3432 | Lviv | 788000.0 | null | 
-| 223 | Maceió | 786288.0 | null | 
-| 3198 | Dakar | 785071.0 | null | 
-| 3771 | Haiphong | 783133.0 | null | 
-| 2339 | Puchon | 779412.0 | null | 
-| 1387 | Qom | 777677.0 | null | 
-| 3805 | San Francisco | 776733.0 | null | 
-| 2696 | Ulan Bator | 773700.0 | null | 
-| 2401 | Athenai | 772072.0 | null | 
-| 1933 | Benxi | 770000.0 | null | 
-| 1811 | Calgary | 768082.0 | null | 
-| 2526 | Mexicali | 764902.0 | null | 
-| 2434 | Riga | 764328.0 | null | 
-| 2891 | Arequipa | 762000.0 | null | 
-| 1934 | Luoyang | 760000.0 | null | 
-| 194 | La Paz | 758141.0 | null | 
-| 714 | Johannesburg | 756653.0 | null | 
-| 2340 | Suwon | 755550.0 | null | 
-| 1051 | Meerut | 753778.0 | null | 
-| 715 | Port Elizabeth | 752319.0 | null | 
-| 1052 | Vishakhapatnam | 752037.0 | null | 
-| 3048 | Stockholm | 750348.0 | null | 
-| 224 | Duque de Caxias | 746758.0 | null | 
-| 2527 | Culiacán | 744859.0 | null | 
-| 1053 | Jabalpur | 741927.0 | null | 
-| 655 | Valencia | 739412.0 | null | 
-| 2930 | Kraków | 738150.0 | null | 
-| 3806 | Jacksonville | 735167.0 | null | 
-| 5 | Amsterdam | 731200.0 | null | 
-| 2743 | Ogbomosho | 730000.0 | null | 
-| 3266 | Tainan | 728060.0 | null | 
-| 225 | São Bernardo do Campo | 723132.0 | null | 
-| 3596 | Toljatti | 722900.0 | null | 
-| 2528 | Acapulco de Juárez | 721011.0 | null | 
-| 2529 | Tlalnepantla de Baz | 720755.0 | null | 
-| 2690 | Chisinau | 719900.0 | null | 
-| 769 | Cebu | 718821.0 | null | 
-| 947 | Malang | 716862.0 | null | 
-| 3807 | Columbus | 711470.0 | null | 
-| 1935 | Suzhou | 710000.0 | null | 
-| 2319 | Hamhung | 709730.0 | null | 
-| 1054 | Amritsar | 708835.0 | null | 
-| 2409 | Zagreb | 706770.0 | null | 
-| 1055 | Faridabad | 703592.0 | null | 
-| 2530 | Mérida | 703324.0 | null | 
-| 3433 | Kryvyi Rig | 703000.0 | null | 
-| 656 | Sevilla | 701927.0 | null | 
-| 1056 | Vijayawada | 701827.0 | null | 
-| 3226 | Sharq al-Nil | 700887.0 | null | 
-| 1936 | Xining | 700200.0 | null | 
-| 1937 | Huainan | 700000.0 | null | 
-| 1388 | Kermanshah | 692986.0 | null | 
-| 226 | Teresina | 691942.0 | null | 
-| 1057 | Gwalior | 690765.0 | null | 
-| 3349 | Tunis | 690600.0 | null | 
-| 227 | Natal | 688955.0 | null | 
-| 1812 | Toronto | 688275.0 | null | 
-| 1938 | Jixi | 683885.0 | null | 
-| 1468 | Palermo | 683794.0 | null | 
-| 948 | Bandar Lampung | 680332.0 | null | 
-| 2455 | Antananarivo | 675669.0 | null | 
-| 2744 | Kano | 674100.0 | null | 
-| 2531 | Chihuahua | 670208.0 | null | 
-| 2532 | San Luis Potosí | 669353.0 | null | 
-| 64 | Dubai | 669181.0 | null | 
-| 2533 | Guadalupe | 668780.0 | null | 
-| 3597 | Uljanovsk | 667400.0 | null | 
-| 2509 | Nouakchott | 667300.0 | null | 
-| 1058 | Jodhpur | 666279.0 | null | 
-| 2534 | Toluca | 665617.0 | null | 
-| 3543 | Ciudad Guayana | 663713.0 | null | 
-| 152 | Khulna | 663340.0 | null | 
-| 1939 | Daqing | 660000.0 | null | 
-| 228 | Osasco | 659604.0 | null | 
-| 716 | Pretoria | 658630.0 | null | 
-| 1059 | Nashik (Nasik) | 656925.0 | null | 
-| 1546 | Kumamoto | 656734.0 | null | 
-| 3808 | Austin | 656562.0 | null | 
-| 3598 | Izevsk | 652800.0 | null | 
-| 2892 | Trujillo | 652000.0 | null | 
-| 3809 | Baltimore | 651154.0 | null | 
-| 3810 | Memphis | 650100.0 | null | 
-| 229 | Campo Grande | 649593.0 | null | 
-| 1060 | Hubli-Dharwad | 648298.0 | null | 
-| 3217 | Colombo | 645000.0 | null | 
-| 949 | Bekasi | 644300.0 | null | 
-| 3072 | Frankfurt am Main | 643821.0 | null | 
-| 2535 | Aguascalientes | 643360.0 | null | 
-| 1940 | Fuxin | 640000.0 | null | 
-| 2536 | Querétaro | 639839.0 | null | 
-| 3599 | Krasnodar | 639000.0 | null | 
-| 2931 | Wroclaw | 636765.0 | null | 
-| 1469 | Genova | 636104.0 | null | 
-| 717 | Inanda | 634065.0 | null | 
-| 1450 | Jerusalem | 633700.0 | null | 
-| 230 | Santo André | 630073.0 | null | 
-| 3363 | Konya | 628364.0 | null | 
-| 1941 | Amoy [Xiamen] | 627500.0 | null | 
-| 1547 | Okayama | 624269.0 | null | 
-| 2486 | Rabat | 623457.0 | null | 
-| 1813 | North York | 622632.0 | null | 
-| 73 | Lomas de Zamora | 622013.0 | null | 
-| 2487 | Marrakech | 621914.0 | null | 
-| 4069 | Bulawayo | 621742.0 | null | 
-| 2537 | Morelia | 619958.0 | null | 
-| 458 | Glasgow | 619680.0 | null | 
-| 1814 | Winnipeg | 618477.0 | null | 
-| 3600 | Jaroslavl | 616700.0 | null | 
-| 1815 | Edmonton | 616306.0 | null | 
-| 1942 | Liuzhou | 610000.0 | null | 
-| 36 | Oran | 609823.0 | null | 
-| 3601 | Habarovsk | 609400.0 | null | 
-| 2538 | Hermosillo | 608697.0 | null | 
-| 3176 | Medina | 608300.0 | null | 
-| 1816 | Mississauga | 608072.0 | null | 
-| 2262 | Cúcuta | 606932.0 | null | 
-| 3602 | Vladivostok | 606200.0 | null | 
-| 1061 | Solapur (Sholapur) | 604215.0 | null | 
-| 657 | Zaragoza | 603367.0 | null | 
-| 770 | Zamboanga | 601794.0 | null | 
-| 3073 | Essen | 599515.0 | null | 
-| 1062 | Ranchi | 599306.0 | null | 
-| 3811 | Milwaukee | 596974.0 | null | 
-| 1817 | Scarborough | 594501.0 | null | 
-| 3603 | Irkutsk | 593700.0 | null | 
-| 6 | Rotterdam | 593321.0 | null | 
-| 2729 | Kathmandu | 591835.0 | null | 
-| 2341 | Anyang | 591106.0 | null | 
-| 3074 | Dortmund | 590213.0 | null | 
-| 2253 | Bishkek | 589400.0 | null | 
-| 3812 | Boston | 589141.0 | null | 
-| 3364 | Mersin (Içel) | 587212.0 | null | 
-| 1063 | Bareilly | 587211.0 | null | 
-| 1548 | Sagamihara | 586300.0 | null | 
-| 1064 | Guwahati (Gauhati) | 584342.0 | null | 
-| 231 | João Pessoa | 584029.0 | null | 
-| 2320 | Chongjin | 582480.0 | null | 
-| 3075 | Stuttgart | 582443.0 | null | 
-| 3604 | Barnaul | 580100.0 | null | 
-| 1943 | Shantou | 580000.0 | null | 
-| 2447 | Vilnius | 577969.0 | null | 
-| 2539 | Saltillo | 577352.0 | null | 
-| 2932 | Poznan | 576899.0 | null | 
-| 1065 | Shambajinagar (Aurangabad) | 573272.0 | null | 
-| 3813 | Washington | 572059.0 | null | 
-| 1800 | Phnom Penh | 570155.0 | null | 
-| 1944 | Jinzhou | 570000.0 | null | 
-| 1945 | Mudanjiang | 570000.0 | null | 
-| 3814 | Nashville-Davidson | 569891.0 | null | 
-| 3076 | Düsseldorf | 568855.0 | null | 
-| 1549 | Hamamatsu | 568796.0 | null | 
-| 2321 | Nampo | 566200.0 | null | 
-| 718 | Durban | 566120.0 | null | 
-| 3365 | Antalya | 564914.0 | null | 
-| 1066 | Cochin (Kochi) | 564589.0 | null | 
-| 3815 | El Paso | 563662.0 | null | 
-| 3816 | Seattle | 563374.0 | null | 
-| 2914 | Lisboa | 563210.0 | null | 
-| 2342 | Chonju | 563153.0 | null | 
-| 3605 | Novokuznetsk | 561600.0 | null | 
-| 2830 | Quetta | 560307.0 | null | 
-| 1067 | Rajkot | 559407.0 | null | 
-| 74 | Quilmes | 559249.0 | null | 
-| 232 | Jaboatão dos Guararapes | 558680.0 | null | 
-| 2885 | Asunción | 557776.0 | null | 
-| 3236 | Helsinki [Helsingfors] | 555474.0 | null | 
-| 3817 | Denver | 554636.0 | null | 
-| 1550 | Kagoshima | 549977.0 | null | 
-| 1551 | Funabashi | 545299.0 | null | 
-| 1946 | Yinchuan | 544500.0 | null | 
-| 2488 | Fès | 541162.0 | null | 
-| 3818 | Charlotte | 540828.0 | null | 
-| 3419 | Ashgabat | 540600.0 | null | 
-| 3077 | Bremen | 540330.0 | null | 
-| 75 | Almirante Brown | 538918.0 | null | 
-| 1068 | Kota | 537371.0 | null | 
-| 186 | Cotonou | 536827.0 | null | 
-| 3819 | Fort Worth | 534694.0 | null | 
-| 950 | Padang | 534474.0 | null | 
-| 195 | El Alto | 534466.0 | null | 
-| 3606 | Penza | 532200.0 | null | 
-| 2432 | Vientiane | 531800.0 | null | 
-| 2343 | Chongju | 531376.0 | null | 
-| 3337 | N´Djaména | 530965.0 | null | 
-| 658 | Málaga | 530553.0 | null | 
-| 1947 | Changzhou | 530000.0 | null | 
-| 1948 | Zhangjiakou | 530000.0 | null | 
-| 3607 | Rjazan | 529900.0 | null | 
-| 3820 | Portland | 529121.0 | null | 
-| 2540 | Torreón | 529093.0 | null | 
-| 2831 | Islamabad | 524500.0 | null | 
-| 1069 | Thiruvananthapuram (Trivandrum | 524006.0 | null | 
-| 1889 | Bangui | 524000.0 | null | 
-| 3261 | Dushanbe | 524000.0 | null | 
-| 3267 | Panchiao | 523850.0 | null | 
-| 3608 | Orenburg | 523600.0 | null | 
-| 76 | La Plata | 521936.0 | null | 
-| 2489 | Tanger | 521735.0 | null | 
-| 3609 | Lipetsk | 521000.0 | null | 
-| 233 | Contagem | 520801.0 | null | 
-| 1949 | Dandong | 520000.0 | null | 
-| 1950 | Hegang | 520000.0 | null | 
-| 2541 | Centro (Villahermosa) | 519873.0 | null | 
-| 3078 | Duisburg | 519793.0 | null | 
-| 951 | Surakarta | 518600.0 | null | 
-| 2344 | Koyang | 518282.0 | null | 
-| 1552 | Higashiosaka | 517785.0 | null | 
-| 1070 | Pimpri-Chinchwad | 517083.0 | null | 
-| 2893 | Chiclayo | 517000.0 | null | 
-| 2263 | Bucaramanga | 515555.0 | null | 
-| 234 | São José dos Campos | 515553.0 | null | 
-| 3079 | Hannover | 514718.0 | null | 
-| 3610 | Nabereznyje Tšelny | 514700.0 | null | 
-| 1818 | Vancouver | 514008.0 | null | 
-| 1553 | Hachioji | 513451.0 | null | 
-| 77 | Mar del Plata | 512880.0 | null | 
-| 2345 | Ansan | 510314.0 | null | 
-| 1951 | Kaifeng | 510000.0 | null | 
-| 1071 | Jalandhar (Jullundur) | 509510.0 | null | 
-| 2346 | Pohang | 508899.0 | null | 
-| 2807 | Oslo | 508726.0 | null | 
-| 3434 | Mykolajiv | 508000.0 | null | 
-| 3252 | Hims | 507404.0 | null | 
-| 3821 | Oklahoma City | 506132.0 | null | 
-| 3611 | Tula | 506100.0 | null | 
-| 1072 | Gorakhpur | 505566.0 | null | 
-| 771 | Pasig | 505058.0 | null | 
-| 2490 | Salé | 504420.0 | null | 
-| 1073 | Chandigarh | 504094.0 | null | 
-| 1780 | Sanaa | 503600.0 | null | 
-| 3612 | Tjumen | 503400.0 | null | 
-| 2297 | Pointe-Noire | 500000.0 | null | 
-| 1554 | Niigata | 497464.0 | null | 
-| 3315 | København | 495699.0 | null | 
-| 2542 | San Nicolás de los Garza | 495540.0 | null | 
-| 1952 | Jiamusi | 493409.0 | null | 
-| 3613 | Kemerovo | 492700.0 | null | 
-| 1953 | Liaoyang | 492559.0 | null | 
-| 2543 | Durango | 490524.0 | null | 
-| 2544 | Chimalhuacán | 490245.0 | null | 
-| 3435 | Mariupol | 490000.0 | null | 
-| 3080 | Leipzig | 489532.0 | null | 
-| 3544 | Petare | 488868.0 | null | 
-| 235 | Uberlândia | 487222.0 | null | 
-| 1954 | Hengyang | 487148.0 | null | 
-| 3822 | Tucson | 486699.0 | null | 
-| 3081 | Nürnberg | 486628.0 | null | 
-| 3614 | Astrahan | 486100.0 | null | 
-| 1367 | Irbil | 485968.0 | null | 
-| 772 | Valenzuela | 485433.0 | null | 
-| 3823 | New Orleans | 484674.0 | null | 
-| 1955 | Baoding | 483155.0 | null | 
-| 952 | Banjarmasin | 482931.0 | null | 
-| 196 | Cochabamba | 482800.0 | null | 
-| 3177 | al-Dammam | 482300.0 | null | 
-| 3615 | Tomsk | 482100.0 | null | 
-| 1956 | Hunjiang | 482043.0 | null | 
-| 1447 | Dublin | 481854.0 | null | 
-| 2347 | Chang-won | 481694.0 | null | 
-| 1555 | Amagasaki | 481434.0 | null | 
-| 1074 | Mysore | 480692.0 | null | 
-| 1075 | Aligarh | 480520.0 | null | 
-| 236 | Feira de Santana | 479992.0 | null | 
-| 3366 | Diyarbakir | 479884.0 | null | 
-| 3824 | Las Vegas | 478434.0 | null | 
-| 3825 | Cleveland | 478403.0 | null | 
-| 2461 | Blantyre | 478155.0 | null | 
-| 2745 | Oshogbo | 476800.0 | null | 
-| 3082 | Dresden | 476668.0 | null | 
-| 2746 | Ilorin | 475800.0 | null | 
-| 3367 | Kayseri | 475657.0 | null | 
-| 2545 | Tlaquepaque | 475472.0 | null | 
-| 1556 | Himeji | 475167.0 | null | 
-| 3521 | Gomel | 475000.0 | null | 
-| 1557 | Shizuoka | 473854.0 | null | 
-| 1957 | Xinxiang | 473762.0 | null | 
-| 237 | Ribeirão Preto | 473276.0 | null | 
-| 773 | Las Piñas | 472780.0 | null | 
-| 2882 | Ciudad de Panamá | 471373.0 | null | 
-| 1076 | Guntur | 471051.0 | null | 
-| 774 | Antipolo | 470866.0 | null | 
-| 78 | San Miguel de Tucumán | 470809.0 | null | 
-| 3368 | Eskisehir | 470781.0 | null | 
-| 79 | Lanús | 469735.0 | null | 
-| 1558 | Urawa | 469675.0 | null | 
-| 612 | Port Said | 469533.0 | null | 
-| 3436 | Lugansk | 469000.0 | null | 
-| 719 | Vanderbijlpark | 468931.0 | null | 
-| 775 | Taguig | 467375.0 | null | 
-| 2546 | Atizapán de Zaragoza | 467262.0 | null | 
-| 3049 | Gothenburg [Göteborg] | 466990.0 | null | 
-| 238 | Sorocaba | 466823.0 | null | 
-| 3616 | Kirov | 466200.0 | null | 
-| 1559 | Matsuyama | 466133.0 | null | 
-| 80 | Merlo | 463846.0 | null | 
-| 776 | Cagayan de Oro | 461877.0 | null | 
-| 1882 | Mombasa | 461753.0 | null | 
-| 3826 | Long Beach | 461522.0 | null | 
-| 1560 | Matsudo | 461126.0 | null | 
-| 459 | Liverpool | 461000.0 | null | 
-| 1077 | Jamshedpur | 460577.0 | null | 
-| 2491 | Meknès | 460000.0 | null | 
-| 239 | Niterói | 459884.0 | null | 
-| 3617 | Ivanovo | 459200.0 | null | 
-| 3618 | Tšeboksary | 459200.0 | null | 
-| 2933 | Gdansk | 458988.0 | null | 
-| 1958 | Huangshi | 457601.0 | null | 
-| 3619 | Brjansk | 457400.0 | null | 
-| 2547 | Veracruz | 457119.0 | null | 
-| 1561 | Kanazawa | 455386.0 | null | 
-| 2832 | Sargodha | 455360.0 | null | 
-| 3620 | Tver | 454900.0 | null | 
-| 1959 | Haikou | 454300.0 | null | 
-| 1078 | Ghaziabad | 454156.0 | null | 
-| 240 | Cuiabá | 453813.0 | null | 
-| 2548 | Cuautitlán Izcalli | 452976.0 | null | 
-| 1562 | Kawaguchi | 452155.0 | null | 
-| 1960 | Yantai | 452127.0 | null | 
-| 241 | Juiz de Fora | 450288.0 | null | 
-| 460 | Edinburgh | 450180.0 | null | 
-| 777 | Parañaque | 449811.0 | null | 
-| 1961 | Bengbu | 449245.0 | null | 
-| 3827 | Albuquerque | 448607.0 | null | 
-| 3209 | Bratislava | 448292.0 | null | 
-| 1079 | Warangal | 447657.0 | null | 
-| 175 | Antwerpen | 446525.0 | null | 
-| 242 | Aracaju | 445555.0 | null | 
-| 2976 | Lyon | 445452.0 | null | 
-| 778 | Makati | 444867.0 | null | 
-| 3545 | Maracay | 444443.0 | null | 
-| 2460 | Skopje | 444299.0 | null | 
-| 37 | Constantine | 443727.0 | null | 
-| 3621 | Kursk | 443500.0 | null | 
-| 720 | Kempton Park | 442633.0 | null | 
-| 1962 | Xiangtan | 441968.0 | null | 
-| 1563 | Ichikawa | 441893.0 | null | 
-| 1564 | Omiya | 441649.0 | null | 
-| 3828 | Kansas City | 441545.0 | null | 
-| 2348 | Masan | 441242.0 | null | 
-| 7 | Haag | 440900.0 | null | 
-| 1565 | Utsunomiya | 440353.0 | null | 
-| 243 | São João de Meriti | 440052.0 | null | 
-| 2549 | Irapuato | 440039.0 | null | 
-| 1080 | Raipur | 438639.0 | null | 
-| 953 | Pekan Baru | 438638.0 | null | 
-| 2454 | Macao | 437500.0 | null | 
-| 1861 | Qaraghandy | 436900.0 | null | 
-| 2462 | Lilongwe | 435964.0 | null | 
-| 1389 | Urmia | 435200.0 | null | 
-| 954 | Denpasar | 435000.0 | null | 
-| 2919 | San Juan | 434374.0 | null | 
-| 2550 | Tuxtla Gutiérrez | 433544.0 | null | 
-| 1566 | Oita | 433401.0 | null | 
-| 2414 | Santiago de Cuba | 433180.0 | null | 
-| 1567 | Nagasaki | 432759.0 | null | 
-| 2551 | Tultitlán | 432411.0 | null | 
-| 244 | Londrina | 432257.0 | null | 
-| 461 | Sheffield | 431607.0 | null | 
-| 652 | Asmara | 431000.0 | null | 
-| 1568 | Yokosuka | 430200.0 | null | 
-| 462 | Manchester | 430000.0 | null | 
-| 1081 | Moradabad | 429214.0 | null | 
-| 779 | Bacolod | 429076.0 | null | 
-| 1963 | Weifang | 428522.0 | null | 
-| 245 | Joinville | 428011.0 | null | 
-| 3622 | Magnitogorsk | 427900.0 | null | 
-| 3829 | Fresno | 427652.0 | null | 
-| 2747 | Abeokuta | 427400.0 | null | 
-| 1082 | Durgapur | 425836.0 | null | 
-| 1964 | Wuhu | 425740.0 | null | 
-| 1965 | Pingxiang | 425579.0 | null | 
-| 3830 | Virginia Beach | 425257.0 | null | 
-| 246 | Belford Roxo | 425194.0 | null | 
-| 1569 | Kurashiki | 425103.0 | null | 
-| 2699 | Matola | 424662.0 | null | 
-| 3623 | Kaliningrad | 424400.0 | null | 
-| 2894 | Callao | 424294.0 | null | 
-| 463 | Leeds | 424194.0 | null | 
-| 81 | General San Martín | 422542.0 | null | 
-| 1966 | Yingkou | 421589.0 | null | 
-| 1083 | Amravati | 421576.0 | null | 
-| 1967 | Anyang | 420332.0 | null | 
-| 2738 | Niamey | 420000.0 | null | 
-| 1084 | Calicut (Kozhikode) | 419831.0 | null | 
-| 2552 | Reynosa | 419776.0 | null | 
-| 1390 | Zahedan | 419518.0 | null | 
-| 2553 | Benito Juárez | 419276.0 | null | 
-| 902 | Libreville | 419000.0 | null | 
-| 955 | Yogyakarta | 418944.0 | null | 
-| 1368 | Kirkuk | 418624.0 | null | 
-| 2301 | Kolwezi | 417810.0 | null | 
-| 1391 | Rasht | 417748.0 | null | 
-| 613 | Suez | 417610.0 | null | 
-| 2833 | Sialkot | 417597.0 | null | 
-| 2302 | Kisangani | 417517.0 | null | 
-| 2934 | Szczecin | 416988.0 | null | 
-| 3831 | Atlanta | 416474.0 | null | 
-| 2554 | Matamoros | 416428.0 | null | 
-| 1085 | Bikaner | 416289.0 | null | 
-| 3178 | al-Taif | 416100.0 | null | 
-| 1968 | Panzhihua | 415466.0 | null | 
-| 645 | San Salvador | 415346.0 | null | 
-| 2448 | Kaunas | 412639.0 | null | 
-| 780 | General Santos | 411822.0 | null | 
-| 1086 | Bhubaneswar | 411542.0 | null | 
-| 1969 | Pingdingshan | 410775.0 | null | 
-| 1970 | Xiangfan | 410407.0 | null | 
-| 721 | Alberton | 410102.0 | null | 
-| 2748 | Port Harcourt | 410000.0 | null | 
-| 1971 | Zhuzhou | 409924.0 | null | 
-| 956 | Pontianak | 409632.0 | null | 
-| 1972 | Jiaozuo | 409100.0 | null | 
-| 247 | Santos | 408748.0 | null | 
-| 1570 | Gifu | 408007.0 | null | 
-| 3832 | Sacramento | 407018.0 | null | 
-| 1087 | Kolhapur | 406370.0 | null | 
-| 1369 | Basra | 406296.0 | null | 
-| 3369 | Sanliurfa | 405905.0 | null | 
-| 3791 | Tallinn | 403981.0 | null | 
-| 1088 | Kataka (Cuttack) | 403418.0 | null | 
-| 2834 | Bahawalpur | 403408.0 | null | 
-| 1571 | Hirakata | 403151.0 | null | 
-| 1089 | Ajmer | 402700.0 | null | 
-| 1090 | Bhavnagar | 402338.0 | null | 
-| 464 | Bristol | 402000.0 | null | 
-| 1973 | Wenzhou | 401871.0 | null | 
-| 1392 | Hamadan | 401281.0 | null | 
-| 1974 | Zhangjiang | 400997.0 | null | 
-| 248 | Ananindeua | 400940.0 | null | 
-| 3833 | Oakland | 399484.0 | null | 
-| 957 | Samarinda | 399175.0 | null | 
-| 65 | Abu Dhabi | 398695.0 | null | 
-| 249 | Campos dos Goytacazes | 398418.0 | null | 
-| 1781 | Aden | 398300.0 | null | 
-| 1572 | Nishinomiya | 397618.0 | null | 
-| 2700 | Beira | 397368.0 | null | 
-| 1573 | Toyonaka | 396689.0 | null | 
-| 3834 | Mesa | 396375.0 | null | 
-| 614 | al-Mahallat al-Kubra | 395402.0 | null | 
-| 2264 | Ibagué | 393664.0 | null | 
-| 1975 | Zigong | 393184.0 | null | 
-| 3835 | Tulsa | 393049.0 | null | 
-| 2303 | Kananga | 393030.0 | null | 
-| 3083 | Bochum | 392830.0 | null | 
-| 3268 | Chungho | 392176.0 | null | 
-| 1574 | Wakayama | 391233.0 | null | 
-| 781 | Marikina | 391170.0 | null | 
-| 3437 | Vinnytsja | 391000.0 | null | 
-| 3624 | Nizni Tagil | 390900.0 | null | 
-| 2977 | Toulouse | 390350.0 | null | 
-| 2555 | Xalapa | 390058.0 | null | 
-| 3836 | Omaha | 390007.0 | null | 
-| 1787 | al-Zarqa | 389815.0 | null | 
-| 1091 | Tiruchirapalli | 387223.0 | null | 
-| 2935 | Bydgoszcz | 386855.0 | null | 
-| 555 | Puente Alto | 386236.0 | null | 
-| 1092 | Bhilai | 386159.0 | null | 
-| 1976 | Shuangyashan | 386081.0 | null | 
-| 958 | Jambi | 385201.0 | null | 
-| 3269 | Keelung (Chilung) | 385201.0 | null | 
-| 911 | Kumasi | 385192.0 | null | 
-| 1393 | Kerman | 384991.0 | null | 
-| 3438 | Makijivka | 384000.0 | null | 
-| 2402 | Thessaloniki | 383967.0 | null | 
-| 934 | San Pedro Sula | 383900.0 | null | 
-| 585 | Djibouti | 383000.0 | null | 
-| 2465 | Ipoh | 382853.0 | null | 
-| 3772 | Da Nang | 382674.0 | null | 
-| 3837 | Minneapolis | 382618.0 | null | 
-| 2556 | Celaya | 382140.0 | null | 
-| 3340 | Brno | 381862.0 | null | 
-| 3494 | Auckland | 381800.0 | null | 
-| 2265 | Pereira | 381725.0 | null | 
-| 1470 | Bologna | 381161.0 | null | 
-| 1977 | Zaozhuang | 380846.0 | null | 
-| 1394 | Arak | 380755.0 | null | 
-| 2557 | Mazatlán | 380265.0 | null | 
-| 3270 | Sanchung | 380084.0 | null | 
-| 782 | Dasmariñas | 379520.0 | null | 
-| 783 | Muntinlupa | 379310.0 | null | 
-| 2749 | Zaria | 379200.0 | null | 
-| 1093 | Bhiwandi | 379070.0 | null | 
-| 722 | Pinetown | 378810.0 | null | 
-| 2750 | Ilesha | 378400.0 | null | 
-| 1978 | Yakeshi | 377869.0 | null | 
-| 1575 | Fukuyama | 376921.0 | null | 
-| 1471 | Firenze | 376662.0 | null | 
-| 3625 | Murmansk | 376300.0 | null | 
-| 250 | Mauá | 375055.0 | null | 
-| 3332 | Lomé | 375000.0 | null | 
-| 1094 | Saharanpur | 374945.0 | null | 
-| 1576 | Fujisawa | 372840.0 | null | 
-| 2751 | Onitsha | 371900.0 | null | 
-| 3838 | Honolulu | 371657.0 | null | 
-| 1979 | Yichang | 371601.0 | null | 
-| 615 | Tanta | 371010.0 | null | 
-| 3504 | Namangan | 370500.0 | null | 
-| 3626 | Ulan-Ude | 370400.0 | null | 
-| 723 | Pietermaritzburg | 370190.0 | null | 
-| 616 | al-Mansura | 369621.0 | null | 
-| 2558 | Ensenada | 369573.0 | null | 
-| 1095 | Ulhasnagar | 369077.0 | null | 
-| 3084 | Wuppertal | 368993.0 | null | 
-| 1980 | Zhenjiang | 368316.0 | null | 
-| 82 | Salta | 367550.0 | null | 
-| 2895 | Iquitos | 367000.0 | null | 
-| 1096 | Salem | 366712.0 | null | 
-| 1981 | Huaibei | 366549.0 | null | 
-| 784 | Iloilo | 365820.0 | null | 
-| 724 | Benoni | 365467.0 | null | 
-| 588 | Santiago de los Caballeros | 365463.0 | null | 
-| 2492 | Oujda | 365382.0 | null | 
-| 959 | Depok | 365200.0 | null | 
-| 3271 | Hsinchuang | 365048.0 | null | 
-| 1982 | Qinhuangdao | 364972.0 | null | 
-| 1577 | Asahikawa | 364813.0 | null | 
-| 3627 | Kurgan | 364700.0 | null | 
-| 1578 | Machida | 364197.0 | null | 
-| 1983 | Guilin | 364130.0 | null | 
-| 1370 | al-Sulaymaniya | 364096.0 | null | 
-| 1984 | Liupanshui | 363954.0 | null | 
-| 1579 | Nara | 362812.0 | null | 
-| 1985 | Panjin | 362773.0 | null | 
-| 3839 | Miami | 362470.0 | null | 
-| 1986 | Yangquan | 362268.0 | null | 
-| 1097 | Ujjain | 362266.0 | null | 
-| 2752 | Iwo | 362000.0 | null | 
-| 3272 | Hsinchu | 361958.0 | null | 
-| 3505 | Samarkand | 361800.0 | null | 
-| 3628 | Arkangeli | 361800.0 | null | 
-| 1580 | Takatsuki | 361747.0 | null | 
-| 1581 | Iwaki | 361737.0 | null | 
-| 1582 | Nagano | 361391.0 | null | 
-| 3840 | Colorado Springs | 360890.0 | null | 
-| 617 | Luxor | 360503.0 | null | 
-| 1862 | Shymkent | 360100.0 | null | 
-| 1583 | Toyohashi | 360066.0 | null | 
-| 201 | Sarajevo | 360000.0 | null | 
-| 2753 | Ado-Ekiti | 359400.0 | null | 
-| 2266 | Santa Marta | 359147.0 | null | 
-| 2559 | Ahome | 358663.0 | null | 
-| 3629 | Sotši | 358600.0 | null | 
-| 659 | Bilbao | 357589.0 | null | 
-| 251 | Carapicuíba | 357552.0 | null | 
-| 1987 | Jinxi | 357052.0 | null | 
-| 83 | Moreno | 356993.0 | null | 
-| 2936 | Lublin | 356251.0 | null | 
-| 3522 | Mogiljov | 356000.0 | null | 
-| 2560 | Cajeme | 355679.0 | null | 
-| 2973 | Doha | 355000.0 | null | 
-| 785 | Pasay | 354908.0 | null | 
-| 660 | Las Palmas de Gran Canaria | 354757.0 | null | 
-| 252 | Olinda | 354732.0 | null | 
-| 1988 | Liaoyuan | 354141.0 | null | 
-| 1989 | Lianyungang | 354139.0 | null | 
-| 4074 | Gaza | 353632.0 | null | 
-| 661 | Murcia | 353504.0 | null | 
-| 3630 | Smolensk | 353400.0 | null | 
-| 84 | Santa Fé | 353063.0 | null | 
-| 85 | Avellaneda | 353046.0 | null | 
-| 3439 | Herson | 353000.0 | null | 
-| 253 | Campina Grande | 352497.0 | null | 
-| 86 | Tres de Febrero | 352311.0 | null | 
-| 1990 | Xianyang | 352125.0 | null | 
-| 254 | São José do Rio Preto | 351944.0 | null | 
-| 2349 | Kwangmyong | 350914.0 | null | 
-| 1991 | Tai´an | 350696.0 | null | 
-| 2754 | Abuja | 350100.0 | null | 
-| 1992 | Chifeng | 350077.0 | null | 
-| 1993 | Shaoguan | 350043.0 | null | 
-| 255 | Caxias do Sul | 349581.0 | null | 
-| 87 | Morón | 349246.0 | null | 
-| 1819 | Etobicoke | 348845.0 | null | 
-| 3841 | Saint Louis | 348189.0 | null | 
-| 1451 | Tel Aviv-Jaffa | 348100.0 | null | 
-| 3019 | Iasi | 348070.0 | null | 
-| 3440 | Sevastopol | 348000.0 | null | 
-| 1584 | Toyota | 346090.0 | null | 
-| 2937 | Katowice | 345934.0 | null | 
-| 1585 | Suita | 345750.0 | null | 
-| 960 | Cimahi | 344600.0 | null | 
-| 3631 | Orjol | 344500.0 | null | 
-| 3842 | Wichita | 344284.0 | null | 
-| 618 | Asyut | 343498.0 | null | 
-| 3253 | Hama | 343361.0 | null | 
-| 1994 | Nantong | 343341.0 | null | 
-| 3632 | Stavropol | 343300.0 | null | 
-| 2978 | Nice | 342738.0 | null | 
-| 1098 | Malegaon | 342595.0 | null | 
-| 540 | Plovdiv | 342584.0 | null | 
-| 3020 | Constanta | 342264.0 | null | 
-| 2755 | Kaduna | 342200.0 | null | 
-| 3633 | Belgorod | 342000.0 | null | 
-| 1099 | Jamnagar | 341637.0 | null | 
-| 725 | Randburg | 341288.0 | null | 
-| 1995 | Leshan | 341128.0 | null | 
-| 1395 | Ardebil | 340386.0 | null | 
-| 3523 | Vitebsk | 340000.0 | null | 
-| 1820 | London | 339917.0 | null | 
-| 3370 | Samsun | 339871.0 | null | 
-| 3634 | Kaluga | 339300.0 | null | 
-| 726 | Umlazi | 339233.0 | null | 
-| 256 | Moji das Cruzes | 339194.0 | null | 
-| 584 | San José | 339131.0 | null | 
-| 3441 | Simferopol | 339000.0 | null | 
-| 786 | Malabon | 338855.0 | null | 
-| 961 | Balikpapan | 338752.0 | null | 
-| 3843 | Santa Ana | 337977.0 | null | 
-| 2561 | Cuernavaca | 337966.0 | null | 
-| 1472 | Catania | 337862.0 | null | 
-| 1996 | Baoji | 337765.0 | null | 
-| 2267 | Manizales | 337580.0 | null | 
-| 3635 | Vladimir | 337100.0 | null | 
-| 3245 | Zürich | 336800.0 | null | 
-| 2562 | Tonalá | 336109.0 | null | 
-| 2896 | Chimbote | 336000.0 | null | 
-| 1821 | Hamilton | 335614.0 | null | 
-| 1822 | Ottawa | 335277.0 | null | 
-| 257 | Diadema | 335078.0 | null | 
-| 3844 | Pittsburgh | 334563.0 | null | 
-| 727 | Bloemfontein | 334341.0 | null | 
-| 1100 | Bokaro Steel City | 333683.0 | null | 
-| 2268 | Bello | 333470.0 | null | 
-| 2756 | Mushin | 333200.0 | null | 
-| 3845 | Arlington | 332969.0 | null | 
-| 3636 | Mahatškala | 332800.0 | null | 
-| 3021 | Cluj-Napoca | 332498.0 | null | 
-| 1586 | Takamatsu | 332471.0 | null | 
-| 2269 | Pasto | 332396.0 | null | 
-| 962 | Manado | 332288.0 | null | 
-| 1473 | Bari | 331848.0 | null | 
-| 3846 | Cincinnati | 331285.0 | null | 
-| 1823 | Laval | 330393.0 | null | 
-| 1587 | Koriyama | 330335.0 | null | 
-| 3371 | Malatya | 330312.0 | null | 
-| 3022 | Galati | 330276.0 | null | 
-| 2350 | Chonan | 330259.0 | null | 
-| 1863 | Taraz | 330100.0 | null | 
-| 2351 | Chinju | 329886.0 | null | 
-| 2813 | Bouaké | 329850.0 | null | 
-| 3163 | Ndola | 329200.0 | null | 
-| 2835 | Sukkur | 329176.0 | null | 
-| 1588 | Okazaki | 328711.0 | null | 
-| 728 | Vereeniging | 328535.0 | null | 
-| 2466 | Johor Baharu | 328436.0 | null | 
-| 1101 | Akola | 328034.0 | null | 
-| 3847 | Anaheim | 328014.0 | null | 
-| 1589 | Kawagoe | 327211.0 | null | 
-| 2897 | Huancayo | 327000.0 | null | 
-| 662 | Palma de Mallorca | 326993.0 | null | 
-| 1396 | Yazd | 326776.0 | null | 
-| 1102 | Belgaum | 326399.0 | null | 
-| 2322 | Sinuiju | 326011.0 | null | 
-| 1590 | Tokorozawa | 325809.0 | null | 
-| 1591 | Toyama | 325790.0 | null | 
-| 2898 | Piura | 325000.0 | null | 
-| 1103 | Rajahmundry | 324851.0 | null | 
-| 1997 | Linyi | 324720.0 | null | 
-| 1592 | Kochi | 324710.0 | null | 
-| 258 | Aparecida de Goiânia | 324662.0 | null | 
-| 1998 | Tonghua | 324600.0 | null | 
-| 3637 | Tšerepovets | 324400.0 | null | 
-| 3023 | Timisoara | 324304.0 | null | 
-| 3495 | Christchurch | 324200.0 | null | 
-| 2563 | Valle de Chalco Solidaridad | 323113.0 | null | 
-| 135 | Canberra | 322723.0 | null | 
-| 2352 | Iksan | 322685.0 | null | 
-| 3546 | Barcelona | 322267.0 | null | 
-| 3085 | Bielefeld | 321125.0 | null | 
-| 465 | Cardiff | 321000.0 | null | 
-| 1593 | Kashiwa | 320296.0 | null | 
-| 66 | Sharja | 320095.0 | null | 
-| 3341 | Ostrava | 320041.0 | null | 
-| 2757 | Maiduguri | 320000.0 | null | 
-| 663 | Valladolid | 319998.0 | null | 
-| 3547 | Maturín | 319726.0 | null | 
-| 3548 | San Cristóbal | 319373.0 | null | 
-| 259 | Piracicaba | 319104.0 | null | 
-| 260 | Cariacica | 319033.0 | null | 
-| 261 | Vila Velha | 318758.0 | null | 
-| 3273 | Chungli | 318649.0 | null | 
-| 3506 | Andijon | 318600.0 | null | 
-| 3274 | Fengshan | 318562.0 | null | 
-| 1782 | Taizz | 317600.0 | null | 
-| 1999 | Siping | 317223.0 | null | 
-| 2000 | Changzhi | 317144.0 | null | 
-| 1104 | Nellore | 316606.0 | null | 
-| 3275 | Taoyuan | 316438.0 | null | 
-| 2758 | Enugu | 316100.0 | null | 
-| 787 | San José del Monte | 315807.0 | null | 
-| 88 | Florencio Varela | 315432.0 | null | 
-| 262 | Pelotas | 315415.0 | null | 
-| 2883 | San Miguelito | 315382.0 | null | 
-| 2001 | Tengzhou | 315083.0 | null | 
-| 3638 | Saransk | 314800.0 | null | 
-| 1594 | Akita | 314440.0 | null | 
-| 3024 | Brasov | 314225.0 | null | 
-| 263 | Bauru | 313670.0 | null | 
-| 3848 | Toledo | 313619.0 | null | 
-| 3025 | Craiova | 313530.0 | null | 
-| 2002 | Chaozhou | 313469.0 | null | 
-| 3442 | Pultava [Poltava] | 313000.0 | null | 
-| 3443 | Tšernigiv | 313000.0 | null | 
-| 2353 | Pyongtaek | 312927.0 | null | 
-| 2003 | Yangzhou | 312892.0 | null | 
-| 556 | Viña del Mar | 312493.0 | null | 
-| 3639 | Tambov | 312000.0 | null | 
-| 136 | Gold Coast | 311932.0 | null | 
-| 664 | Córdoba | 311708.0 | null | 
-| 2354 | Kumi | 311431.0 | null | 
-| 1864 | Astana | 311200.0 | null | 
-| 1865 | Öskemen | 311000.0 | null | 
-| 2564 | Nuevo Laredo | 310277.0 | null | 
-| 3640 | Vladikavkaz | 310100.0 | null | 
-| 3641 | Tšita | 309900.0 | null | 
-| 264 | Porto Velho | 309750.0 | null | 
-| 1371 | al-Najaf | 309010.0 | null | 
-| 3444 | Tšerkasy | 309000.0 | null | 
-| 2004 | Dongwan | 308669.0 | null | 
-| 1105 | Udaipur | 308571.0 | null | 
-| 3227 | Port Sudan | 308195.0 | null | 
-| 2712 | Moulmein (Mawlamyine) | 307900.0 | null | 
-| 3086 | Mannheim | 307730.0 | null | 
-| 1106 | New Bombay | 307297.0 | null | 
-| 2759 | Ede | 307100.0 | null | 
-| 963 | Mataram | 306600.0 | null | 
-| 89 | San Isidro | 306341.0 | null | 
-| 788 | Bacoor | 305699.0 | null | 
-| 2005 | Ma´anshan | 305421.0 | null | 
-| 2565 | Tepic | 305025.0 | null | 
-| 1107 | Bhatpara | 304952.0 | null | 
-| 1824 | Surrey | 304477.0 | null | 
-| 1108 | Gulbarga | 304099.0 | null | 
-| 466 | Coventry | 304000.0 | null | 
-| 1595 | Miyazaki | 303784.0 | null | 
-| 3849 | Tampa | 303447.0 | null | 
-| 2701 | Nampula | 303346.0 | null | 
-| 2006 | Foshan | 303160.0 | null | 
-| 2007 | Yueyang | 302800.0 | null | 
-| 2008 | Xingtai | 302789.0 | null | 
-| 265 | Serra | 302666.0 | null | 
-| 3642 | Vologda | 302500.0 | null | 
-| 266 | Betim | 302108.0 | null | 
-| 3524 | Grodno | 302000.0 | null | 
-| 964 | Pekalongan | 301504.0 | null | 
-| 1596 | Koshigaya | 301446.0 | null | 
-| 1109 | New Delhi | 301297.0 | null | 
-| 2009 | Changde | 301276.0 | null | 
-| 3549 | Ciudad Bolívar | 301107.0 | null | 
-| 3087 | Bonn | 301048.0 | null | 
-| 1110 | Jhansi | 300850.0 | null | 
-| 1866 | Pavlodar | 300500.0 | null | 
-| 2323 | Wonsan | 300148.0 | null | 
-| 2270 | Neiva | 300052.0 | null | 
-| 550 | Bobo-Dioulasso | 300000.0 | null | 
-| 552 | Bujumbura | 300000.0 | null | 
-| 1597 | Naha | 299851.0 | null | 
-| 541 | Varna | 299801.0 | null | 
-| 2010 | Shihezi | 299676.0 | null | 
-| 3643 | Veliki Novgorod | 299500.0 | null | 
-| 145 | Gäncä | 299300.0 | null | 
-| 2304 | Likasi | 299118.0 | null | 
-| 3445 | Gorlivka | 299000.0 | null | 
-| 2760 | Aba | 298900.0 | null | 
-| 2415 | Camagüey | 298726.0 | null | 
-| 1783 | Hodeida | 298500.0 | null | 
-| 2437 | Maseru | 297000.0 | null | 
-| 3446 | Zytomyr | 297000.0 | null | 
-| 2011 | Yancheng | 296831.0 | null | 
-| 2761 | Ife | 296800.0 | null | 
-| 1825 | Brampton | 296711.0 | null | 
-| 1372 | Karbala | 296705.0 | null | 
-| 90 | Tigre | 296226.0 | null | 
-| 267 | Jundíaí | 296127.0 | null | 
-| 1598 | Aomori | 295969.0 | null | 
-| 2271 | Soledad | 295058.0 | null | 
-| 2566 | Tampico | 294789.0 | null | 
-| 1599 | Hakodate | 294788.0 | null | 
-| 268 | Canoas | 294125.0 | null | 
-| 153 | Rajshahi | 294056.0 | null | 
-| 467 | Leicester | 294000.0 | null | 
-| 3447 | Sumy | 294000.0 | null | 
-| 557 | Valparaíso | 293800.0 | null | 
-| 2567 | Ixtapaluca | 293160.0 | null | 
-| 3550 | Cumaná | 293105.0 | null | 
-| 3850 | Buffalo | 292648.0 | null | 
-| 2493 | Kénitra | 292600.0 | null | 
-| 3179 | Tabuk | 292600.0 | null | 
-| 1600 | Akashi | 292253.0 | null | 
-| 2836 | Jhang | 292214.0 | null | 
-| 3321 | Nonthaburi | 292100.0 | null | 
-| 1111 | Gaya | 291675.0 | null | 
-| 3644 | Komsomolsk-na-Amure | 291600.0 | null | 
-| 2012 | Jiujiang | 291187.0 | null | 
-| 1397 | Qazvin | 291117.0 | null | 
-| 2899 | Cusco | 291000.0 | null | 
-| 91 | Malvinas Argentinas | 290335.0 | null | 
-| 930 | Carrefour | 290204.0 | null | 
-| 269 | Franca | 290139.0 | null | 
-| 965 | Tegal | 289744.0 | null | 
-| 468 | Bradford | 289376.0 | null | 
-| 2272 | Armenia | 288977.0 | null | 
-| 3164 | Kitwe | 288600.0 | null | 
-| 92 | Vicente López | 288341.0 | null | 
-| 1601 | Yokkaichi | 288173.0 | null | 
-| 3645 | Kostroma | 288100.0 | null | 
-| 1602 | Fukushima | 287525.0 | null | 
-| 469 | Belfast | 287500.0 | null | 
-| 1603 | Morioka | 287353.0 | null | 
-| 3851 | Saint Paul | 287151.0 | null | 
-| 470 | Nottingham | 287000.0 | null | 
-| 3646 | Volzski | 286900.0 | null | 
-| 270 | São Vicente | 286848.0 | null | 
-| 271 | Maringá | 286461.0 | null | 
-| 1398 | Zanjan | 286295.0 | null | 
-| 272 | Montes Claros | 286058.0 | null | 
-| 3047 | Kigali | 286000.0 | null | 
-| 3525 | Brest | 286000.0 | null | 
-| 966 | Bogor | 285114.0 | null | 
-| 789 | Iligan | 285061.0 | null | 
-| 3316 | Århus | 284846.0 | null | 
-| 1604 | Maebashi | 284473.0 | null | 
-| 3647 | Taganrog | 284400.0 | null | 
-| 2938 | Bialystok | 283937.0 | null | 
-| 665 | Vigo | 283670.0 | null | 
-| 729 | Wonderboom | 283289.0 | null | 
-| 146 | Sumqayit | 283000.0 | null | 
-| 2568 | Apodaca | 282941.0 | null | 
-| 1605 | Kasugai | 282348.0 | null | 
-| 273 | Anápolis | 282197.0 | null | 
-| 3648 | Petroskoi | 282100.0 | null | 
-| 3773 | Biên Hoa | 282095.0 | null | 
-| 1606 | Otsu | 282070.0 | null | 
-| 3088 | Gelsenkirchen | 281979.0 | null | 
-| 274 | Florianópolis | 281928.0 | null | 
-| 3496 | Manukau | 281800.0 | null | 
-| 2013 | Dongying | 281728.0 | null | 
-| 2014 | Shashi | 281352.0 | null | 
-| 2015 | Xintai | 281248.0 | null | 
-| 2016 | Jingdezhen | 281183.0 | null | 
-| 790 | Calamba | 281146.0 | null | 
-| 2017 | Tongchuan | 280657.0 | null | 
-| 1112 | Kakinada | 279980.0 | null | 
-| 730 | Roodepoort | 279340.0 | null | 
-| 1607 | Ichihara | 279280.0 | null | 
-| 275 | Petrópolis | 279183.0 | null | 
-| 2018 | Zhongshan | 278829.0 | null | 
-| 791 | Mandaluyong | 278474.0 | null | 
-| 1113 | Dhule (Dhulia) | 278317.0 | null | 
-| 1399 | Sanandaj | 277808.0 | null | 
-| 558 | Talcahuano | 277752.0 | null | 
-| 3649 | Bratsk | 277600.0 | null | 
-| 2494 | Tétouan | 277516.0 | null | 
-| 3852 | Corpus Christi | 277454.0 | null | 
-| 1474 | Venezia | 277305.0 | null | 
-| 3089 | Karlsruhe | 277204.0 | null | 
-| 2569 | Guasave | 277201.0 | null | 
-| 3650 | Dzerzinsk | 277100.0 | null | 
-| 93 | Berazategui | 276916.0 | null | 
-| 1608 | Yao | 276421.0 | null | 
-| 3853 | Aurora | 276393.0 | null | 
-| 2355 | Uijongbu | 276111.0 | null | 
-| 3854 | Raleigh | 276093.0 | null | 
-| 1114 | Panihati | 275990.0 | null | 
-| 619 | Bahtim | 275807.0 | null | 
-| 1115 | Nanded (Nander) | 275083.0 | null | 
-| 4070 | Chitungwiza | 274912.0 | null | 
-| 3651 | Surgut | 274900.0 | null | 
-| 3652 | Orsk | 273900.0 | null | 
-| 2019 | Shiyan | 273786.0 | null | 
-| 1400 | Bandar-e-Abbas | 273578.0 | null | 
-| 3855 | Newark | 273546.0 | null | 
-| 1116 | Mangalore | 273304.0 | null | 
-| 2273 | Villavicencio | 273140.0 | null | 
-| 2915 | Porto | 273060.0 | null | 
-| 2356 | Kyongju | 272968.0 | null | 
-| 2324 | Phyongsong | 272934.0 | null | 
-| 1401 | Khorramabad | 272815.0 | null | 
-| 2570 | Gómez Palacio | 272806.0 | null | 
-| 666 | Alicante [Alacant] | 272432.0 | null | 
-| 2274 | Soacha | 272058.0 | null | 
-| 2837 | Sheikhupura | 271875.0 | null | 
-| 2571 | Tapachula | 271141.0 | null | 
-| 3212 | Ljubljana | 270986.0 | null | 
-| 276 | Itaquaquecetuba | 270874.0 | null | 
-| 1609 | Ichinomiya | 270828.0 | null | 
-| 967 | Ciputat | 270800.0 | null | 
-| 277 | Vitória | 270626.0 | null | 
-| 2838 | Larkana | 270366.0 | null | 
-| 595 | Cuenca | 270353.0 | null | 
-| 137 | Newcastle | 270324.0 | null | 
-| 2979 | Nantes | 270251.0 | null | 
-| 1117 | Dehra Dun | 270159.0 | null | 
-| 34 | Tirana | 270000.0 | null | 
-| 3448 | Dniprodzerzynsk | 270000.0 | null | 
-| 1610 | Tokushima | 269649.0 | null | 
-| 1867 | Semey | 269600.0 | null | 
-| 2572 | Nicolás Romero | 269393.0 | null | 
-| 1373 | al-Hilla | 268834.0 | null | 
-| 3090 | Wiesbaden | 268716.0 | null | 
-| 278 | Ponta Grossa | 268013.0 | null | 
-| 667 | Gijón | 267980.0 | null | 
-| 620 | Zagazig | 267351.0 | null | 
-| 792 | Butuan | 267279.0 | null | 
-| 2573 | Coatzacoalcos | 267037.0 | null | 
-| 1118 | Kamarhati | 266889.0 | null | 
-| 2357 | Kunsan | 266569.0 | null | 
-| 1611 | Kakogawa | 266281.0 | null | 
-| 1119 | Davangere | 266082.0 | null | 
-| 1374 | al-Nasiriya | 265937.0 | null | 
-| 1452 | Haifa | 265700.0 | null | 
-| 2020 | Tieli | 265683.0 | null | 
-| 1402 | Eslamshahr | 265450.0 | null | 
-| 2021 | Jining | 265248.0 | null | 
-| 2574 | Uruapan | 265211.0 | null | 
-| 3653 | Sterlitamak | 265200.0 | null | 
-| 3276 | Chiayi | 265109.0 | null | 
-| 3449 | Kirovograd | 265000.0 | null | 
-| 3654 | Angarsk | 264700.0 | null | 
-| 3091 | Münster | 264670.0 | null | 
-| 3254 | Latakia | 264563.0 | null | 
-| 3372 | Gebze | 264170.0 | null | 
-| 2980 | Strasbourg | 264115.0 | null | 
-| 2022 | Wuhai | 264081.0 | null | 
-| 2762 | Ila | 264000.0 | null | 
-| 793 | Angeles | 263971.0 | null | 
-| 3092 | Mönchengladbach | 263697.0 | null | 
-| 3277 | Hsintien | 263603.0 | null | 
-| 2275 | Valledupar | 263247.0 | null | 
-| 3093 | Chemnitz | 263222.0 | null | 
-| 968 | Pondokgede | 263200.0 | null | 
-| 2023 | Mianyang | 262947.0 | null | 
-| 2024 | Luzhou | 262892.0 | null | 
-| 2575 | Victoria | 262686.0 | null | 
-| 731 | Boksburg | 262648.0 | null | 
-| 794 | Tarlac | 262481.0 | null | 
-| 2495 | Safi | 262300.0 | null | 
-| 1120 | Asansol | 262188.0 | null | 
-| 471 | Kingston upon Hull | 262000.0 | null | 
-| 3450 | Hmelnytskyi | 262000.0 | null | 
-| 732 | Klerksdorp | 261911.0 | null | 
-| 2025 | Zunyi | 261862.0 | null | 
-| 1612 | Ibaraki | 261020.0 | null | 
-| 621 | al-Faiyum | 260964.0 | null | 
-| 3856 | Lexington-Fayette | 260512.0 | null | 
-| 3857 | Anchorage | 260283.0 | null | 
-| 795 | Mandaue | 259728.0 | null | 
-| 3050 | Malmö | 259579.0 | null | 
-| 279 | Rio Branco | 259537.0 | null | 
-| 280 | Foz do Iguaçu | 259425.0 | null | 
-| 1475 | Messina | 259156.0 | null | 
-| 3451 | Tšernivtsi | 259000.0 | null | 
-| 2358 | Cheju | 258511.0 | null | 
-| 94 | Corrientes | 258103.0 | null | 
-| 2026 | Shizuishan | 257862.0 | null | 
-| 2939 | Czestochowa | 257812.0 | null | 
-| 3350 | Sfax | 257800.0 | null | 
-| 1613 | Neyagawa | 257315.0 | null | 
-| 1614 | Shimonoseki | 257263.0 | null | 
-| 2576 | Oaxaca de Juárez | 256848.0 | null | 
-| 2763 | Oyo | 256400.0 | null | 
-| 2359 | Kimhae | 256370.0 | null | 
-| 3858 | Louisville | 256231.0 | null | 
-| 281 | Macapá | 256033.0 | null | 
-| 2027 | Neijiang | 256012.0 | null | 
-| 1615 | Yamagata | 255617.0 | null | 
-| 1476 | Verona | 255268.0 | null | 
-| 3859 | Riverside | 255166.0 | null | 
-| 2028 | Tongliao | 255129.0 | null | 
-| 282 | Ilhéus | 254970.0 | null | 
-| 3094 | Augsburg | 254867.0 | null | 
-| 2029 | Tieling | 254842.0 | null | 
-| 1616 | Fukui | 254818.0 | null | 
-| 622 | Ismailia | 254477.0 | null | 
-| 969 | Cirebon | 254406.0 | null | 
-| 3095 | Halle/Saale | 254360.0 | null | 
-| 2467 | Petaling Jaya | 254350.0 | null | 
-| 1617 | Hiratsuka | 254207.0 | null | 
-| 2325 | Sariwon | 254146.0 | null | 
-| 928 | Georgetown | 254000.0 | null | 
-| 3373 | Denizli | 253848.0 | null | 
-| 970 | Kediri | 253760.0 | null | 
-| 283 | Vitória da Conquista | 253587.0 | null | 
-| 2940 | Gdynia | 253521.0 | null | 
-| 1121 | Bhagalpur | 253225.0 | null | 
-| 1868 | Aqtöbe | 253100.0 | null | 
-| 472 | Plymouth | 253000.0 | null | 
-| 796 | Baguio | 252386.0 | null | 
-| 2577 | Coacalco de Berriozábal | 252270.0 | null | 
-| 473 | Stoke-on-Trent | 252000.0 | null | 
-| 2030 | Wafangdian | 251733.0 | null | 
-| 559 | Antofagasta | 251429.0 | null | 
-| 3026 | Ploiesti | 251348.0 | null | 
-| 2031 | Anqing | 250718.0 | null | 
-| 2839 | Gujrat | 250121.0 | null | 
-| 2416 | Holguín | 249492.0 | null | 
-| 971 | Ambon | 249312.0 | null | 
-| 2360 | Sunchon | 249263.0 | null | 
-| 284 | Uberaba | 249225.0 | null | 
-| 3655 | Joškar-Ola | 249200.0 | null | 
-| 95 | San Miguel | 248700.0 | null | 
-| 3180 | Burayda | 248600.0 | null | 
-| 285 | Paulista | 248473.0 | null | 
-| 2276 | Montería | 248245.0 | null | 
-| 3860 | Saint Petersburg | 248232.0 | null | 
-| 3199 | Thiès | 248000.0 | null | 
-| 668 | L´Hospitalet de Llobregat | 247986.0 | null | 
-| 797 | Batangas | 247588.0 | null | 
-| 2361 | Mokpo | 247452.0 | null | 
-| 2032 | Shaoyang | 247227.0 | null | 
-| 3861 | Bakersfield | 247057.0 | null | 
-| 2884 | Port Moresby | 247000.0 | null | 
-| 2033 | Laiwu | 246833.0 | null | 
-| 2034 | Chengde | 246799.0 | null | 
-| 3374 | Sivas | 246642.0 | null | 
-| 1618 | Mito | 246559.0 | null | 
-| 3375 | Erzurum | 246535.0 | null | 
-| 3096 | Braunschweig | 246322.0 | null | 
-| 3376 | Tarsus | 246206.0 | null | 
-| 3377 | Kahramanmaras | 245772.0 | null | 
-| 286 | Limeira | 245497.0 | null | 
-| 1122 | Bellary | 245391.0 | null | 
-| 1123 | Barddhaman (Burdwan) | 245079.0 | null | 
-| 3452 | Rivne | 245000.0 | null | 
-| 2035 | Tianshui | 244974.0 | null | 
-| 669 | Granada | 244767.0 | null | 
-| 2578 | Pachuca de Soto | 244688.0 | null | 
-| 2764 | Ikerre | 244600.0 | null | 
-| 2840 | Mardan | 244511.0 | null | 
-| 287 | Blumenau | 244379.0 | null | 
-| 288 | Caruaru | 244247.0 | null | 
-| 1619 | Sasebo | 244240.0 | null | 
-| 2941 | Sosnowiec | 244102.0 | null | 
-| 3097 | Aachen | 243825.0 | null | 
-| 3862 | Stockton | 243771.0 | null | 
-| 1124 | Rampur | 243742.0 | null | 
-| 670 | A Coruña (La Coruña) | 243402.0 | null | 
-| 2468 | Kelang | 243355.0 | null | 
-| 2036 | Nanyang | 243303.0 | null | 
-| 1620 | Hachinohe | 242979.0 | null | 
-| 3863 | Birmingham | 242820.0 | null | 
-| 733 | Soshanguve | 242727.0 | null | 
-| 2037 | Cangzhou | 242708.0 | null | 
-| 2362 | Yong-in | 242643.0 | null | 
-| 798 | Cainta | 242511.0 | null | 
-| 1125 | Jalgaon | 242193.0 | null | 
-| 474 | Wolverhampton | 242000.0 | null | 
-| 560 | San Bernardo | 241910.0 | null | 
-| 3210 | Košice | 241874.0 | null | 
-| 289 | Santarém | 241771.0 | null | 
-| 3098 | Krefeld | 241769.0 | null | 
-| 2841 | Kasur | 241649.0 | null | 
-| 1126 | Muzaffarpur | 241107.0 | null | 
-| 1127 | Nizamabad | 241034.0 | null | 
-| 2038 | Yibin | 241019.0 | null | 
-| 927 | Bissau | 241000.0 | null | 
-| 1524 | Graz | 240967.0 | null | 
-| 906 | Kutaisi | 240900.0 | null | 
-| 1128 | Muzaffarnagar | 240609.0 | null | 
-| 931 | Delmas | 240429.0 | null | 
-| 290 | Volta Redonda | 240315.0 | null | 
-| 3864 | Jersey City | 240055.0 | null | 
-| 2439 | Tripoli | 240000.0 | null | 
-| 291 | Novo Hamburgo | 239940.0 | null | 
-| 96 | Bahía Blanca | 239810.0 | null | 
-| 2039 | Huaiyin | 239675.0 | null | 
-| 3656 | Rybinsk | 239600.0 | null | 
-| 1621 | Takasaki | 239124.0 | null | 
-| 1622 | Shimizu | 239123.0 | null | 
-| 3453 | Krementšuk | 239000.0 | null | 
-| 292 | Caucaia | 238738.0 | null | 
-| 293 | Santa Maria | 238473.0 | null | 
-| 1129 | Patiala | 238368.0 | null | 
-| 1130 | Shahjahanpur | 237713.0 | null | 
-| 294 | Cascavel | 237510.0 | null | 
-| 2 | Qandahar | 237500.0 | null | 
-| 2363 | Wonju | 237460.0 | null | 
-| 3657 | Prokopjevsk | 237300.0 | null | 
-| 295 | Guarujá | 237206.0 | null | 
-| 3507 | Buhoro | 237100.0 | null | 
-| 3454 | Ivano-Frankivsk | 237000.0 | null | 
-| 1131 | Kurnool | 236800.0 | null | 
-| 475 | Derby | 236000.0 | null | 
-| 3455 | Ternopil | 236000.0 | null | 
-| 97 | Esteban Echeverría | 235760.0 | null | 
-| 1132 | Tiruppur (Tirupper) | 235661.0 | null | 
-| 1623 | Kurume | 235611.0 | null | 
-| 2364 | Kunpo | 235233.0 | null | 
-| 2040 | Dunhua | 235100.0 | null | 
-| 3099 | Magdeburg | 235073.0 | null | 
-| 3228 | Kassala | 234622.0 | null | 
-| 2365 | Chunchon | 234528.0 | null | 
-| 3865 | Norfolk | 234403.0 | null | 
-| 8 | Utrecht | 234323.0 | null | 
-| 3658 | Niznevartovsk | 233900.0 | null | 
-| 3100 | Kiel | 233795.0 | null | 
-| 3027 | Braila | 233756.0 | null | 
-| 1133 | Rohtak | 233400.0 | null | 
-| 3659 | Naltšik | 233400.0 | null | 
-| 561 | Temuco | 233041.0 | null | 
-| 2579 | General Escobedo | 232961.0 | null | 
-| 1134 | South Dum Dum | 232811.0 | null | 
-| 296 | Ribeirão das Neves | 232685.0 | null | 
-| 2942 | Radom | 232262.0 | null | 
-| 623 | Kafr al-Dawwar | 231978.0 | null | 
-| 297 | Governador Valadares | 231724.0 | null | 
-| 1624 | Fuji | 231527.0 | null | 
-| 1788 | Irbid | 231511.0 | null | 
-| 799 | San Pedro | 231403.0 | null | 
-| 2808 | Bergen | 230948.0 | null | 
-| 2041 | Yanji | 230892.0 | null | 
-| 2042 | Jiangmen | 230587.0 | null | 
-| 800 | Navotas | 230403.0 | null | 
-| 476 | Swansea | 230000.0 | null | 
-| 3660 | Syktyvkar | 229700.0 | null | 
-| 3229 | Obeid | 229425.0 | null | 
-| 2765 | Benin City | 229400.0 | null | 
-| 3661 | Severodvinsk | 229300.0 | null | 
-| 98 | Resistencia | 229212.0 | null | 
-| 2326 | Haeju | 229172.0 | null | 
-| 298 | Taubaté | 229130.0 | null | 
-| 2366 | Namyangju | 229060.0 | null | 
-| 2277 | Itagüí | 228985.0 | null | 
-| 3378 | Elâzig | 228815.0 | null | 
-| 2842 | Rahim Yar Khan | 228479.0 | null | 
-| 2469 | Kuala Terengganu | 228119.0 | null | 
-| 2043 | Tongling | 228017.0 | null | 
-| 2044 | Suihua | 227881.0 | null | 
-| 3866 | Baton Rouge | 227818.0 | null | 
-| 3278 | Changhwa | 227715.0 | null | 
-| 3279 | Yungho | 227700.0 | null | 
-| 138 | Central Coast | 227657.0 | null | 
-| 3230 | Nyala | 227183.0 | null | 
-| 2580 | Salamanca | 226864.0 | null | 
-| 1135 | Mathura | 226691.0 | null | 
-| 2581 | Santa Catarina | 226573.0 | null | 
-| 2045 | Gongziling | 226569.0 | null | 
-| 2278 | Palmira | 226509.0 | null | 
-| 3867 | Hialeah | 226419.0 | null | 
-| 1136 | Chandrapur | 226105.0 | null | 
-| 67 | al-Ayn | 225970.0 | null | 
-| 2582 | Tehuacán | 225943.0 | null | 
-| 3181 | al-Hufuf | 225800.0 | null | 
-| 3868 | Lincoln | 225581.0 | null | 
-| 2981 | Montpellier | 225392.0 | null | 
-| 3662 | Bijsk | 225000.0 | null | 
-| 3280 | Tucheng | 224897.0 | null | 
-| 3551 | Mérida | 224887.0 | null | 
-| 1137 | Barahanagar (Baranagar) | 224821.0 | null | 
-| 299 | Imperatriz | 224564.0 | null | 
-| 2279 | Buenaventura | 224336.0 | null | 
-| 176 | Gent | 224180.0 | null | 
-| 2920 | Bayamón | 224044.0 | null | 
-| 3869 | Greensboro | 223891.0 | null | 
-| 197 | Oruro | 223553.0 | null | 
-| 2327 | Kanggye | 223410.0 | null | 
-| 3663 | Niznekamsk | 223400.0 | null | 
-| 300 | Gravataí | 223011.0 | null | 
-| 734 | Newcastle | 222993.0 | null | 
-| 2046 | Xiantao | 222884.0 | null | 
-| 801 | Cabanatuan | 222859.0 | null | 
-| 1625 | Soka | 222768.0 | null | 
-| 2254 | Osh | 222700.0 | null | 
-| 38 | Annaba | 222518.0 | null | 
-| 2047 | Chaoyang | 222394.0 | null | 
-| 3101 | Oberhausen | 222349.0 | null | 
-| 3028 | Oradea | 222239.0 | null | 
-| 301 | Embu | 222223.0 | null | 
-| 2583 | Chalco | 222201.0 | null | 
-| 3870 | Plano | 222030.0 | null | 
-| 3664 | Blagoveštšensk | 222000.0 | null | 
-| 2280 | Floridablanca | 221913.0 | null | 
-| 802 | San Fernando | 221857.0 | null | 
-| 3665 | Šahty | 221800.0 | null | 
-| 99 | José C. Paz | 221754.0 | null | 
-| 1869 | Qostanay | 221400.0 | null | 
-| 3774 | Nha Trang | 221331.0 | null | 
-| 3552 | Cabimas | 221329.0 | null | 
-| 735 | East London | 221047.0 | null | 
-| 3526 | Bobruisk | 221000.0 | null | 
-| 2900 | Pucallpa | 220866.0 | null | 
-| 2281 | Sincelejo | 220704.0 | null | 
-| 1626 | Fuchu | 220576.0 | null | 
-| 2367 | Kangnung | 220403.0 | null | 
-| 2048 | Ganzhou | 220129.0 | null | 
-| 3871 | Rochester | 219773.0 | null | 
-| 139 | Wollongong | 219761.0 | null | 
-| 2470 | Pinang | 219603.0 | null | 
-| 2471 | Kota Bharu | 219582.0 | null | 
-| 3379 | Van | 219319.0 | null | 
-| 3775 | Hue | 219149.0 | null | 
-| 3182 | al-Mubarraz | 219100.0 | null | 
-| 624 | Assuan | 219017.0 | null | 
-| 3872 | Glendale | 218812.0 | null | 
-| 972 | Jember | 218500.0 | null | 
-| 803 | Lipa | 218447.0 | null | 
-| 1138 | Darbhanga | 218391.0 | null | 
-| 2049 | Huzhou | 218071.0 | null | 
-| 2050 | Baicheng | 217987.0 | null | 
-| 3183 | Khamis Mushayt | 217900.0 | null | 
-| 3553 | Barinas | 217831.0 | null | 
-| 1403 | Borujerd | 217804.0 | null | 
-| 562 | Concepción | 217664.0 | null | 
-| 3554 | Turmero | 217499.0 | null | 
-| 2766 | Iseyin | 217300.0 | null | 
-| 671 | Vitoria-Gasteiz | 217154.0 | null | 
-| 3873 | Akron | 217074.0 | null | 
-| 804 | Lapu-Lapu | 217019.0 | null | 
-| 3456 | Lutsk | 217000.0 | null | 
-| 1139 | Siliguri (Shiliguri) | 216950.0 | null | 
-| 2584 | Cárdenas | 216903.0 | null | 
-| 2585 | Campeche | 216735.0 | null | 
-| 1477 | Trieste | 216459.0 | null | 
-| 1627 | Chigasaki | 216015.0 | null | 
-| 477 | Southampton | 216000.0 | null | 
-| 3874 | Garland | 215768.0 | null | 
-| 2901 | Tacna | 215683.0 | null | 
-| 3776 | Can Tho | 215587.0 | null | 
-| 1140 | Raurkela | 215489.0 | null | 
-| 1141 | Ambattur | 215424.0 | null | 
-| 2051 | Shangzi | 215373.0 | null | 
-| 2982 | Bordeaux | 215363.0 | null | 
-| 1142 | Panipat | 215218.0 | null | 
-| 2052 | Yangjiang | 215196.0 | null | 
-| 1143 | Firozabad | 215128.0 | null | 
-| 3457 | Bila Tserkva | 215000.0 | null | 
-| 2053 | Qitaihe | 214957.0 | null | 
-| 1144 | Ichalkaranji | 214950.0 | null | 
-| 302 | Mossoró | 214901.0 | null | 
-| 1145 | Jammu | 214737.0 | null | 
-| 3281 | Pingtung | 214727.0 | null | 
-| 303 | Várzea Grande | 214435.0 | null | 
-| 1146 | Ramagundam | 214384.0 | null | 
-| 2054 | Gejiu | 214294.0 | null | 
-| 3666 | Staryi Oskol | 213800.0 | null | 
-| 2055 | Jiangyin | 213659.0 | null | 
-| 3102 | Lübeck | 213326.0 | null | 
-| 3237 | Espoo | 213271.0 | null | 
-| 478 | Aberdeen | 213070.0 | null | 
-| 672 | Santa Cruz de Tenerife | 213050.0 | null | 
-| 2586 | La Paz | 213045.0 | null | 
-| 204 | Gaborone | 213017.0 | null | 
-| 563 | Rancagua | 212977.0 | null | 
-| 2056 | Hebi | 212976.0 | null | 
-| 1147 | Eluru | 212866.0 | null | 
-| 1628 | Atsugi | 212407.0 | null | 
-| 2943 | Kielce | 212383.0 | null | 
-| 625 | Damanhur | 212203.0 | null | 
-| 2944 | Gliwice | 212164.0 | null | 
-| 127 | Gjumri | 211700.0 | null | 
-| 2057 | Jiaxing | 211526.0 | null | 
-| 1478 | Padova | 211391.0 | null | 
-| 1629 | Numazu | 211382.0 | null | 
-| 3231 | Wad Madani | 211362.0 | null | 
-| 3380 | Sultanbeyli | 211068.0 | null | 
-| 304 | Petrolina | 210540.0 | null | 
-| 2058 | Wuzhou | 210452.0 | null | 
-| 1148 | Brahmapur | 210418.0 | null | 
-| 596 | Machala | 210368.0 | null | 
-| 3381 | Izmit (Kocaeli) | 210068.0 | null | 
-| 923 | Mixco | 209791.0 | null | 
-| 673 | Badalona | 209635.0 | null | 
-| 1630 | Ageo | 209442.0 | null | 
-| 3029 | Bacau | 209235.0 | null | 
-| 3777 | Cam Pha | 209086.0 | null | 
-| 2059 | Meihekou | 209038.0 | null | 
-| 2060 | Xuchang | 208815.0 | null | 
-| 1375 | al-Amara | 208797.0 | null | 
-| 305 | Barueri | 208426.0 | null | 
-| 1631 | Yamato | 208234.0 | null | 
-| 1479 | Taranto | 208214.0 | null | 
-| 3875 | Madison | 208054.0 | null | 
-| 2587 | Othón P. Blanco (Chetumal) | 208014.0 | null | 
-| 805 | San Pablo | 207927.0 | null | 
-| 2061 | Liaocheng | 207844.0 | null | 
-| 1826 | Windsor | 207588.0 | null | 
-| 306 | Viamão | 207557.0 | null | 
-| 2843 | Sahiwal | 207388.0 | null | 
-| 2417 | Santa Clara | 207350.0 | null | 
-| 3555 | Baruta | 207290.0 | null | 
-| 3382 | Manisa | 207148.0 | null | 
-| 3667 | Zelenograd | 207100.0 | null | 
-| 100 | Paraná | 207041.0 | null | 
-| 101 | Godoy Cruz | 206998.0 | null | 
-| 973 | Cilacap | 206900.0 | null | 
-| 1632 | Matsumoto | 206801.0 | null | 
-| 1633 | Kure | 206504.0 | null | 
-| 2767 | Katsina | 206500.0 | null | 
-| 307 | Ipatinga | 206338.0 | null | 
-| 2768 | Jos | 206300.0 | null | 
-| 2983 | Rennes | 206229.0 | null | 
-| 2945 | Torun | 206158.0 | null | 
-| 1404 | Abadan | 206073.0 | null | 
-| 3668 | Balakovo | 206000.0 | null | 
-| 1634 | Takarazuka | 205993.0 | null | 
-| 3876 | Fort Wayne | 205727.0 | null | 
-| 2062 | Haicheng | 205560.0 | null | 
-| 2946 | Bytom | 205560.0 | null | 
-| 2063 | Qianjiang | 205504.0 | null | 
-| 2368 | Chungju | 205206.0 | null | 
-| 3103 | Hagen | 205201.0 | null | 
-| 974 | Cimanggis | 205100.0 | null | 
-| 1149 | Alwar | 205086.0 | null | 
-| 2418 | Guantánamo | 205078.0 | null | 
-| 2064 | Baiyin | 204970.0 | null | 
-| 2769 | Sokoto | 204900.0 | null | 
-| 2065 | Bei´an | 204899.0 | null | 
-| 3383 | Batman | 203793.0 | null | 
-| 2588 | Texcoco | 203681.0 | null | 
-| 3484 | Debrecen | 203648.0 | null | 
-| 1870 | Petropavl | 203500.0 | null | 
-| 3877 | Fremont | 203413.0 | null | 
-| 3669 | Novorossijsk | 203300.0 | null | 
-| 736 | Welkom | 203296.0 | null | 
-| 3104 | Rostock | 203279.0 | null | 
-| 1150 | Pondicherry | 203065.0 | null | 
-| 975 | Pematang Siantar | 203056.0 | null | 
-| 3218 | Dehiwala | 203000.0 | null | 
-| 3878 | Scottsdale | 202705.0 | null | 
-| 1405 | Dezful | 202639.0 | null | 
-| 976 | Purwokerto | 202500.0 | null | 
-| 3105 | Freiburg im Breisgau | 202455.0 | null | 
-| 2449 | Klaipeda | 202451.0 | null | 
-| 154 | Narayanganj | 202134.0 | null | 
-| 597 | Santo Domingo de los Colorados | 202111.0 | null | 
-| 1151 | Thanjavur | 202013.0 | null | 
-| 9 | Eindhoven | 201843.0 | null | 
-| 1635 | Kasukabe | 201838.0 | null | 
-| 1636 | Chofu | 201585.0 | null | 
-| 2305 | Bukavu | 201569.0 | null | 
-| 3879 | Montgomery | 201568.0 | null | 
-| 3670 | Pihkova | 201500.0 | null | 
-| 1406 | Kashan | 201372.0 | null | 
-| 626 | al-Minya | 201360.0 | null | 
-| 1152 | Bihar Sharif | 201323.0 | null | 
-| 102 | Posadas | 201273.0 | null | 
-| 3106 | Erfurt | 201267.0 | null | 
-| 806 | Biñan | 201186.0 | null | 
-| 308 | Juazeiro | 201073.0 | null | 
-| 2844 | Okara | 200901.0 | null | 
-| 177 | Charleroi | 200827.0 | null | 
-| 2066 | Yixing | 200824.0 | null | 
-| 2282 | Popayán | 200719.0 | null | 
-| 103 | Guaymallén | 200595.0 | null | 
-| 674 | Oviedo | 200453.0 | null | 
-| 2947 | Zabrze | 200177.0 | null | 
-| 1637 | Odawara | 200171.0 | null | 
-| 3880 | Shreveport | 200145.0 | null | 
-| 1153 | Tuticorin | 199854.0 | null | 
-| 3881 | Augusta-Richmond County | 199775.0 | null | 
-| 1638 | Kofu | 199753.0 | null | 
-| 309 | Juazeiro do Norte | 199636.0 | null | 
-| 3882 | Lubbock | 199564.0 | null | 
-| 2472 | Kuantan | 199484.0 | null | 
-| 3883 | Chesapeake | 199184.0 | null | 
-| 2770 | Ilobu | 199000.0 | null | 
-| 3200 | Kaolack | 199000.0 | null | 
-| 3884 | Mobile | 198915.0 | null | 
-| 3885 | Des Moines | 198682.0 | null | 
-| 2067 | Laizhou | 198664.0 | null | 
-| 1154 | Imphal | 198535.0 | null | 
-| 2845 | Wah | 198400.0 | null | 
-| 807 | Taytay | 198183.0 | null | 
-| 3886 | Grand Rapids | 197800.0 | null | 
-| 3887 | Richmond | 197790.0 | null | 
-| 1639 | Kushiro | 197608.0 | null | 
-| 2068 | Qaramay | 197602.0 | null | 
-| 2069 | Acheng | 197595.0 | null | 
-| 310 | Taboão da Serra | 197550.0 | null | 
-| 1155 | Latur | 197408.0 | null | 
-| 1640 | Kishiwada | 197276.0 | null | 
-| 737 | Kimberley | 197254.0 | null | 
-| 2771 | Offa | 197200.0 | null | 
-| 3351 | Ariana | 197000.0 | null | 
-| 3671 | Zlatoust | 196900.0 | null | 
-| 311 | São José dos Pinhais | 196884.0 | null | 
-| 2589 | La Paz | 196708.0 | null | 
-| 1641 | Hitachi | 196622.0 | null | 
-| 1376 | al-Diwaniya | 196519.0 | null | 
-| 3384 | Balikesir | 196382.0 | null | 
-| 3107 | Kassel | 196211.0 | null | 
-| 312 | Magé | 196147.0 | null | 
-| 3888 | Yonkers | 196086.0 | null | 
-| 808 | Lucena | 196075.0 | null | 
-| 479 | Northampton | 196000.0 | null | 
-| 1407 | Sari | 195882.0 | null | 
-| 3889 | Spokane | 195629.0 | null | 
-| 1871 | Oral | 195500.0 | null | 
-| 2070 | Dezhou | 195485.0 | null | 
-| 809 | Imus | 195482.0 | null | 
-| 3238 | Tampere | 195468.0 | null | 
-| 313 | Suzano | 195434.0 | null | 
-| 3672 | Jakutsk | 195400.0 | null | 
-| 675 | Móstoles | 195351.0 | null | 
-| 1156 | Sagar | 195346.0 | null | 
-| 542 | Burgas | 195255.0 | null | 
-| 2071 | Nanping | 195064.0 | null | 
-| 2430 | Nicosia | 195000.0 | null | 
-| 3890 | Glendale | 194973.0 | null | 
-| 2902 | Ica | 194820.0 | null | 
-| 2072 | Zhaoqing | 194784.0 | null | 
-| 1157 | Farrukhabad-cum-Fatehgarh | 194567.0 | null | 
-| 2073 | Beipiao | 194301.0 | null | 
-| 2691 | Tiraspol | 194300.0 | null | 
-| 3673 | Podolsk | 194300.0 | null | 
-| 2590 | Metepec | 194265.0 | null | 
-| 810 | Olongapo | 194260.0 | null | 
-| 3508 | Karsi | 194100.0 | null | 
-| 3509 | Nukus | 194100.0 | null | 
-| 3674 | Petropavlovsk-Kamtšatski | 194100.0 | null | 
-| 187 | Porto-Novo | 194000.0 | null | 
-| 2074 | Fengcheng | 193784.0 | null | 
-| 2591 | Monclova | 193657.0 | null | 
-| 1827 | Saskatoon | 193647.0 | null | 
-| 3891 | Tacoma | 193556.0 | null | 
-| 10 | Tilburg | 193238.0 | null | 
-| 1158 | Sangli | 193197.0 | null | 
-| 676 | Elche [Elx] | 193174.0 | null | 
-| 2592 | Huixquilucan | 193156.0 | null | 
-| 3282 | Yungkang | 193005.0 | null | 
-| 2075 | Fuyu | 192981.0 | null | 
-| 1883 | Kisumu | 192733.0 | null | 
-| 1377 | al-Ramadi | 192556.0 | null | 
-| 2076 | Xinyang | 192509.0 | null | 
-| 2593 | Chilpancingo de los Bravo | 192509.0 | null | 
-| 1642 | Nagaoka | 192407.0 | null | 
-| 2077 | Dongtai | 192247.0 | null | 
-| 480 | Dudley | 192171.0 | null | 
-| 738 | Uitenhage | 192120.0 | null | 
-| 3201 | Ziguinchor | 192000.0 | null | 
-| 3892 | Irving | 191615.0 | null | 
-| 155 | Rangpur | 191398.0 | null | 
-| 2078 | Yuci | 191356.0 | null | 
-| 1480 | Brescia | 191317.0 | null | 
-| 3232 | al-Qadarif | 191164.0 | null | 
-| 2984 | Le Havre | 190905.0 | null | 
-| 2713 | Pegu (Bago) | 190900.0 | null | 
-| 1643 | Itami | 190886.0 | null | 
-| 2079 | Honghu | 190772.0 | null | 
-| 3385 | Sakarya (Adapazari) | 190641.0 | null | 
-| 3675 | Kamensk-Uralski | 190600.0 | null | 
-| 1159 | Parbhani | 190255.0 | null | 
-| 2080 | Ezhou | 190123.0 | null | 
-| 3510 | Kükon | 190100.0 | null | 
-| 1160 | Nagar Coil | 190084.0 | null | 
-| 481 | Portsmouth | 190000.0 | null | 
-| 3219 | Moratuwa | 190000.0 | null | 
-| 1828 | Kitchener | 189959.0 | null | 
-| 104 | Santiago del Estero | 189947.0 | null | 
-| 739 | Chatsworth | 189885.0 | null | 
-| 3893 | Huntington Beach | 189594.0 | null | 
-| 3051 | Uppsala | 189569.0 | null | 
-| 2410 | Split | 189388.0 | null | 
-| 2081 | Heze | 189293.0 | null | 
-| 314 | São Leopoldo | 189258.0 | null | 
-| 3420 | Chärjew | 189200.0 | null | 
-| 482 | Newcastle upon Tyne | 189150.0 | null | 
-| 1829 | Markham | 189098.0 | null | 
-| 564 | Arica | 189036.0 | null | 
-| 3306 | Dodoma | 189000.0 | null | 
-| 3676 | Engels | 189000.0 | null | 
-| 3894 | Modesto | 188856.0 | null | 
-| 1644 | Uji | 188735.0 | null | 
-| 156 | Mymensingh | 188713.0 | null | 
-| 1408 | Gorgan | 188710.0 | null | 
-| 315 | Marília | 188691.0 | null | 
-| 2369 | Andong | 188443.0 | null | 
-| 3283 | Pingchen | 188344.0 | null | 
-| 1453 | Rishon Le Ziyyon | 188200.0 | null | 
-| 2082 | Daxian | 188101.0 | null | 
-| 2846 | Dera Ghazi Khan | 188100.0 | null | 
-| 1525 | Linz | 188022.0 | null | 
-| 3556 | Puerto Cabello | 187722.0 | null | 
-| 3497 | North Shore | 187700.0 | null | 
-| 811 | Binangonan | 187691.0 | null | 
-| 565 | Talca | 187557.0 | null | 
-| 977 | Ciomas | 187400.0 | null | 
-| 2083 | Linfen | 187309.0 | null | 
-| 2985 | Reims | 187206.0 | null | 
-| 3030 | Pitesti | 187170.0 | null | 
-| 316 | São Carlos | 187122.0 | null | 
-| 3895 | Durham | 187035.0 | null | 
-| 1161 | Bijapur | 186939.0 | null | 
-| 3677 | Syzran | 186900.0 | null | 
-| 3 | Herat | 186800.0 | null | 
-| 2921 | Ponce | 186475.0 | null | 
-| 2084 | Tianmen | 186332.0 | null | 
-| 3896 | Columbus | 186291.0 | null | 
-| 317 | Sumaré | 186205.0 | null | 
-| 2922 | Carolina | 186076.0 | null | 
-| 3458 | Kramatorsk | 186000.0 | null | 
-| 3678 | Grozny | 186000.0 | null | 
-| 3897 | Orlando | 185951.0 | null | 
-| 2085 | Yiyang | 185818.0 | null | 
-| 3898 | Boise City | 185787.0 | null | 
-| 3899 | Winston-Salem | 185776.0 | null | 
-| 3557 | Santa Ana de Coro | 185766.0 | null | 
-| 178 | Liège | 185639.0 | null | 
-| 812 | Santa Rosa | 185633.0 | null | 
-| 3900 | San Bernardino | 185401.0 | null | 
-| 1162 | Kukatpalle | 185378.0 | null | 
-| 318 | Presidente Prudente | 185340.0 | null | 
-| 2086 | Quanzhou | 185154.0 | null | 
-| 2087 | Rizhao | 185048.0 | null | 
-| 319 | Divinópolis | 185047.0 | null | 
-| 2772 | Ikorodu | 184900.0 | null | 
-| 677 | Sabadell | 184859.0 | null | 
-| 2986 | Lille | 184657.0 | null | 
-| 2773 | Ilawe-Ekiti | 184500.0 | null | 
-| 2847 | Mirpur Khas | 184500.0 | null | 
-| 1163 | Bally | 184474.0 | null | 
-| 3031 | Arad | 184408.0 | null | 
-| 3679 | Novotšerkassk | 184400.0 | null | 
-| 3901 | Jackson | 184256.0 | null | 
-| 678 | Santander | 184165.0 | null | 
-| 1645 | Suzuka | 184061.0 | null | 
-| 1164 | Bhilwara | 183965.0 | null | 
-| 3317 | Odense | 183912.0 | null | 
-| 2714 | Bassein (Pathein) | 183900.0 | null | 
-| 3108 | Saarbrücken | 183836.0 | null | 
-| 2594 | Puerto Vallarta | 183741.0 | null | 
-| 2370 | Yosu | 183596.0 | null | 
-| 2774 | Owo | 183500.0 | null | 
-| 39 | Batna | 183377.0 | null | 
-| 1165 | Ratlam | 183375.0 | null | 
-| 483 | Sunderland | 183310.0 | null | 
-| 2473 | Taiping | 183261.0 | null | 
-| 1166 | Avadi | 183215.0 | null | 
-| 1378 | al-Kut | 183183.0 | null | 
-| 3109 | Mainz | 183134.0 | null | 
-| 3902 | Little Rock | 183133.0 | null | 
-| 2848 | Nawabshah | 183100.0 | null | 
-| 484 | Luton | 183000.0 | null | 
-| 320 | Sete Lagoas | 182984.0 | null | 
-| 2474 | Seremban | 182869.0 | null | 
-| 2595 | Fresnillo | 182744.0 | null | 
-| 2403 | Pireus | 182671.0 | null | 
-| 679 | Jerez de la Frontera | 182660.0 | null | 
-| 740 | Mdantsane | 182639.0 | null | 
-| 2088 | Deyang | 182488.0 | null | 
-| 1167 | Dindigul | 182477.0 | null | 
-| 2089 | Guangyuan | 182241.0 | null | 
-| 321 | Rio Grande | 182222.0 | null | 
-| 322 | Itabuna | 182148.0 | null | 
-| 2306 | Kikwit | 182142.0 | null | 
-| 2596 | Ciudad Madero | 182012.0 | null | 
-| 3680 | Berezniki | 181900.0 | null | 
-| 2090 | Changshu | 181805.0 | null | 
-| 3110 | Hamm | 181804.0 | null | 
-| 3903 | Salt Lake City | 181743.0 | null | 
-| 741 | Krugersdorp | 181503.0 | null | 
-| 2091 | Zhangzhou | 181424.0 | null | 
-| 2775 | Ikirun | 181400.0 | null | 
-| 3322 | Nakhon Ratchasima | 181400.0 | null | 
-| 1168 | Ahmadnagar | 181339.0 | null | 
-| 2307 | Tshikapa | 180860.0 | null | 
-| 2092 | Hailar | 180650.0 | null | 
-| 3511 | Fargona | 180500.0 | null | 
-| 680 | Pamplona [Iruña] | 180483.0 | null | 
-| 3904 | Reno | 180480.0 | null | 
-| 1830 | Regina | 180400.0 | null | 
-| 2948 | Bielsko-Biala | 180307.0 | null | 
-| 2093 | Nanchong | 180273.0 | null | 
-| 2987 | St-Étienne | 180210.0 | null | 
-| 3905 | Newport News | 180150.0 | null | 
-| 2094 | Jiutai | 180130.0 | null | 
-| 485 | Swindon | 180000.0 | null | 
-| 2095 | Zhaodong | 179976.0 | null | 
-| 2597 | Soledad de Graciano Sánchez | 179956.0 | null | 
-| 1169 | Bilaspur | 179833.0 | null | 
-| 2096 | Shaoxing | 179818.0 | null | 
-| 978 | Tasikmalaya | 179800.0 | null | 
-| 1793 | Novi Sad | 179626.0 | null | 
-| 1481 | Reggio di Calabria | 179617.0 | null | 
-| 2097 | Fuyang | 179572.0 | null | 
-| 813 | Tagum | 179531.0 | null | 
-| 2598 | San Juan del Río | 179300.0 | null | 
-| 1170 | Shimoga | 179258.0 | null | 
-| 1831 | Burnaby | 179209.0 | null | 
-| 681 | Donostia-San Sebastián | 179208.0 | null | 
-| 3681 | Juzno-Sahalinsk | 179200.0 | null | 
-| 323 | Jequié | 179128.0 | null | 
-| 40 | Sétif | 179055.0 | null | 
-| 2328 | Kimchaek | 179000.0 | null | 
-| 324 | Arapiraca | 178988.0 | null | 
-| 3558 | Los Teques | 178784.0 | null | 
-| 105 | San Salvador de Jujuy | 178748.0 | null | 
-| 2098 | Maoming | 178683.0 | null | 
-| 2099 | Qujing | 178669.0 | null | 
-| 814 | Tacloban | 178639.0 | null | 
-| 3352 | Ettadhamen | 178600.0 | null | 
-| 1409 | Najafabad | 178498.0 | null | 
-| 3239 | Vantaa | 178471.0 | null | 
-| 198 | Sucre | 178426.0 | null | 
-| 3682 | Volgodonsk | 178200.0 | null | 
-| 566 | Chillán | 178182.0 | null | 
-| 2283 | Barrancabermeja | 178020.0 | null | 
-| 2329 | Hyesan | 178020.0 | null | 
-| 1171 | Kharagpur | 177989.0 | null | 
-| 742 | Botshabelo | 177971.0 | null | 
-| 567 | Iquique | 177892.0 | null | 
-| 325 | Colombo | 177764.0 | null | 
-| 682 | Cartagena | 177709.0 | null | 
-| 1646 | Hirosaki | 177522.0 | null | 
-| 326 | Americana | 177409.0 | null | 
-| 2599 | San Felipe del Progreso | 177330.0 | null | 
-| 2100 | Ghulja | 177193.0 | null | 
-| 1805 | Garoua | 177000.0 | null | 
-| 2600 | Córdoba | 176952.0 | null | 
-| 3184 | Hail | 176800.0 | null | 
-| 3906 | Chandler | 176581.0 | null | 
-| 3907 | Laredo | 176576.0 | null | 
-| 598 | Portoviejo | 176413.0 | null | 
-| 2101 | Jiaohe | 176367.0 | null | 
-| 1482 | Modena | 176022.0 | null | 
-| 486 | Southend-on-Sea | 176000.0 | null | 
-| 2102 | Puyang | 175988.0 | null | 
-| 2103 | Huadian | 175873.0 | null | 
-| 2104 | Jiangyou | 175753.0 | null | 
-| 3111 | Herne | 175661.0 | null | 
-| 327 | Alvorada | 175574.0 | null | 
-| 1794 | Niš | 175391.0 | null | 
-| 3908 | Henderson | 175381.0 | null | 
-| 1172 | Mira Bhayandar | 175372.0 | null | 
-| 815 | Malolos | 175291.0 | null | 
-| 1647 | Ube | 175206.0 | null | 
-| 1173 | Vellore | 175061.0 | null | 
-| 1174 | Jalna | 174985.0 | null | 
-| 1648 | Kodaira | 174984.0 | null | 
-| 1175 | Burnpur | 174933.0 | null | 
-| 1176 | Anantapur | 174924.0 | null | 
-| 3909 | Arlington | 174838.0 | null | 
-| 487 | Walsall | 174739.0 | null | 
-| 1177 | Allappuzha (Alleppey) | 174666.0 | null | 
-| 2105 | Qashqar | 174570.0 | null | 
-| 2776 | Shaki | 174500.0 | null | 
-| 2849 | Mingora | 174500.0 | null | 
-| 2777 | Calabar | 174400.0 | null | 
-| 328 | Araraquara | 174381.0 | null | 
-| 1649 | Takaoka | 174380.0 | null | 
-| 1178 | Tirupati | 174369.0 | null | 
-| 2106 | Anshun | 174142.0 | null | 
-| 329 | Itaboraí | 173977.0 | null | 
-| 3112 | Mülheim an der Ruhr | 173895.0 | null | 
-| 3910 | Knoxville | 173890.0 | null | 
-| 2107 | Fuling | 173878.0 | null | 
-| 1179 | Karnal | 173751.0 | null | 
-| 2371 | Kyongsan | 173746.0 | null | 
-| 1650 | Obihiro | 173685.0 | null | 
-| 3911 | Amarillo | 173627.0 | null | 
-| 3912 | Providence | 173618.0 | null | 
-| 2778 | Ondo | 173600.0 | null | 
-| 3233 | Kusti | 173599.0 | null | 
-| 3913 | Chula Vista | 173556.0 | null | 
-| 2108 | Xinyu | 173524.0 | null | 
-| 3246 | Geneve | 173500.0 | null | 
-| 683 | Leganés | 173163.0 | null | 
-| 2308 | Matadi | 172730.0 | null | 
-| 1180 | Burhanpur | 172710.0 | null | 
-| 11 | Groningen | 172701.0 | null | 
-| 128 | Vanadzor | 172700.0 | null | 
-| 1181 | Hisar (Hissar) | 172677.0 | null | 
-| 3914 | Worcester | 172648.0 | null | 
-| 1182 | Tiruvottiyur | 172562.0 | null | 
-| 3240 | Turku [Åbo] | 172561.0 | null | 
-| 1483 | Prato | 172473.0 | null | 
-| 2601 | Tecámac | 172410.0 | null | 
-| 3485 | Miskolc | 172357.0 | null | 
-| 3307 | Mwanza | 172300.0 | null | 
-| 627 | Bani Suwayf | 172032.0 | null | 
-| 148 | Nassau | 172000.0 | null | 
-| 1651 | Tomakomai | 171958.0 | null | 
-| 3284 | Tali | 171940.0 | null | 
-| 3778 | Nam Dinh | 171699.0 | null | 
-| 330 | Santa Bárbara d´Oeste | 171657.0 | null | 
-| 979 | Madiun | 171532.0 | null | 
-| 2330 | Kaesong | 171500.0 | null | 
-| 2602 | Ocosingo | 171495.0 | null | 
-| 2603 | Carmen | 171367.0 | null | 
-| 743 | Brakpan | 171363.0 | null | 
-| 628 | Qina | 171275.0 | null | 
-| 684 | Fuenlabrada | 171173.0 | null | 
-| 3323 | Chiang Mai | 171100.0 | null | 
-| 2702 | Chimoio | 171056.0 | null | 
-| 816 | Mabalacat | 171045.0 | null | 
-| 2949 | Olsztyn | 170904.0 | null | 
-| 2604 | Lázaro Cárdenas | 170878.0 | null | 
-| 1410 | Sabzevar | 170738.0 | null | 
-| 331 | Nova Friburgo | 170697.0 | null | 
-| 3498 | Waitakere | 170600.0 | null | 
-| 1872 | Temirtau | 170500.0 | null | 
-| 2605 | Jiutepec | 170428.0 | null | 
-| 3915 | Oxnard | 170358.0 | null | 
-| 332 | Jacareí | 170356.0 | null | 
-| 157 | Barisal | 170232.0 | null | 
-| 629 | Sawhaj | 170125.0 | null | 
-| 2606 | Papantla | 170123.0 | null | 
-| 1652 | Saga | 170034.0 | null | 
-| 106 | Hurlingham | 170028.0 | null | 
-| 2109 | Hanzhong | 169930.0 | null | 
-| 2309 | Mbandaka | 169841.0 | null | 
-| 599 | Ambato | 169612.0 | null | 
-| 3032 | Sibiu | 169611.0 | null | 
-| 2110 | Danyang | 169603.0 | null | 
-| 2111 | Chenzhou | 169400.0 | null | 
-| 1183 | Mirzapur-cum-Vindhyachal | 169336.0 | null | 
-| 333 | Araçatuba | 169303.0 | null | 
-| 2850 | Chiniot | 169300.0 | null | 
-| 3683 | Abakan | 169200.0 | null | 
-| 685 | Almería | 169027.0 | null | 
-| 2453 | El-Aaiún | 169000.0 | null | 
-| 2726 | Windhoek | 169000.0 | null | 
-| 3459 | Melitopol | 169000.0 | null | 
-| 334 | Barra Mansa | 168953.0 | null | 
-| 1484 | Parma | 168717.0 | null | 
-| 158 | Tungi | 168702.0 | null | 
-| 686 | Terrassa | 168695.0 | null | 
-| 335 | Praia Grande | 168434.0 | null | 
-| 1653 | Sakura | 168072.0 | null | 
-| 2411 | Rijeka | 167964.0 | null | 
-| 336 | Marabá | 167795.0 | null | 
-| 337 | Criciúma | 167661.0 | null | 
-| 1654 | Kamakura | 167661.0 | null | 
-| 1184 | Secunderabad | 167461.0 | null | 
-| 3684 | Maikop | 167300.0 | null | 
-| 107 | Neuquén | 167296.0 | null | 
-| 1655 | Mitaka | 167268.0 | null | 
-| 1832 | Québec | 167264.0 | null | 
-| 3559 | Punto Fijo | 167215.0 | null | 
-| 338 | Boa Vista | 167185.0 | null | 
-| 744 | Witbank | 167183.0 | null | 
-| 1185 | Nadiad | 167051.0 | null | 
-| 3527 | Baranovitši | 167000.0 | null | 
-| 1656 | Izumi | 166979.0 | null | 
-| 1657 | Hino | 166770.0 | null | 
-| 3342 | Plzen | 166759.0 | null | 
-| 3247 | Basel | 166700.0 | null | 
-| 3499 | Wellington | 166700.0 | null | 
-| 1658 | Hadano | 166512.0 | null | 
-| 543 | Ruse | 166467.0 | null | 
-| 339 | Passo Fundo | 166343.0 | null | 
-| 2112 | Xiaogan | 166280.0 | null | 
-| 3685 | Miass | 166200.0 | null | 
-| 3916 | Dayton | 166179.0 | null | 
-| 1485 | Cagliari | 165926.0 | null | 
-| 3560 | Guarenas | 165889.0 | null | 
-| 1411 | Khomeynishahr | 165888.0 | null | 
-| 3113 | Solingen | 165583.0 | null | 
-| 3285 | Taiping | 165524.0 | null | 
-| 1659 | Ashikaga | 165243.0 | null | 
-| 3917 | Garden Grove | 165196.0 | null | 
-| 3033 | Târgu Mures | 165153.0 | null | 
-| 3686 | Armavir | 164900.0 | null | 
-| 2113 | Shangqiu | 164880.0 | null | 
-| 757 | Dire Dawa | 164851.0 | null | 
-| 2114 | Zhuhai | 164747.0 | null | 
-| 600 | Manta | 164739.0 | null | 
-| 340 | Dourados | 164716.0 | null | 
-| 341 | Santa Luzia | 164704.0 | null | 
-| 2115 | Qingyuan | 164641.0 | null | 
-| 2607 | Comalcalco | 164640.0 | null | 
-| 1660 | Tsu | 164543.0 | null | 
-| 3114 | Osnabrück | 164539.0 | null | 
-| 687 | Alcalá de Henares | 164463.0 | null | 
-| 745 | Oberholzer | 164367.0 | null | 
-| 1186 | Dewas | 164364.0 | null | 
-| 4071 | Mount Darwin | 164362.0 | null | 
-| 746 | Germiston | 164252.0 | null | 
-| 2116 | Aqsu | 164092.0 | null | 
-| 1884 | Nakuru | 163927.0 | null | 
-| 3687 | Ljubertsy | 163900.0 | null | 
-| 817 | Cotabato | 163849.0 | null | 
-| 3115 | Ludwigshafen am Rhein | 163771.0 | null | 
-| 1454 | Beerseba | 163700.0 | null | 
-| 2117 | Jining | 163552.0 | null | 
-| 342 | Rio Claro | 163551.0 | null | 
-| 1187 | Murwara (Katni) | 163431.0 | null | 
-| 3779 | Quy Nhon | 163385.0 | null | 
-| 2372 | Paju | 163379.0 | null | 
-| 2373 | Yangsan | 163351.0 | null | 
-| 57 | Huambo | 163100.0 | null | 
-| 1455 | Holon | 163100.0 | null | 
-| 818 | Meycauayan | 163037.0 | null | 
-| 2118 | Xiaoshan | 162930.0 | null | 
-| 688 | Burgos | 162802.0 | null | 
-| 3688 | Rubtsovsk | 162600.0 | null | 
-| 1661 | Sayama | 162472.0 | null | 
-| 2779 | Akure | 162300.0 | null | 
-| 2119 | Zaoyang | 162198.0 | null | 
-| 747 | Springs | 162072.0 | null | 
-| 2950 | Rzeszów | 162049.0 | null | 
-| 343 | Maracanaú | 162022.0 | null | 
-| 488 | Bournemouth | 162000.0 | null | 
-| 3460 | Kertš | 162000.0 | null | 
-| 819 | Puerto Princesa | 161912.0 | null | 
-| 2120 | Xinghua | 161910.0 | null | 
-| 3286 | Pate | 161700.0 | null | 
-| 1486 | Livorno | 161673.0 | null | 
-| 3262 | Khujand | 161500.0 | null | 
-| 1188 | Ganganagar | 161482.0 | null | 
-| 2121 | Hami | 161315.0 | null | 
-| 1662 | Yachiyo | 161222.0 | null | 
-| 2608 | Zamora | 161191.0 | null | 
-| 3318 | Aalborg | 161161.0 | null | 
-| 3287 | Fengyuan | 161032.0 | null | 
-| 3918 | Oceanside | 161029.0 | null | 
-| 2122 | Huizhou | 161023.0 | null | 
-| 3116 | Leverkusen | 160841.0 | null | 
-| 2123 | Jinmen | 160794.0 | null | 
-| 1663 | Tsukuba | 160768.0 | null | 
-| 2124 | Sanming | 160691.0 | null | 
-| 2988 | Toulon | 160639.0 | null | 
-| 3288 | Luchou | 160516.0 | null | 
-| 344 | Guarapuava | 160510.0 | null | 
-| 12 | Breda | 160398.0 | null | 
-| 1189 | Vizianagaram | 160359.0 | null | 
-| 630 | Shibin al-Kawm | 159909.0 | null | 
-| 3689 | Kovrov | 159900.0 | null | 
-| 2951 | Ruda Slaska | 159665.0 | null | 
-| 748 | Westonaria | 159632.0 | null | 
-| 2125 | Ulanhot | 159538.0 | null | 
-| 1664 | Tachikawa | 159430.0 | null | 
-| 1456 | Petah Tiqwa | 159400.0 | null | 
-| 2284 | Dos Quebradas | 159363.0 | null | 
-| 2126 | Korla | 159344.0 | null | 
-| 1190 | Erode | 159232.0 | null | 
-| 1191 | Machilipatnam (Masulipatam) | 159110.0 | null | 
-| 2609 | Nogales | 159103.0 | null | 
-| 1412 | Amol | 159092.0 | null | 
-| 1192 | Bhatinda (Bathinda) | 159042.0 | null | 
-| 3561 | Acarigua | 158954.0 | null | 
-| 1413 | Neyshabur | 158847.0 | null | 
-| 689 | Salamanca | 158720.0 | null | 
-| 3919 | Tempe | 158625.0 | null | 
-| 1414 | Babol | 158346.0 | null | 
-| 2610 | Huimanguillo | 158335.0 | null | 
-| 2703 | Naçala-Porto | 158248.0 | null | 
-| 3920 | Huntsville | 158216.0 | null | 
-| 568 | Los Angeles | 158215.0 | null | 
-| 108 | Ituzaingó | 158197.0 | null | 
-| 3486 | Szeged | 158158.0 | null | 
-| 3324 | Udon Thani | 158100.0 | null | 
-| 3921 | Ontario | 158007.0 | null | 
-| 2780 | Gusau | 158000.0 | null | 
-| 2730 | Biratnagar | 157764.0 | null | 
-| 3690 | Nahodka | 157700.0 | null | 
-| 3308 | Zanzibar | 157634.0 | null | 
-| 1193 | Raichur | 157551.0 | null | 
-| 1873 | Qyzylorda | 157400.0 | null | 
-| 1194 | Agartala | 157358.0 | null | 
-| 3487 | Pécs | 157332.0 | null | 
-| 3691 | Ussurijsk | 157300.0 | null | 
-| 1665 | Kumagaya | 157171.0 | null | 
-| 1195 | Arrah (Ara) | 157082.0 | null | 
-| 820 | Legazpi | 157010.0 | null | 
-| 2127 | Wanxian | 156823.0 | null | 
-| 3692 | Salavat | 156800.0 | null | 
-| 1487 | Perugia | 156673.0 | null | 
-| 1196 | Satna | 156630.0 | null | 
-| 2128 | Rui´an | 156468.0 | null | 
-| 2781 | Ijebu-Ode | 156400.0 | null | 
-| 2129 | Zhoushan | 156317.0 | null | 
-| 2130 | Liangcheng | 156307.0 | null | 
-| 821 | Silang | 156137.0 | null | 
-| 490 | Brighton | 156124.0 | null | 
-| 489 | Peterborough | 156000.0 | null | 
-| 1666 | Moriguchi | 155941.0 | null | 
-| 1457 | Ashdod | 155800.0 | null | 
-| 1667 | Otaru | 155784.0 | null | 
-| 3562 | Puerto La Cruz | 155700.0 | null | 
-| 3693 | Mytištši | 155700.0 | null | 
-| 3922 | Chattanooga | 155554.0 | null | 
-| 1197 | Lalbahadur Nagar | 155500.0 | null | 
-| 1795 | Priština | 155496.0 | null | 
-| 907 | Rustavi | 155400.0 | null | 
-| 2374 | Ichon | 155332.0 | null | 
-| 2496 | Agadir | 155244.0 | null | 
-| 1198 | Aizawl | 155240.0 | null | 
-| 1199 | Uluberia | 155172.0 | null | 
-| 345 | Rondonópolis | 155115.0 | null | 
-| 346 | São José | 155105.0 | null | 
-| 347 | Cachoeiro de Itapemirim | 155024.0 | null | 
-| 2817 | al-Sib | 155000.0 | null | 
-| 1833 | York | 154980.0 | null | 
-| 3289 | Hsichuh | 154976.0 | null | 
-| 1458 | Netanya | 154900.0 | null | 
-| 1488 | Foggia | 154891.0 | null | 
-| 2497 | Mohammedia | 154706.0 | null | 
-| 2375 | Asan | 154663.0 | null | 
-| 2431 | Limassol | 154400.0 | null | 
-| 1200 | Katihar | 154367.0 | null | 
-| 3165 | Kabwe | 154300.0 | null | 
-| 822 | Ormoc | 154297.0 | null | 
-| 823 | San Carlos | 154264.0 | null | 
-| 3117 | Oldenburg | 154125.0 | null | 
-| 1668 | Anjo | 153823.0 | null | 
-| 13 | Apeldoorn | 153491.0 | null | 
-| 2692 | Balti | 153400.0 | null | 
-| 348 | Nilópolis | 153383.0 | null | 
-| 2131 | Jiaozhou | 153364.0 | null | 
-| 2404 | Patras | 153344.0 | null | 
-| 2989 | Grenoble | 153317.0 | null | 
-| 2611 | Cuautla | 153132.0 | null | 
-| 41 | Sidi Bel Abbès | 153106.0 | null | 
-| 2782 | Effon-Alaiye | 153100.0 | null | 
-| 1201 | Cuddalore | 153086.0 | null | 
-| 109 | San Fernando | 153036.0 | null | 
-| 3386 | Iskenderun | 153022.0 | null | 
-| 2612 | Minatitlán | 152983.0 | null | 
-| 1669 | Narashino | 152849.0 | null | 
-| 1670 | Oyama | 152820.0 | null | 
-| 2613 | Poza Rica de Hidalgo | 152678.0 | null | 
-| 601 | Duran [Eloy Alfaro] | 152514.0 | null | 
-| 2285 | Tuluá | 152488.0 | null | 
-| 14 | Nijmegen | 152463.0 | null | 
-| 2132 | Taizhou | 152442.0 | null | 
-| 3923 | Fort Lauderdale | 152397.0 | null | 
-| 569 | Puerto Montt | 152194.0 | null | 
-| 3185 | al-Kharj | 152100.0 | null | 
-| 2498 | Khouribga | 152090.0 | null | 
-| 3924 | Springfield | 152082.0 | null | 
-| 2133 | Suzhou | 151862.0 | null | 
-| 1202 | Hugli-Chinsurah | 151806.0 | null | 
-| 1203 | Dhanbad | 151789.0 | null | 
-| 1671 | Ogaki | 151758.0 | null | 
-| 2134 | Yichun | 151585.0 | null | 
-| 3925 | Springfield | 151580.0 | null | 
-| 2990 | Angers | 151279.0 | null | 
-| 3290 | Shulin | 151260.0 | null | 
-| 3926 | Santa Clarita | 151088.0 | null | 
-| 912 | Tamale | 151069.0 | null | 
-| 3927 | Salinas | 151060.0 | null | 
-| 1204 | Raiganj | 151045.0 | null | 
-| 491 | Blackpool | 151000.0 | null | 
-| 2851 | Kamoke | 151000.0 | null | 
-| 3528 | Borisov | 151000.0 | null | 
-| 1205 | Sambhal | 150869.0 | null | 
-| 3694 | Kolomna | 150700.0 | null | 
-| 349 | Itapevi | 150664.0 | null | 
-| 1206 | Durg | 150645.0 | null | 
-| 3928 | Tallahassee | 150624.0 | null | 
-| 2135 | Taonan | 150168.0 | null | 
-| 2809 | Trondheim | 150166.0 | null | 
-| 2136 | Pingdu | 150123.0 | null | 
-| 2704 | Quelimane | 150116.0 | null | 
-| 3929 | Rockford | 150115.0 | null | 
-| 1207 | Munger (Monghyr) | 150112.0 | null | 
-| 1208 | Kanchipuram | 150100.0 | null | 
-| 3202 | Rufisque | 150000.0 | null | 
-| 1209 | North Dum Dum | 149965.0 | null | 
-| 350 | Cabo de Santo Agostinho | 149964.0 | null | 
-| 2852 | Mandi Burewala | 149900.0 | null | 
-| 2991 | Dijon | 149867.0 | null | 
-| 1672 | Matsue | 149821.0 | null | 
-| 1673 | Kawanishi | 149794.0 | null | 
-| 824 | Kabankalan | 149769.0 | null | 
-| 3118 | Neuss | 149702.0 | null | 
-| 3034 | Baia Mare | 149665.0 | null | 
-| 2992 | Brest | 149634.0 | null | 
-| 15 | Enschede | 149544.0 | null | 
-| 3930 | Pomona | 149473.0 | null | 
-| 3931 | Metairie | 149428.0 | null | 
-| 3932 | Paterson | 149222.0 | null | 
-| 351 | Camaçari | 149146.0 | null | 
-| 3933 | Overland Park | 149080.0 | null | 
-| 3220 | Jaffna | 149000.0 | null | 
-| 3461 | Nikopol | 149000.0 | null | 
-| 1415 | Khoy | 148944.0 | null | 
-| 1834 | Richmond | 148867.0 | null | 
-| 631 | Bulaq al-Dakrur | 148787.0 | null | 
-| 16 | Haarlem | 148772.0 | null | 
-| 3325 | Hat Yai | 148632.0 | null | 
-| 1210 | Karimnagar | 148583.0 | null | 
-| 2137 | Ji´an | 148583.0 | null | 
-| 1211 | Bharatpur | 148519.0 | null | 
-| 3035 | Buzau | 148372.0 | null | 
-| 2138 | Longkou | 148362.0 | null | 
-| 1212 | Sikar | 148272.0 | null | 
-| 825 | Talisay | 148110.0 | null | 
-| 2139 | Langfang | 148105.0 | null | 
-| 2475 | Kuching | 148059.0 | null | 
-| 1674 | Hitachinaka | 148006.0 | null | 
-| 149 | al-Manama | 148000.0 | null | 
-| 494 | Reading | 148000.0 | null | 
-| 2783 | Kumo | 148000.0 | null | 
-| 544 | Stara Zagora | 147939.0 | null | 
-| 826 | Valencia | 147924.0 | null | 
-| 1835 | Vaughan | 147889.0 | null | 
-| 1675 | Niiza | 147744.0 | null | 
-| 1676 | Nagareyama | 147738.0 | null | 
-| 2784 | Shomolu | 147700.0 | null | 
-| 110 | Formosa | 147636.0 | null | 
-| 3934 | Santa Rosa | 147595.0 | null | 
-| 2376 | Koje | 147562.0 | null | 
-| 690 | Albacete | 147527.0 | null | 
-| 1677 | Tottori | 147523.0 | null | 
-| 2903 | Sullana | 147361.0 | null | 
-| 3935 | Syracuse | 147306.0 | null | 
-| 1213 | Hardwar (Haridwar) | 147305.0 | null | 
-| 1796 | Kragujevac | 147305.0 | null | 
-| 1214 | Dabgram | 147217.0 | null | 
-| 827 | Calbayog | 147187.0 | null | 
-| 1215 | Morena | 147124.0 | null | 
-| 2377 | Kimchon | 147027.0 | null | 
-| 3695 | Elektrostal | 147000.0 | null | 
-| 3936 | Kansas City | 146866.0 | null | 
-| 1678 | Tama | 146712.0 | null | 
-| 492 | Dundee | 146690.0 | null | 
-| 2378 | Nonsan | 146619.0 | null | 
-| 2450 | Šiauliai | 146563.0 | null | 
-| 1216 | Noida | 146514.0 | null | 
-| 980 | Bengkulu | 146439.0 | null | 
-| 3937 | Hampton | 146437.0 | null | 
-| 2614 | Ciudad Valles | 146411.0 | null | 
-| 3512 | Circik | 146400.0 | null | 
-| 493 | West Bromwich | 146386.0 | null | 
-| 2731 | Pokhara | 146318.0 | null | 
-| 2140 | Zhoukou | 146288.0 | null | 
-| 1217 | Hapur | 146262.0 | null | 
-| 2993 | Le Mans | 146105.0 | null | 
-| 2141 | Suining | 146086.0 | null | 
-| 352 | Sobral | 146005.0 | null | 
-| 3387 | Osmaniye | 146003.0 | null | 
-| 1679 | Iruma | 145922.0 | null | 
-| 3353 | Sousse | 145900.0 | null | 
-| 2732 | Lalitapur | 145847.0 | null | 
-| 111 | Las Heras | 145823.0 | null | 
-| 2853 | Jhelum | 145800.0 | null | 
-| 632 | Banha | 145792.0 | null | 
-| 495 | Oldbury/Smethwick (Warley) | 145542.0 | null | 
-| 3388 | Çorum | 145495.0 | null | 
-| 2615 | Navolato | 145396.0 | null | 
-| 691 | Getafe | 145371.0 | null | 
-| 1680 | Ota | 145317.0 | null | 
-| 2616 | San Luis Río Colorado | 145276.0 | null | 
-| 353 | Itajaí | 145197.0 | null | 
-| 1836 | Burlington | 145150.0 | null | 
-| 3780 | Vung Tau | 145145.0 | null | 
-| 1218 | Bhusawal | 145143.0 | null | 
-| 1219 | Khandwa | 145133.0 | null | 
-| 496 | Middlesbrough | 145000.0 | null | 
-| 981 | Karawang | 145000.0 | null | 
-| 3389 | Kütahya | 144761.0 | null | 
-| 2952 | Rybnik | 144582.0 | null | 
-| 2142 | Yulin | 144467.0 | null | 
-| 1416 | Malayer | 144373.0 | null | 
-| 1220 | Yamuna Nagar | 144346.0 | null | 
-| 3255 | al-Qamishliya | 144286.0 | null | 
-| 828 | Santa Maria | 144282.0 | null | 
-| 2143 | Jinhua | 144280.0 | null | 
-| 2144 | Liu´an | 144248.0 | null | 
-| 1526 | Salzburg | 144247.0 | null | 
-| 354 | Chapecó | 144158.0 | null | 
-| 3938 | Lakewood | 144126.0 | null | 
-| 498 | Oxford | 144000.0 | null | 
-| 3390 | Hatay (Antakya) | 143982.0 | null | 
-| 2617 | Pénjamo | 143927.0 | null | 
-| 1221 | Sonipat (Sonepat) | 143922.0 | null | 
-| 497 | Huddersfield | 143726.0 | null | 
-| 1222 | Tenali | 143726.0 | null | 
-| 1489 | Reggio nell´ Emilia | 143664.0 | null | 
-| 1417 | Bushehr | 143641.0 | null | 
-| 3939 | Vancouver | 143560.0 | null | 
-| 982 | Banda Aceh | 143409.0 | null | 
-| 1874 | Aqtau | 143400.0 | null | 
-| 570 | Coquimbo | 143353.0 | null | 
-| 1418 | Qaemshahr | 143286.0 | null | 
-| 202 | Banja Luka | 143079.0 | null | 
-| 3940 | Irvine | 143072.0 | null | 
-| 1806 | Maroua | 143000.0 | null | 
-| 3941 | Aurora | 142990.0 | null | 
-| 2785 | Oka-Akoko | 142900.0 | null | 
-| 1681 | Omuta | 142889.0 | null | 
-| 983 | Palu | 142800.0 | null | 
-| 1419 | Qarchak | 142690.0 | null | 
-| 2145 | Shuangcheng | 142659.0 | null | 
-| 2904 | Juliaca | 142576.0 | null | 
-| 829 | Pagadian | 142515.0 | null | 
-| 1875 | Atyrau | 142500.0 | null | 
-| 17 | Almere | 142465.0 | null | 
-| 692 | Cádiz | 142449.0 | null | 
-| 3166 | Chingola | 142400.0 | null | 
-| 3696 | Murom | 142400.0 | null | 
-| 3942 | Moreno Valley | 142381.0 | null | 
-| 2146 | Suizhou | 142302.0 | null | 
-| 2618 | San Andrés Tuxtla | 142251.0 | null | 
-| 2379 | Kuri | 142173.0 | null | 
-| 2147 | Ankang | 142170.0 | null | 
-| 2419 | Pinar del Río | 142100.0 | null | 
-| 1490 | Salerno | 142055.0 | null | 
-| 693 | Alcorcón | 142048.0 | null | 
-| 3391 | Kirikkale | 142044.0 | null | 
-| 830 | Cadiz | 141954.0 | null | 
-| 3234 | al-Fashir | 141884.0 | null | 
-| 3421 | Dashhowuz | 141800.0 | null | 
-| 831 | Bago | 141721.0 | null | 
-| 3186 | al-Khubar | 141700.0 | null | 
-| 3943 | Pasadena | 141674.0 | null | 
-| 3392 | Adiyaman | 141529.0 | null | 
-| 2854 | Sadiqabad | 141500.0 | null | 
-| 571 | Osorno | 141468.0 | null | 
-| 2619 | Guanajuato | 141215.0 | null | 
-| 3697 | Kolpino | 141200.0 | null | 
-| 832 | Toledo | 141174.0 | null | 
-| 3781 | Rach Gia | 141132.0 | null | 
-| 499 | Poole | 141000.0 | null | 
-| 2420 | Bayamo | 141000.0 | null | 
-| 2786 | Ikare | 140800.0 | null | 
-| 3187 | Jubayl | 140800.0 | null | 
-| 3513 | Margilon | 140800.0 | null | 
-| 3698 | Norilsk | 140800.0 | null | 
-| 3699 | Almetjevsk | 140700.0 | null | 
-| 199 | Potosí | 140642.0 | null | 
-| 694 | Huelva | 140583.0 | null | 
-| 2923 | Caguas | 140502.0 | null | 
-| 2620 | Navojoa | 140495.0 | null | 
-| 3256 | Dayr al-Zawr | 140459.0 | null | 
-| 1223 | Raurkela Civil Township | 140408.0 | null | 
-| 2499 | Beni-Mellal | 140212.0 | null | 
-| 589 | La Romana | 140204.0 | null | 
-| 1837 | Oshawa | 140173.0 | null | 
-| 2148 | Weinan | 140169.0 | null | 
-| 355 | Cotia | 140042.0 | null | 
-| 3944 | Hayward | 140030.0 | null | 
-| 501 | Blackburn | 140000.0 | null | 
-| 3221 | Kandy | 140000.0 | null | 
-| 1224 | Kollam (Quilon) | 139852.0 | null | 
-| 1682 | Komaki | 139827.0 | null | 
-| 695 | León | 139809.0 | null | 
-| 3945 | Brownsville | 139722.0 | null | 
-| 696 | Castellón de la Plana [Castell | 139712.0 | null | 
-| 159 | Jessore | 139710.0 | null | 
-| 3119 | Heidelberg | 139672.0 | null | 
-| 356 | Lages | 139570.0 | null | 
-| 3946 | Bridgeport | 139529.0 | null | 
-| 1225 | Kumbakonam | 139483.0 | null | 
-| 2149 | Longjing | 139417.0 | null | 
-| 646 | Santa Ana | 139389.0 | null | 
-| 3947 | Hollywood | 139357.0 | null | 
-| 357 | Ferraz de Vasconcelos | 139283.0 | null | 
-| 1683 | Ome | 139216.0 | null | 
-| 1226 | Ingraj Bazar (English Bazar) | 139204.0 | null | 
-| 2787 | Sapele | 139200.0 | null | 
-| 1838 | Oakville | 139192.0 | null | 
-| 2380 | Chong-up | 139111.0 | null | 
-| 500 | Bolton | 139020.0 | null | 
-| 502 | Newport | 139000.0 | null | 
-| 2150 | Da´an | 138963.0 | null | 
-| 1684 | Kadoma | 138953.0 | null | 
-| 1227 | Timkur | 138903.0 | null | 
-| 3514 | Ürgenc | 138900.0 | null | 
-| 647 | Mejicanos | 138800.0 | null | 
-| 2715 | Monywa | 138600.0 | null | 
-| 2788 | Deba Habe | 138600.0 | null | 
-| 3257 | Jaramana | 138469.0 | null | 
-| 1491 | Ravenna | 138418.0 | null | 
-| 1420 | Qods | 138278.0 | null | 
-| 3948 | Warren | 138247.0 | null | 
-| 3393 | Trabzon | 138234.0 | null | 
-| 1685 | Yamaguchi | 138210.0 | null | 
-| 2511 | Port-Louis | 138200.0 | null | 
-| 112 | La Rioja | 138117.0 | null | 
-| 3700 | Novomoskovsk | 138100.0 | null | 
-| 18 | Arnhem | 138020.0 | null | 
-| 1807 | Bamenda | 138000.0 | null | 
-| 2151 | Lengshuijiang | 137994.0 | null | 
-| 2621 | Zitácuaro | 137970.0 | null | 
-| 3949 | Torrance | 137946.0 | null | 
-| 3950 | Eugene | 137893.0 | null | 
-| 833 | Naga | 137810.0 | null | 
-| 3188 | Hafar al-Batin | 137800.0 | null | 
-| 3120 | Darmstadt | 137776.0 | null | 
-| 908 | Batumi | 137700.0 | null | 
-| 2855 | Jacobabad | 137700.0 | null | 
-| 3121 | Paderborn | 137647.0 | null | 
-| 2716 | Sittwe (Akyab) | 137600.0 | null | 
-| 2310 | Mwene-Ditu | 137459.0 | null | 
-| 3951 | Pembroke Pines | 137427.0 | null | 
-| 572 | La Serena | 137409.0 | null | 
-| 3309 | Tanga | 137400.0 | null | 
-| 2405 | Peristerion | 137288.0 | null | 
-| 573 | Calama | 137265.0 | null | 
-| 1789 | al-Rusayfa | 137247.0 | null | 
-| 2994 | Clermont-Ferrand | 137140.0 | null | 
-| 2152 | Laiyang | 137080.0 | null | 
-| 2381 | Chechon | 137070.0 | null | 
-| 1228 | Amroha | 137061.0 | null | 
-| 1229 | Serampore | 137028.0 | null | 
-| 1459 | Bat Yam | 137000.0 | null | 
-| 3701 | Dimitrovgrad | 137000.0 | null | 
-| 1686 | Higashimurayama | 136970.0 | null | 
-| 3952 | Salem | 136924.0 | null | 
-| 2953 | Walbrzych | 136923.0 | null | 
-| 2789 | Minna | 136900.0 | null | 
-| 1230 | Chapra | 136877.0 | null | 
-| 1231 | Pali | 136842.0 | null | 
-| 2153 | Xianning | 136811.0 | null | 
-| 1232 | Maunath Bhanjan | 136697.0 | null | 
-| 697 | Badajoz | 136613.0 | null | 
-| 2154 | Dali | 136554.0 | null | 
-| 1687 | Yonago | 136461.0 | null | 
-| 2155 | Anda | 136446.0 | null | 
-| 2156 | Jincheng | 136396.0 | null | 
-| 1839 | Saint Catharines | 136216.0 | null | 
-| 1233 | Adoni | 136182.0 | null | 
-| 3702 | Pervouralsk | 136100.0 | null | 
-| 1234 | Jaunpur | 136062.0 | null | 
-| 358 | Indaiatuba | 135968.0 | null | 
-| 2286 | Envigado | 135848.0 | null | 
-| 1235 | Tirunelveli | 135825.0 | null | 
-| 359 | Hortolândia | 135755.0 | null | 
-| 2622 | Boca del Río | 135721.0 | null | 
-| 19 | Zaanstad | 135621.0 | null | 
-| 834 | San Mateo | 135603.0 | null | 
-| 2995 | Amiens | 135501.0 | null | 
-| 1236 | Bahraich | 135400.0 | null | 
-| 160 | Comilla | 135313.0 | null | 
-| 2311 | Boma | 135284.0 | null | 
-| 1421 | Sirjan | 135024.0 | null | 
-| 1688 | Matsubara | 135010.0 | null | 
-| 503 | Preston | 135000.0 | null | 
-| 1797 | Podgorica | 135000.0 | null | 
-| 113 | San Fernando del Valle de Cata | 134935.0 | null | 
-| 1422 | Bojnurd | 134835.0 | null | 
-| 2382 | Sosan | 134746.0 | null | 
-| 2623 | Allende | 134645.0 | null | 
-| 3563 | Ciudad Losada | 134501.0 | null | 
-| 2157 | Longyan | 134481.0 | null | 
-| 1689 | Musashino | 134426.0 | null | 
-| 2158 | Xichang | 134419.0 | null | 
-| 114 | Río Cuarto | 134355.0 | null | 
-| 2996 | Aix-en-Provence | 134222.0 | null | 
-| 188 | Djougou | 134099.0 | null | 
-| 1690 | Tsuchiura | 134072.0 | null | 
-| 1237 | Gadag Betigeri | 134051.0 | null | 
-| 2624 | Silao | 134037.0 | null | 
-| 984 | Pasuruan | 134019.0 | null | 
-| 360 | Caxias | 133980.0 | null | 
-| 2997 | Limoges | 133968.0 | null | 
-| 835 | Panabo | 133950.0 | null | 
-| 3953 | Pasadena | 133936.0 | null | 
-| 1238 | Proddatur | 133914.0 | null | 
-| 2159 | Wendeng | 133910.0 | null | 
-| 1460 | Bene Beraq | 133900.0 | null | 
-| 2886 | Ciudad del Este | 133881.0 | null | 
-| 179 | Bruxelles [Brussel] | 133859.0 | null | 
-| 2625 | Macuspana | 133795.0 | null | 
-| 836 | Koronadal | 133786.0 | null | 
-| 3703 | Himki | 133700.0 | null | 
-| 2451 | Panevezys | 133695.0 | null | 
-| 2626 | San Juan Bautista Tuxtepec | 133675.0 | null | 
-| 3394 | Ordu | 133642.0 | null | 
-| 2160 | Hailun | 133565.0 | null | 
-| 3954 | Escondido | 133559.0 | null | 
-| 2161 | Binzhou | 133555.0 | null | 
-| 1691 | Joetsu | 133505.0 | null | 
-| 1239 | Chittoor | 133462.0 | null | 
-| 2383 | Shihung | 133443.0 | null | 
-| 2998 | Nîmes | 133424.0 | null | 
-| 2887 | San Lorenzo | 133395.0 | null | 
-| 361 | São Caetano do Sul | 133321.0 | null | 
-| 2856 | Shikarpur | 133300.0 | null | 
-| 1240 | Barrackpur | 133265.0 | null | 
-| 1692 | Miyakonojo | 133183.0 | null | 
-| 2162 | Linhe | 133183.0 | null | 
-| 2954 | Tychy | 133178.0 | null | 
-| 3052 | Linköping | 133168.0 | null | 
-| 574 | Valdivia | 133106.0 | null | 
-| 1241 | Bharuch (Broach) | 133102.0 | null | 
-| 2163 | Wuwei | 133101.0 | null | 
-| 2857 | Khanewal | 133000.0 | null | 
-| 2164 | Duyun | 132971.0 | null | 
-| 1693 | Misato | 132957.0 | null | 
-| 3704 | Balašiha | 132900.0 | null | 
-| 2999 | Tours | 132820.0 | null | 
-| 504 | Stockport | 132813.0 | null | 
-| 2421 | Cienfuegos | 132770.0 | null | 
-| 2165 | Mishan | 132744.0 | null | 
-| 362 | Itu | 132736.0 | null | 
-| 1242 | Naihati | 132701.0 | null | 
-| 3782 | Long Xuyen | 132681.0 | null | 
-| 3705 | Nevinnomyssk | 132600.0 | null | 
-| 3706 | Pjatigorsk | 132500.0 | null | 
-| 2166 | Shangrao | 132455.0 | null | 
-| 3203 | Saint-Louis | 132400.0 | null | 
-| 3707 | Korolev | 132400.0 | null | 
-| 2422 | Victoria de las Tunas | 132350.0 | null | 
-| 1423 | Maragheh | 132318.0 | null | 
-| 2627 | San Cristóbal de las Casas | 132317.0 | null | 
-| 2167 | Changji | 132260.0 | null | 
-| 2168 | Meixian | 132156.0 | null | 
-| 1492 | Ferrara | 132127.0 | null | 
-| 3708 | Serpuhov | 132000.0 | null | 
-| 2169 | Yushu | 131861.0 | null | 
-| 1694 | Kakamigahara | 131831.0 | null | 
-| 2818 | Salala | 131813.0 | null | 
-| 2170 | Tiefa | 131807.0 | null | 
-| 3955 | Sunnyvale | 131760.0 | null | 
-| 1243 | Shillong | 131719.0 | null | 
-| 2384 | Tong-yong | 131717.0 | null | 
-| 3956 | Savannah | 131510.0 | null | 
-| 2717 | Taunggyi (Taunggye) | 131500.0 | null | 
-| 3017 | Saint-Denis | 131480.0 | null | 
-| 4072 | Mutare | 131367.0 | null | 
-| 363 | Nossa Senhora do Socorro | 131351.0 | null | 
-| 3564 | Guacara | 131334.0 | null | 
-| 2385 | Kongju | 131229.0 | null | 
-| 3258 | Duma | 131158.0 | null | 
-| 2171 | Huai´an | 131149.0 | null | 
-| 1244 | Sambalpur | 131138.0 | null | 
-| 2386 | Yongju | 131097.0 | null | 
-| 837 | Marawi | 131090.0 | null | 
-| 1493 | Rimini | 131062.0 | null | 
-| 2955 | Dabrowa Górnicza | 131037.0 | null | 
-| 2956 | Plock | 131011.0 | null | 
-| 1808 | Bafoussam | 131000.0 | null | 
-| 3310 | Mbeya | 130800.0 | null | 
-| 602 | Ibarra | 130643.0 | null | 
-| 1695 | Daito | 130594.0 | null | 
-| 161 | Nawabganj | 130577.0 | null | 
-| 2628 | Valle de Santiago | 130557.0 | null | 
-| 1245 | Junagadh | 130484.0 | null | 
-| 1696 | Seto | 130470.0 | null | 
-| 838 | Dagupan | 130328.0 | null | 
-| 3565 | Valera | 130281.0 | null | 
-| 2427 | al-Salimiya | 130215.0 | null | 
-| 2858 | Hafizabad | 130200.0 | null | 
-| 2172 | Leiyang | 130115.0 | null | 
-| 2629 | Guaymas | 130108.0 | null | 
-| 3036 | Satu Mare | 130059.0 | null | 
-| 2173 | Zalantun | 130031.0 | null | 
-| 58 | Lobito | 130000.0 | null | 
-| 2814 | Yamoussoukro | 130000.0 | null | 
-| 3462 | Berdjansk | 130000.0 | null | 
-| 3529 | Pinsk | 130000.0 | null | 
-| 1246 | Rae Bareli | 129904.0 | null | 
-| 648 | Soyapango | 129800.0 | null | 
-| 1801 | Battambang | 129800.0 | null | 
-| 2957 | Elblag | 129782.0 | null | 
-| 839 | Sagay | 129765.0 | null | 
-| 364 | Parnaíba | 129756.0 | null | 
-| 2718 | Meikhtila | 129700.0 | null | 
-| 2905 | Huánuco | 129688.0 | null | 
-| 365 | Poços de Caldas | 129683.0 | null | 
-| 603 | Quevedo | 129631.0 | null | 
-| 2958 | Opole | 129553.0 | null | 
-| 2630 | Colima | 129454.0 | null | 
-| 985 | Kupang | 129300.0 | null | 
-| 986 | Tebing Tinggi | 129300.0 | null | 
-| 20 | ´s-Hertogenbosch | 129170.0 | null | 
-| 987 | Percut Sei Tuan | 129000.0 | null | 
-| 3122 | Potsdam | 128983.0 | null | 
-| 1247 | Rewa | 128981.0 | null | 
-| 3957 | Fontana | 128929.0 | null | 
-| 2174 | Weihai | 128888.0 | null | 
-| 3958 | Orange | 128821.0 | null | 
-| 42 | Skikda | 128747.0 | null | 
-| 3037 | Botosani | 128730.0 | null | 
-| 2631 | Dolores Hidalgo | 128675.0 | null | 
-| 3395 | Aydin | 128651.0 | null | 
-| 1248 | Gurgaon | 128608.0 | null | 
-| 2175 | Loudi | 128418.0 | null | 
-| 3959 | Naperville | 128358.0 | null | 
-| 59 | Benguela | 128300.0 | null | 
-| 3960 | Alexandria | 128283.0 | null | 
-| 43 | Biskra | 128281.0 | null | 
-| 2176 | Qingzhou | 128258.0 | null | 
-| 3396 | Usak | 128162.0 | null | 
-| 366 | Teresópolis | 128079.0 | null | 
-| 4073 | Gweru | 128037.0 | null | 
-| 3515 | Angren | 128000.0 | null | 
-| 1249 | Khammam | 127992.0 | null | 
-| 1840 | Longueuil | 127977.0 | null | 
-| 1697 | Kariya | 127969.0 | null | 
-| 2632 | Lagos de Moreno | 127949.0 | null | 
-| 698 | [San Cristóbal de] la Laguna | 127945.0 | null | 
-| 2633 | Piedras Negras | 127898.0 | null | 
-| 758 | Nazret | 127842.0 | null | 
-| 162 | Dinajpur | 127815.0 | null | 
-| 367 | Barreiras | 127801.0 | null | 
-| 4 | Mazar-e-Sharif | 127800.0 | null | 
-| 3961 | Rancho Cucamonga | 127743.0 | null | 
-| 649 | San Miguel | 127696.0 | null | 
-| 3783 | Thai Nguyen | 127643.0 | null | 
-| 368 | Castanhal | 127634.0 | null | 
-| 1424 | Birjand | 127608.0 | null | 
-| 1698 | Urayasu | 127550.0 | null | 
-| 2634 | Altamira | 127490.0 | null | 
-| 1699 | Beppu | 127486.0 | null | 
-| 3784 | Hong Gai | 127484.0 | null | 
-| 2456 | Toamasina | 127441.0 | null | 
-| 3962 | Grand Prairie | 127427.0 | null | 
-| 3709 | Odintsovo | 127400.0 | null | 
-| 3123 | Würzburg | 127350.0 | null | 
-| 44 | Blida (el-Boulaida) | 127284.0 | null | 
-| 988 | Binjai | 127222.0 | null | 
-| 1700 | Niihama | 127207.0 | null | 
-| 1250 | Bulandshahr | 127201.0 | null | 
-| 1876 | Ekibastuz | 127200.0 | null | 
-| 1448 | Cork | 127187.0 | null | 
-| 3488 | Györ | 127119.0 | null | 
-| 633 | Warraq al-Arab | 127108.0 | null | 
-| 699 | Logroño | 127093.0 | null | 
-| 1701 | Minoo | 127026.0 | null | 
-| 3463 | Pavlograd | 127000.0 | null | 
-| 3464 | Sjeverodonetsk | 127000.0 | null | 
-| 3465 | Slovjansk | 127000.0 | null | 
-| 3466 | Uzgorod | 127000.0 | null | 
-| 1461 | Ramat Gan | 126900.0 | null | 
-| 1702 | Fujieda | 126897.0 | null | 
-| 2177 | Qidong | 126872.0 | null | 
-| 369 | Alagoinhas | 126820.0 | null | 
-| 2178 | Huaihua | 126785.0 | null | 
-| 370 | Itapecerica da Serra | 126672.0 | null | 
-| 1703 | Abiko | 126670.0 | null | 
-| 3326 | Khon Kaen | 126500.0 | null | 
-| 2635 | Túxpam | 126475.0 | null | 
-| 2179 | Luohe | 126438.0 | null | 
-| 3291 | Yuanlin | 126402.0 | null | 
-| 2476 | Sibu | 126381.0 | null | 
-| 3963 | East Los Angeles | 126379.0 | null | 
-| 840 | Roxas | 126352.0 | null | 
-| 1425 | Ilam | 126346.0 | null | 
-| 3053 | Västerås | 126328.0 | null | 
-| 3292 | Yangmei | 126323.0 | null | 
-| 371 | Uruguaiana | 126305.0 | null | 
-| 2500 | Témara | 126303.0 | null | 
-| 1494 | Syrakusa | 126282.0 | null | 
-| 21 | Amersfoort | 126270.0 | null | 
-| 2636 | San Pedro Garza García | 126147.0 | null | 
-| 140 | Hobart | 126118.0 | null | 
-| 2790 | Warri | 126100.0 | null | 
-| 1251 | Navsari | 126089.0 | null | 
-| 372 | Paranaguá | 126076.0 | null | 
-| 1252 | Malkajgiri | 126066.0 | null | 
-| 3327 | Pak Kret | 126055.0 | null | 
-| 2959 | Gorzów Wielkopolski | 126019.0 | null | 
-| 3964 | Fullerton | 126003.0 | null | 
-| 2387 | Chinhae | 125997.0 | null | 
-| 373 | Ibirité | 125982.0 | null | 
-| 2287 | Cartago | 125884.0 | null | 
-| 2477 | Sandakan | 125841.0 | null | 
-| 374 | Timon | 125812.0 | null | 
-| 989 | Sukabumi | 125766.0 | null | 
-| 2693 | Bender (Tîghina) | 125700.0 | null | 
-| 3189 | al-Tuqba | 125700.0 | null | 
-| 841 | Lubao | 125699.0 | null | 
-| 575 | Punta Arenas | 125631.0 | null | 
-| 3566 | Guanare | 125621.0 | null | 
-| 375 | Luziânia | 125597.0 | null | 
-| 376 | Macaé | 125597.0 | null | 
-| 1704 | Nobeoka | 125547.0 | null | 
-| 2791 | Bida | 125500.0 | null | 
-| 1253 | Midnapore (Medinipur) | 125498.0 | null | 
-| 1254 | Miraj | 125407.0 | null | 
-| 141 | Geelong | 125382.0 | null | 
-| 1255 | Raj Nandgaon | 125371.0 | null | 
-| 2180 | Chuzhou | 125341.0 | null | 
-| 2859 | Kohat | 125300.0 | null | 
-| 200 | Tarija | 125255.0 | null | 
-| 1256 | Alandur | 125244.0 | null | 
-| 3124 | Regensburg | 125236.0 | null | 
-| 1257 | Puri | 125199.0 | null | 
-| 842 | Digos | 125171.0 | null | 
-| 1705 | Tondabayashi | 125094.0 | null | 
-| 3038 | Piatra Neamt | 125070.0 | null | 
-| 1258 | Navadwip | 125037.0 | null | 
-| 3125 | Recklinghausen | 125022.0 | null | 
-| 1259 | Sirsa | 125000.0 | null | 
-| 3965 | Corona | 124966.0 | null | 
-| 3966 | Flint | 124943.0 | null | 
-| 3710 | Orehovo-Zujevo | 124900.0 | null | 
-| 634 | Kafr al-Shaykh | 124819.0 | null | 
-| 3516 | Cizah | 124800.0 | null | 
-| 3126 | Göttingen | 124775.0 | null | 
-| 590 | San Pedro de Macorís | 124735.0 | null | 
-| 2705 | Mocuba | 124700.0 | null | 
-| 3967 | Paradise | 124682.0 | null | 
-| 3711 | Kamyšin | 124600.0 | null | 
-| 3968 | Mesquite | 124523.0 | null | 
-| 1260 | Korba | 124501.0 | null | 
-| 377 | Teófilo Otoni | 124489.0 | null | 
-| 3969 | Sterling Heights | 124471.0 | null | 
-| 1261 | Faizabad | 124437.0 | null | 
-| 2478 | Alor Setar | 124412.0 | null | 
-| 990 | Waru | 124300.0 | null | 
-| 2637 | Cuauhtémoc | 124279.0 | null | 
-| 2479 | Selayang Baru | 124228.0 | null | 
-| 2181 | Kaiyuan | 124219.0 | null | 
-| 1706 | Ueda | 124217.0 | null | 
-| 3000 | Villeurbanne | 124215.0 | null | 
-| 3054 | Örebro | 124207.0 | null | 
-| 604 | Milagro | 124177.0 | null | 
-| 2388 | Sangju | 124116.0 | null | 
-| 115 | Comodoro Rivadavia | 124104.0 | null | 
-| 1262 | Etawah | 124072.0 | null | 
-| 2638 | Manzanillo | 124014.0 | null | 
-| 1707 | Kashihara | 124013.0 | null | 
-| 505 | Norwich | 124000.0 | null | 
-| 991 | Pangkal Pinang | 124000.0 | null | 
-| 3530 | Orša | 124000.0 | null | 
-| 3970 | Sioux Falls | 123975.0 | null | 
-| 2182 | Linqing | 123958.0 | null | 
-| 1263 | Pathankot | 123930.0 | null | 
-| 3167 | Mufulira | 123900.0 | null | 
-| 2639 | Iguala de la Independencia | 123883.0 | null | 
-| 605 | Loja | 123875.0 | null | 
-| 2735 | León | 123865.0 | null | 
-| 843 | San Miguel | 123824.0 | null | 
-| 992 | Magelang | 123800.0 | null | 
-| 3328 | Nakhon Sawan | 123800.0 | null | 
-| 378 | Moji-Guaçu | 123782.0 | null | 
-| 3001 | Metz | 123776.0 | null | 
-| 2640 | Zacatecas | 123700.0 | null | 
-| 2183 | Chaohu | 123676.0 | null | 
-| 844 | Malaybalay | 123672.0 | null | 
-| 3971 | New Haven | 123626.0 | null | 
-| 1708 | Matsusaka | 123582.0 | null | 
-| 1877 | Kökshetau | 123400.0 | null | 
-| 3712 | Novotšeboksarsk | 123400.0 | null | 
-| 3397 | Edirne | 123383.0 | null | 
-| 2960 | Wloclawek | 123373.0 | null | 
-| 2184 | Laohekou | 123366.0 | null | 
-| 1264 | Gandhinagar | 123359.0 | null | 
-| 2185 | Dujiangyan | 123357.0 | null | 
-| 2792 | Ikire | 123300.0 | null | 
-| 3398 | Çorlu | 123300.0 | null | 
-| 1265 | Palghat (Palakkad) | 123289.0 | null | 
-| 1709 | Isesaki | 123285.0 | null | 
-| 2423 | Matanzas | 123273.0 | null | 
-| 2186 | Zhumadian | 123232.0 | null | 
-| 2641 | Tlajomulco de Zúñiga | 123220.0 | null | 
-| 4075 | Khan Yunis | 123175.0 | null | 
-| 606 | Ríobamba | 123163.0 | null | 
-| 2793 | Makurdi | 123100.0 | null | 
-| 607 | Esmeraldas | 123045.0 | null | 
-| 116 | Mendoza | 123027.0 | null | 
-| 1266 | Veraval | 123000.0 | null | 
-| 3127 | Bremerhaven | 122735.0 | null | 
-| 1267 | Hoshiarpur | 122705.0 | null | 
-| 2719 | Mergui (Myeik) | 122700.0 | null | 
-| 3248 | Bern | 122700.0 | null | 
-| 2389 | Poryong | 122604.0 | null | 
-| 993 | Blitar | 122600.0 | null | 
-| 1268 | Ambala | 122596.0 | null | 
-| 2794 | Lafia | 122500.0 | null | 
-| 994 | Serang | 122400.0 | null | 
-| 1784 | al-Mukalla | 122400.0 | null | 
-| 3972 | Topeka | 122377.0 | null | 
-| 3055 | Norrköping | 122199.0 | null | 
-| 2916 | Amadora | 122106.0 | null | 
-| 22 | Maastricht | 122087.0 | null | 
-| 2390 | Kwang-yang | 122052.0 | null | 
-| 1710 | Zama | 122046.0 | null | 
-| 1711 | Kisarazu | 121967.0 | null | 
-| 3128 | Wolfsburg | 121954.0 | null | 
-| 545 | Pleven | 121952.0 | null | 
-| 2187 | Linchuan | 121949.0 | null | 
-| 2642 | Tulancingo de Bravo | 121946.0 | null | 
-| 379 | Palmas | 121919.0 | null | 
-| 3399 | Isparta | 121911.0 | null | 
-| 380 | Pindamonhangaba | 121904.0 | null | 
-| 1269 | Sitapur | 121842.0 | null | 
-| 2815 | Daloa | 121842.0 | null | 
-| 3973 | Concord | 121780.0 | null | 
-| 2643 | Zinacantepec | 121715.0 | null | 
-| 2961 | Chorzów | 121708.0 | null | 
-| 3713 | Tšerkessk | 121700.0 | null | 
-| 2443 | Misrata | 121669.0 | null | 
-| 1270 | Bhiwani | 121629.0 | null | 
-| 2860 | Muzaffargarh | 121600.0 | null | 
-| 3714 | Atšinsk | 121600.0 | null | 
-| 3974 | Evansville | 121582.0 | null | 
-| 3975 | Hartford | 121578.0 | null | 
-| 2391 | Miryang | 121501.0 | null | 
-| 2962 | Tarnów | 121494.0 | null | 
-| 1271 | Cuddapah | 121463.0 | null | 
-| 2188 | Jiaonan | 121397.0 | null | 
-| 506 | Rotherham | 121380.0 | null | 
-| 1272 | Bhimavaram | 121314.0 | null | 
-| 381 | Francisco Morato | 121197.0 | null | 
-| 1273 | Krishnanagar | 121110.0 | null | 
-| 3129 | Bottrop | 121097.0 | null | 
-| 2644 | San Martín Texmelucan | 121093.0 | null | 
-| 1712 | Noda | 121030.0 | null | 
-| 3976 | Fayetteville | 121015.0 | null | 
-| 507 | Cambridge | 121000.0 | null | 
-| 3715 | Magadan | 121000.0 | null | 
-| 1713 | Ishinomaki | 120963.0 | null | 
-| 2739 | Zinder | 120892.0 | null | 
-| 749 | Randfontein | 120838.0 | null | 
-| 1495 | Sassari | 120803.0 | null | 
-| 700 | Santa Coloma de Gramenet | 120802.0 | null | 
-| 382 | Bagé | 120793.0 | null | 
-| 995 | Probolinggo | 120770.0 | null | 
-| 3977 | Cedar Rapids | 120758.0 | null | 
-| 3241 | Oulu | 120753.0 | null | 
-| 3716 | Mitšurinsk | 120700.0 | null | 
-| 845 | Tuguegarao | 120645.0 | null | 
-| 3978 | Elizabeth | 120568.0 | null | 
-| 2189 | Sanmenxia | 120523.0 | null | 
-| 3717 | Kislovodsk | 120400.0 | null | 
-| 1274 | Chandannagar | 120378.0 | null | 
-| 1275 | Mandya | 120265.0 | null | 
-| 2457 | Antsirabé | 120239.0 | null | 
-| 383 | Sapucaia do Sul | 120217.0 | null | 
-| 163 | Bogra | 120170.0 | null | 
-| 576 | Copiapó | 120128.0 | null | 
-| 1276 | Dibrugarh | 120127.0 | null | 
-| 3130 | Remscheid | 120125.0 | null | 
-| 2190 | Heyuan | 120101.0 | null | 
-| 2191 | Manzhouli | 120023.0 | null | 
-| 1426 | Bukan | 120020.0 | null | 
-| 2192 | Lhasa | 120000.0 | null | 
-| 846 | Ilagan | 119990.0 | null | 
-| 1277 | Nandyal | 119813.0 | null | 
-| 23 | Dordrecht | 119811.0 | null | 
-| 2795 | Inisa | 119800.0 | null | 
-| 3190 | Yanbu | 119800.0 | null | 
-| 1278 | Balurghat | 119796.0 | null | 
-| 3039 | Râmnicu Vâlcea | 119741.0 | null | 
-| 1714 | Fujinomiya | 119714.0 | null | 
-| 847 | Baliuag | 119675.0 | null | 
-| 1715 | Kawachinagano | 119666.0 | null | 
-| 3567 | Carúpano | 119639.0 | null | 
-| 3500 | Dunedin | 119600.0 | null | 
-| 3131 | Heilbronn | 119526.0 | null | 
-| 1496 | Monza | 119516.0 | null | 
-| 384 | Cabo Frio | 119503.0 | null | 
-| 4076 | Hebron | 119401.0 | null | 
-| 3718 | Jelets | 119400.0 | null | 
-| 385 | Itapetininga | 119391.0 | null | 
-| 1716 | Imabari | 119357.0 | null | 
-| 117 | San Nicolás de los Arroyos | 119302.0 | null | 
-| 1717 | Aizuwakamatsu | 119287.0 | null | 
-| 635 | Mallawi | 119283.0 | null | 
-| 386 | Patos de Minas | 119262.0 | null | 
-| 1718 | Higashihiroshima | 119166.0 | null | 
-| 118 | San Juan | 119152.0 | null | 
-| 3979 | Lansing | 119128.0 | null | 
-| 2501 | El Jadida | 119083.0 | null | 
-| 3467 | Altševsk | 119000.0 | null | 
-| 387 | Camaragibe | 118968.0 | null | 
-| 1719 | Habikino | 118968.0 | null | 
-| 2906 | Ayacucho | 118960.0 | null | 
-| 2645 | Tepatitlán de Morelos | 118948.0 | null | 
-| 2193 | Lianyuan | 118858.0 | null | 
-| 577 | Quilpué | 118857.0 | null | 
-| 2646 | Martínez de la Torre | 118815.0 | null | 
-| 1720 | Ebetsu | 118805.0 | null | 
-| 1721 | Hofu | 118751.0 | null | 
-| 3980 | Lancaster | 118718.0 | null | 
-| 3981 | Fort Collins | 118652.0 | null | 
-| 3719 | Seversk | 118600.0 | null | 
-| 2194 | Kuytun | 118553.0 | null | 
-| 3040 | Suceava | 118549.0 | null | 
-| 848 | Surigao | 118534.0 | null | 
-| 2647 | Orizaba | 118488.0 | null | 
-| 1722 | Kiryu | 118326.0 | null | 
-| 3400 | Karabük | 118285.0 | null | 
-| 849 | San Carlos | 118259.0 | null | 
-| 3401 | Kilis | 118245.0 | null | 
-| 60 | Namibe | 118200.0 | null | 
-| 2963 | Zielona Góra | 118182.0 | null | 
-| 3168 | Luanshya | 118100.0 | null | 
-| 1279 | Neyveli | 118080.0 | null | 
-| 3222 | Sri Jayawardenepura Kotte | 118000.0 | null | 
-| 3041 | Drobeta-Turnu Severin | 117865.0 | null | 
-| 2648 | Apatzingán | 117849.0 | null | 
-| 1497 | Bergamo | 117837.0 | null | 
-| 2861 | Khanpur | 117800.0 | null | 
-| 3311 | Morogoro | 117800.0 | null | 
-| 1723 | Okinawa | 117748.0 | null | 
-| 3056 | Helsingborg | 117737.0 | null | 
-| 3002 | Besançon | 117733.0 | null | 
-| 850 | San Juan del Monte | 117680.0 | null | 
-| 1280 | Fatehpur | 117675.0 | null | 
-| 3982 | Coral Springs | 117549.0 | null | 
-| 851 | Tanauan | 117539.0 | null | 
-| 164 | Sylhet | 117396.0 | null | 
-| 3402 | Alanya | 117300.0 | null | 
-| 2195 | Puqi | 117264.0 | null | 
-| 1724 | Yaizu | 117258.0 | null | 
-| 3132 | Pforzheim | 117227.0 | null | 
-| 2796 | Shagamu | 117200.0 | null | 
-| 3720 | Noginsk | 117200.0 | null | 
-| 24 | Leiden | 117196.0 | null | 
-| 45 | Béjaïa | 117162.0 | null | 
-| 3501 | Hamilton | 117100.0 | null | 
-| 3057 | Jönköping | 117095.0 | null | 
-| 3983 | Stamford | 117083.0 | null | 
-| 2649 | Atlixco | 117019.0 | null | 
-| 3568 | Catia La Mar | 117012.0 | null | 
-| 3984 | Thousand Oaks | 117005.0 | null | 
-| 996 | Cilegon | 117000.0 | null | 
-| 388 | Bragança Paulista | 116929.0 | null | 
-| 1427 | Masjed-e-Soleyman | 116883.0 | null | 
-| 1281 | Mahbubnagar | 116833.0 | null | 
-| 3985 | Vallejo | 116760.0 | null | 
-| 1282 | Budaun | 116695.0 | null | 
-| 119 | Escobar | 116675.0 | null | 
-| 1283 | Porbandar | 116671.0 | null | 
-| 3986 | Palmdale | 116670.0 | null | 
-| 3133 | Offenbach am Main | 116627.0 | null | 
-| 120 | Concordia | 116485.0 | null | 
-| 1841 | Richmond Hill | 116428.0 | null | 
-| 3329 | Ubon Ratchathani | 116300.0 | null | 
-| 3517 | Navoi | 116300.0 | null | 
-| 3721 | Velikije Luki | 116300.0 | null | 
-| 1885 | Machakos | 116293.0 | null | 
-| 3987 | Columbia | 116278.0 | null | 
-| 3569 | El Tigre | 116256.0 | null | 
-| 180 | Brugge | 116246.0 | null | 
-| 3722 | Novokuibyševsk | 116200.0 | null | 
-| 2196 | Hongjiang | 116188.0 | null | 
-| 2406 | Herakleion | 116178.0 | null | 
-| 2650 | Delicias | 116132.0 | null | 
-| 3134 | Ulm | 116103.0 | null | 
-| 3468 | Lysytšansk | 116000.0 | null | 
-| 3988 | El Monte | 115965.0 | null | 
-| 3989 | Abilene | 115930.0 | null | 
-| 1842 | Thunder Bay | 115913.0 | null | 
-| 3293 | Taliao | 115897.0 | null | 
-| 2392 | Hanam | 115812.0 | null | 
-| 1725 | Toyokawa | 115781.0 | null | 
-| 578 | Curicó | 115766.0 | null | 
-| 3723 | Neftekamsk | 115700.0 | null | 
-| 1498 | Pescara | 115698.0 | null | 
-| 2312 | Uvira | 115590.0 | null | 
-| 1726 | Ebina | 115571.0 | null | 
-| 2651 | Ixtlahuaca | 115548.0 | null | 
-| 3213 | Maribor | 115532.0 | null | 
-| 3990 | North Las Vegas | 115488.0 | null | 
-| 1284 | Silchar | 115483.0 | null | 
-| 2393 | Kimje | 115427.0 | null | 
-| 1428 | Saqqez | 115394.0 | null | 
-| 46 | Mostaganem | 115212.0 | null | 
-| 852 | Concepcion | 115171.0 | null | 
-| 853 | Rodriguez (Montalban) | 115167.0 | null | 
-| 1285 | Berhampore (Baharampur) | 115144.0 | null | 
-| 1843 | Nepean | 115100.0 | null | 
-| 389 | Queimados | 115020.0 | null | 
-| 2862 | Gojra | 115000.0 | null | 
-| 3235 | Juba | 114980.0 | null | 
-| 390 | Araguaína | 114948.0 | null | 
-| 1286 | Purnea (Purnia) | 114912.0 | null | 
-| 3518 | Olmalik | 114900.0 | null | 
-| 1287 | Bankura | 114876.0 | null | 
-| 2435 | Daugavpils | 114829.0 | null | 
-| 3135 | Ingolstadt | 114826.0 | null | 
-| 1727 | Asaka | 114815.0 | null | 
-| 2480 | Sungai Petani | 114763.0 | null | 
-| 1844 | Cape Breton | 114733.0 | null | 
-| 3136 | Gera | 114718.0 | null | 
-| 391 | Garanhuns | 114603.0 | null | 
-| 2197 | Qinzhou | 114586.0 | null | 
-| 854 | Sariaya | 114568.0 | null | 
-| 1379 | Baquba | 114516.0 | null | 
-| 3249 | Lausanne | 114500.0 | null | 
-| 68 | Ajman | 114395.0 | null | 
-| 997 | Cianjur | 114300.0 | null | 
-| 2198 | Renqiu | 114256.0 | null | 
-| 3785 | Phan Thiêt | 114236.0 | null | 
-| 2407 | Kallithea | 114233.0 | null | 
-| 1288 | Rajapalaiyam | 114202.0 | null | 
-| 1499 | Latina | 114099.0 | null | 
-| 1289 | Titagarh | 114085.0 | null | 
-| 2199 | Yuyao | 114065.0 | null | 
-| 3786 | Cam Ranh | 114041.0 | null | 
-| 1845 | East York | 114034.0 | null | 
-| 1290 | Halisahar | 114028.0 | null | 
-| 2200 | Guigang | 114025.0 | null | 
-| 3991 | Ann Arbor | 114024.0 | null | 
-| 509 | Ipswich | 114000.0 | null | 
-| 3003 | Caen | 113987.0 | null | 
-| 2201 | Kaili | 113958.0 | null | 
-| 1846 | Halifax | 113910.0 | null | 
-| 4077 | Jabaliya | 113901.0 | null | 
-| 3992 | Beaumont | 113866.0 | null | 
-| 3724 | Leninsk-Kuznetski | 113800.0 | null | 
-| 3993 | Waco | 113726.0 | null | 
-| 636 | Bilbays | 113608.0 | null | 
-| 392 | Vitória de Santo Antão | 113595.0 | null | 
-| 2394 | Yongchon | 113511.0 | null | 
-| 2395 | Sachon | 113494.0 | null | 
-| 121 | Pilar | 113428.0 | null | 
-| 3994 | Macon | 113336.0 | null | 
-| 3995 | Independence | 113288.0 | null | 
-| 1291 | Hathras | 113285.0 | null | 
-| 2202 | Yan´an | 113277.0 | null | 
-| 855 | Malasiqui | 113190.0 | null | 
-| 393 | Santa Rita | 113135.0 | null | 
-| 3004 | Orléans | 113126.0 | null | 
-| 3354 | Kairouan | 113100.0 | null | 
-| 2408 | Larisa | 113090.0 | null | 
-| 508 | Watford | 113080.0 | null | 
-| 394 | Barbacena | 113079.0 | null | 
-| 701 | Tarragona | 113016.0 | null | 
-| 2740 | Maradi | 112965.0 | null | 
-| 3996 | Peoria | 112936.0 | null | 
-| 3137 | Salzgitter | 112934.0 | null | 
-| 2203 | Beihai | 112673.0 | null | 
-| 2204 | Xuangzhou | 112673.0 | null | 
-| 3997 | Inglewood | 112580.0 | null | 
-| 3787 | Vinh | 112455.0 | null | 
-| 1809 | Nkongsamba | 112454.0 | null | 
-| 2652 | El Mante | 112453.0 | null | 
-| 2502 | Nador | 112450.0 | null | 
-| 856 | General Mariano Alvarez | 112446.0 | null | 
-| 1292 | Bhir (Bid) | 112434.0 | null | 
-| 3489 | Nyiregyháza | 112419.0 | null | 
-| 2964 | Koszalin | 112375.0 | null | 
-| 2205 | Quzhou | 112373.0 | null | 
-| 3191 | Abha | 112300.0 | null | 
-| 2653 | Lerdo | 112272.0 | null | 
-| 759 | Gonder | 112249.0 | null | 
-| 702 | Lleida (Lérida) | 112207.0 | null | 
-| 3294 | Kueishan | 112195.0 | null | 
-| 47 | Tébessa | 112007.0 | null | 
-| 510 | Slough | 112000.0 | null | 
-| 3243 | Paramaribo | 112000.0 | null | 
-| 3403 | Kiziltepe | 112000.0 | null | 
-| 3469 | Jevpatorija | 112000.0 | null | 
-| 1886 | Eldoret | 111882.0 | null | 
-| 3295 | Tanshui | 111882.0 | null | 
-| 1293 | Pallavaram | 111866.0 | null | 
-| 2206 | Yong´an | 111762.0 | null | 
-| 1527 | Innsbruck | 111752.0 | null | 
-| 909 | Sohumi | 111700.0 | null | 
-| 1728 | Higashikurume | 111666.0 | null | 
-| 1729 | Ikoma | 111645.0 | null | 
-| 857 | Urdaneta | 111582.0 | null | 
-| 3404 | Zonguldak | 111542.0 | null | 
-| 998 | Ciparay | 111500.0 | null | 
-| 3725 | Oktjabrski | 111500.0 | null | 
-| 3998 | Springfield | 111454.0 | null | 
-| 858 | Hagonoy | 111425.0 | null | 
-| 3999 | Simi Valley | 111351.0 | null | 
-| 1730 | Kitami | 111295.0 | null | 
-| 395 | Abaetetuba | 111258.0 | null | 
-| 1429 | Gonbad-e Qabus | 111253.0 | null | 
-| 1430 | Saveh | 111245.0 | null | 
-| 2797 | Awka | 111200.0 | null | 
-| 3726 | Sergijev Posad | 111100.0 | null | 
-| 3296 | Taitung | 111039.0 | null | 
-| 859 | San Jose | 111009.0 | null | 
-| 511 | Exeter | 111000.0 | null | 
-| 1731 | Koganei | 110969.0 | null | 
-| 2288 | Girardot | 110963.0 | null | 
-| 3138 | Cottbus | 110894.0 | null | 
-| 25 | Haarlemmermeer | 110722.0 | null | 
-| 860 | Polomolok | 110709.0 | null | 
-| 3727 | Arzamas | 110700.0 | null | 
-| 2289 | Buga | 110699.0 | null | 
-| 2654 | Almoloya de Juárez | 110550.0 | null | 
-| 861 | Santiago | 110531.0 | null | 
-| 862 | Tanza | 110517.0 | null | 
-| 2655 | Acámbaro | 110487.0 | null | 
-| 863 | Ozamis | 110420.0 | null | 
-| 2656 | Acuña | 110388.0 | null | 
-| 1529 | Spanish Town | 110379.0 | null | 
-| 3005 | Mulhouse | 110359.0 | null | 
-| 3139 | Reutlingen | 110343.0 | null | 
-| 1294 | Anand | 110266.0 | null | 
-| 4000 | Lafayette | 110257.0 | null | 
-| 48 | Tlemcen (Tilimsen) | 110242.0 | null | 
-| 26 | Zoetermeer | 110214.0 | null | 
-| 122 | San Luis | 110136.0 | null | 
-| 2207 | Zixing | 110048.0 | null | 
-| 1732 | Iwatsuki | 110034.0 | null | 
-| 1295 | Mango | 110024.0 | null | 
-| 2907 | Chincha Alta | 110016.0 | null | 
-| 3531 | Mozyr | 110000.0 | null | 
-| 3728 | Kiseljovsk | 110000.0 | null | 
-| 913 | Tema | 109975.0 | null | 
-| 396 | Jaú | 109965.0 | null | 
-| 1296 | Santipur | 109956.0 | null | 
-| 142 | Townsville | 109914.0 | null | 
-| 3140 | Fürth | 109771.0 | null | 
-| 1297 | Bhind | 109755.0 | null | 
-| 2290 | Tunja | 109740.0 | null | 
-| 1500 | Vicenza | 109738.0 | null | 
-| 1733 | Mishima | 109699.0 | null | 
-| 4001 | Gilbert | 109697.0 | null | 
-| 999 | Lhokseumawe | 109600.0 | null | 
-| 2863 | Bahawalnagar | 109600.0 | null | 
-| 3729 | Novotroitsk | 109600.0 | null | 
-| 4002 | Carrollton | 109576.0 | null | 
-| 4003 | Bellevue | 109569.0 | null | 
-| 2208 | Liyang | 109520.0 | null | 
-| 1878 | Rudnyy | 109500.0 | null | 
-| 3519 | Termiz | 109500.0 | null | 
-| 864 | Mexico | 109481.0 | null | 
-| 1298 | Gondiya | 109470.0 | null | 
-| 2816 | Korhogo | 109445.0 | null | 
-| 2313 | Butembo | 109406.0 | null | 
-| 2424 | Manzanillo | 109350.0 | null | 
-| 2965 | Legnica | 109335.0 | null | 
-| 3204 | Mbour | 109300.0 | null | 
-| 2209 | Yizheng | 109268.0 | null | 
-| 703 | Jaén | 109247.0 | null | 
-| 397 | Lauro de Freitas | 109236.0 | null | 
-| 2210 | Yumen | 109234.0 | null | 
-| 3141 | Siegen | 109225.0 | null | 
-| 1299 | Tiruvannamalai | 109196.0 | null | 
-| 1847 | Cambridge | 109186.0 | null | 
-| 1449 | Reykjavík | 109184.0 | null | 
-| 3570 | Guatire | 109121.0 | null | 
-| 704 | Ourense (Orense) | 109120.0 | null | 
-| 2314 | Goma | 109094.0 | null | 
-| 165 | Brahmanbaria | 109032.0 | null | 
-| 3470 | Kamjanets-Podilskyi | 109000.0 | null | 
-| 398 | Franco da Rocha | 108964.0 | null | 
-| 3355 | Biserta | 108900.0 | null | 
-| 4004 | West Valley City | 108896.0 | null | 
-| 2657 | Guadalupe | 108881.0 | null | 
-| 2810 | Stavanger | 108848.0 | null | 
-| 2396 | Uiwang | 108788.0 | null | 
-| 4005 | Clarksville | 108787.0 | null | 
-| 4006 | Costa Mesa | 108724.0 | null | 
-| 1734 | Handa | 108600.0 | null | 
-| 2864 | Muridke | 108600.0 | null | 
-| 1300 | Yeotmal (Yavatmal) | 108578.0 | null | 
-| 2291 | Florencia | 108574.0 | null | 
-| 1301 | Kulti-Barakar | 108518.0 | null | 
-| 2211 | Liling | 108504.0 | null | 
-| 591 | San Francisco de Macorís | 108485.0 | null | 
-| 399 | Teixeira de Freitas | 108441.0 | null | 
-| 3297 | Hualien | 108407.0 | null | 
-| 3788 | My Tho | 108404.0 | null | 
-| 4007 | Peoria | 108364.0 | null | 
-| 2212 | Yuncheng | 108359.0 | null | 
-| 400 | Varginha | 108314.0 | null | 
-| 1302 | Moga | 108304.0 | null | 
-| 3730 | Obninsk | 108300.0 | null | 
-| 1303 | Shivapuri | 108277.0 | null | 
-| 1735 | Muroran | 108275.0 | null | 
-| 865 | San Jose | 108254.0 | null | 
-| 401 | Ribeirão Pires | 108121.0 | null | 
-| 3192 | Ara´ar | 108100.0 | null | 
-| 2292 | Maicao | 108053.0 | null | 
-| 3259 | al-Raqqa | 108020.0 | null | 
-| 2658 | Huejutla de Reyes | 108017.0 | null | 
-| 1304 | Bidar | 108016.0 | null | 
-| 2908 | Cajamarca | 108009.0 | null | 
-| 3142 | Koblenz | 108003.0 | null | 
-| 1736 | Komatsu | 107937.0 | null | 
-| 2213 | Shanwei | 107847.0 | null | 
-| 2397 | Naju | 107831.0 | null | 
-| 2798 | Gombe | 107800.0 | null | 
-| 2865 | Pak Pattan | 107800.0 | null | 
-| 1431 | Mahabad | 107799.0 | null | 
-| 4008 | South Bend | 107789.0 | null | 
-| 402 | Sabará | 107781.0 | null | 
-| 1501 | Terni | 107770.0 | null | 
-| 403 | Catanduva | 107761.0 | null | 
-| 404 | Rio Verde | 107755.0 | null | 
-| 2293 | Sogamoso | 107728.0 | null | 
-| 866 | Silay | 107722.0 | null | 
-| 867 | General Trias | 107691.0 | null | 
-| 405 | Botucatu | 107663.0 | null | 
-| 1737 | Yatsushiro | 107661.0 | null | 
-| 2720 | Lashio (Lasho) | 107600.0 | null | 
-| 1305 | Guntakal | 107592.0 | null | 
-| 1738 | Iida | 107583.0 | null | 
-| 2819 | Bawshar | 107500.0 | null | 
-| 1502 | Forlì | 107475.0 | null | 
-| 1306 | Unnao | 107425.0 | null | 
-| 3731 | Kansk | 107400.0 | null | 
-| 1307 | Barasat | 107365.0 | null | 
-| 406 | Colatina | 107354.0 | null | 
-| 2214 | Cixi | 107329.0 | null | 
-| 4009 | Downey | 107323.0 | null | 
-| 1848 | Gloucester | 107314.0 | null | 
-| 49 | Béchar | 107311.0 | null | 
-| 4010 | Waterbury | 107271.0 | null | 
-| 1432 | Varamin | 107233.0 | null | 
-| 1308 | Tambaram | 107187.0 | null | 
-| 868 | Tabaco | 107166.0 | null | 
-| 1309 | Abohar | 107163.0 | null | 
-| 3571 | Calabozo | 107146.0 | null | 
-| 3405 | Siirt | 107100.0 | null | 
-| 1739 | Tokuyama | 107078.0 | null | 
-| 2503 | Ksar el Kebir | 107065.0 | null | 
-| 4011 | Manchester | 107006.0 | null | 
-| 2215 | Yuanjiang | 107004.0 | null | 
-| 513 | Gloucester | 107000.0 | null | 
-| 1000 | Taman | 107000.0 | null | 
-| 1740 | Kokubunji | 106996.0 | null | 
-| 1433 | Andimeshk | 106923.0 | null | 
-| 1741 | Akishima | 106914.0 | null | 
-| 3143 | Moers | 106837.0 | null | 
-| 1001 | Depok | 106800.0 | null | 
-| 2799 | Igboho | 106800.0 | null | 
-| 407 | Santa Cruz do Sul | 106734.0 | null | 
-| 1742 | Iwakuni | 106647.0 | null | 
-| 2966 | Kalisz | 106641.0 | null | 
-| 4012 | Allentown | 106632.0 | null | 
-| 869 | Cabuyao | 106630.0 | null | 
-| 1310 | Pilibhit | 106605.0 | null | 
-| 3356 | Gabès | 106600.0 | null | 
-| 3006 | Rouen | 106592.0 | null | 
-| 1311 | Valparai | 106523.0 | null | 
-| 4013 | McAllen | 106414.0 | null | 
-| 3789 | Da Lat | 106409.0 | null | 
-| 3406 | Viransehir | 106400.0 | null | 
-| 3007 | Boulogne-Billancourt | 106367.0 | null | 
-| 2216 | Bozhou | 106346.0 | null | 
-| 3732 | Glazov | 106300.0 | null | 
-| 514 | Saint Helens | 106293.0 | null | 
-| 408 | Linhares | 106278.0 | null | 
-| 1743 | Kusatsu | 106232.0 | null | 
-| 4014 | Joliet | 106221.0 | null | 
-| 2659 | Hidalgo | 106198.0 | null | 
-| 3144 | Bergisch Gladbach | 106150.0 | null | 
-| 1744 | Kuwana | 106121.0 | null | 
-| 1312 | Gonda | 106078.0 | null | 
-| 3407 | Tekirdag | 106077.0 | null | 
-| 166 | Tangail | 106004.0 | null | 
-| 515 | Sutton Coldfield | 106001.0 | null | 
-| 512 | Cheltenham | 106000.0 | null | 
-| 2866 | Abottabad | 106000.0 | null | 
-| 3532 | Novopolotsk | 106000.0 | null | 
-| 3733 | Solikamsk | 106000.0 | null | 
-| 1313 | Surendranagar | 105973.0 | null | 
-| 870 | Calapan | 105910.0 | null | 
-| 871 | Mati | 105908.0 | null | 
-| 2800 | Ejigbo | 105900.0 | null | 
-| 27 | Emmen | 105853.0 | null | 
-| 28 | Zwolle | 105819.0 | null | 
-| 750 | Paarl | 105768.0 | null | 
-| 872 | Midsayap | 105760.0 | null | 
-| 2721 | Prome (Pyay) | 105700.0 | null | 
-| 3734 | Sarapul | 105700.0 | null | 
-| 181 | Schaerbeek | 105692.0 | null | 
-| 3572 | Pozuelos | 105690.0 | null | 
-| 1745 | Sanda | 105643.0 | null | 
-| 1434 | Khorramshahr | 105636.0 | null | 
-| 3490 | Kecskemét | 105606.0 | null | 
-| 546 | Sliven | 105530.0 | null | 
-| 1746 | Hikone | 105508.0 | null | 
-| 182 | Namur | 105419.0 | null | 
-| 1849 | Abbotsford | 105403.0 | null | 
-| 1314 | Qutubullapur | 105380.0 | null | 
-| 1315 | Beawar | 105363.0 | null | 
-| 2217 | Jinchang | 105287.0 | null | 
-| 2218 | Fu´an | 105265.0 | null | 
-| 3735 | Ust-Ilimsk | 105200.0 | null | 
-| 2660 | Los Cabos | 105199.0 | null | 
-| 4015 | Lowell | 105167.0 | null | 
-| 4016 | Provo | 105166.0 | null | 
-| 3491 | Székesfehérvár | 105119.0 | null | 
-| 3008 | Perpignan | 105115.0 | null | 
-| 409 | Apucarana | 105114.0 | null | 
-| 1002 | Citeureup | 105100.0 | null | 
-| 1802 | Siem Reap | 105100.0 | null | 
-| 4017 | West Covina | 105080.0 | null | 
-| 2219 | Suqian | 105021.0 | null | 
-| 551 | Koudougou | 105000.0 | null | 
-| 2801 | Agege | 105000.0 | null | 
-| 3471 | Jenakijeve | 105000.0 | null | 
-| 2661 | Comitán de Domínguez | 104986.0 | null | 
-| 1503 | Trento | 104906.0 | null | 
-| 3736 | Štšolkovo | 104900.0 | null | 
-| 1435 | Shahrud | 104765.0 | null | 
-| 2412 | Osijek | 104761.0 | null | 
-| 3298 | Nantou | 104723.0 | null | 
-| 2722 | Henzada (Hinthada) | 104700.0 | null | 
-| 1316 | Hindupur | 104651.0 | null | 
-| 1317 | Gandhidham | 104585.0 | null | 
-| 2220 | Shishou | 104571.0 | null | 
-| 3058 | Umeå | 104512.0 | null | 
-| 516 | York | 104425.0 | null | 
-| 3737 | Mezduretšensk | 104400.0 | null | 
-| 2221 | Hengshui | 104269.0 | null | 
-| 3408 | Karaman | 104200.0 | null | 
-| 4018 | Wichita Falls | 104197.0 | null | 
-| 1318 | Haldwani-cum-Kathgodam | 104195.0 | null | 
-| 2662 | Cunduacán | 104164.0 | null | 
-| 410 | Barretos | 104156.0 | null | 
-| 3145 | Zwickau | 104146.0 | null | 
-| 705 | Mataró | 104095.0 | null | 
-| 3146 | Hildesheim | 104013.0 | null | 
-| 3409 | Afyon | 103984.0 | null | 
-| 1747 | Toda | 103969.0 | null | 
-| 1530 | Kingston | 103962.0 | null | 
-| 873 | Cauayan | 103952.0 | null | 
-| 517 | Oldham | 103931.0 | null | 
-| 2663 | Río Bravo | 103901.0 | null | 
-| 4019 | Erie | 103717.0 | null | 
-| 914 | Sekondi-Takoradi | 103653.0 | null | 
-| 4020 | Daly City | 103621.0 | null | 
-| 3009 | Nancy | 103605.0 | null | 
-| 2723 | Myingyan | 103600.0 | null | 
-| 1850 | Guelph | 103593.0 | null | 
-| 1319 | Tellicherry (Thalassery) | 103579.0 | null | 
-| 1436 | Marv Dasht | 103579.0 | null | 
-| 189 | Parakou | 103577.0 | null | 
-| 167 | Jamalpur | 103556.0 | null | 
-| 2398 | Namwon | 103544.0 | null | 
-| 1003 | Pemalang | 103500.0 | null | 
-| 3738 | Usolje-Sibirskoje | 103500.0 | null | 
-| 4021 | Citrus Heights | 103455.0 | null | 
-| 411 | Guaratinguetá | 103433.0 | null | 
-| 2802 | Ise-Ekiti | 103400.0 | null | 
-| 2867 | Tando Adam | 103400.0 | null | 
-| 3147 | Witten | 103384.0 | null | 
-| 1004 | Klaten | 103300.0 | null | 
-| 1785 | Ibb | 103300.0 | null | 
-| 2868 | Jaranwala | 103300.0 | null | 
-| 3739 | Elista | 103300.0 | null | 
-| 4022 | Norwalk | 103298.0 | null | 
-| 168 | Pabna | 103277.0 | null | 
-| 412 | Cachoeirinha | 103240.0 | null | 
-| 2222 | Danjiangkou | 103211.0 | null | 
-| 1748 | Tajimi | 103171.0 | null | 
-| 413 | Codó | 103153.0 | null | 
-| 706 | Algeciras | 103106.0 | null | 
-| 2223 | Fujin | 103104.0 | null | 
-| 3299 | Lungtan | 103088.0 | null | 
-| 1005 | Salatiga | 103000.0 | null | 
-| 1320 | Wardha | 102985.0 | null | 
-| 3148 | Schwerin | 102878.0 | null | 
-| 2664 | Temapache | 102824.0 | null | 
-| 2224 | Sanya | 102820.0 | null | 
-| 2225 | Guangshui | 102770.0 | null | 
-| 4023 | Gary | 102746.0 | null | 
-| 4024 | Berkeley | 102743.0 | null | 
-| 2665 | Chilapa de Alvarez | 102716.0 | null | 
-| 1749 | Ikeda | 102710.0 | null | 
-| 3343 | Olomouc | 102702.0 | null | 
-| 3410 | Aksaray | 102681.0 | null | 
-| 1321 | Rishra | 102649.0 | null | 
-| 2226 | Huangshan | 102628.0 | null | 
-| 903 | Serekunda | 102600.0 | null | 
-| 2803 | Ugep | 102600.0 | null | 
-| 414 | Jaraguá do Sul | 102580.0 | null | 
-| 3312 | Arusha | 102500.0 | null | 
-| 2967 | Grudziadz | 102434.0 | null | 
-| 3411 | Ceyhan | 102412.0 | null | 
-| 2227 | Xingcheng | 102384.0 | null | 
-| 874 | Gingoog | 102379.0 | null | 
-| 415 | Cubatão | 102372.0 | null | 
-| 2968 | Slupsk | 102370.0 | null | 
-| 4025 | Santa Clara | 102361.0 | null | 
-| 4026 | Green Bay | 102313.0 | null | 
-| 3412 | Erzincan | 102304.0 | null | 
-| 2969 | Jastrzebie-Zdrój | 102294.0 | null | 
-| 4027 | Cape Coral | 102286.0 | null | 
-| 875 | Dumaguete | 102265.0 | null | 
-| 932 | Le-Cap-Haïtien | 102233.0 | null | 
-| 416 | Itabira | 102217.0 | null | 
-| 2869 | Khairpur | 102200.0 | null | 
-| 2428 | Jalib al-Shuyukh | 102178.0 | null | 
-| 1322 | Bhuj | 102176.0 | null | 
-| 1750 | Fukaya | 102156.0 | null | 
-| 4028 | Arvada | 102153.0 | null | 
-| 2228 | Zhucheng | 102134.0 | null | 
-| 4029 | Pueblo | 102121.0 | null | 
-| 876 | San Fernando | 102082.0 | null | 
-| 2229 | Kunshan | 102052.0 | null | 
-| 1504 | Novara | 102037.0 | null | 
-| 2481 | Shah Alam | 102019.0 | null | 
-| 2706 | Tete | 101984.0 | null | 
-| 1851 | Saint John´s | 101936.0 | null | 
-| 3740 | Novošahtinsk | 101900.0 | null | 
-| 4030 | Sandy | 101853.0 | null | 
-| 1852 | Coquitlam | 101820.0 | null | 
-| 751 | Potchefstroom | 101817.0 | null | 
-| 205 | Francistown | 101805.0 | null | 
-| 637 | Mit Ghamr | 101801.0 | null | 
-| 877 | Arayat | 101792.0 | null | 
-| 1751 | Ise | 101732.0 | null | 
-| 2870 | Chishtian Mandi | 101700.0 | null | 
-| 3741 | Votkinsk | 101700.0 | null | 
-| 1323 | Modinagar | 101660.0 | null | 
-| 1324 | Gudivada | 101656.0 | null | 
-| 1752 | Sakata | 101651.0 | null | 
-| 2909 | Puno | 101578.0 | null | 
-| 29 | Ede | 101574.0 | null | 
-| 2871 | Daska | 101500.0 | null | 
-| 4031 | Athens-Clarke County | 101489.0 | null | 
-| 1325 | Basirhat | 101409.0 | null | 
-| 3413 | Bismil | 101400.0 | null | 
-| 878 | Bayawan (Tulong) | 101391.0 | null | 
-| 1853 | Saanich | 101388.0 | null | 
-| 4032 | Cambridge | 101355.0 | null | 
-| 1753 | Kasuga | 101344.0 | null | 
-| 2811 | Bærum | 101340.0 | null | 
-| 417 | Itaituba | 101320.0 | null | 
-| 2315 | Kalemie | 101309.0 | null | 
-| 1006 | Cibinong | 101300.0 | null | 
-| 924 | Villa Nueva | 101295.0 | null | 
-| 169 | Naogaon | 101266.0 | null | 
-| 3792 | Tartu | 101246.0 | null | 
-| 879 | Kidapawan | 101205.0 | null | 
-| 707 | Marbella | 101144.0 | null | 
-| 3742 | Kyzyl | 101100.0 | null | 
-| 2910 | Ventanilla | 101056.0 | null | 
-| 418 | Araras | 101046.0 | null | 
-| 880 | Daraga (Locsin) | 101031.0 | null | 
-| 881 | Marilao | 101017.0 | null | 
-| 2804 | Epe | 101000.0 | null | 
-| 3422 | Mary | 101000.0 | null | 
-| 3472 | Krasnyi Lutš | 101000.0 | null | 
-| 3473 | Stahanov | 101000.0 | null | 
-| 3533 | Lida | 101000.0 | null | 
-| 3534 | Soligorsk | 101000.0 | null | 
-| 4033 | Westminster | 100940.0 | null | 
-| 518 | Basildon | 100924.0 | null | 
-| 4034 | San Buenaventura | 100916.0 | null | 
-| 1437 | Zabol | 100887.0 | null | 
-| 2666 | Hidalgo del Parral | 100881.0 | null | 
-| 1326 | Uttarpara-Kotrung | 100867.0 | null | 
-| 1327 | Ongole | 100836.0 | null | 
-| 1754 | Kamagaya | 100821.0 | null | 
-| 2458 | Mahajanga | 100807.0 | null | 
-| 2425 | Sancti-Spíritus | 100751.0 | null | 
-| 3149 | Erlangen | 100750.0 | null | 
-| 1755 | Tsuruoka | 100713.0 | null | 
-| 1854 | Gatineau | 100702.0 | null | 
-| 419 | Resende | 100627.0 | null | 
-| 2512 | Beau Bassin-Rose Hill | 100616.0 | null | 
-| 4035 | Portsmouth | 100565.0 | null | 
-| 4036 | Livonia | 100545.0 | null | 
-| 1328 | North Barrackpur | 100513.0 | null | 
-| 1329 | Guna | 100490.0 | null | 
-| 2230 | Haining | 100478.0 | null | 
-| 1438 | Shahr-e Kord | 100477.0 | null | 
-| 638 | al-Arish | 100447.0 | null | 
-| 3743 | Serov | 100400.0 | null | 
-| 547 | Dobric | 100399.0 | null | 
-| 1798 | Subotica | 100386.0 | null | 
-| 420 | Atibaia | 100356.0 | null | 
-| 1330 | Haldia | 100347.0 | null | 
-| 4037 | Burbank | 100316.0 | null | 
-| 1756 | Hoya | 100313.0 | null | 
-| 4078 | Nablus | 100231.0 | null | 
-| 1331 | Habra | 100223.0 | null | 
-| 3744 | Zelenodolsk | 100200.0 | null | 
-| 1332 | Kanchrapara | 100194.0 | null | 
-| 2667 | San Francisco del Rincón | 100149.0 | null | 
-| 2924 | Arecibo | 100131.0 | null | 
-| 50 | Tiaret | 100118.0 | null | 
-| 3745 | Zeleznodoroznyi | 100100.0 | null | 
-| 1333 | Tonk | 100079.0 | null | 
-| 2925 | Guaynabo | 100053.0 | null | 
-| 1757 | Nishio | 100032.0 | null | 
-| 421 | Pouso Alegre | 100028.0 | null | 
-| 3150 | Kaiserslautern | 100025.0 | null | 
-| 519 | Worthing | 100000.0 | null | 
-| 882 | Malita | 100000.0 | null | 
-| 3223 | Negombo | 100000.0 | null | 
-| 3746 | Kinešma | 100000.0 | null | 
-| 4038 | Clearwater | 99936.0 | null | 
-| 2668 | Taxco de Alarcón | 99907.0 | null | 
-| 3414 | Nazilli | 99900.0 | null | 
-| 3151 | Trier | 99891.0 | null | 
-| 883 | Dipolog | 99862.0 | null | 
-| 1531 | Portmore | 99799.0 | null | 
-| 2669 | Zumpango | 99781.0 | null | 
-| 3152 | Jena | 99779.0 | null | 
-| 1758 | Tokai | 99738.0 | null | 
-| 2670 | San Pedro Cholula | 99734.0 | null | 
-| 2671 | Lerma | 99714.0 | null | 
-| 1007 | Palangka Raya | 99693.0 | null | 
-| 2888 | Lambaré | 99681.0 | null | 
-| 170 | Sirajganj | 99669.0 | null | 
-| 123 | Ezeiza | 99578.0 | null | 
-| 3338 | Moundou | 99500.0 | null | 
-| 3415 | Tokat | 99500.0 | null | 
-| 3153 | Iserlohn | 99474.0 | null | 
-| 2707 | Xai-Xai | 99442.0 | null | 
-| 3205 | Diourbel | 99400.0 | null | 
-| 422 | Toledo | 99387.0 | null | 
-| 884 | Cavite | 99367.0 | null | 
-| 3573 | Ciudad Ojeda | 99354.0 | null | 
-| 2708 | Gurue | 99300.0 | null | 
-| 2672 | Tecomán | 99296.0 | null | 
-| 2231 | Pingliang | 99265.0 | null | 
-| 2232 | Fuqing | 99193.0 | null | 
-| 3344 | Liberec | 99155.0 | null | 
-| 2459 | Fianarantsoa | 99005.0 | null | 
-| 3474 | Oleksandrija | 99000.0 | null | 
-| 3042 | Târgoviste | 98980.0 | null | 
-| 3043 | Focsani | 98979.0 | null | 
-| 423 | Crato | 98965.0 | null | 
-| 3059 | Lund | 98948.0 | null | 
-| 3193 | al-Qatif | 98900.0 | null | 
-| 3300 | Touliu | 98900.0 | null | 
-| 1334 | Champdani | 98818.0 | null | 
-| 885 | Danao | 98781.0 | null | 
-| 1759 | Inazawa | 98746.0 | null | 
-| 2233 | Xinzhou | 98667.0 | null | 
-| 1335 | Orai | 98640.0 | null | 
-| 1336 | Pudukkottai | 98619.0 | null | 
-| 2872 | Dadu | 98600.0 | null | 
-| 424 | Passos | 98570.0 | null | 
-| 2234 | Jieyang | 98531.0 | null | 
-| 3044 | Târgu Jiu | 98524.0 | null | 
-| 2426 | Ciego de Ávila | 98505.0 | null | 
-| 1439 | Bandar-e Anzali | 98500.0 | null | 
-| 2513 | Vacoas-Phoenix | 98464.0 | null | 
-| 2926 | Mayagüez | 98434.0 | null | 
-| 650 | Nueva San Salvador | 98400.0 | null | 
-| 425 | Araguari | 98399.0 | null | 
-| 1505 | Piacenza | 98384.0 | null | 
-| 171 | Narsinghdi | 98342.0 | null | 
-| 1506 | Ancona | 98329.0 | null | 
-| 426 | São José de Ribamar | 98318.0 | null | 
-| 1440 | Rafsanjan | 98300.0 | null | 
-| 4039 | Midland | 98293.0 | null | 
-| 4040 | Davenport | 98256.0 | null | 
-| 1760 | Sakado | 98221.0 | null | 
-| 1337 | Sasaram | 98220.0 | null | 
-| 708 | Barakaldo | 98212.0 | null | 
-| 1507 | Lecce | 98208.0 | null | 
-| 3747 | Kuznetsk | 98200.0 | null | 
-| 427 | Pinhais | 98198.0 | null | 
-| 3345 | Ceské Budejovice | 98186.0 | null | 
-| 428 | Sertãozinho | 98140.0 | null | 
-| 1761 | Isehara | 98123.0 | null | 
-| 3502 | Lower Hutt | 98100.0 | null | 
-| 3346 | Hradec Králové | 98080.0 | null | 
-| 4041 | Mission Viejo | 98049.0 | null | 
-| 1879 | Taldyqorghan | 98000.0 | null | 
-| 3748 | Uhta | 98000.0 | null | 
-| 2235 | Zhangjiagang | 97994.0 | null | 
-| 2970 | Jaworzno | 97929.0 | null | 
-| 3749 | Jessentuki | 97900.0 | null | 
-| 886 | Bislig | 97860.0 | null | 
-| 4042 | Miami Beach | 97855.0 | null | 
-| 1338 | Hazaribag | 97712.0 | null | 
-| 639 | Talkha | 97700.0 | null | 
-| 1339 | Palayankottai | 97662.0 | null | 
-| 1762 | Takasago | 97632.0 | null | 
-| 2510 | Nouâdhibou | 97600.0 | null | 
-| 3750 | Tobolsk | 97600.0 | null | 
-| 429 | Conselheiro Lafaiete | 97507.0 | null | 
-| 520 | Chelmsford | 97451.0 | null | 
-| 3751 | Neftejugansk | 97400.0 | null | 
-| 2673 | Las Margaritas | 97389.0 | null | 
-| 2736 | Chinandega | 97387.0 | null | 
-| 887 | Talavera | 97329.0 | null | 
-| 760 | Dese | 97314.0 | null | 
-| 2873 | Mandi Bahauddin | 97300.0 | null | 
-| 3752 | Bataisk | 97300.0 | null | 
-| 3753 | Nojabrsk | 97300.0 | null | 
-| 430 | Paulo Afonso | 97291.0 | null | 
-| 1508 | Bolzano | 97232.0 | null | 
-| 1340 | Banda | 97227.0 | null | 
-| 640 | Qalyub | 97200.0 | null | 
-| 2674 | Cosoleacaque | 97199.0 | null | 
-| 2236 | Tong Xian | 97168.0 | null | 
-| 3574 | Ocumare del Tuy | 97168.0 | null | 
-| 3754 | Balašov | 97100.0 | null | 
-| 3790 | Buon Ma Thuot | 97044.0 | null | 
-| 752 | Rustenburg | 97008.0 | null | 
-| 522 | Crawley | 97000.0 | null | 
-| 3535 | Molodetšno | 97000.0 | null | 
-| 3010 | Roubaix | 96984.0 | null | 
-| 1763 | Fujimi | 96972.0 | null | 
-| 761 | Mekele | 96938.0 | null | 
-| 3242 | Lahti | 96921.0 | null | 
-| 3755 | Zeleznogorsk | 96900.0 | null | 
-| 3060 | Borås | 96883.0 | null | 
-| 431 | Angra dos Reis | 96864.0 | null | 
-| 888 | Guagua | 96858.0 | null | 
-| 1341 | Godhra | 96813.0 | null | 
-| 2724 | Tavoy (Dawei) | 96800.0 | null | 
-| 3301 | Tsaotun | 96800.0 | null | 
-| 3313 | Moshi | 96800.0 | null | 
-| 51 | Ech-Chleff (el-Asnam) | 96794.0 | null | 
-| 172 | Saidpur | 96777.0 | null | 
-| 2675 | San Luis de la Paz | 96763.0 | null | 
-| 753 | Nigel | 96734.0 | null | 
-| 173 | Gazipur | 96717.0 | null | 
-| 1509 | Catanzaro | 96700.0 | null | 
-| 2433 | Savannakhet | 96652.0 | null | 
-| 1008 | Mojokerto | 96626.0 | null | 
-| 432 | Eunápolis | 96610.0 | null | 
-| 889 | Bayambang | 96609.0 | null | 
-| 3756 | Zukovski | 96500.0 | null | 
-| 1441 | Marand | 96400.0 | null | 
-| 433 | Salto | 96348.0 | null | 
-| 1342 | Hospet | 96322.0 | null | 
-| 1343 | Ashoknagar-Kalyangarh | 96315.0 | null | 
-| 434 | Ourinhos | 96291.0 | null | 
-| 3045 | Tulcea | 96278.0 | null | 
-| 1344 | Achalpur | 96216.0 | null | 
-| 435 | Parnamirim | 96210.0 | null | 
-| 2504 | Settat | 96200.0 | null | 
-| 762 | Bahir Dar | 96140.0 | null | 
-| 436 | Jacobina | 96131.0 | null | 
-| 890 | Nasugbu | 96113.0 | null | 
-| 1345 | Patan | 96109.0 | null | 
-| 2917 | Coímbra | 96100.0 | null | 
-| 3757 | Anzero-Sudzensk | 96100.0 | null | 
-| 521 | Colchester | 96063.0 | null | 
-| 203 | Zenica | 96027.0 | null | 
-| 1764 | Urasoe | 96002.0 | null | 
-| 2874 | Ahmadpur East | 96000.0 | null | 
-| 3475 | Konotop | 96000.0 | null | 
-| 437 | Coronel Fabriciano | 95933.0 | null | 
-| 3575 | Valle de la Pascua | 95927.0 | null | 
-| 1009 | Purwakarta | 95900.0 | null | 
-| 2237 | Ya´an | 95900.0 | null | 
-| 1010 | Garut | 95800.0 | null | 
-| 2238 | Jinzhou | 95761.0 | null | 
-| 1346 | Mandasor | 95758.0 | null | 
-| 1347 | Damoh | 95661.0 | null | 
-| 891 | Baybay | 95630.0 | null | 
-| 1765 | Yonezawa | 95592.0 | null | 
-| 1766 | Konan | 95521.0 | null | 
-| 1510 | La Spezia | 95504.0 | null | 
-| 3347 | Ústí nad Labem | 95491.0 | null | 
-| 2399 | Tonghae | 95472.0 | null | 
-| 2676 | José Azueta | 95448.0 | null | 
-| 1855 | Delta | 95411.0 | null | 
-| 641 | Jirja | 95400.0 | null | 
-| 4043 | Sunrise Manor | 95362.0 | null | 
-| 2677 | Santiago Ixcuintla | 95311.0 | null | 
-| 2678 | San Felipe | 95305.0 | null | 
-| 1011 | Kudus | 95300.0 | null | 
-| 2875 | Kamalia | 95300.0 | null | 
-| 2889 | Fernando de la Mora | 95287.0 | null | 
-| 30 | Delft | 95268.0 | null | 
-| 892 | Capas | 95219.0 | null | 
-| 1767 | Yamatokoriyama | 95165.0 | null | 
-| 1348 | Satara | 95133.0 | null | 
-| 31 | Heerlen | 95052.0 | null | 
-| 3154 | Gütersloh | 95028.0 | null | 
-| 527 | Worcester | 95000.0 | null | 
-| 3476 | Kostjantynivka | 95000.0 | null | 
-| 1887 | Meru | 94947.0 | null | 
-| 2679 | Tejupilco | 94934.0 | null | 
-| 1511 | Udine | 94932.0 | null | 
-| 3330 | Songkhla | 94900.0 | null | 
-| 1349 | Meerut Cantonment | 94876.0 | null | 
-| 893 | Sultan Kudarat | 94861.0 | null | 
-| 579 | Ovalle | 94854.0 | null | 
-| 1012 | Kendari | 94800.0 | null | 
-| 1859 | Praia | 94800.0 | null | 
-| 2725 | Pagakku (Pakokku) | 94800.0 | null | 
-| 1768 | Maizuru | 94784.0 | null | 
-| 4044 | New Bedford | 94780.0 | null | 
-| 2680 | Tantoyuca | 94709.0 | null | 
-| 1013 | Jaya Pura | 94700.0 | null | 
-| 548 | Šumen | 94686.0 | null | 
-| 438 | Birigui | 94685.0 | null | 
-| 124 | San Rafael | 94651.0 | null | 
-| 1442 | Torbat-e Heydariyeh | 94600.0 | null | 
-| 709 | Dos Hermanas | 94591.0 | null | 
-| 4045 | El Cajon | 94578.0 | null | 
-| 524 | Solihull | 94531.0 | null | 
-| 1350 | Dehri | 94526.0 | null | 
-| 1512 | Torre del Greco | 94505.0 | null | 
-| 894 | Laoag | 94466.0 | null | 
-| 1513 | Andria | 94443.0 | null | 
-| 1351 | Delhi Cantonment | 94326.0 | null | 
-| 2681 | Salvatierra | 94322.0 | null | 
-| 525 | Rochdale | 94313.0 | null | 
-| 3576 | Araure | 94269.0 | null | 
-| 642 | Idfu | 94200.0 | null | 
-| 1443 | Jahrom | 94200.0 | null | 
-| 4046 | Norman | 94193.0 | null | 
-| 3331 | Nakhon Pathom | 94100.0 | null | 
-| 3758 | Bugulma | 94100.0 | null | 
-| 4047 | Richmond | 94100.0 | null | 
-| 2927 | Toa Baja | 94085.0 | null | 
-| 1014 | Gorontalo | 94058.0 | null | 
-| 2508 | Fort-de-France | 94050.0 | null | 
-| 2239 | Emeishan | 94000.0 | null | 
-| 3759 | Zeleznogorsk | 94000.0 | null | 
-| 4048 | Albany | 93994.0 | null | 
-| 2709 | Maxixe | 93985.0 | null | 
-| 3211 | Prešov | 93977.0 | null | 
-| 3046 | Resita | 93976.0 | null | 
-| 3011 | Argenteuil | 93961.0 | null | 
-| 2971 | Jelenia Góra | 93901.0 | null | 
-| 147 | Mingäçevir | 93900.0 | null | 
-| 3194 | al-Hawiya | 93900.0 | null | 
-| 439 | Tatuí | 93897.0 | null | 
-| 754 | George | 93818.0 | null | 
-| 3577 | San Fernando de Apure | 93809.0 | null | 
-| 1769 | Onomichi | 93756.0 | null | 
-| 710 | Santiago de Compostela | 93745.0 | null | 
-| 3155 | Marl | 93735.0 | null | 
-| 1352 | Chhindwara | 93731.0 | null | 
-| 4049 | Brockton | 93653.0 | null | 
-| 895 | Bayugan | 93623.0 | null | 
-| 3012 | Tourcoing | 93540.0 | null | 
-| 1514 | Brindisi | 93454.0 | null | 
-| 1353 | Bansberia | 93447.0 | null | 
-| 2682 | Tultepec | 93364.0 | null | 
-| 4050 | Roanoke | 93357.0 | null | 
-| 1354 | Nagaon | 93350.0 | null | 
-| 440 | Ji-Paraná | 93346.0 | null | 
-| 1770 | Higashimatsuyama | 93342.0 | null | 
-| 3760 | Novouralsk | 93300.0 | null | 
-| 1515 | Giugliano in Campania | 93286.0 | null | 
-| 896 | Malungon | 93232.0 | null | 
-| 1771 | Kimitsu | 93216.0 | null | 
-| 1015 | Majalaya | 93200.0 | null | 
-| 3061 | Sundsvall | 93126.0 | null | 
-| 441 | Bacabal | 93121.0 | null | 
-| 1355 | Kanpur Cantonment | 93109.0 | null | 
-| 2876 | Khuzdar | 93100.0 | null | 
-| 526 | Birkenhead | 93087.0 | null | 
-| 580 | Coronel | 93061.0 | null | 
-| 1772 | Isahaya | 93058.0 | null | 
-| 2240 | Enshi | 93056.0 | null | 
-| 1773 | Kanuma | 93053.0 | null | 
-| 2241 | Bose | 93009.0 | null | 
-| 3416 | Kars | 93000.0 | null | 
-| 4051 | Billings | 92988.0 | null | 
-| 1356 | Vidisha | 92917.0 | null | 
-| 3761 | Puškin | 92900.0 | null | 
-| 2242 | Yuzhou | 92889.0 | null | 
-| 4052 | Compton | 92864.0 | null | 
-| 3314 | Tabora | 92800.0 | null | 
-| 442 | Cametá | 92779.0 | null | 
-| 32 | Alkmaar | 92713.0 | null | 
-| 1016 | Pondok Aren | 92700.0 | null | 
-| 2505 | Taza | 92700.0 | null | 
-| 897 | Santa Cruz | 92694.0 | null | 
-| 1856 | Sudbury | 92686.0 | null | 
-| 2683 | Temixco | 92686.0 | null | 
-| 1017 | Jombang | 92600.0 | null | 
-| 3762 | Vorkuta | 92600.0 | null | 
-| 1357 | Bettiah | 92583.0 | null | 
-| 1774 | Izumisano | 92583.0 | null | 
-| 1358 | Purulia | 92574.0 | null | 
-| 898 | Sorsogon | 92512.0 | null | 
-| 899 | Candelaria | 92429.0 | null | 
-| 1775 | Kameoka | 92398.0 | null | 
-| 1516 | Pisa | 92379.0 | null | 
-| 1799 | Prizren | 92303.0 | null | 
-| 1018 | Sunggal | 92300.0 | null | 
-| 1462 | Ashqelon | 92300.0 | null | 
-| 2877 | Vihari | 92300.0 | null | 
-| 3763 | Derbent | 92300.0 | null | 
-| 4053 | Gainesville | 92291.0 | null | 
-| 143 | Cairns | 92273.0 | null | 
-| 711 | Torrejón de Ardoz | 92262.0 | null | 
-| 4054 | Fairfield | 92256.0 | null | 
-| 2400 | Mun-gyong | 92239.0 | null | 
-| 443 | Guaíba | 92224.0 | null | 
-| 3302 | Kangshan | 92200.0 | null | 
-| 3156 | Lünen | 92044.0 | null | 
-| 4055 | Arden-Arcade | 92040.0 | null | 
-| 4079 | Rafah | 92020.0 | null | 
-| 523 | Gillingham | 92000.0 | null | 
-| 528 | Hartlepool | 92000.0 | null | 
-| 530 | Woking/Byfleet | 92000.0 | null | 
-| 3303 | Ilan | 92000.0 | null | 
-| 444 | São Lourenço da Mata | 91999.0 | null | 
-| 2243 | Kaiyuan | 91999.0 | null | 
-| 1517 | Barletta | 91904.0 | null | 
-| 1019 | Batam | 91871.0 | null | 
-| 2684 | Matamoros | 91858.0 | null | 
-| 4056 | San Mateo | 91799.0 | null | 
-| 445 | Santana do Livramento | 91779.0 | null | 
-| 446 | Votorantim | 91777.0 | null | 
-| 4057 | Visalia | 91762.0 | null | 
-| 1518 | Arezzo | 91729.0 | null | 
-| 643 | al-Hawamidiya | 91700.0 | null | 
-| 581 | San Pedro de la Paz | 91684.0 | null | 
-| 1776 | Mobara | 91664.0 | null | 
-| 3764 | Kirovo-Tšepetsk | 91600.0 | null | 
-| 2244 | Tumen | 91471.0 | null | 
-| 1777 | Narita | 91470.0 | null | 
-| 3348 | Pardubice | 91309.0 | null | 
-| 644 | Disuq | 91300.0 | null | 
-| 1888 | Nyeri | 91258.0 | null | 
-| 4058 | Boulder | 91238.0 | null | 
-| 1778 | Kashiwazaki | 91229.0 | null | 
-| 4059 | Cary | 91213.0 | null | 
-| 447 | Campo Largo | 91203.0 | null | 
-| 1020 | Padang Sidempuan | 91200.0 | null | 
-| 1779 | Tsuyama | 91170.0 | null | 
-| 1528 | Klagenfurt | 91141.0 | null | 
-| 125 | Tandil | 91101.0 | null | 
-| 1021 | Sawangan | 91100.0 | null | 
-| 3195 | Unayza | 91100.0 | null | 
-| 3157 | Düren | 91092.0 | null | 
-| 4060 | Santa Monica | 91084.0 | null | 
-| 3260 | Idlib | 91081.0 | null | 
-| 529 | Halifax | 91069.0 | null | 
-| 582 | Melipilla | 91056.0 | null | 
-| 1444 | Semnan | 91045.0 | null | 
-| 2245 | Putian | 91030.0 | null | 
-| 3196 | Najran | 91000.0 | null | 
-| 3765 | Krasnogorsk | 91000.0 | null | 
-| 531 | Southport | 90959.0 | null | 
-| 3158 | Ratingen | 90951.0 | null | 
-| 3578 | San Felipe | 90940.0 | null | 
-| 183 | Mons | 90935.0 | null | 
-| 532 | Maidstone | 90878.0 | null | 
-| 2246 | Linhai | 90870.0 | null | 
-| 2820 | Suhar | 90814.0 | null | 
-| 1359 | Hassan | 90803.0 | null | 
-| 925 | Quetzaltenango | 90801.0 | null | 
-| 3062 | Gävle | 90742.0 | null | 
-| 1360 | Ambala Sadar | 90712.0 | null | 
-| 2294 | Giron | 90688.0 | null | 
-| 3013 | Montreuil | 90674.0 | null | 
-| 2247 | Xilin Hot | 90646.0 | null | 
-| 2911 | Castilla | 90642.0 | null | 
-| 2733 | Birgunj | 90639.0 | null | 
-| 900 | Ligao | 90603.0 | null | 
-| 1361 | Baidyabati | 90601.0 | null | 
-| 4061 | Fall River | 90555.0 | null | 
-| 2685 | Pánuco | 90551.0 | null | 
-| 2918 | Braga | 90535.0 | null | 
-| 448 | Patos | 90519.0 | null | 
-| 449 | Ituiutaba | 90507.0 | null | 
-| 3417 | Inegöl | 90500.0 | null | 
-| 2506 | El Araich | 90400.0 | null | 
-| 2878 | Dera Ismail Khan | 90400.0 | null | 
-| 1362 | Morvi | 90357.0 | null | 
-| 3319 | Frederiksberg | 90327.0 | null | 
-| 1463 | Rehovot | 90300.0 | null | 
-| 1519 | Alessandria | 90289.0 | null | 
-| 2248 | Shaowu | 90286.0 | null | 
-| 2249 | Junan | 90222.0 | null | 
-| 3418 | Bandirma | 90200.0 | null | 
-| 450 | Corumbá | 90111.0 | null | 
-| 1445 | Miandoab | 90100.0 | null | 
-| 533 | Eastbourne | 90000.0 | null | 
-| 1880 | Zhezqazghan | 90000.0 | null | 
-| 3215 | Hargeysa | 90000.0 | null | 
-| 3216 | Kismaayo | 90000.0 | null | 
-| 3304 | Miaoli | 90000.0 | null | 
-| 3477 | Berdytšiv | 90000.0 | null | 
-| 3478 | Izmajil | 90000.0 | null | 
-| 3479 | Šostka | 90000.0 | null | 
-| 3480 | Uman | 90000.0 | null | 
-| 3579 | El Limón | 90000.0 | null | 
-| 3766 | Klin | 90000.0 | null | 
-| 3767 | Tšaikovski | 90000.0 | null | 
-| 1022 | Banyuwangi | 89900.0 | null | 
-| 1023 | Tanjung Pinang | 89900.0 | null | 
-| 3159 | Velbert | 89881.0 | null | 
-| 1520 | Cesena | 89852.0 | null | 
-| 1446 | Qomsheh | 89800.0 | null | 
-| 3768 | Novyi Urengoi | 89800.0 | null | 
-| 2879 | Wazirabad | 89700.0 | null | 
-| 3160 | Esslingen am Neckar | 89667.0 | null | 
-| 2686 | El Fuerte | 89556.0 | null | 
-| 451 | Palhoça | 89465.0 | null | 
-| 4062 | Kenosha | 89447.0 | null | 
-| 1857 | Kelowna | 89442.0 | null | 
-| 2436 | Liepaja | 89439.0 | null | 
-| 592 | San Felipe de Puerto Plata | 89423.0 | null | 
-| 52 | Ghardaïa | 89415.0 | null | 
-| 4063 | Elgin | 89408.0 | null | 
-| 2250 | Huaying | 89400.0 | null | 
-| 2880 | Nowshera | 89400.0 | null | 
-| 452 | Barra do Piraí | 89388.0 | null | 
-| 2251 | Pingyi | 89373.0 | null | 
-| 2444 | al-Zawiya | 89338.0 | null | 
-| 4064 | Odessa | 89293.0 | null | 
-| 755 | Ladysmith | 89292.0 | null | 
-| 2252 | Huangyan | 89288.0 | null | 
-| 1858 | Barrie | 89269.0 | null | 
-| 453 | Bento Gonçalves | 89254.0 | null | 
-| 454 | Poá | 89236.0 | null | 
-| 455 | Águas Lindas de Goiás | 89200.0 | null | 
-| 935 | La Ceiba | 89200.0 | null | 
-| 1363 | Raigarh | 89166.0 | null | 
-| 2687 | Tierra Blanca | 89143.0 | null | 
-| 1790 | Wadi al-Sir | 89104.0 | null | 
-| 4065 | Carson | 89089.0 | null | 
-| 4066 | Charleston | 89063.0 | null | 
-| 1364 | Vejalpur | 89053.0 | null | 
-| 534 | Grimsby | 89000.0 | null | 
-| 3481 | Brovary | 89000.0 | null | 
-| 3482 | Mukatševe | 89000.0 | null | 
-| 1521 | Pesaro | 88987.0 | null | 
-| 2737 | Masaya | 88971.0 | null | 
-| 651 | Apopa | 88800.0 | null | 
-| 2452 | Luxembourg [Luxemburg/Lëtzebuerg] | 80700.0 | null | 
-| 764 | Suva | 77366.0 | null | 
-| 3493 | Nouméa | 76293.0 | null | 
-| 2463 | Male | 71000.0 | null | 
-| 918 | Les Abymes | 62947.0 | null | 
-| 3244 | Mbabane | 61000.0 | null | 
-| 3335 | Chaguanas | 56601.0 | null | 
-| 184 | Belize City | 55810.0 | null | 
-| 2821 | Masqat | 51969.0 | null | 
-| 3014 | Cayenne | 50699.0 | null | 
-| 3161 | Honiara | 50100.0 | null | 
-| 3172 | São Tomé | 49541.0 | null | 
-| 1522 | Dili | 47900.0 | null | 
-| 3336 | Port-of-Spain | 43396.0 | null | 
-| 904 | Banjul | 42326.0 | null | 
-| 3206 | Victoria | 41000.0 | null | 
-| 2972 | Malabo | 40000.0 | null | 
-| 2295 | Moroni | 36000.0 | null | 
-| 3169 | Apia | 35900.0 | null | 
-| 3537 | Port-Vila | 33700.0 | null | 
-| 129 | Oranjestad | 29034.0 | null | 
-| 2429 | Kuwait | 28859.0 | null | 
-| 2507 | Dalap-Uliga-Darrit | 28000.0 | null | 
-| 535 | Saint Helier | 27523.0 | null | 
-| 915 | Gibraltar | 27025.0 | null | 
-| 3015 | Faaa | 25888.0 | null | 
-| 3016 | Papeete | 25553.0 | null | 
-| 63 | Saint John´s | 24000.0 | null | 
-| 536 | Douglas | 23487.0 | null | 
-| 3334 | Nuku´alofa | 22400.0 | null | 
-| 192 | Thimphu | 22000.0 | null | 
-| 2688 | Weno | 22000.0 | null | 
-| 538 | Bandar Seri Begawan | 21484.0 | null | 
-| 2483 | Birkirkara | 21445.0 | null | 
-| 55 | Andorra la Vella | 21189.0 | null | 
-| 553 | George Town | 19600.0 | null | 
-| 3066 | Kingstown | 17100.0 | null | 
-| 586 | Roseau | 16243.0 | null | 
-| 901 | Tórshavn | 14542.0 | null | 
-| 917 | Nuuk | 13445.0 | null | 
-| 2694 | Monte-Carlo | 13154.0 | null | 
-| 4067 | Charlotte Amalie | 13000.0 | null | 
-| 919 | Basse-Terre | 12433.0 | null | 
-| 2514 | Mamoutzou | 12000.0 | null | 
-| 2881 | Koror | 12000.0 | null | 
-| 583 | Avarua | 11900.0 | null | 
-| 3064 | Basseterre | 11600.0 | null | 
-| 920 | Tamuning | 9500.0 | null | 
-| 2913 | Garapan | 9200.0 | null | 
-| 2689 | Palikir | 8600.0 | null | 
-| 537 | Road Town | 8000.0 | null | 
-| 185 | Belmopan | 7105.0 | null | 
-| 2484 | Valletta | 7073.0 | null | 
-| 174 | Bridgetown | 6070.0 | null | 
-| 3067 | Saint-Pierre | 5808.0 | null | 
-| 2445 | Schaan | 5346.0 | null | 
-| 53 | Tafuna | 5200.0 | null | 
-| 2255 | Bikenibeu | 5055.0 | null | 
-| 2446 | Vaduz | 5043.0 | null | 
-| 3170 | Serravalle | 4802.0 | null | 
-| 3423 | Cockburn Town | 4800.0 | null | 
-| 916 | Saint George´s | 4621.0 | null | 
-| 3424 | Funafuti | 4600.0 | null | 
-| 2727 | Yangor | 4050.0 | null | 
-| 33 | Willemstad | 2345.0 | null | 
-| 54 | Fagatogo | 2323.0 | null | 
-| 3065 | Castries | 2301.0 | null | 
-| 3171 | San Marino | 2294.0 | null | 
-| 2256 | Bairiki | 2226.0 | null | 
-| 2697 | Plymouth | 2000.0 | null | 
-| 190 | Saint George | 1800.0 | null | 
-| 763 | Stanley | 1636.0 | null | 
-| 3063 | Jamestown | 1500.0 | null | 
-| 938 | Longyearbyen | 1438.0 | null | 
-| 2695 | Monaco-Ville | 1234.0 | null | 
-| 191 | Hamilton | 1200.0 | null | 
-| 921 | Agaña | 1139.0 | null | 
-| 3536 | Mata-Utu | 1137.0 | null | 
-| 61 | South Hill | 961.0 | null | 
-| 2806 | Kingston | 800.0 | null | 
-| 1791 | Flying Fish Cove | 700.0 | null | 
-| 2805 | Alofi | 682.0 | null | 
-| 62 | The Valley | 595.0 | null | 
-| 2728 | Yaren | 559.0 | null | 
-| 2316 | Bantam | 503.0 | null | 
-| 3538 | Città del Vaticano | 455.0 | null | 
-| 3333 | Fakaofo | 300.0 | null | 
-| 2317 | West Island | 167.0 | null | 
-| 2912 | Adamstown | 42.0 | null | 
+| 1024 | Mumbai (Bombay) | null | India | 
+| 2331 | Seoul | null | South Korea | 
+| 206 | São Paulo | null | Brazil | 
+| 1890 | Shanghai | null | China | 
+| 939 | Jakarta | null | Indonesia | 
+| 2822 | Karachi | null | Pakistan | 
+| 3357 | Istanbul | null | Turkey | 
+| 2515 | Ciudad de México | null | Mexico | 
+| 3580 | Moscow | null | Russian Federation | 
+| 3793 | New York | null | United States | 
+| 1532 | Tokyo | null | Japan | 
+| 1891 | Peking | null | China | 
+| 456 | London | null | United Kingdom | 
+| 1025 | Delhi | null | India | 
+| 608 | Cairo | null | Egypt | 
+| 1380 | Teheran | null | Iran | 
+| 2890 | Lima | null | Peru | 
+| 1892 | Chongqing | null | China | 
+| 3320 | Bangkok | null | Thailand | 
+| 2257 | Santafé de Bogotá | null | Colombia | 
+| 207 | Rio de Janeiro | null | Brazil | 
+| 1893 | Tianjin | null | China | 
+| 2298 | Kinshasa | null | Congo, The Democratic Republic of the | 
+| 2823 | Lahore | null | Pakistan | 
+| 554 | Santiago de Chile | null | Chile | 
+| 3581 | St Petersburg | null | Russian Federation | 
+| 1026 | Calcutta [Kolkata] | null | India | 
+| 1894 | Wuhan | null | China | 
+| 1365 | Baghdad | null | Iraq | 
+| 1895 | Harbin | null | China | 
+| 1896 | Shenyang | null | China | 
+| 1897 | Kanton [Guangzhou] | null | China | 
+| 3208 | Singapore | null | Singapore | 
+| 3769 | Ho Chi Minh City | null | Vietnam | 
+| 1027 | Chennai (Madras) | null | India | 
+| 2332 | Pusan | null | South Korea | 
+| 3794 | Los Angeles | null | United States | 
+| 150 | Dhaka | null | Bangladesh | 
+| 3068 | Berlin | null | Germany | 
+| 2710 | Rangoon (Yangon) | null | Myanmar | 
+| 1898 | Chengdu | null | China | 
+| 1533 | Jokohama [Yokohama] | null | Japan | 
+| 609 | Alexandria | null | Egypt | 
+| 3173 | Riyadh | null | Saudi Arabia | 
+| 130 | Sydney | null | Australia | 
+| 3358 | Ankara | null | Turkey | 
+| 69 | Buenos Aires | null | Argentina | 
+| 1028 | Hyderabad | null | India | 
+| 2485 | Casablanca | null | Morocco | 
+| 3795 | Chicago | null | United States | 
+| 653 | Madrid | null | Spain | 
+| 1029 | Ahmedabad | null | India | 
+| 1899 | Nanking [Nanjing] | null | China | 
+| 131 | Melbourne | null | Australia | 
+| 1900 | Changchun | null | China | 
+| 1901 | Xi´an | null | China | 
+| 1902 | Dalian | null | China | 
+| 940 | Surabaya | null | Indonesia | 
+| 1030 | Bangalore | null | India | 
+| 1464 | Roma | null | Italy | 
+| 3263 | Taipei | null | Taiwan | 
+| 3426 | Kyiv | null | Ukraine | 
+| 1903 | Qingdao | null | China | 
+| 1534 | Osaka | null | Japan | 
+| 2333 | Inchon | null | South Korea | 
+| 2334 | Taegu | null | South Korea | 
+| 2812 | Abidjan | null | Côte d’Ivoire | 
+| 756 | Addis Abeba | null | Ethiopia | 
+| 2318 | Pyongyang | null | North Korea | 
+| 941 | Bandung | null | Indonesia | 
+| 712 | Cape Town | null | South Africa | 
+| 208 | Salvador | null | Brazil | 
+| 1881 | Nairobi | null | Kenya | 
+| 1904 | Jinan | null | China | 
+| 2413 | La Habana | null | Cuba | 
+| 610 | Giza | null | Egypt | 
+| 1905 | Hangzhou | null | China | 
+| 765 | Quezon | null | Philippines | 
+| 35 | Alger | null | Algeria | 
+| 1535 | Nagoya | null | Japan | 
+| 209 | Belo Horizonte | null | Brazil | 
+| 3359 | Izmir | null | Turkey | 
+| 2974 | Paris | null | France | 
+| 3503 | Toskent | null | Uzbekistan | 
+| 1906 | Zhengzhou | null | China | 
+| 210 | Fortaleza | null | Brazil | 
+| 2258 | Cali | null | Colombia | 
+| 593 | Guayaquil | null | Ecuador | 
+| 3174 | Jedda | null | Saudi Arabia | 
+| 1907 | Shijiazhuang | null | China | 
+| 56 | Luanda | null | Angola | 
+| 3018 | Bucuresti | null | Romania | 
+| 936 | Kowloon and New Kowloon | null | Hong Kong | 
+| 2824 | Faisalabad | null | Pakistan | 
+| 3539 | Caracas | null | Venezuela | 
+| 211 | Brasília | null | Brazil | 
+| 1908 | Taiyuan | null | China | 
+| 3796 | Houston | null | United States | 
+| 1381 | Mashhad | null | Iran | 
+| 1031 | Kanpur | null | India | 
+| 2259 | Medellín | null | Colombia | 
+| 942 | Medan | null | Indonesia | 
+| 1909 | Kunming | null | China | 
+| 3483 | Budapest | null | Hungary | 
+| 1910 | Changsha | null | China | 
+| 1536 | Sapporo | null | Japan | 
+| 144 | Baku | null | Azerbaijan | 
+| 1 | Kabul | null | Afghanistan | 
+| 3305 | Dar es Salaam | null | Tanzania | 
+| 3069 | Hamburg | null | Germany | 
+| 1911 | Nanchang | null | China | 
+| 2441 | Tripoli | null | Libyan Arab Jamahiriya | 
+| 3520 | Minsk | null | Belarus | 
+| 2516 | Guadalajara | null | Mexico | 
+| 1032 | Nagpur | null | India | 
+| 2517 | Ecatepec de Morelos | null | Mexico | 
+| 1033 | Lucknow | null | India | 
+| 2928 | Warszawa | null | Poland | 
+| 587 | Santo Domingo de Guzmán | null | Dominican Republic | 
+| 1523 | Wien | null | Austria | 
+| 1912 | Fuzhou | null | China | 
+| 212 | Curitiba | null | Brazil | 
+| 766 | Manila | null | Philippines | 
+| 594 | Quito | null | Ecuador | 
+| 1034 | Pune | null | India | 
+| 1913 | Lanzhou | null | China | 
+| 2741 | Lagos | null | Nigeria | 
+| 3797 | Philadelphia | null | United States | 
+| 654 | Barcelona | null | Spain | 
+| 3427 | Harkova [Harkiv] | null | Ukraine | 
+| 1035 | Surat | null | India | 
+| 3264 | Kaohsiung | null | Taiwan | 
+| 1914 | Guiyang | null | China | 
+| 1537 | Kioto | null | Japan | 
+| 1036 | Jaipur | null | India | 
+| 1803 | Douala | null | Cameroon | 
+| 2742 | Ibadan | null | Nigeria | 
+| 2335 | Taejon | null | South Korea | 
+| 1538 | Kobe | null | Japan | 
+| 3770 | Hanoi | null | Vietnam | 
+| 4068 | Harare | null | Zimbabwe | 
+| 2825 | Rawalpindi | null | Pakistan | 
+| 3582 | Novosibirsk | null | Russian Federation | 
+| 151 | Chittagong | null | Bangladesh | 
+| 213 | Recife | null | Brazil | 
+| 1804 | Yaoundé | null | Cameroon | 
+| 1915 | Ningbo | null | China | 
+| 1916 | Hefei | null | China | 
+| 2336 | Kwangju | null | South Korea | 
+| 3583 | Nizni Novgorod | null | Russian Federation | 
+| 3250 | Damascus | null | Syria | 
+| 2518 | Puebla | null | Mexico | 
+| 3798 | Phoenix | null | United States | 
+| 3162 | Lusaka | null | Zambia | 
+| 214 | Porto Alegre | null | Brazil | 
+| 937 | Victoria | null | Hong Kong | 
+| 1917 | Urumtši [Ürümqi] | null | China | 
+| 1539 | Fukuoka | null | Japan | 
+| 3540 | Maracaíbo | null | Venezuela | 
+| 1465 | Milano | null | Italy | 
+| 2464 | Kuala Lumpur | null | Malaysia | 
+| 132 | Brisbane | null | Australia | 
+| 3224 | Omdurman | null | Sudan | 
+| 70 | La Matanza | null | Argentina | 
+| 3584 | Jekaterinburg | null | Russian Federation | 
+| 1382 | Esfahan | null | Iran | 
+| 3251 | Aleppo | null | Syria | 
+| 215 | Manaus | null | Brazil | 
+| 126 | Yerevan | null | Armenia | 
+| 3492 | Montevideo | null | Uruguay | 
+| 905 | Tbilisi | null | Georgia | 
+| 2519 | Nezahualcóyotl | null | Mexico | 
+| 3799 | San Diego | null | United States | 
+| 2260 | Barranquilla | null | Colombia | 
+| 943 | Palembang | null | Indonesia | 
+| 2520 | Juárez | null | Mexico | 
+| 1540 | Kawasaki | null | Japan | 
+| 2521 | Tijuana | null | Mexico | 
+| 1792 | Beograd | null | Yugoslavia | 
+| 1918 | Anshan | null | China | 
+| 1919 | Fushun | null | China | 
+| 944 | Tangerang | null | Indonesia | 
+| 3070 | Munich [München] | null | Germany | 
+| 1383 | Tabriz | null | Iran | 
+| 3800 | Dallas | null | United States | 
+| 216 | Belém | null | Brazil | 
+| 2826 | Multan | null | Pakistan | 
+| 3339 | Praha | null | Czech Republic | 
+| 767 | Kalookan | null | Philippines | 
+| 1920 | Nanning | null | China | 
+| 71 | Córdoba | null | Argentina | 
+| 3585 | Samara | null | Russian Federation | 
+| 2827 | Hyderabad | null | Pakistan | 
+| 3586 | Omsk | null | Russian Federation | 
+| 768 | Davao | null | Philippines | 
+| 3801 | San Antonio | null | United States | 
+| 1921 | Zibo | null | China | 
+| 2522 | León | null | Mexico | 
+| 3360 | Adana | null | Turkey | 
+| 1860 | Almaty | null | Kazakstan | 
+| 2828 | Gujranwala | null | Pakistan | 
+| 539 | Sofija | null | Bulgaria | 
+| 1541 | Hiroshima | null | Japan | 
+| 2523 | Monterrey | null | Mexico | 
+| 945 | Semarang | null | Indonesia | 
+| 3428 | Dnipropetrovsk | null | Ukraine | 
+| 3587 | Kazan | null | Russian Federation | 
+| 2438 | Beirut | null | Lebanon | 
+| 133 | Perth | null | Australia | 
+| 217 | Guarulhos | null | Brazil | 
+| 3361 | Bursa | null | Turkey | 
+| 1037 | Indore | null | India | 
+| 3588 | Ufa | null | Russian Federation | 
+| 926 | Conakry | null | Guinea | 
+| 2337 | Ulsan | null | South Korea | 
+| 3589 | Tšeljabinsk | null | Russian Federation | 
+| 910 | Accra | null | Ghana | 
+| 1922 | Qiqihar | null | China | 
+| 1038 | Bhopal | null | India | 
+| 946 | Ujung Pandang | null | Indonesia | 
+| 218 | Goiânia | null | Brazil | 
+| 1384 | Shiraz | null | Iran | 
+| 3429 | Donetsk | null | Ukraine | 
+| 1039 | Ludhiana | null | India | 
+| 1923 | Jilin | null | China | 
+| 1924 | Tangshan | null | China | 
+| 1040 | Vadodara (Baroda) | null | India | 
+| 2698 | Maputo | null | Mozambique | 
+| 1810 | Montréal | null | Canada | 
+| 1542 | Kitakyushu | null | Japan | 
+| 1041 | Kalyan | null | India | 
+| 457 | Birmingham | null | United Kingdom | 
+| 3590 | Rostov-na-Donu | null | Russian Federation | 
+| 3430 | Odesa | null | Ukraine | 
+| 3591 | Perm | null | Russian Federation | 
+| 1466 | Napoli | null | Italy | 
+| 2524 | Zapopan | null | Mexico | 
+| 1786 | Amman | null | Jordan | 
+| 3214 | Mogadishu | null | Somalia | 
+| 3592 | Volgograd | null | Russian Federation | 
+| 1543 | Sendai | null | Japan | 
+| 2829 | Peshawar | null | Pakistan | 
+| 1925 | Baotou | null | China | 
+| 134 | Adelaide | null | Australia | 
+| 1042 | Madurai | null | India | 
+| 3175 | Mekka | null | Saudi Arabia | 
+| 3071 | Köln | null | Germany | 
+| 2734 | Managua | null | Nicaragua | 
+| 3802 | Detroit | null | United States | 
+| 1926 | Shenzhen | null | China | 
+| 1043 | Haora (Howrah) | null | India | 
+| 219 | Campinas | null | Brazil | 
+| 2296 | Brazzaville | null | Congo | 
+| 3225 | Khartum | null | Sudan | 
+| 1385 | Karaj | null | Iran | 
+| 3265 | Taichung | null | Taiwan | 
+| 193 | Santa Cruz de la Sierra | null | Bolivia | 
+| 1044 | Varanasi (Benares) | null | India | 
+| 1045 | Patna | null | India | 
+| 1927 | Hohhot | null | China | 
+| 72 | Rosario | null | Argentina | 
+| 3593 | Voronez | null | Russian Federation | 
+| 713 | Soweto | null | South Africa | 
+| 1467 | Torino | null | Italy | 
+| 3803 | San Jose | null | United States | 
+| 1046 | Srinagar | null | India | 
+| 1047 | Agra | null | India | 
+| 3425 | Kampala | null | Uganda | 
+| 2711 | Mandalay | null | Myanmar | 
+| 929 | Port-au-Prince | null | Haiti | 
+| 1366 | Mosul | null | Iraq | 
+| 3541 | Barquisimeto | null | Venezuela | 
+| 3594 | Krasnojarsk | null | Russian Federation | 
+| 3595 | Saratov | null | Russian Federation | 
+| 611 | Shubra al-Khayma | null | Egypt | 
+| 220 | São Gonçalo | null | Brazil | 
+| 2338 | Songnam | null | South Korea | 
+| 1544 | Chiba | null | Japan | 
+| 221 | Nova Iguaçu | null | Brazil | 
+| 2525 | Naucalpan de Juárez | null | Mexico | 
+| 3197 | Pikine | null | Senegal | 
+| 2299 | Lubumbashi | null | Congo, The Democratic Republic of the | 
+| 2440 | Monrovia | null | Liberia | 
+| 3207 | Freetown | null | Sierra Leone | 
+| 3431 | Zaporizzja | null | Ukraine | 
+| 1928 | Handan | null | China | 
+| 222 | São Luís | null | Brazil | 
+| 1929 | Wuxi | null | China | 
+| 549 | Ouagadougou | null | Burkina Faso | 
+| 922 | Ciudad de Guatemala | null | Guatemala | 
+| 1048 | Coimbatore | null | India | 
+| 933 | Tegucigalpa | null | Honduras | 
+| 1930 | Xuzhou | null | China | 
+| 2482 | Bamako | null | Mali | 
+| 2300 | Mbuji-Mayi | null | Congo, The Democratic Republic of the | 
+| 2261 | Cartagena | null | Colombia | 
+| 1386 | Ahvaz | null | Iran | 
+| 2442 | Bengasi | null | Libyan Arab Jamahiriya | 
+| 1049 | Thane (Thana) | null | India | 
+| 2929 | Lódz | null | Poland | 
+| 1931 | Datong | null | China | 
+| 1932 | Yichun | null | China | 
+| 2975 | Marseille | null | France | 
+| 1545 | Sakai | null | Japan | 
+| 3542 | Valencia | null | Venezuela | 
+| 1050 | Allahabad | null | India | 
+| 3804 | Indianapolis | null | United States | 
+| 3362 | Gaziantep | null | Turkey | 
+| 3432 | Lviv | null | Ukraine | 
+| 223 | Maceió | null | Brazil | 
+| 3198 | Dakar | null | Senegal | 
+| 3771 | Haiphong | null | Vietnam | 
+| 2339 | Puchon | null | South Korea | 
+| 1387 | Qom | null | Iran | 
+| 3805 | San Francisco | null | United States | 
+| 2696 | Ulan Bator | null | Mongolia | 
+| 2401 | Athenai | null | Greece | 
+| 1933 | Benxi | null | China | 
+| 1811 | Calgary | null | Canada | 
+| 2526 | Mexicali | null | Mexico | 
+| 2434 | Riga | null | Latvia | 
+| 2891 | Arequipa | null | Peru | 
+| 1934 | Luoyang | null | China | 
+| 194 | La Paz | null | Bolivia | 
+| 714 | Johannesburg | null | South Africa | 
+| 2340 | Suwon | null | South Korea | 
+| 1051 | Meerut | null | India | 
+| 715 | Port Elizabeth | null | South Africa | 
+| 1052 | Vishakhapatnam | null | India | 
+| 3048 | Stockholm | null | Sweden | 
+| 224 | Duque de Caxias | null | Brazil | 
+| 2527 | Culiacán | null | Mexico | 
+| 1053 | Jabalpur | null | India | 
+| 655 | Valencia | null | Spain | 
+| 2930 | Kraków | null | Poland | 
+| 3806 | Jacksonville | null | United States | 
+| 5 | Amsterdam | null | Netherlands | 
+| 2743 | Ogbomosho | null | Nigeria | 
+| 3266 | Tainan | null | Taiwan | 
+| 225 | São Bernardo do Campo | null | Brazil | 
+| 3596 | Toljatti | null | Russian Federation | 
+| 2528 | Acapulco de Juárez | null | Mexico | 
+| 2529 | Tlalnepantla de Baz | null | Mexico | 
+| 2690 | Chisinau | null | Moldova | 
+| 769 | Cebu | null | Philippines | 
+| 947 | Malang | null | Indonesia | 
+| 3807 | Columbus | null | United States | 
+| 1935 | Suzhou | null | China | 
+| 2319 | Hamhung | null | North Korea | 
+| 1054 | Amritsar | null | India | 
+| 2409 | Zagreb | null | Croatia | 
+| 1055 | Faridabad | null | India | 
+| 2530 | Mérida | null | Mexico | 
+| 3433 | Kryvyi Rig | null | Ukraine | 
+| 656 | Sevilla | null | Spain | 
+| 1056 | Vijayawada | null | India | 
+| 3226 | Sharq al-Nil | null | Sudan | 
+| 1936 | Xining | null | China | 
+| 1937 | Huainan | null | China | 
+| 1388 | Kermanshah | null | Iran | 
+| 226 | Teresina | null | Brazil | 
+| 1057 | Gwalior | null | India | 
+| 3349 | Tunis | null | Tunisia | 
+| 227 | Natal | null | Brazil | 
+| 1812 | Toronto | null | Canada | 
+| 1938 | Jixi | null | China | 
+| 1468 | Palermo | null | Italy | 
+| 948 | Bandar Lampung | null | Indonesia | 
+| 2455 | Antananarivo | null | Madagascar | 
+| 2744 | Kano | null | Nigeria | 
+| 2531 | Chihuahua | null | Mexico | 
+| 2532 | San Luis Potosí | null | Mexico | 
+| 64 | Dubai | null | United Arab Emirates | 
+| 2533 | Guadalupe | null | Mexico | 
+| 3597 | Uljanovsk | null | Russian Federation | 
+| 2509 | Nouakchott | null | Mauritania | 
+| 1058 | Jodhpur | null | India | 
+| 2534 | Toluca | null | Mexico | 
+| 3543 | Ciudad Guayana | null | Venezuela | 
+| 152 | Khulna | null | Bangladesh | 
+| 1939 | Daqing | null | China | 
+| 228 | Osasco | null | Brazil | 
+| 716 | Pretoria | null | South Africa | 
+| 1059 | Nashik (Nasik) | null | India | 
+| 1546 | Kumamoto | null | Japan | 
+| 3808 | Austin | null | United States | 
+| 3598 | Izevsk | null | Russian Federation | 
+| 2892 | Trujillo | null | Peru | 
+| 3809 | Baltimore | null | United States | 
+| 3810 | Memphis | null | United States | 
+| 229 | Campo Grande | null | Brazil | 
+| 1060 | Hubli-Dharwad | null | India | 
+| 3217 | Colombo | null | Sri Lanka | 
+| 949 | Bekasi | null | Indonesia | 
+| 3072 | Frankfurt am Main | null | Germany | 
+| 2535 | Aguascalientes | null | Mexico | 
+| 1940 | Fuxin | null | China | 
+| 2536 | Querétaro | null | Mexico | 
+| 3599 | Krasnodar | null | Russian Federation | 
+| 2931 | Wroclaw | null | Poland | 
+| 1469 | Genova | null | Italy | 
+| 717 | Inanda | null | South Africa | 
+| 1450 | Jerusalem | null | Israel | 
+| 230 | Santo André | null | Brazil | 
+| 3363 | Konya | null | Turkey | 
+| 1941 | Amoy [Xiamen] | null | China | 
+| 1547 | Okayama | null | Japan | 
+| 2486 | Rabat | null | Morocco | 
+| 1813 | North York | null | Canada | 
+| 73 | Lomas de Zamora | null | Argentina | 
+| 2487 | Marrakech | null | Morocco | 
+| 4069 | Bulawayo | null | Zimbabwe | 
+| 2537 | Morelia | null | Mexico | 
+| 458 | Glasgow | null | United Kingdom | 
+| 1814 | Winnipeg | null | Canada | 
+| 3600 | Jaroslavl | null | Russian Federation | 
+| 1815 | Edmonton | null | Canada | 
+| 1942 | Liuzhou | null | China | 
+| 36 | Oran | null | Algeria | 
+| 3601 | Habarovsk | null | Russian Federation | 
+| 2538 | Hermosillo | null | Mexico | 
+| 3176 | Medina | null | Saudi Arabia | 
+| 1816 | Mississauga | null | Canada | 
+| 2262 | Cúcuta | null | Colombia | 
+| 3602 | Vladivostok | null | Russian Federation | 
+| 1061 | Solapur (Sholapur) | null | India | 
+| 657 | Zaragoza | null | Spain | 
+| 770 | Zamboanga | null | Philippines | 
+| 3073 | Essen | null | Germany | 
+| 1062 | Ranchi | null | India | 
+| 3811 | Milwaukee | null | United States | 
+| 1817 | Scarborough | null | Canada | 
+| 3603 | Irkutsk | null | Russian Federation | 
+| 6 | Rotterdam | null | Netherlands | 
+| 2729 | Kathmandu | null | Nepal | 
+| 2341 | Anyang | null | South Korea | 
+| 3074 | Dortmund | null | Germany | 
+| 2253 | Bishkek | null | Kyrgyzstan | 
+| 3812 | Boston | null | United States | 
+| 3364 | Mersin (Içel) | null | Turkey | 
+| 1063 | Bareilly | null | India | 
+| 1548 | Sagamihara | null | Japan | 
+| 1064 | Guwahati (Gauhati) | null | India | 
+| 231 | João Pessoa | null | Brazil | 
+| 2320 | Chongjin | null | North Korea | 
+| 3075 | Stuttgart | null | Germany | 
+| 3604 | Barnaul | null | Russian Federation | 
+| 1943 | Shantou | null | China | 
+| 2447 | Vilnius | null | Lithuania | 
+| 2539 | Saltillo | null | Mexico | 
+| 2932 | Poznan | null | Poland | 
+| 1065 | Shambajinagar (Aurangabad) | null | India | 
+| 3813 | Washington | null | United States | 
+| 1800 | Phnom Penh | null | Cambodia | 
+| 1944 | Jinzhou | null | China | 
+| 1945 | Mudanjiang | null | China | 
+| 3814 | Nashville-Davidson | null | United States | 
+| 3076 | Düsseldorf | null | Germany | 
+| 1549 | Hamamatsu | null | Japan | 
+| 2321 | Nampo | null | North Korea | 
+| 718 | Durban | null | South Africa | 
+| 3365 | Antalya | null | Turkey | 
+| 1066 | Cochin (Kochi) | null | India | 
+| 3815 | El Paso | null | United States | 
+| 3816 | Seattle | null | United States | 
+| 2914 | Lisboa | null | Portugal | 
+| 2342 | Chonju | null | South Korea | 
+| 3605 | Novokuznetsk | null | Russian Federation | 
+| 2830 | Quetta | null | Pakistan | 
+| 1067 | Rajkot | null | India | 
+| 74 | Quilmes | null | Argentina | 
+| 232 | Jaboatão dos Guararapes | null | Brazil | 
+| 2885 | Asunción | null | Paraguay | 
+| 3236 | Helsinki [Helsingfors] | null | Finland | 
+| 3817 | Denver | null | United States | 
+| 1550 | Kagoshima | null | Japan | 
+| 1551 | Funabashi | null | Japan | 
+| 1946 | Yinchuan | null | China | 
+| 2488 | Fès | null | Morocco | 
+| 3818 | Charlotte | null | United States | 
+| 3419 | Ashgabat | null | Turkmenistan | 
+| 3077 | Bremen | null | Germany | 
+| 75 | Almirante Brown | null | Argentina | 
+| 1068 | Kota | null | India | 
+| 186 | Cotonou | null | Benin | 
+| 3819 | Fort Worth | null | United States | 
+| 950 | Padang | null | Indonesia | 
+| 195 | El Alto | null | Bolivia | 
+| 3606 | Penza | null | Russian Federation | 
+| 2432 | Vientiane | null | Laos | 
+| 2343 | Chongju | null | South Korea | 
+| 3337 | N´Djaména | null | Chad | 
+| 658 | Málaga | null | Spain | 
+| 1947 | Changzhou | null | China | 
+| 1948 | Zhangjiakou | null | China | 
+| 3607 | Rjazan | null | Russian Federation | 
+| 3820 | Portland | null | United States | 
+| 2540 | Torreón | null | Mexico | 
+| 2831 | Islamabad | null | Pakistan | 
+| 1069 | Thiruvananthapuram (Trivandrum | null | India | 
+| 1889 | Bangui | null | Central African Republic | 
+| 3261 | Dushanbe | null | Tajikistan | 
+| 3267 | Panchiao | null | Taiwan | 
+| 3608 | Orenburg | null | Russian Federation | 
+| 76 | La Plata | null | Argentina | 
+| 2489 | Tanger | null | Morocco | 
+| 3609 | Lipetsk | null | Russian Federation | 
+| 233 | Contagem | null | Brazil | 
+| 1949 | Dandong | null | China | 
+| 1950 | Hegang | null | China | 
+| 2541 | Centro (Villahermosa) | null | Mexico | 
+| 3078 | Duisburg | null | Germany | 
+| 951 | Surakarta | null | Indonesia | 
+| 2344 | Koyang | null | South Korea | 
+| 1552 | Higashiosaka | null | Japan | 
+| 1070 | Pimpri-Chinchwad | null | India | 
+| 2893 | Chiclayo | null | Peru | 
+| 2263 | Bucaramanga | null | Colombia | 
+| 234 | São José dos Campos | null | Brazil | 
+| 3079 | Hannover | null | Germany | 
+| 3610 | Nabereznyje Tšelny | null | Russian Federation | 
+| 1818 | Vancouver | null | Canada | 
+| 1553 | Hachioji | null | Japan | 
+| 77 | Mar del Plata | null | Argentina | 
+| 2345 | Ansan | null | South Korea | 
+| 1951 | Kaifeng | null | China | 
+| 1071 | Jalandhar (Jullundur) | null | India | 
+| 2346 | Pohang | null | South Korea | 
+| 2807 | Oslo | null | Norway | 
+| 3434 | Mykolajiv | null | Ukraine | 
+| 3252 | Hims | null | Syria | 
+| 3821 | Oklahoma City | null | United States | 
+| 3611 | Tula | null | Russian Federation | 
+| 1072 | Gorakhpur | null | India | 
+| 771 | Pasig | null | Philippines | 
+| 2490 | Salé | null | Morocco | 
+| 1073 | Chandigarh | null | India | 
+| 1780 | Sanaa | null | Yemen | 
+| 3612 | Tjumen | null | Russian Federation | 
+| 2297 | Pointe-Noire | null | Congo | 
+| 1554 | Niigata | null | Japan | 
+| 3315 | København | null | Denmark | 
+| 2542 | San Nicolás de los Garza | null | Mexico | 
+| 1952 | Jiamusi | null | China | 
+| 3613 | Kemerovo | null | Russian Federation | 
+| 1953 | Liaoyang | null | China | 
+| 2543 | Durango | null | Mexico | 
+| 2544 | Chimalhuacán | null | Mexico | 
+| 3435 | Mariupol | null | Ukraine | 
+| 3080 | Leipzig | null | Germany | 
+| 3544 | Petare | null | Venezuela | 
+| 235 | Uberlândia | null | Brazil | 
+| 1954 | Hengyang | null | China | 
+| 3822 | Tucson | null | United States | 
+| 3081 | Nürnberg | null | Germany | 
+| 3614 | Astrahan | null | Russian Federation | 
+| 1367 | Irbil | null | Iraq | 
+| 772 | Valenzuela | null | Philippines | 
+| 3823 | New Orleans | null | United States | 
+| 1955 | Baoding | null | China | 
+| 952 | Banjarmasin | null | Indonesia | 
+| 196 | Cochabamba | null | Bolivia | 
+| 3177 | al-Dammam | null | Saudi Arabia | 
+| 3615 | Tomsk | null | Russian Federation | 
+| 1956 | Hunjiang | null | China | 
+| 1447 | Dublin | null | Ireland | 
+| 2347 | Chang-won | null | South Korea | 
+| 1555 | Amagasaki | null | Japan | 
+| 1074 | Mysore | null | India | 
+| 1075 | Aligarh | null | India | 
+| 236 | Feira de Santana | null | Brazil | 
+| 3366 | Diyarbakir | null | Turkey | 
+| 3824 | Las Vegas | null | United States | 
+| 3825 | Cleveland | null | United States | 
+| 2461 | Blantyre | null | Malawi | 
+| 2745 | Oshogbo | null | Nigeria | 
+| 3082 | Dresden | null | Germany | 
+| 2746 | Ilorin | null | Nigeria | 
+| 3367 | Kayseri | null | Turkey | 
+| 2545 | Tlaquepaque | null | Mexico | 
+| 1556 | Himeji | null | Japan | 
+| 3521 | Gomel | null | Belarus | 
+| 1557 | Shizuoka | null | Japan | 
+| 1957 | Xinxiang | null | China | 
+| 237 | Ribeirão Preto | null | Brazil | 
+| 773 | Las Piñas | null | Philippines | 
+| 2882 | Ciudad de Panamá | null | Panama | 
+| 1076 | Guntur | null | India | 
+| 774 | Antipolo | null | Philippines | 
+| 78 | San Miguel de Tucumán | null | Argentina | 
+| 3368 | Eskisehir | null | Turkey | 
+| 79 | Lanús | null | Argentina | 
+| 1558 | Urawa | null | Japan | 
+| 612 | Port Said | null | Egypt | 
+| 3436 | Lugansk | null | Ukraine | 
+| 719 | Vanderbijlpark | null | South Africa | 
+| 775 | Taguig | null | Philippines | 
+| 2546 | Atizapán de Zaragoza | null | Mexico | 
+| 3049 | Gothenburg [Göteborg] | null | Sweden | 
+| 238 | Sorocaba | null | Brazil | 
+| 3616 | Kirov | null | Russian Federation | 
+| 1559 | Matsuyama | null | Japan | 
+| 80 | Merlo | null | Argentina | 
+| 776 | Cagayan de Oro | null | Philippines | 
+| 1882 | Mombasa | null | Kenya | 
+| 3826 | Long Beach | null | United States | 
+| 1560 | Matsudo | null | Japan | 
+| 459 | Liverpool | null | United Kingdom | 
+| 1077 | Jamshedpur | null | India | 
+| 2491 | Meknès | null | Morocco | 
+| 239 | Niterói | null | Brazil | 
+| 3617 | Ivanovo | null | Russian Federation | 
+| 3618 | Tšeboksary | null | Russian Federation | 
+| 2933 | Gdansk | null | Poland | 
+| 1958 | Huangshi | null | China | 
+| 3619 | Brjansk | null | Russian Federation | 
+| 2547 | Veracruz | null | Mexico | 
+| 1561 | Kanazawa | null | Japan | 
+| 2832 | Sargodha | null | Pakistan | 
+| 3620 | Tver | null | Russian Federation | 
+| 1959 | Haikou | null | China | 
+| 1078 | Ghaziabad | null | India | 
+| 240 | Cuiabá | null | Brazil | 
+| 2548 | Cuautitlán Izcalli | null | Mexico | 
+| 1562 | Kawaguchi | null | Japan | 
+| 1960 | Yantai | null | China | 
+| 241 | Juiz de Fora | null | Brazil | 
+| 460 | Edinburgh | null | United Kingdom | 
+| 777 | Parañaque | null | Philippines | 
+| 1961 | Bengbu | null | China | 
+| 3827 | Albuquerque | null | United States | 
+| 3209 | Bratislava | null | Slovakia | 
+| 1079 | Warangal | null | India | 
+| 175 | Antwerpen | null | Belgium | 
+| 242 | Aracaju | null | Brazil | 
+| 2976 | Lyon | null | France | 
+| 778 | Makati | null | Philippines | 
+| 3545 | Maracay | null | Venezuela | 
+| 2460 | Skopje | null | Macedonia | 
+| 37 | Constantine | null | Algeria | 
+| 3621 | Kursk | null | Russian Federation | 
+| 720 | Kempton Park | null | South Africa | 
+| 1962 | Xiangtan | null | China | 
+| 1563 | Ichikawa | null | Japan | 
+| 1564 | Omiya | null | Japan | 
+| 3828 | Kansas City | null | United States | 
+| 2348 | Masan | null | South Korea | 
+| 7 | Haag | null | Netherlands | 
+| 1565 | Utsunomiya | null | Japan | 
+| 243 | São João de Meriti | null | Brazil | 
+| 2549 | Irapuato | null | Mexico | 
+| 1080 | Raipur | null | India | 
+| 953 | Pekan Baru | null | Indonesia | 
+| 2454 | Macao | null | Macao | 
+| 1861 | Qaraghandy | null | Kazakstan | 
+| 2462 | Lilongwe | null | Malawi | 
+| 1389 | Urmia | null | Iran | 
+| 954 | Denpasar | null | Indonesia | 
+| 2919 | San Juan | null | Puerto Rico | 
+| 2550 | Tuxtla Gutiérrez | null | Mexico | 
+| 1566 | Oita | null | Japan | 
+| 2414 | Santiago de Cuba | null | Cuba | 
+| 1567 | Nagasaki | null | Japan | 
+| 2551 | Tultitlán | null | Mexico | 
+| 244 | Londrina | null | Brazil | 
+| 461 | Sheffield | null | United Kingdom | 
+| 652 | Asmara | null | Eritrea | 
+| 1568 | Yokosuka | null | Japan | 
+| 462 | Manchester | null | United Kingdom | 
+| 1081 | Moradabad | null | India | 
+| 779 | Bacolod | null | Philippines | 
+| 1963 | Weifang | null | China | 
+| 245 | Joinville | null | Brazil | 
+| 3622 | Magnitogorsk | null | Russian Federation | 
+| 3829 | Fresno | null | United States | 
+| 2747 | Abeokuta | null | Nigeria | 
+| 1082 | Durgapur | null | India | 
+| 1964 | Wuhu | null | China | 
+| 1965 | Pingxiang | null | China | 
+| 3830 | Virginia Beach | null | United States | 
+| 246 | Belford Roxo | null | Brazil | 
+| 1569 | Kurashiki | null | Japan | 
+| 2699 | Matola | null | Mozambique | 
+| 3623 | Kaliningrad | null | Russian Federation | 
+| 2894 | Callao | null | Peru | 
+| 463 | Leeds | null | United Kingdom | 
+| 81 | General San Martín | null | Argentina | 
+| 1966 | Yingkou | null | China | 
+| 1083 | Amravati | null | India | 
+| 1967 | Anyang | null | China | 
+| 2738 | Niamey | null | Niger | 
+| 1084 | Calicut (Kozhikode) | null | India | 
+| 2552 | Reynosa | null | Mexico | 
+| 1390 | Zahedan | null | Iran | 
+| 2553 | Benito Juárez | null | Mexico | 
+| 902 | Libreville | null | Gabon | 
+| 955 | Yogyakarta | null | Indonesia | 
+| 1368 | Kirkuk | null | Iraq | 
+| 2301 | Kolwezi | null | Congo, The Democratic Republic of the | 
+| 1391 | Rasht | null | Iran | 
+| 613 | Suez | null | Egypt | 
+| 2833 | Sialkot | null | Pakistan | 
+| 2302 | Kisangani | null | Congo, The Democratic Republic of the | 
+| 2934 | Szczecin | null | Poland | 
+| 3831 | Atlanta | null | United States | 
+| 2554 | Matamoros | null | Mexico | 
+| 1085 | Bikaner | null | India | 
+| 3178 | al-Taif | null | Saudi Arabia | 
+| 1968 | Panzhihua | null | China | 
+| 645 | San Salvador | null | El Salvador | 
+| 2448 | Kaunas | null | Lithuania | 
+| 780 | General Santos | null | Philippines | 
+| 1086 | Bhubaneswar | null | India | 
+| 1969 | Pingdingshan | null | China | 
+| 1970 | Xiangfan | null | China | 
+| 721 | Alberton | null | South Africa | 
+| 2748 | Port Harcourt | null | Nigeria | 
+| 1971 | Zhuzhou | null | China | 
+| 956 | Pontianak | null | Indonesia | 
+| 1972 | Jiaozuo | null | China | 
+| 247 | Santos | null | Brazil | 
+| 1570 | Gifu | null | Japan | 
+| 3832 | Sacramento | null | United States | 
+| 1087 | Kolhapur | null | India | 
+| 1369 | Basra | null | Iraq | 
+| 3369 | Sanliurfa | null | Turkey | 
+| 3791 | Tallinn | null | Estonia | 
+| 1088 | Kataka (Cuttack) | null | India | 
+| 2834 | Bahawalpur | null | Pakistan | 
+| 1571 | Hirakata | null | Japan | 
+| 1089 | Ajmer | null | India | 
+| 1090 | Bhavnagar | null | India | 
+| 464 | Bristol | null | United Kingdom | 
+| 1973 | Wenzhou | null | China | 
+| 1392 | Hamadan | null | Iran | 
+| 1974 | Zhangjiang | null | China | 
+| 248 | Ananindeua | null | Brazil | 
+| 3833 | Oakland | null | United States | 
+| 957 | Samarinda | null | Indonesia | 
+| 65 | Abu Dhabi | null | United Arab Emirates | 
+| 249 | Campos dos Goytacazes | null | Brazil | 
+| 1781 | Aden | null | Yemen | 
+| 1572 | Nishinomiya | null | Japan | 
+| 2700 | Beira | null | Mozambique | 
+| 1573 | Toyonaka | null | Japan | 
+| 3834 | Mesa | null | United States | 
+| 614 | al-Mahallat al-Kubra | null | Egypt | 
+| 2264 | Ibagué | null | Colombia | 
+| 1975 | Zigong | null | China | 
+| 3835 | Tulsa | null | United States | 
+| 2303 | Kananga | null | Congo, The Democratic Republic of the | 
+| 3083 | Bochum | null | Germany | 
+| 3268 | Chungho | null | Taiwan | 
+| 1574 | Wakayama | null | Japan | 
+| 781 | Marikina | null | Philippines | 
+| 3437 | Vinnytsja | null | Ukraine | 
+| 3624 | Nizni Tagil | null | Russian Federation | 
+| 2977 | Toulouse | null | France | 
+| 2555 | Xalapa | null | Mexico | 
+| 3836 | Omaha | null | United States | 
+| 1787 | al-Zarqa | null | Jordan | 
+| 1091 | Tiruchirapalli | null | India | 
+| 2935 | Bydgoszcz | null | Poland | 
+| 555 | Puente Alto | null | Chile | 
+| 1092 | Bhilai | null | India | 
+| 1976 | Shuangyashan | null | China | 
+| 958 | Jambi | null | Indonesia | 
+| 3269 | Keelung (Chilung) | null | Taiwan | 
+| 911 | Kumasi | null | Ghana | 
+| 1393 | Kerman | null | Iran | 
+| 3438 | Makijivka | null | Ukraine | 
+| 2402 | Thessaloniki | null | Greece | 
+| 934 | San Pedro Sula | null | Honduras | 
+| 585 | Djibouti | null | Djibouti | 
+| 2465 | Ipoh | null | Malaysia | 
+| 3772 | Da Nang | null | Vietnam | 
+| 3837 | Minneapolis | null | United States | 
+| 2556 | Celaya | null | Mexico | 
+| 3340 | Brno | null | Czech Republic | 
+| 3494 | Auckland | null | New Zealand | 
+| 2265 | Pereira | null | Colombia | 
+| 1470 | Bologna | null | Italy | 
+| 1977 | Zaozhuang | null | China | 
+| 1394 | Arak | null | Iran | 
+| 2557 | Mazatlán | null | Mexico | 
+| 3270 | Sanchung | null | Taiwan | 
+| 782 | Dasmariñas | null | Philippines | 
+| 783 | Muntinlupa | null | Philippines | 
+| 2749 | Zaria | null | Nigeria | 
+| 1093 | Bhiwandi | null | India | 
+| 722 | Pinetown | null | South Africa | 
+| 2750 | Ilesha | null | Nigeria | 
+| 1978 | Yakeshi | null | China | 
+| 1575 | Fukuyama | null | Japan | 
+| 1471 | Firenze | null | Italy | 
+| 3625 | Murmansk | null | Russian Federation | 
+| 250 | Mauá | null | Brazil | 
+| 3332 | Lomé | null | Togo | 
+| 1094 | Saharanpur | null | India | 
+| 1576 | Fujisawa | null | Japan | 
+| 2751 | Onitsha | null | Nigeria | 
+| 3838 | Honolulu | null | United States | 
+| 1979 | Yichang | null | China | 
+| 615 | Tanta | null | Egypt | 
+| 3504 | Namangan | null | Uzbekistan | 
+| 3626 | Ulan-Ude | null | Russian Federation | 
+| 723 | Pietermaritzburg | null | South Africa | 
+| 616 | al-Mansura | null | Egypt | 
+| 2558 | Ensenada | null | Mexico | 
+| 1095 | Ulhasnagar | null | India | 
+| 3084 | Wuppertal | null | Germany | 
+| 1980 | Zhenjiang | null | China | 
+| 82 | Salta | null | Argentina | 
+| 2895 | Iquitos | null | Peru | 
+| 1096 | Salem | null | India | 
+| 1981 | Huaibei | null | China | 
+| 784 | Iloilo | null | Philippines | 
+| 724 | Benoni | null | South Africa | 
+| 588 | Santiago de los Caballeros | null | Dominican Republic | 
+| 2492 | Oujda | null | Morocco | 
+| 959 | Depok | null | Indonesia | 
+| 3271 | Hsinchuang | null | Taiwan | 
+| 1982 | Qinhuangdao | null | China | 
+| 1577 | Asahikawa | null | Japan | 
+| 3627 | Kurgan | null | Russian Federation | 
+| 1578 | Machida | null | Japan | 
+| 1983 | Guilin | null | China | 
+| 1370 | al-Sulaymaniya | null | Iraq | 
+| 1984 | Liupanshui | null | China | 
+| 1579 | Nara | null | Japan | 
+| 1985 | Panjin | null | China | 
+| 3839 | Miami | null | United States | 
+| 1986 | Yangquan | null | China | 
+| 1097 | Ujjain | null | India | 
+| 2752 | Iwo | null | Nigeria | 
+| 3272 | Hsinchu | null | Taiwan | 
+| 3505 | Samarkand | null | Uzbekistan | 
+| 3628 | Arkangeli | null | Russian Federation | 
+| 1580 | Takatsuki | null | Japan | 
+| 1581 | Iwaki | null | Japan | 
+| 1582 | Nagano | null | Japan | 
+| 3840 | Colorado Springs | null | United States | 
+| 617 | Luxor | null | Egypt | 
+| 1862 | Shymkent | null | Kazakstan | 
+| 1583 | Toyohashi | null | Japan | 
+| 201 | Sarajevo | null | Bosnia and Herzegovina | 
+| 2753 | Ado-Ekiti | null | Nigeria | 
+| 2266 | Santa Marta | null | Colombia | 
+| 2559 | Ahome | null | Mexico | 
+| 3629 | Sotši | null | Russian Federation | 
+| 659 | Bilbao | null | Spain | 
+| 251 | Carapicuíba | null | Brazil | 
+| 1987 | Jinxi | null | China | 
+| 83 | Moreno | null | Argentina | 
+| 2936 | Lublin | null | Poland | 
+| 3522 | Mogiljov | null | Belarus | 
+| 2560 | Cajeme | null | Mexico | 
+| 2973 | Doha | null | Qatar | 
+| 785 | Pasay | null | Philippines | 
+| 660 | Las Palmas de Gran Canaria | null | Spain | 
+| 252 | Olinda | null | Brazil | 
+| 1988 | Liaoyuan | null | China | 
+| 1989 | Lianyungang | null | China | 
+| 4074 | Gaza | null | Palestine | 
+| 661 | Murcia | null | Spain | 
+| 3630 | Smolensk | null | Russian Federation | 
+| 84 | Santa Fé | null | Argentina | 
+| 85 | Avellaneda | null | Argentina | 
+| 3439 | Herson | null | Ukraine | 
+| 253 | Campina Grande | null | Brazil | 
+| 86 | Tres de Febrero | null | Argentina | 
+| 1990 | Xianyang | null | China | 
+| 254 | São José do Rio Preto | null | Brazil | 
+| 2349 | Kwangmyong | null | South Korea | 
+| 1991 | Tai´an | null | China | 
+| 2754 | Abuja | null | Nigeria | 
+| 1992 | Chifeng | null | China | 
+| 1993 | Shaoguan | null | China | 
+| 255 | Caxias do Sul | null | Brazil | 
+| 87 | Morón | null | Argentina | 
+| 1819 | Etobicoke | null | Canada | 
+| 3841 | Saint Louis | null | United States | 
+| 1451 | Tel Aviv-Jaffa | null | Israel | 
+| 3019 | Iasi | null | Romania | 
+| 3440 | Sevastopol | null | Ukraine | 
+| 1584 | Toyota | null | Japan | 
+| 2937 | Katowice | null | Poland | 
+| 1585 | Suita | null | Japan | 
+| 960 | Cimahi | null | Indonesia | 
+| 3631 | Orjol | null | Russian Federation | 
+| 3842 | Wichita | null | United States | 
+| 618 | Asyut | null | Egypt | 
+| 3253 | Hama | null | Syria | 
+| 1994 | Nantong | null | China | 
+| 3632 | Stavropol | null | Russian Federation | 
+| 2978 | Nice | null | France | 
+| 1098 | Malegaon | null | India | 
+| 540 | Plovdiv | null | Bulgaria | 
+| 3020 | Constanta | null | Romania | 
+| 2755 | Kaduna | null | Nigeria | 
+| 3633 | Belgorod | null | Russian Federation | 
+| 1099 | Jamnagar | null | India | 
+| 725 | Randburg | null | South Africa | 
+| 1995 | Leshan | null | China | 
+| 1395 | Ardebil | null | Iran | 
+| 3523 | Vitebsk | null | Belarus | 
+| 1820 | London | null | Canada | 
+| 3370 | Samsun | null | Turkey | 
+| 3634 | Kaluga | null | Russian Federation | 
+| 726 | Umlazi | null | South Africa | 
+| 256 | Moji das Cruzes | null | Brazil | 
+| 584 | San José | null | Costa Rica | 
+| 3441 | Simferopol | null | Ukraine | 
+| 786 | Malabon | null | Philippines | 
+| 961 | Balikpapan | null | Indonesia | 
+| 3843 | Santa Ana | null | United States | 
+| 2561 | Cuernavaca | null | Mexico | 
+| 1472 | Catania | null | Italy | 
+| 1996 | Baoji | null | China | 
+| 2267 | Manizales | null | Colombia | 
+| 3635 | Vladimir | null | Russian Federation | 
+| 3245 | Zürich | null | Switzerland | 
+| 2562 | Tonalá | null | Mexico | 
+| 2896 | Chimbote | null | Peru | 
+| 1821 | Hamilton | null | Canada | 
+| 1822 | Ottawa | null | Canada | 
+| 257 | Diadema | null | Brazil | 
+| 3844 | Pittsburgh | null | United States | 
+| 727 | Bloemfontein | null | South Africa | 
+| 1100 | Bokaro Steel City | null | India | 
+| 2268 | Bello | null | Colombia | 
+| 2756 | Mushin | null | Nigeria | 
+| 3845 | Arlington | null | United States | 
+| 3636 | Mahatškala | null | Russian Federation | 
+| 3021 | Cluj-Napoca | null | Romania | 
+| 1586 | Takamatsu | null | Japan | 
+| 2269 | Pasto | null | Colombia | 
+| 962 | Manado | null | Indonesia | 
+| 1473 | Bari | null | Italy | 
+| 3846 | Cincinnati | null | United States | 
+| 1823 | Laval | null | Canada | 
+| 1587 | Koriyama | null | Japan | 
+| 3371 | Malatya | null | Turkey | 
+| 3022 | Galati | null | Romania | 
+| 2350 | Chonan | null | South Korea | 
+| 1863 | Taraz | null | Kazakstan | 
+| 2351 | Chinju | null | South Korea | 
+| 2813 | Bouaké | null | Côte d’Ivoire | 
+| 3163 | Ndola | null | Zambia | 
+| 2835 | Sukkur | null | Pakistan | 
+| 1588 | Okazaki | null | Japan | 
+| 728 | Vereeniging | null | South Africa | 
+| 2466 | Johor Baharu | null | Malaysia | 
+| 1101 | Akola | null | India | 
+| 3847 | Anaheim | null | United States | 
+| 1589 | Kawagoe | null | Japan | 
+| 2897 | Huancayo | null | Peru | 
+| 662 | Palma de Mallorca | null | Spain | 
+| 1396 | Yazd | null | Iran | 
+| 1102 | Belgaum | null | India | 
+| 2322 | Sinuiju | null | North Korea | 
+| 1590 | Tokorozawa | null | Japan | 
+| 1591 | Toyama | null | Japan | 
+| 2898 | Piura | null | Peru | 
+| 1103 | Rajahmundry | null | India | 
+| 1997 | Linyi | null | China | 
+| 1592 | Kochi | null | Japan | 
+| 258 | Aparecida de Goiânia | null | Brazil | 
+| 1998 | Tonghua | null | China | 
+| 3637 | Tšerepovets | null | Russian Federation | 
+| 3023 | Timisoara | null | Romania | 
+| 3495 | Christchurch | null | New Zealand | 
+| 2563 | Valle de Chalco Solidaridad | null | Mexico | 
+| 135 | Canberra | null | Australia | 
+| 2352 | Iksan | null | South Korea | 
+| 3546 | Barcelona | null | Venezuela | 
+| 3085 | Bielefeld | null | Germany | 
+| 465 | Cardiff | null | United Kingdom | 
+| 1593 | Kashiwa | null | Japan | 
+| 66 | Sharja | null | United Arab Emirates | 
+| 3341 | Ostrava | null | Czech Republic | 
+| 2757 | Maiduguri | null | Nigeria | 
+| 663 | Valladolid | null | Spain | 
+| 3547 | Maturín | null | Venezuela | 
+| 3548 | San Cristóbal | null | Venezuela | 
+| 259 | Piracicaba | null | Brazil | 
+| 260 | Cariacica | null | Brazil | 
+| 261 | Vila Velha | null | Brazil | 
+| 3273 | Chungli | null | Taiwan | 
+| 3506 | Andijon | null | Uzbekistan | 
+| 3274 | Fengshan | null | Taiwan | 
+| 1782 | Taizz | null | Yemen | 
+| 1999 | Siping | null | China | 
+| 2000 | Changzhi | null | China | 
+| 1104 | Nellore | null | India | 
+| 3275 | Taoyuan | null | Taiwan | 
+| 2758 | Enugu | null | Nigeria | 
+| 787 | San José del Monte | null | Philippines | 
+| 88 | Florencio Varela | null | Argentina | 
+| 262 | Pelotas | null | Brazil | 
+| 2883 | San Miguelito | null | Panama | 
+| 2001 | Tengzhou | null | China | 
+| 3638 | Saransk | null | Russian Federation | 
+| 1594 | Akita | null | Japan | 
+| 3024 | Brasov | null | Romania | 
+| 263 | Bauru | null | Brazil | 
+| 3848 | Toledo | null | United States | 
+| 3025 | Craiova | null | Romania | 
+| 2002 | Chaozhou | null | China | 
+| 3442 | Pultava [Poltava] | null | Ukraine | 
+| 3443 | Tšernigiv | null | Ukraine | 
+| 2353 | Pyongtaek | null | South Korea | 
+| 2003 | Yangzhou | null | China | 
+| 556 | Viña del Mar | null | Chile | 
+| 3639 | Tambov | null | Russian Federation | 
+| 136 | Gold Coast | null | Australia | 
+| 664 | Córdoba | null | Spain | 
+| 2354 | Kumi | null | South Korea | 
+| 1864 | Astana | null | Kazakstan | 
+| 1865 | Öskemen | null | Kazakstan | 
+| 2564 | Nuevo Laredo | null | Mexico | 
+| 3640 | Vladikavkaz | null | Russian Federation | 
+| 3641 | Tšita | null | Russian Federation | 
+| 264 | Porto Velho | null | Brazil | 
+| 1371 | al-Najaf | null | Iraq | 
+| 3444 | Tšerkasy | null | Ukraine | 
+| 2004 | Dongwan | null | China | 
+| 1105 | Udaipur | null | India | 
+| 3227 | Port Sudan | null | Sudan | 
+| 2712 | Moulmein (Mawlamyine) | null | Myanmar | 
+| 3086 | Mannheim | null | Germany | 
+| 1106 | New Bombay | null | India | 
+| 2759 | Ede | null | Nigeria | 
+| 963 | Mataram | null | Indonesia | 
+| 89 | San Isidro | null | Argentina | 
+| 788 | Bacoor | null | Philippines | 
+| 2005 | Ma´anshan | null | China | 
+| 2565 | Tepic | null | Mexico | 
+| 1107 | Bhatpara | null | India | 
+| 1824 | Surrey | null | Canada | 
+| 1108 | Gulbarga | null | India | 
+| 466 | Coventry | null | United Kingdom | 
+| 1595 | Miyazaki | null | Japan | 
+| 3849 | Tampa | null | United States | 
+| 2701 | Nampula | null | Mozambique | 
+| 2006 | Foshan | null | China | 
+| 2007 | Yueyang | null | China | 
+| 2008 | Xingtai | null | China | 
+| 265 | Serra | null | Brazil | 
+| 3642 | Vologda | null | Russian Federation | 
+| 266 | Betim | null | Brazil | 
+| 3524 | Grodno | null | Belarus | 
+| 964 | Pekalongan | null | Indonesia | 
+| 1596 | Koshigaya | null | Japan | 
+| 1109 | New Delhi | null | India | 
+| 2009 | Changde | null | China | 
+| 3549 | Ciudad Bolívar | null | Venezuela | 
+| 3087 | Bonn | null | Germany | 
+| 1110 | Jhansi | null | India | 
+| 1866 | Pavlodar | null | Kazakstan | 
+| 2323 | Wonsan | null | North Korea | 
+| 2270 | Neiva | null | Colombia | 
+| 550 | Bobo-Dioulasso | null | Burkina Faso | 
+| 552 | Bujumbura | null | Burundi | 
+| 1597 | Naha | null | Japan | 
+| 541 | Varna | null | Bulgaria | 
+| 2010 | Shihezi | null | China | 
+| 3643 | Veliki Novgorod | null | Russian Federation | 
+| 145 | Gäncä | null | Azerbaijan | 
+| 2304 | Likasi | null | Congo, The Democratic Republic of the | 
+| 3445 | Gorlivka | null | Ukraine | 
+| 2760 | Aba | null | Nigeria | 
+| 2415 | Camagüey | null | Cuba | 
+| 1783 | Hodeida | null | Yemen | 
+| 2437 | Maseru | null | Lesotho | 
+| 3446 | Zytomyr | null | Ukraine | 
+| 2011 | Yancheng | null | China | 
+| 2761 | Ife | null | Nigeria | 
+| 1825 | Brampton | null | Canada | 
+| 1372 | Karbala | null | Iraq | 
+| 90 | Tigre | null | Argentina | 
+| 267 | Jundíaí | null | Brazil | 
+| 1598 | Aomori | null | Japan | 
+| 2271 | Soledad | null | Colombia | 
+| 2566 | Tampico | null | Mexico | 
+| 1599 | Hakodate | null | Japan | 
+| 268 | Canoas | null | Brazil | 
+| 153 | Rajshahi | null | Bangladesh | 
+| 467 | Leicester | null | United Kingdom | 
+| 3447 | Sumy | null | Ukraine | 
+| 557 | Valparaíso | null | Chile | 
+| 2567 | Ixtapaluca | null | Mexico | 
+| 3550 | Cumaná | null | Venezuela | 
+| 3850 | Buffalo | null | United States | 
+| 2493 | Kénitra | null | Morocco | 
+| 3179 | Tabuk | null | Saudi Arabia | 
+| 1600 | Akashi | null | Japan | 
+| 2836 | Jhang | null | Pakistan | 
+| 3321 | Nonthaburi | null | Thailand | 
+| 1111 | Gaya | null | India | 
+| 3644 | Komsomolsk-na-Amure | null | Russian Federation | 
+| 2012 | Jiujiang | null | China | 
+| 1397 | Qazvin | null | Iran | 
+| 2899 | Cusco | null | Peru | 
+| 91 | Malvinas Argentinas | null | Argentina | 
+| 930 | Carrefour | null | Haiti | 
+| 269 | Franca | null | Brazil | 
+| 965 | Tegal | null | Indonesia | 
+| 468 | Bradford | null | United Kingdom | 
+| 2272 | Armenia | null | Colombia | 
+| 3164 | Kitwe | null | Zambia | 
+| 92 | Vicente López | null | Argentina | 
+| 1601 | Yokkaichi | null | Japan | 
+| 3645 | Kostroma | null | Russian Federation | 
+| 1602 | Fukushima | null | Japan | 
+| 469 | Belfast | null | United Kingdom | 
+| 1603 | Morioka | null | Japan | 
+| 3851 | Saint Paul | null | United States | 
+| 470 | Nottingham | null | United Kingdom | 
+| 3646 | Volzski | null | Russian Federation | 
+| 270 | São Vicente | null | Brazil | 
+| 271 | Maringá | null | Brazil | 
+| 1398 | Zanjan | null | Iran | 
+| 272 | Montes Claros | null | Brazil | 
+| 3047 | Kigali | null | Rwanda | 
+| 3525 | Brest | null | Belarus | 
+| 966 | Bogor | null | Indonesia | 
+| 789 | Iligan | null | Philippines | 
+| 3316 | Århus | null | Denmark | 
+| 1604 | Maebashi | null | Japan | 
+| 3647 | Taganrog | null | Russian Federation | 
+| 2938 | Bialystok | null | Poland | 
+| 665 | Vigo | null | Spain | 
+| 729 | Wonderboom | null | South Africa | 
+| 146 | Sumqayit | null | Azerbaijan | 
+| 2568 | Apodaca | null | Mexico | 
+| 1605 | Kasugai | null | Japan | 
+| 273 | Anápolis | null | Brazil | 
+| 3648 | Petroskoi | null | Russian Federation | 
+| 3773 | Biên Hoa | null | Vietnam | 
+| 1606 | Otsu | null | Japan | 
+| 3088 | Gelsenkirchen | null | Germany | 
+| 274 | Florianópolis | null | Brazil | 
+| 3496 | Manukau | null | New Zealand | 
+| 2013 | Dongying | null | China | 
+| 2014 | Shashi | null | China | 
+| 2015 | Xintai | null | China | 
+| 2016 | Jingdezhen | null | China | 
+| 790 | Calamba | null | Philippines | 
+| 2017 | Tongchuan | null | China | 
+| 1112 | Kakinada | null | India | 
+| 730 | Roodepoort | null | South Africa | 
+| 1607 | Ichihara | null | Japan | 
+| 275 | Petrópolis | null | Brazil | 
+| 2018 | Zhongshan | null | China | 
+| 791 | Mandaluyong | null | Philippines | 
+| 1113 | Dhule (Dhulia) | null | India | 
+| 1399 | Sanandaj | null | Iran | 
+| 558 | Talcahuano | null | Chile | 
+| 3649 | Bratsk | null | Russian Federation | 
+| 2494 | Tétouan | null | Morocco | 
+| 3852 | Corpus Christi | null | United States | 
+| 1474 | Venezia | null | Italy | 
+| 3089 | Karlsruhe | null | Germany | 
+| 2569 | Guasave | null | Mexico | 
+| 3650 | Dzerzinsk | null | Russian Federation | 
+| 93 | Berazategui | null | Argentina | 
+| 1608 | Yao | null | Japan | 
+| 3853 | Aurora | null | United States | 
+| 2355 | Uijongbu | null | South Korea | 
+| 3854 | Raleigh | null | United States | 
+| 1114 | Panihati | null | India | 
+| 619 | Bahtim | null | Egypt | 
+| 1115 | Nanded (Nander) | null | India | 
+| 4070 | Chitungwiza | null | Zimbabwe | 
+| 3651 | Surgut | null | Russian Federation | 
+| 3652 | Orsk | null | Russian Federation | 
+| 2019 | Shiyan | null | China | 
+| 1400 | Bandar-e-Abbas | null | Iran | 
+| 3855 | Newark | null | United States | 
+| 1116 | Mangalore | null | India | 
+| 2273 | Villavicencio | null | Colombia | 
+| 2915 | Porto | null | Portugal | 
+| 2356 | Kyongju | null | South Korea | 
+| 2324 | Phyongsong | null | North Korea | 
+| 1401 | Khorramabad | null | Iran | 
+| 2570 | Gómez Palacio | null | Mexico | 
+| 666 | Alicante [Alacant] | null | Spain | 
+| 2274 | Soacha | null | Colombia | 
+| 2837 | Sheikhupura | null | Pakistan | 
+| 2571 | Tapachula | null | Mexico | 
+| 3212 | Ljubljana | null | Slovenia | 
+| 276 | Itaquaquecetuba | null | Brazil | 
+| 1609 | Ichinomiya | null | Japan | 
+| 967 | Ciputat | null | Indonesia | 
+| 277 | Vitória | null | Brazil | 
+| 2838 | Larkana | null | Pakistan | 
+| 595 | Cuenca | null | Ecuador | 
+| 137 | Newcastle | null | Australia | 
+| 2979 | Nantes | null | France | 
+| 1117 | Dehra Dun | null | India | 
+| 34 | Tirana | null | Albania | 
+| 3448 | Dniprodzerzynsk | null | Ukraine | 
+| 1610 | Tokushima | null | Japan | 
+| 1867 | Semey | null | Kazakstan | 
+| 2572 | Nicolás Romero | null | Mexico | 
+| 1373 | al-Hilla | null | Iraq | 
+| 3090 | Wiesbaden | null | Germany | 
+| 278 | Ponta Grossa | null | Brazil | 
+| 667 | Gijón | null | Spain | 
+| 620 | Zagazig | null | Egypt | 
+| 792 | Butuan | null | Philippines | 
+| 2573 | Coatzacoalcos | null | Mexico | 
+| 1118 | Kamarhati | null | India | 
+| 2357 | Kunsan | null | South Korea | 
+| 1611 | Kakogawa | null | Japan | 
+| 1119 | Davangere | null | India | 
+| 1374 | al-Nasiriya | null | Iraq | 
+| 1452 | Haifa | null | Israel | 
+| 2020 | Tieli | null | China | 
+| 1402 | Eslamshahr | null | Iran | 
+| 2021 | Jining | null | China | 
+| 2574 | Uruapan | null | Mexico | 
+| 3653 | Sterlitamak | null | Russian Federation | 
+| 3276 | Chiayi | null | Taiwan | 
+| 3449 | Kirovograd | null | Ukraine | 
+| 3654 | Angarsk | null | Russian Federation | 
+| 3091 | Münster | null | Germany | 
+| 3254 | Latakia | null | Syria | 
+| 3372 | Gebze | null | Turkey | 
+| 2980 | Strasbourg | null | France | 
+| 2022 | Wuhai | null | China | 
+| 2762 | Ila | null | Nigeria | 
+| 793 | Angeles | null | Philippines | 
+| 3092 | Mönchengladbach | null | Germany | 
+| 3277 | Hsintien | null | Taiwan | 
+| 2275 | Valledupar | null | Colombia | 
+| 3093 | Chemnitz | null | Germany | 
+| 968 | Pondokgede | null | Indonesia | 
+| 2023 | Mianyang | null | China | 
+| 2024 | Luzhou | null | China | 
+| 2575 | Victoria | null | Mexico | 
+| 731 | Boksburg | null | South Africa | 
+| 794 | Tarlac | null | Philippines | 
+| 2495 | Safi | null | Morocco | 
+| 1120 | Asansol | null | India | 
+| 471 | Kingston upon Hull | null | United Kingdom | 
+| 3450 | Hmelnytskyi | null | Ukraine | 
+| 732 | Klerksdorp | null | South Africa | 
+| 2025 | Zunyi | null | China | 
+| 1612 | Ibaraki | null | Japan | 
+| 621 | al-Faiyum | null | Egypt | 
+| 3856 | Lexington-Fayette | null | United States | 
+| 3857 | Anchorage | null | United States | 
+| 795 | Mandaue | null | Philippines | 
+| 3050 | Malmö | null | Sweden | 
+| 279 | Rio Branco | null | Brazil | 
+| 280 | Foz do Iguaçu | null | Brazil | 
+| 1475 | Messina | null | Italy | 
+| 3451 | Tšernivtsi | null | Ukraine | 
+| 2358 | Cheju | null | South Korea | 
+| 94 | Corrientes | null | Argentina | 
+| 2026 | Shizuishan | null | China | 
+| 2939 | Czestochowa | null | Poland | 
+| 3350 | Sfax | null | Tunisia | 
+| 1613 | Neyagawa | null | Japan | 
+| 1614 | Shimonoseki | null | Japan | 
+| 2576 | Oaxaca de Juárez | null | Mexico | 
+| 2763 | Oyo | null | Nigeria | 
+| 2359 | Kimhae | null | South Korea | 
+| 3858 | Louisville | null | United States | 
+| 281 | Macapá | null | Brazil | 
+| 2027 | Neijiang | null | China | 
+| 1615 | Yamagata | null | Japan | 
+| 1476 | Verona | null | Italy | 
+| 3859 | Riverside | null | United States | 
+| 2028 | Tongliao | null | China | 
+| 282 | Ilhéus | null | Brazil | 
+| 3094 | Augsburg | null | Germany | 
+| 2029 | Tieling | null | China | 
+| 1616 | Fukui | null | Japan | 
+| 622 | Ismailia | null | Egypt | 
+| 969 | Cirebon | null | Indonesia | 
+| 3095 | Halle/Saale | null | Germany | 
+| 2467 | Petaling Jaya | null | Malaysia | 
+| 1617 | Hiratsuka | null | Japan | 
+| 2325 | Sariwon | null | North Korea | 
+| 928 | Georgetown | null | Guyana | 
+| 3373 | Denizli | null | Turkey | 
+| 970 | Kediri | null | Indonesia | 
+| 283 | Vitória da Conquista | null | Brazil | 
+| 2940 | Gdynia | null | Poland | 
+| 1121 | Bhagalpur | null | India | 
+| 1868 | Aqtöbe | null | Kazakstan | 
+| 472 | Plymouth | null | United Kingdom | 
+| 796 | Baguio | null | Philippines | 
+| 2577 | Coacalco de Berriozábal | null | Mexico | 
+| 473 | Stoke-on-Trent | null | United Kingdom | 
+| 2030 | Wafangdian | null | China | 
+| 559 | Antofagasta | null | Chile | 
+| 3026 | Ploiesti | null | Romania | 
+| 2031 | Anqing | null | China | 
+| 2839 | Gujrat | null | Pakistan | 
+| 2416 | Holguín | null | Cuba | 
+| 971 | Ambon | null | Indonesia | 
+| 2360 | Sunchon | null | South Korea | 
+| 284 | Uberaba | null | Brazil | 
+| 3655 | Joškar-Ola | null | Russian Federation | 
+| 95 | San Miguel | null | Argentina | 
+| 3180 | Burayda | null | Saudi Arabia | 
+| 285 | Paulista | null | Brazil | 
+| 2276 | Montería | null | Colombia | 
+| 3860 | Saint Petersburg | null | United States | 
+| 3199 | Thiès | null | Senegal | 
+| 668 | L´Hospitalet de Llobregat | null | Spain | 
+| 797 | Batangas | null | Philippines | 
+| 2361 | Mokpo | null | South Korea | 
+| 2032 | Shaoyang | null | China | 
+| 3861 | Bakersfield | null | United States | 
+| 2884 | Port Moresby | null | Papua New Guinea | 
+| 2033 | Laiwu | null | China | 
+| 2034 | Chengde | null | China | 
+| 3374 | Sivas | null | Turkey | 
+| 1618 | Mito | null | Japan | 
+| 3375 | Erzurum | null | Turkey | 
+| 3096 | Braunschweig | null | Germany | 
+| 3376 | Tarsus | null | Turkey | 
+| 3377 | Kahramanmaras | null | Turkey | 
+| 286 | Limeira | null | Brazil | 
+| 1122 | Bellary | null | India | 
+| 1123 | Barddhaman (Burdwan) | null | India | 
+| 3452 | Rivne | null | Ukraine | 
+| 2035 | Tianshui | null | China | 
+| 669 | Granada | null | Spain | 
+| 2578 | Pachuca de Soto | null | Mexico | 
+| 2764 | Ikerre | null | Nigeria | 
+| 2840 | Mardan | null | Pakistan | 
+| 287 | Blumenau | null | Brazil | 
+| 288 | Caruaru | null | Brazil | 
+| 1619 | Sasebo | null | Japan | 
+| 2941 | Sosnowiec | null | Poland | 
+| 3097 | Aachen | null | Germany | 
+| 3862 | Stockton | null | United States | 
+| 1124 | Rampur | null | India | 
+| 670 | A Coruña (La Coruña) | null | Spain | 
+| 2468 | Kelang | null | Malaysia | 
+| 2036 | Nanyang | null | China | 
+| 1620 | Hachinohe | null | Japan | 
+| 3863 | Birmingham | null | United States | 
+| 733 | Soshanguve | null | South Africa | 
+| 2037 | Cangzhou | null | China | 
+| 2362 | Yong-in | null | South Korea | 
+| 798 | Cainta | null | Philippines | 
+| 1125 | Jalgaon | null | India | 
+| 474 | Wolverhampton | null | United Kingdom | 
+| 560 | San Bernardo | null | Chile | 
+| 3210 | Košice | null | Slovakia | 
+| 289 | Santarém | null | Brazil | 
+| 3098 | Krefeld | null | Germany | 
+| 2841 | Kasur | null | Pakistan | 
+| 1126 | Muzaffarpur | null | India | 
+| 1127 | Nizamabad | null | India | 
+| 2038 | Yibin | null | China | 
+| 927 | Bissau | null | Guinea-Bissau | 
+| 1524 | Graz | null | Austria | 
+| 906 | Kutaisi | null | Georgia | 
+| 1128 | Muzaffarnagar | null | India | 
+| 931 | Delmas | null | Haiti | 
+| 290 | Volta Redonda | null | Brazil | 
+| 3864 | Jersey City | null | United States | 
+| 2439 | Tripoli | null | Lebanon | 
+| 291 | Novo Hamburgo | null | Brazil | 
+| 96 | Bahía Blanca | null | Argentina | 
+| 2039 | Huaiyin | null | China | 
+| 3656 | Rybinsk | null | Russian Federation | 
+| 1621 | Takasaki | null | Japan | 
+| 1622 | Shimizu | null | Japan | 
+| 3453 | Krementšuk | null | Ukraine | 
+| 292 | Caucaia | null | Brazil | 
+| 293 | Santa Maria | null | Brazil | 
+| 1129 | Patiala | null | India | 
+| 1130 | Shahjahanpur | null | India | 
+| 294 | Cascavel | null | Brazil | 
+| 2 | Qandahar | null | Afghanistan | 
+| 2363 | Wonju | null | South Korea | 
+| 3657 | Prokopjevsk | null | Russian Federation | 
+| 295 | Guarujá | null | Brazil | 
+| 3507 | Buhoro | null | Uzbekistan | 
+| 3454 | Ivano-Frankivsk | null | Ukraine | 
+| 1131 | Kurnool | null | India | 
+| 475 | Derby | null | United Kingdom | 
+| 3455 | Ternopil | null | Ukraine | 
+| 97 | Esteban Echeverría | null | Argentina | 
+| 1132 | Tiruppur (Tirupper) | null | India | 
+| 1623 | Kurume | null | Japan | 
+| 2364 | Kunpo | null | South Korea | 
+| 2040 | Dunhua | null | China | 
+| 3099 | Magdeburg | null | Germany | 
+| 3228 | Kassala | null | Sudan | 
+| 2365 | Chunchon | null | South Korea | 
+| 3865 | Norfolk | null | United States | 
+| 8 | Utrecht | null | Netherlands | 
+| 3658 | Niznevartovsk | null | Russian Federation | 
+| 3100 | Kiel | null | Germany | 
+| 3027 | Braila | null | Romania | 
+| 1133 | Rohtak | null | India | 
+| 3659 | Naltšik | null | Russian Federation | 
+| 561 | Temuco | null | Chile | 
+| 2579 | General Escobedo | null | Mexico | 
+| 1134 | South Dum Dum | null | India | 
+| 296 | Ribeirão das Neves | null | Brazil | 
+| 2942 | Radom | null | Poland | 
+| 623 | Kafr al-Dawwar | null | Egypt | 
+| 297 | Governador Valadares | null | Brazil | 
+| 1624 | Fuji | null | Japan | 
+| 1788 | Irbid | null | Jordan | 
+| 799 | San Pedro | null | Philippines | 
+| 2808 | Bergen | null | Norway | 
+| 2041 | Yanji | null | China | 
+| 2042 | Jiangmen | null | China | 
+| 800 | Navotas | null | Philippines | 
+| 476 | Swansea | null | United Kingdom | 
+| 3660 | Syktyvkar | null | Russian Federation | 
+| 3229 | Obeid | null | Sudan | 
+| 2765 | Benin City | null | Nigeria | 
+| 3661 | Severodvinsk | null | Russian Federation | 
+| 98 | Resistencia | null | Argentina | 
+| 2326 | Haeju | null | North Korea | 
+| 298 | Taubaté | null | Brazil | 
+| 2366 | Namyangju | null | South Korea | 
+| 2277 | Itagüí | null | Colombia | 
+| 3378 | Elâzig | null | Turkey | 
+| 2842 | Rahim Yar Khan | null | Pakistan | 
+| 2469 | Kuala Terengganu | null | Malaysia | 
+| 2043 | Tongling | null | China | 
+| 2044 | Suihua | null | China | 
+| 3866 | Baton Rouge | null | United States | 
+| 3278 | Changhwa | null | Taiwan | 
+| 3279 | Yungho | null | Taiwan | 
+| 138 | Central Coast | null | Australia | 
+| 3230 | Nyala | null | Sudan | 
+| 2580 | Salamanca | null | Mexico | 
+| 1135 | Mathura | null | India | 
+| 2581 | Santa Catarina | null | Mexico | 
+| 2045 | Gongziling | null | China | 
+| 2278 | Palmira | null | Colombia | 
+| 3867 | Hialeah | null | United States | 
+| 1136 | Chandrapur | null | India | 
+| 67 | al-Ayn | null | United Arab Emirates | 
+| 2582 | Tehuacán | null | Mexico | 
+| 3181 | al-Hufuf | null | Saudi Arabia | 
+| 3868 | Lincoln | null | United States | 
+| 2981 | Montpellier | null | France | 
+| 3662 | Bijsk | null | Russian Federation | 
+| 3280 | Tucheng | null | Taiwan | 
+| 3551 | Mérida | null | Venezuela | 
+| 1137 | Barahanagar (Baranagar) | null | India | 
+| 299 | Imperatriz | null | Brazil | 
+| 2279 | Buenaventura | null | Colombia | 
+| 176 | Gent | null | Belgium | 
+| 2920 | Bayamón | null | Puerto Rico | 
+| 3869 | Greensboro | null | United States | 
+| 197 | Oruro | null | Bolivia | 
+| 2327 | Kanggye | null | North Korea | 
+| 3663 | Niznekamsk | null | Russian Federation | 
+| 300 | Gravataí | null | Brazil | 
+| 734 | Newcastle | null | South Africa | 
+| 2046 | Xiantao | null | China | 
+| 801 | Cabanatuan | null | Philippines | 
+| 1625 | Soka | null | Japan | 
+| 2254 | Osh | null | Kyrgyzstan | 
+| 38 | Annaba | null | Algeria | 
+| 2047 | Chaoyang | null | China | 
+| 3101 | Oberhausen | null | Germany | 
+| 3028 | Oradea | null | Romania | 
+| 301 | Embu | null | Brazil | 
+| 2583 | Chalco | null | Mexico | 
+| 3870 | Plano | null | United States | 
+| 3664 | Blagoveštšensk | null | Russian Federation | 
+| 2280 | Floridablanca | null | Colombia | 
+| 802 | San Fernando | null | Philippines | 
+| 3665 | Šahty | null | Russian Federation | 
+| 99 | José C. Paz | null | Argentina | 
+| 1869 | Qostanay | null | Kazakstan | 
+| 3774 | Nha Trang | null | Vietnam | 
+| 3552 | Cabimas | null | Venezuela | 
+| 735 | East London | null | South Africa | 
+| 3526 | Bobruisk | null | Belarus | 
+| 2900 | Pucallpa | null | Peru | 
+| 2281 | Sincelejo | null | Colombia | 
+| 1626 | Fuchu | null | Japan | 
+| 2367 | Kangnung | null | South Korea | 
+| 2048 | Ganzhou | null | China | 
+| 3871 | Rochester | null | United States | 
+| 139 | Wollongong | null | Australia | 
+| 2470 | Pinang | null | Malaysia | 
+| 2471 | Kota Bharu | null | Malaysia | 
+| 3379 | Van | null | Turkey | 
+| 3775 | Hue | null | Vietnam | 
+| 3182 | al-Mubarraz | null | Saudi Arabia | 
+| 624 | Assuan | null | Egypt | 
+| 3872 | Glendale | null | United States | 
+| 972 | Jember | null | Indonesia | 
+| 803 | Lipa | null | Philippines | 
+| 1138 | Darbhanga | null | India | 
+| 2049 | Huzhou | null | China | 
+| 2050 | Baicheng | null | China | 
+| 3183 | Khamis Mushayt | null | Saudi Arabia | 
+| 3553 | Barinas | null | Venezuela | 
+| 1403 | Borujerd | null | Iran | 
+| 562 | Concepción | null | Chile | 
+| 3554 | Turmero | null | Venezuela | 
+| 2766 | Iseyin | null | Nigeria | 
+| 671 | Vitoria-Gasteiz | null | Spain | 
+| 3873 | Akron | null | United States | 
+| 804 | Lapu-Lapu | null | Philippines | 
+| 3456 | Lutsk | null | Ukraine | 
+| 1139 | Siliguri (Shiliguri) | null | India | 
+| 2584 | Cárdenas | null | Mexico | 
+| 2585 | Campeche | null | Mexico | 
+| 1477 | Trieste | null | Italy | 
+| 1627 | Chigasaki | null | Japan | 
+| 477 | Southampton | null | United Kingdom | 
+| 3874 | Garland | null | United States | 
+| 2901 | Tacna | null | Peru | 
+| 3776 | Can Tho | null | Vietnam | 
+| 1140 | Raurkela | null | India | 
+| 1141 | Ambattur | null | India | 
+| 2051 | Shangzi | null | China | 
+| 2982 | Bordeaux | null | France | 
+| 1142 | Panipat | null | India | 
+| 2052 | Yangjiang | null | China | 
+| 1143 | Firozabad | null | India | 
+| 3457 | Bila Tserkva | null | Ukraine | 
+| 2053 | Qitaihe | null | China | 
+| 1144 | Ichalkaranji | null | India | 
+| 302 | Mossoró | null | Brazil | 
+| 1145 | Jammu | null | India | 
+| 3281 | Pingtung | null | Taiwan | 
+| 303 | Várzea Grande | null | Brazil | 
+| 1146 | Ramagundam | null | India | 
+| 2054 | Gejiu | null | China | 
+| 3666 | Staryi Oskol | null | Russian Federation | 
+| 2055 | Jiangyin | null | China | 
+| 3102 | Lübeck | null | Germany | 
+| 3237 | Espoo | null | Finland | 
+| 478 | Aberdeen | null | United Kingdom | 
+| 672 | Santa Cruz de Tenerife | null | Spain | 
+| 2586 | La Paz | null | Mexico | 
+| 204 | Gaborone | null | Botswana | 
+| 563 | Rancagua | null | Chile | 
+| 2056 | Hebi | null | China | 
+| 1147 | Eluru | null | India | 
+| 1628 | Atsugi | null | Japan | 
+| 2943 | Kielce | null | Poland | 
+| 625 | Damanhur | null | Egypt | 
+| 2944 | Gliwice | null | Poland | 
+| 127 | Gjumri | null | Armenia | 
+| 2057 | Jiaxing | null | China | 
+| 1478 | Padova | null | Italy | 
+| 1629 | Numazu | null | Japan | 
+| 3231 | Wad Madani | null | Sudan | 
+| 3380 | Sultanbeyli | null | Turkey | 
+| 304 | Petrolina | null | Brazil | 
+| 2058 | Wuzhou | null | China | 
+| 1148 | Brahmapur | null | India | 
+| 596 | Machala | null | Ecuador | 
+| 3381 | Izmit (Kocaeli) | null | Turkey | 
+| 923 | Mixco | null | Guatemala | 
+| 673 | Badalona | null | Spain | 
+| 1630 | Ageo | null | Japan | 
+| 3029 | Bacau | null | Romania | 
+| 3777 | Cam Pha | null | Vietnam | 
+| 2059 | Meihekou | null | China | 
+| 2060 | Xuchang | null | China | 
+| 1375 | al-Amara | null | Iraq | 
+| 305 | Barueri | null | Brazil | 
+| 1631 | Yamato | null | Japan | 
+| 1479 | Taranto | null | Italy | 
+| 3875 | Madison | null | United States | 
+| 2587 | Othón P. Blanco (Chetumal) | null | Mexico | 
+| 805 | San Pablo | null | Philippines | 
+| 2061 | Liaocheng | null | China | 
+| 1826 | Windsor | null | Canada | 
+| 306 | Viamão | null | Brazil | 
+| 2843 | Sahiwal | null | Pakistan | 
+| 2417 | Santa Clara | null | Cuba | 
+| 3555 | Baruta | null | Venezuela | 
+| 3382 | Manisa | null | Turkey | 
+| 3667 | Zelenograd | null | Russian Federation | 
+| 100 | Paraná | null | Argentina | 
+| 101 | Godoy Cruz | null | Argentina | 
+| 973 | Cilacap | null | Indonesia | 
+| 1632 | Matsumoto | null | Japan | 
+| 1633 | Kure | null | Japan | 
+| 2767 | Katsina | null | Nigeria | 
+| 307 | Ipatinga | null | Brazil | 
+| 2768 | Jos | null | Nigeria | 
+| 2983 | Rennes | null | France | 
+| 2945 | Torun | null | Poland | 
+| 1404 | Abadan | null | Iran | 
+| 3668 | Balakovo | null | Russian Federation | 
+| 1634 | Takarazuka | null | Japan | 
+| 3876 | Fort Wayne | null | United States | 
+| 2062 | Haicheng | null | China | 
+| 2946 | Bytom | null | Poland | 
+| 2063 | Qianjiang | null | China | 
+| 2368 | Chungju | null | South Korea | 
+| 3103 | Hagen | null | Germany | 
+| 974 | Cimanggis | null | Indonesia | 
+| 1149 | Alwar | null | India | 
+| 2418 | Guantánamo | null | Cuba | 
+| 2064 | Baiyin | null | China | 
+| 2769 | Sokoto | null | Nigeria | 
+| 2065 | Bei´an | null | China | 
+| 3383 | Batman | null | Turkey | 
+| 2588 | Texcoco | null | Mexico | 
+| 3484 | Debrecen | null | Hungary | 
+| 1870 | Petropavl | null | Kazakstan | 
+| 3877 | Fremont | null | United States | 
+| 3669 | Novorossijsk | null | Russian Federation | 
+| 736 | Welkom | null | South Africa | 
+| 3104 | Rostock | null | Germany | 
+| 1150 | Pondicherry | null | India | 
+| 975 | Pematang Siantar | null | Indonesia | 
+| 3218 | Dehiwala | null | Sri Lanka | 
+| 3878 | Scottsdale | null | United States | 
+| 1405 | Dezful | null | Iran | 
+| 976 | Purwokerto | null | Indonesia | 
+| 3105 | Freiburg im Breisgau | null | Germany | 
+| 2449 | Klaipeda | null | Lithuania | 
+| 154 | Narayanganj | null | Bangladesh | 
+| 597 | Santo Domingo de los Colorados | null | Ecuador | 
+| 1151 | Thanjavur | null | India | 
+| 9 | Eindhoven | null | Netherlands | 
+| 1635 | Kasukabe | null | Japan | 
+| 1636 | Chofu | null | Japan | 
+| 2305 | Bukavu | null | Congo, The Democratic Republic of the | 
+| 3879 | Montgomery | null | United States | 
+| 3670 | Pihkova | null | Russian Federation | 
+| 1406 | Kashan | null | Iran | 
+| 626 | al-Minya | null | Egypt | 
+| 1152 | Bihar Sharif | null | India | 
+| 102 | Posadas | null | Argentina | 
+| 3106 | Erfurt | null | Germany | 
+| 806 | Biñan | null | Philippines | 
+| 308 | Juazeiro | null | Brazil | 
+| 2844 | Okara | null | Pakistan | 
+| 177 | Charleroi | null | Belgium | 
+| 2066 | Yixing | null | China | 
+| 2282 | Popayán | null | Colombia | 
+| 103 | Guaymallén | null | Argentina | 
+| 674 | Oviedo | null | Spain | 
+| 2947 | Zabrze | null | Poland | 
+| 1637 | Odawara | null | Japan | 
+| 3880 | Shreveport | null | United States | 
+| 1153 | Tuticorin | null | India | 
+| 3881 | Augusta-Richmond County | null | United States | 
+| 1638 | Kofu | null | Japan | 
+| 309 | Juazeiro do Norte | null | Brazil | 
+| 3882 | Lubbock | null | United States | 
+| 2472 | Kuantan | null | Malaysia | 
+| 3883 | Chesapeake | null | United States | 
+| 2770 | Ilobu | null | Nigeria | 
+| 3200 | Kaolack | null | Senegal | 
+| 3884 | Mobile | null | United States | 
+| 3885 | Des Moines | null | United States | 
+| 2067 | Laizhou | null | China | 
+| 1154 | Imphal | null | India | 
+| 2845 | Wah | null | Pakistan | 
+| 807 | Taytay | null | Philippines | 
+| 3886 | Grand Rapids | null | United States | 
+| 3887 | Richmond | null | United States | 
+| 1639 | Kushiro | null | Japan | 
+| 2068 | Qaramay | null | China | 
+| 2069 | Acheng | null | China | 
+| 310 | Taboão da Serra | null | Brazil | 
+| 1155 | Latur | null | India | 
+| 1640 | Kishiwada | null | Japan | 
+| 737 | Kimberley | null | South Africa | 
+| 2771 | Offa | null | Nigeria | 
+| 3351 | Ariana | null | Tunisia | 
+| 3671 | Zlatoust | null | Russian Federation | 
+| 311 | São José dos Pinhais | null | Brazil | 
+| 2589 | La Paz | null | Mexico | 
+| 1641 | Hitachi | null | Japan | 
+| 1376 | al-Diwaniya | null | Iraq | 
+| 3384 | Balikesir | null | Turkey | 
+| 3107 | Kassel | null | Germany | 
+| 312 | Magé | null | Brazil | 
+| 3888 | Yonkers | null | United States | 
+| 808 | Lucena | null | Philippines | 
+| 479 | Northampton | null | United Kingdom | 
+| 1407 | Sari | null | Iran | 
+| 3889 | Spokane | null | United States | 
+| 1871 | Oral | null | Kazakstan | 
+| 2070 | Dezhou | null | China | 
+| 809 | Imus | null | Philippines | 
+| 3238 | Tampere | null | Finland | 
+| 313 | Suzano | null | Brazil | 
+| 3672 | Jakutsk | null | Russian Federation | 
+| 675 | Móstoles | null | Spain | 
+| 1156 | Sagar | null | India | 
+| 542 | Burgas | null | Bulgaria | 
+| 2071 | Nanping | null | China | 
+| 2430 | Nicosia | null | Cyprus | 
+| 3890 | Glendale | null | United States | 
+| 2902 | Ica | null | Peru | 
+| 2072 | Zhaoqing | null | China | 
+| 1157 | Farrukhabad-cum-Fatehgarh | null | India | 
+| 2073 | Beipiao | null | China | 
+| 2691 | Tiraspol | null | Moldova | 
+| 3673 | Podolsk | null | Russian Federation | 
+| 2590 | Metepec | null | Mexico | 
+| 810 | Olongapo | null | Philippines | 
+| 3508 | Karsi | null | Uzbekistan | 
+| 3509 | Nukus | null | Uzbekistan | 
+| 3674 | Petropavlovsk-Kamtšatski | null | Russian Federation | 
+| 187 | Porto-Novo | null | Benin | 
+| 2074 | Fengcheng | null | China | 
+| 2591 | Monclova | null | Mexico | 
+| 1827 | Saskatoon | null | Canada | 
+| 3891 | Tacoma | null | United States | 
+| 10 | Tilburg | null | Netherlands | 
+| 1158 | Sangli | null | India | 
+| 676 | Elche [Elx] | null | Spain | 
+| 2592 | Huixquilucan | null | Mexico | 
+| 3282 | Yungkang | null | Taiwan | 
+| 2075 | Fuyu | null | China | 
+| 1883 | Kisumu | null | Kenya | 
+| 1377 | al-Ramadi | null | Iraq | 
+| 2076 | Xinyang | null | China | 
+| 2593 | Chilpancingo de los Bravo | null | Mexico | 
+| 1642 | Nagaoka | null | Japan | 
+| 2077 | Dongtai | null | China | 
+| 480 | Dudley | null | United Kingdom | 
+| 738 | Uitenhage | null | South Africa | 
+| 3201 | Ziguinchor | null | Senegal | 
+| 3892 | Irving | null | United States | 
+| 155 | Rangpur | null | Bangladesh | 
+| 2078 | Yuci | null | China | 
+| 1480 | Brescia | null | Italy | 
+| 3232 | al-Qadarif | null | Sudan | 
+| 2984 | Le Havre | null | France | 
+| 2713 | Pegu (Bago) | null | Myanmar | 
+| 1643 | Itami | null | Japan | 
+| 2079 | Honghu | null | China | 
+| 3385 | Sakarya (Adapazari) | null | Turkey | 
+| 3675 | Kamensk-Uralski | null | Russian Federation | 
+| 1159 | Parbhani | null | India | 
+| 2080 | Ezhou | null | China | 
+| 3510 | Kükon | null | Uzbekistan | 
+| 1160 | Nagar Coil | null | India | 
+| 481 | Portsmouth | null | United Kingdom | 
+| 3219 | Moratuwa | null | Sri Lanka | 
+| 1828 | Kitchener | null | Canada | 
+| 104 | Santiago del Estero | null | Argentina | 
+| 739 | Chatsworth | null | South Africa | 
+| 3893 | Huntington Beach | null | United States | 
+| 3051 | Uppsala | null | Sweden | 
+| 2410 | Split | null | Croatia | 
+| 2081 | Heze | null | China | 
+| 314 | São Leopoldo | null | Brazil | 
+| 3420 | Chärjew | null | Turkmenistan | 
+| 482 | Newcastle upon Tyne | null | United Kingdom | 
+| 1829 | Markham | null | Canada | 
+| 564 | Arica | null | Chile | 
+| 3306 | Dodoma | null | Tanzania | 
+| 3676 | Engels | null | Russian Federation | 
+| 3894 | Modesto | null | United States | 
+| 1644 | Uji | null | Japan | 
+| 156 | Mymensingh | null | Bangladesh | 
+| 1408 | Gorgan | null | Iran | 
+| 315 | Marília | null | Brazil | 
+| 2369 | Andong | null | South Korea | 
+| 3283 | Pingchen | null | Taiwan | 
+| 1453 | Rishon Le Ziyyon | null | Israel | 
+| 2082 | Daxian | null | China | 
+| 2846 | Dera Ghazi Khan | null | Pakistan | 
+| 1525 | Linz | null | Austria | 
+| 3556 | Puerto Cabello | null | Venezuela | 
+| 3497 | North Shore | null | New Zealand | 
+| 811 | Binangonan | null | Philippines | 
+| 565 | Talca | null | Chile | 
+| 977 | Ciomas | null | Indonesia | 
+| 2083 | Linfen | null | China | 
+| 2985 | Reims | null | France | 
+| 3030 | Pitesti | null | Romania | 
+| 316 | São Carlos | null | Brazil | 
+| 3895 | Durham | null | United States | 
+| 1161 | Bijapur | null | India | 
+| 3677 | Syzran | null | Russian Federation | 
+| 3 | Herat | null | Afghanistan | 
+| 2921 | Ponce | null | Puerto Rico | 
+| 2084 | Tianmen | null | China | 
+| 3896 | Columbus | null | United States | 
+| 317 | Sumaré | null | Brazil | 
+| 2922 | Carolina | null | Puerto Rico | 
+| 3458 | Kramatorsk | null | Ukraine | 
+| 3678 | Grozny | null | Russian Federation | 
+| 3897 | Orlando | null | United States | 
+| 2085 | Yiyang | null | China | 
+| 3898 | Boise City | null | United States | 
+| 3899 | Winston-Salem | null | United States | 
+| 3557 | Santa Ana de Coro | null | Venezuela | 
+| 178 | Liège | null | Belgium | 
+| 812 | Santa Rosa | null | Philippines | 
+| 3900 | San Bernardino | null | United States | 
+| 1162 | Kukatpalle | null | India | 
+| 318 | Presidente Prudente | null | Brazil | 
+| 2086 | Quanzhou | null | China | 
+| 2087 | Rizhao | null | China | 
+| 319 | Divinópolis | null | Brazil | 
+| 2772 | Ikorodu | null | Nigeria | 
+| 677 | Sabadell | null | Spain | 
+| 2986 | Lille | null | France | 
+| 2773 | Ilawe-Ekiti | null | Nigeria | 
+| 2847 | Mirpur Khas | null | Pakistan | 
+| 1163 | Bally | null | India | 
+| 3031 | Arad | null | Romania | 
+| 3679 | Novotšerkassk | null | Russian Federation | 
+| 3901 | Jackson | null | United States | 
+| 678 | Santander | null | Spain | 
+| 1645 | Suzuka | null | Japan | 
+| 1164 | Bhilwara | null | India | 
+| 3317 | Odense | null | Denmark | 
+| 2714 | Bassein (Pathein) | null | Myanmar | 
+| 3108 | Saarbrücken | null | Germany | 
+| 2594 | Puerto Vallarta | null | Mexico | 
+| 2370 | Yosu | null | South Korea | 
+| 2774 | Owo | null | Nigeria | 
+| 39 | Batna | null | Algeria | 
+| 1165 | Ratlam | null | India | 
+| 483 | Sunderland | null | United Kingdom | 
+| 2473 | Taiping | null | Malaysia | 
+| 1166 | Avadi | null | India | 
+| 1378 | al-Kut | null | Iraq | 
+| 3109 | Mainz | null | Germany | 
+| 3902 | Little Rock | null | United States | 
+| 2848 | Nawabshah | null | Pakistan | 
+| 484 | Luton | null | United Kingdom | 
+| 320 | Sete Lagoas | null | Brazil | 
+| 2474 | Seremban | null | Malaysia | 
+| 2595 | Fresnillo | null | Mexico | 
+| 2403 | Pireus | null | Greece | 
+| 679 | Jerez de la Frontera | null | Spain | 
+| 740 | Mdantsane | null | South Africa | 
+| 2088 | Deyang | null | China | 
+| 1167 | Dindigul | null | India | 
+| 2089 | Guangyuan | null | China | 
+| 321 | Rio Grande | null | Brazil | 
+| 322 | Itabuna | null | Brazil | 
+| 2306 | Kikwit | null | Congo, The Democratic Republic of the | 
+| 2596 | Ciudad Madero | null | Mexico | 
+| 3680 | Berezniki | null | Russian Federation | 
+| 2090 | Changshu | null | China | 
+| 3110 | Hamm | null | Germany | 
+| 3903 | Salt Lake City | null | United States | 
+| 741 | Krugersdorp | null | South Africa | 
+| 2091 | Zhangzhou | null | China | 
+| 2775 | Ikirun | null | Nigeria | 
+| 3322 | Nakhon Ratchasima | null | Thailand | 
+| 1168 | Ahmadnagar | null | India | 
+| 2307 | Tshikapa | null | Congo, The Democratic Republic of the | 
+| 2092 | Hailar | null | China | 
+| 3511 | Fargona | null | Uzbekistan | 
+| 680 | Pamplona [Iruña] | null | Spain | 
+| 3904 | Reno | null | United States | 
+| 1830 | Regina | null | Canada | 
+| 2948 | Bielsko-Biala | null | Poland | 
+| 2093 | Nanchong | null | China | 
+| 2987 | St-Étienne | null | France | 
+| 3905 | Newport News | null | United States | 
+| 2094 | Jiutai | null | China | 
+| 485 | Swindon | null | United Kingdom | 
+| 2095 | Zhaodong | null | China | 
+| 2597 | Soledad de Graciano Sánchez | null | Mexico | 
+| 1169 | Bilaspur | null | India | 
+| 2096 | Shaoxing | null | China | 
+| 978 | Tasikmalaya | null | Indonesia | 
+| 1793 | Novi Sad | null | Yugoslavia | 
+| 1481 | Reggio di Calabria | null | Italy | 
+| 2097 | Fuyang | null | China | 
+| 813 | Tagum | null | Philippines | 
+| 2598 | San Juan del Río | null | Mexico | 
+| 1170 | Shimoga | null | India | 
+| 1831 | Burnaby | null | Canada | 
+| 681 | Donostia-San Sebastián | null | Spain | 
+| 3681 | Juzno-Sahalinsk | null | Russian Federation | 
+| 323 | Jequié | null | Brazil | 
+| 40 | Sétif | null | Algeria | 
+| 2328 | Kimchaek | null | North Korea | 
+| 324 | Arapiraca | null | Brazil | 
+| 3558 | Los Teques | null | Venezuela | 
+| 105 | San Salvador de Jujuy | null | Argentina | 
+| 2098 | Maoming | null | China | 
+| 2099 | Qujing | null | China | 
+| 814 | Tacloban | null | Philippines | 
+| 3352 | Ettadhamen | null | Tunisia | 
+| 1409 | Najafabad | null | Iran | 
+| 3239 | Vantaa | null | Finland | 
+| 198 | Sucre | null | Bolivia | 
+| 3682 | Volgodonsk | null | Russian Federation | 
+| 566 | Chillán | null | Chile | 
+| 2283 | Barrancabermeja | null | Colombia | 
+| 2329 | Hyesan | null | North Korea | 
+| 1171 | Kharagpur | null | India | 
+| 742 | Botshabelo | null | South Africa | 
+| 567 | Iquique | null | Chile | 
+| 325 | Colombo | null | Brazil | 
+| 682 | Cartagena | null | Spain | 
+| 1646 | Hirosaki | null | Japan | 
+| 326 | Americana | null | Brazil | 
+| 2599 | San Felipe del Progreso | null | Mexico | 
+| 2100 | Ghulja | null | China | 
+| 1805 | Garoua | null | Cameroon | 
+| 2600 | Córdoba | null | Mexico | 
+| 3184 | Hail | null | Saudi Arabia | 
+| 3906 | Chandler | null | United States | 
+| 3907 | Laredo | null | United States | 
+| 598 | Portoviejo | null | Ecuador | 
+| 2101 | Jiaohe | null | China | 
+| 1482 | Modena | null | Italy | 
+| 486 | Southend-on-Sea | null | United Kingdom | 
+| 2102 | Puyang | null | China | 
+| 2103 | Huadian | null | China | 
+| 2104 | Jiangyou | null | China | 
+| 3111 | Herne | null | Germany | 
+| 327 | Alvorada | null | Brazil | 
+| 1794 | Niš | null | Yugoslavia | 
+| 3908 | Henderson | null | United States | 
+| 1172 | Mira Bhayandar | null | India | 
+| 815 | Malolos | null | Philippines | 
+| 1647 | Ube | null | Japan | 
+| 1173 | Vellore | null | India | 
+| 1174 | Jalna | null | India | 
+| 1648 | Kodaira | null | Japan | 
+| 1175 | Burnpur | null | India | 
+| 1176 | Anantapur | null | India | 
+| 3909 | Arlington | null | United States | 
+| 487 | Walsall | null | United Kingdom | 
+| 1177 | Allappuzha (Alleppey) | null | India | 
+| 2105 | Qashqar | null | China | 
+| 2776 | Shaki | null | Nigeria | 
+| 2849 | Mingora | null | Pakistan | 
+| 2777 | Calabar | null | Nigeria | 
+| 328 | Araraquara | null | Brazil | 
+| 1649 | Takaoka | null | Japan | 
+| 1178 | Tirupati | null | India | 
+| 2106 | Anshun | null | China | 
+| 329 | Itaboraí | null | Brazil | 
+| 3112 | Mülheim an der Ruhr | null | Germany | 
+| 3910 | Knoxville | null | United States | 
+| 2107 | Fuling | null | China | 
+| 1179 | Karnal | null | India | 
+| 2371 | Kyongsan | null | South Korea | 
+| 1650 | Obihiro | null | Japan | 
+| 3911 | Amarillo | null | United States | 
+| 3912 | Providence | null | United States | 
+| 2778 | Ondo | null | Nigeria | 
+| 3233 | Kusti | null | Sudan | 
+| 3913 | Chula Vista | null | United States | 
+| 2108 | Xinyu | null | China | 
+| 3246 | Geneve | null | Switzerland | 
+| 683 | Leganés | null | Spain | 
+| 2308 | Matadi | null | Congo, The Democratic Republic of the | 
+| 1180 | Burhanpur | null | India | 
+| 11 | Groningen | null | Netherlands | 
+| 128 | Vanadzor | null | Armenia | 
+| 1181 | Hisar (Hissar) | null | India | 
+| 3914 | Worcester | null | United States | 
+| 1182 | Tiruvottiyur | null | India | 
+| 3240 | Turku [Åbo] | null | Finland | 
+| 1483 | Prato | null | Italy | 
+| 2601 | Tecámac | null | Mexico | 
+| 3485 | Miskolc | null | Hungary | 
+| 3307 | Mwanza | null | Tanzania | 
+| 627 | Bani Suwayf | null | Egypt | 
+| 148 | Nassau | null | Bahamas | 
+| 1651 | Tomakomai | null | Japan | 
+| 3284 | Tali | null | Taiwan | 
+| 3778 | Nam Dinh | null | Vietnam | 
+| 330 | Santa Bárbara d´Oeste | null | Brazil | 
+| 979 | Madiun | null | Indonesia | 
+| 2330 | Kaesong | null | North Korea | 
+| 2602 | Ocosingo | null | Mexico | 
+| 2603 | Carmen | null | Mexico | 
+| 743 | Brakpan | null | South Africa | 
+| 628 | Qina | null | Egypt | 
+| 684 | Fuenlabrada | null | Spain | 
+| 3323 | Chiang Mai | null | Thailand | 
+| 2702 | Chimoio | null | Mozambique | 
+| 816 | Mabalacat | null | Philippines | 
+| 2949 | Olsztyn | null | Poland | 
+| 2604 | Lázaro Cárdenas | null | Mexico | 
+| 1410 | Sabzevar | null | Iran | 
+| 331 | Nova Friburgo | null | Brazil | 
+| 3498 | Waitakere | null | New Zealand | 
+| 1872 | Temirtau | null | Kazakstan | 
+| 2605 | Jiutepec | null | Mexico | 
+| 3915 | Oxnard | null | United States | 
+| 332 | Jacareí | null | Brazil | 
+| 157 | Barisal | null | Bangladesh | 
+| 629 | Sawhaj | null | Egypt | 
+| 2606 | Papantla | null | Mexico | 
+| 1652 | Saga | null | Japan | 
+| 106 | Hurlingham | null | Argentina | 
+| 2109 | Hanzhong | null | China | 
+| 2309 | Mbandaka | null | Congo, The Democratic Republic of the | 
+| 599 | Ambato | null | Ecuador | 
+| 3032 | Sibiu | null | Romania | 
+| 2110 | Danyang | null | China | 
+| 2111 | Chenzhou | null | China | 
+| 1183 | Mirzapur-cum-Vindhyachal | null | India | 
+| 333 | Araçatuba | null | Brazil | 
+| 2850 | Chiniot | null | Pakistan | 
+| 3683 | Abakan | null | Russian Federation | 
+| 685 | Almería | null | Spain | 
+| 2453 | El-Aaiún | null | Western Sahara | 
+| 2726 | Windhoek | null | Namibia | 
+| 3459 | Melitopol | null | Ukraine | 
+| 334 | Barra Mansa | null | Brazil | 
+| 1484 | Parma | null | Italy | 
+| 158 | Tungi | null | Bangladesh | 
+| 686 | Terrassa | null | Spain | 
+| 335 | Praia Grande | null | Brazil | 
+| 1653 | Sakura | null | Japan | 
+| 2411 | Rijeka | null | Croatia | 
+| 336 | Marabá | null | Brazil | 
+| 337 | Criciúma | null | Brazil | 
+| 1654 | Kamakura | null | Japan | 
+| 1184 | Secunderabad | null | India | 
+| 3684 | Maikop | null | Russian Federation | 
+| 107 | Neuquén | null | Argentina | 
+| 1655 | Mitaka | null | Japan | 
+| 1832 | Québec | null | Canada | 
+| 3559 | Punto Fijo | null | Venezuela | 
+| 338 | Boa Vista | null | Brazil | 
+| 744 | Witbank | null | South Africa | 
+| 1185 | Nadiad | null | India | 
+| 3527 | Baranovitši | null | Belarus | 
+| 1656 | Izumi | null | Japan | 
+| 1657 | Hino | null | Japan | 
+| 3342 | Plzen | null | Czech Republic | 
+| 3247 | Basel | null | Switzerland | 
+| 3499 | Wellington | null | New Zealand | 
+| 1658 | Hadano | null | Japan | 
+| 543 | Ruse | null | Bulgaria | 
+| 339 | Passo Fundo | null | Brazil | 
+| 2112 | Xiaogan | null | China | 
+| 3685 | Miass | null | Russian Federation | 
+| 3916 | Dayton | null | United States | 
+| 1485 | Cagliari | null | Italy | 
+| 3560 | Guarenas | null | Venezuela | 
+| 1411 | Khomeynishahr | null | Iran | 
+| 3113 | Solingen | null | Germany | 
+| 3285 | Taiping | null | Taiwan | 
+| 1659 | Ashikaga | null | Japan | 
+| 3917 | Garden Grove | null | United States | 
+| 3033 | Târgu Mures | null | Romania | 
+| 3686 | Armavir | null | Russian Federation | 
+| 2113 | Shangqiu | null | China | 
+| 757 | Dire Dawa | null | Ethiopia | 
+| 2114 | Zhuhai | null | China | 
+| 600 | Manta | null | Ecuador | 
+| 340 | Dourados | null | Brazil | 
+| 341 | Santa Luzia | null | Brazil | 
+| 2115 | Qingyuan | null | China | 
+| 2607 | Comalcalco | null | Mexico | 
+| 1660 | Tsu | null | Japan | 
+| 3114 | Osnabrück | null | Germany | 
+| 687 | Alcalá de Henares | null | Spain | 
+| 745 | Oberholzer | null | South Africa | 
+| 1186 | Dewas | null | India | 
+| 4071 | Mount Darwin | null | Zimbabwe | 
+| 746 | Germiston | null | South Africa | 
+| 2116 | Aqsu | null | China | 
+| 1884 | Nakuru | null | Kenya | 
+| 3687 | Ljubertsy | null | Russian Federation | 
+| 817 | Cotabato | null | Philippines | 
+| 3115 | Ludwigshafen am Rhein | null | Germany | 
+| 1454 | Beerseba | null | Israel | 
+| 2117 | Jining | null | China | 
+| 342 | Rio Claro | null | Brazil | 
+| 1187 | Murwara (Katni) | null | India | 
+| 3779 | Quy Nhon | null | Vietnam | 
+| 2372 | Paju | null | South Korea | 
+| 2373 | Yangsan | null | South Korea | 
+| 57 | Huambo | null | Angola | 
+| 1455 | Holon | null | Israel | 
+| 818 | Meycauayan | null | Philippines | 
+| 2118 | Xiaoshan | null | China | 
+| 688 | Burgos | null | Spain | 
+| 3688 | Rubtsovsk | null | Russian Federation | 
+| 1661 | Sayama | null | Japan | 
+| 2779 | Akure | null | Nigeria | 
+| 2119 | Zaoyang | null | China | 
+| 747 | Springs | null | South Africa | 
+| 2950 | Rzeszów | null | Poland | 
+| 343 | Maracanaú | null | Brazil | 
+| 488 | Bournemouth | null | United Kingdom | 
+| 3460 | Kertš | null | Ukraine | 
+| 819 | Puerto Princesa | null | Philippines | 
+| 2120 | Xinghua | null | China | 
+| 3286 | Pate | null | Taiwan | 
+| 1486 | Livorno | null | Italy | 
+| 3262 | Khujand | null | Tajikistan | 
+| 1188 | Ganganagar | null | India | 
+| 2121 | Hami | null | China | 
+| 1662 | Yachiyo | null | Japan | 
+| 2608 | Zamora | null | Mexico | 
+| 3318 | Aalborg | null | Denmark | 
+| 3287 | Fengyuan | null | Taiwan | 
+| 3918 | Oceanside | null | United States | 
+| 2122 | Huizhou | null | China | 
+| 3116 | Leverkusen | null | Germany | 
+| 2123 | Jinmen | null | China | 
+| 1663 | Tsukuba | null | Japan | 
+| 2124 | Sanming | null | China | 
+| 2988 | Toulon | null | France | 
+| 3288 | Luchou | null | Taiwan | 
+| 344 | Guarapuava | null | Brazil | 
+| 12 | Breda | null | Netherlands | 
+| 1189 | Vizianagaram | null | India | 
+| 630 | Shibin al-Kawm | null | Egypt | 
+| 3689 | Kovrov | null | Russian Federation | 
+| 2951 | Ruda Slaska | null | Poland | 
+| 748 | Westonaria | null | South Africa | 
+| 2125 | Ulanhot | null | China | 
+| 1664 | Tachikawa | null | Japan | 
+| 1456 | Petah Tiqwa | null | Israel | 
+| 2284 | Dos Quebradas | null | Colombia | 
+| 2126 | Korla | null | China | 
+| 1190 | Erode | null | India | 
+| 1191 | Machilipatnam (Masulipatam) | null | India | 
+| 2609 | Nogales | null | Mexico | 
+| 1412 | Amol | null | Iran | 
+| 1192 | Bhatinda (Bathinda) | null | India | 
+| 3561 | Acarigua | null | Venezuela | 
+| 1413 | Neyshabur | null | Iran | 
+| 689 | Salamanca | null | Spain | 
+| 3919 | Tempe | null | United States | 
+| 1414 | Babol | null | Iran | 
+| 2610 | Huimanguillo | null | Mexico | 
+| 2703 | Naçala-Porto | null | Mozambique | 
+| 3920 | Huntsville | null | United States | 
+| 568 | Los Angeles | null | Chile | 
+| 108 | Ituzaingó | null | Argentina | 
+| 3486 | Szeged | null | Hungary | 
+| 3324 | Udon Thani | null | Thailand | 
+| 3921 | Ontario | null | United States | 
+| 2780 | Gusau | null | Nigeria | 
+| 2730 | Biratnagar | null | Nepal | 
+| 3690 | Nahodka | null | Russian Federation | 
+| 3308 | Zanzibar | null | Tanzania | 
+| 1193 | Raichur | null | India | 
+| 1873 | Qyzylorda | null | Kazakstan | 
+| 1194 | Agartala | null | India | 
+| 3487 | Pécs | null | Hungary | 
+| 3691 | Ussurijsk | null | Russian Federation | 
+| 1665 | Kumagaya | null | Japan | 
+| 1195 | Arrah (Ara) | null | India | 
+| 820 | Legazpi | null | Philippines | 
+| 2127 | Wanxian | null | China | 
+| 3692 | Salavat | null | Russian Federation | 
+| 1487 | Perugia | null | Italy | 
+| 1196 | Satna | null | India | 
+| 2128 | Rui´an | null | China | 
+| 2781 | Ijebu-Ode | null | Nigeria | 
+| 2129 | Zhoushan | null | China | 
+| 2130 | Liangcheng | null | China | 
+| 821 | Silang | null | Philippines | 
+| 490 | Brighton | null | United Kingdom | 
+| 489 | Peterborough | null | United Kingdom | 
+| 1666 | Moriguchi | null | Japan | 
+| 1457 | Ashdod | null | Israel | 
+| 1667 | Otaru | null | Japan | 
+| 3562 | Puerto La Cruz | null | Venezuela | 
+| 3693 | Mytištši | null | Russian Federation | 
+| 3922 | Chattanooga | null | United States | 
+| 1197 | Lalbahadur Nagar | null | India | 
+| 1795 | Priština | null | Yugoslavia | 
+| 907 | Rustavi | null | Georgia | 
+| 2374 | Ichon | null | South Korea | 
+| 2496 | Agadir | null | Morocco | 
+| 1198 | Aizawl | null | India | 
+| 1199 | Uluberia | null | India | 
+| 345 | Rondonópolis | null | Brazil | 
+| 346 | São José | null | Brazil | 
+| 347 | Cachoeiro de Itapemirim | null | Brazil | 
+| 2817 | al-Sib | null | Oman | 
+| 1833 | York | null | Canada | 
+| 3289 | Hsichuh | null | Taiwan | 
+| 1458 | Netanya | null | Israel | 
+| 1488 | Foggia | null | Italy | 
+| 2497 | Mohammedia | null | Morocco | 
+| 2375 | Asan | null | South Korea | 
+| 2431 | Limassol | null | Cyprus | 
+| 1200 | Katihar | null | India | 
+| 3165 | Kabwe | null | Zambia | 
+| 822 | Ormoc | null | Philippines | 
+| 823 | San Carlos | null | Philippines | 
+| 3117 | Oldenburg | null | Germany | 
+| 1668 | Anjo | null | Japan | 
+| 13 | Apeldoorn | null | Netherlands | 
+| 2692 | Balti | null | Moldova | 
+| 348 | Nilópolis | null | Brazil | 
+| 2131 | Jiaozhou | null | China | 
+| 2404 | Patras | null | Greece | 
+| 2989 | Grenoble | null | France | 
+| 2611 | Cuautla | null | Mexico | 
+| 41 | Sidi Bel Abbès | null | Algeria | 
+| 2782 | Effon-Alaiye | null | Nigeria | 
+| 1201 | Cuddalore | null | India | 
+| 109 | San Fernando | null | Argentina | 
+| 3386 | Iskenderun | null | Turkey | 
+| 2612 | Minatitlán | null | Mexico | 
+| 1669 | Narashino | null | Japan | 
+| 1670 | Oyama | null | Japan | 
+| 2613 | Poza Rica de Hidalgo | null | Mexico | 
+| 601 | Duran [Eloy Alfaro] | null | Ecuador | 
+| 2285 | Tuluá | null | Colombia | 
+| 14 | Nijmegen | null | Netherlands | 
+| 2132 | Taizhou | null | China | 
+| 3923 | Fort Lauderdale | null | United States | 
+| 569 | Puerto Montt | null | Chile | 
+| 3185 | al-Kharj | null | Saudi Arabia | 
+| 2498 | Khouribga | null | Morocco | 
+| 3924 | Springfield | null | United States | 
+| 2133 | Suzhou | null | China | 
+| 1202 | Hugli-Chinsurah | null | India | 
+| 1203 | Dhanbad | null | India | 
+| 1671 | Ogaki | null | Japan | 
+| 2134 | Yichun | null | China | 
+| 3925 | Springfield | null | United States | 
+| 2990 | Angers | null | France | 
+| 3290 | Shulin | null | Taiwan | 
+| 3926 | Santa Clarita | null | United States | 
+| 912 | Tamale | null | Ghana | 
+| 3927 | Salinas | null | United States | 
+| 1204 | Raiganj | null | India | 
+| 491 | Blackpool | null | United Kingdom | 
+| 2851 | Kamoke | null | Pakistan | 
+| 3528 | Borisov | null | Belarus | 
+| 1205 | Sambhal | null | India | 
+| 3694 | Kolomna | null | Russian Federation | 
+| 349 | Itapevi | null | Brazil | 
+| 1206 | Durg | null | India | 
+| 3928 | Tallahassee | null | United States | 
+| 2135 | Taonan | null | China | 
+| 2809 | Trondheim | null | Norway | 
+| 2136 | Pingdu | null | China | 
+| 2704 | Quelimane | null | Mozambique | 
+| 3929 | Rockford | null | United States | 
+| 1207 | Munger (Monghyr) | null | India | 
+| 1208 | Kanchipuram | null | India | 
+| 3202 | Rufisque | null | Senegal | 
+| 1209 | North Dum Dum | null | India | 
+| 350 | Cabo de Santo Agostinho | null | Brazil | 
+| 2852 | Mandi Burewala | null | Pakistan | 
+| 2991 | Dijon | null | France | 
+| 1672 | Matsue | null | Japan | 
+| 1673 | Kawanishi | null | Japan | 
+| 824 | Kabankalan | null | Philippines | 
+| 3118 | Neuss | null | Germany | 
+| 3034 | Baia Mare | null | Romania | 
+| 2992 | Brest | null | France | 
+| 15 | Enschede | null | Netherlands | 
+| 3930 | Pomona | null | United States | 
+| 3931 | Metairie | null | United States | 
+| 3932 | Paterson | null | United States | 
+| 351 | Camaçari | null | Brazil | 
+| 3933 | Overland Park | null | United States | 
+| 3220 | Jaffna | null | Sri Lanka | 
+| 3461 | Nikopol | null | Ukraine | 
+| 1415 | Khoy | null | Iran | 
+| 1834 | Richmond | null | Canada | 
+| 631 | Bulaq al-Dakrur | null | Egypt | 
+| 16 | Haarlem | null | Netherlands | 
+| 3325 | Hat Yai | null | Thailand | 
+| 1210 | Karimnagar | null | India | 
+| 2137 | Ji´an | null | China | 
+| 1211 | Bharatpur | null | India | 
+| 3035 | Buzau | null | Romania | 
+| 2138 | Longkou | null | China | 
+| 1212 | Sikar | null | India | 
+| 825 | Talisay | null | Philippines | 
+| 2139 | Langfang | null | China | 
+| 2475 | Kuching | null | Malaysia | 
+| 1674 | Hitachinaka | null | Japan | 
+| 149 | al-Manama | null | Bahrain | 
+| 494 | Reading | null | United Kingdom | 
+| 2783 | Kumo | null | Nigeria | 
+| 544 | Stara Zagora | null | Bulgaria | 
+| 826 | Valencia | null | Philippines | 
+| 1835 | Vaughan | null | Canada | 
+| 1675 | Niiza | null | Japan | 
+| 1676 | Nagareyama | null | Japan | 
+| 2784 | Shomolu | null | Nigeria | 
+| 110 | Formosa | null | Argentina | 
+| 3934 | Santa Rosa | null | United States | 
+| 2376 | Koje | null | South Korea | 
+| 690 | Albacete | null | Spain | 
+| 1677 | Tottori | null | Japan | 
+| 2903 | Sullana | null | Peru | 
+| 3935 | Syracuse | null | United States | 
+| 1213 | Hardwar (Haridwar) | null | India | 
+| 1796 | Kragujevac | null | Yugoslavia | 
+| 1214 | Dabgram | null | India | 
+| 827 | Calbayog | null | Philippines | 
+| 1215 | Morena | null | India | 
+| 2377 | Kimchon | null | South Korea | 
+| 3695 | Elektrostal | null | Russian Federation | 
+| 3936 | Kansas City | null | United States | 
+| 1678 | Tama | null | Japan | 
+| 492 | Dundee | null | United Kingdom | 
+| 2378 | Nonsan | null | South Korea | 
+| 2450 | Šiauliai | null | Lithuania | 
+| 1216 | Noida | null | India | 
+| 980 | Bengkulu | null | Indonesia | 
+| 3937 | Hampton | null | United States | 
+| 2614 | Ciudad Valles | null | Mexico | 
+| 3512 | Circik | null | Uzbekistan | 
+| 493 | West Bromwich | null | United Kingdom | 
+| 2731 | Pokhara | null | Nepal | 
+| 2140 | Zhoukou | null | China | 
+| 1217 | Hapur | null | India | 
+| 2993 | Le Mans | null | France | 
+| 2141 | Suining | null | China | 
+| 352 | Sobral | null | Brazil | 
+| 3387 | Osmaniye | null | Turkey | 
+| 1679 | Iruma | null | Japan | 
+| 3353 | Sousse | null | Tunisia | 
+| 2732 | Lalitapur | null | Nepal | 
+| 111 | Las Heras | null | Argentina | 
+| 2853 | Jhelum | null | Pakistan | 
+| 632 | Banha | null | Egypt | 
+| 495 | Oldbury/Smethwick (Warley) | null | United Kingdom | 
+| 3388 | Çorum | null | Turkey | 
+| 2615 | Navolato | null | Mexico | 
+| 691 | Getafe | null | Spain | 
+| 1680 | Ota | null | Japan | 
+| 2616 | San Luis Río Colorado | null | Mexico | 
+| 353 | Itajaí | null | Brazil | 
+| 1836 | Burlington | null | Canada | 
+| 3780 | Vung Tau | null | Vietnam | 
+| 1218 | Bhusawal | null | India | 
+| 1219 | Khandwa | null | India | 
+| 496 | Middlesbrough | null | United Kingdom | 
+| 981 | Karawang | null | Indonesia | 
+| 3389 | Kütahya | null | Turkey | 
+| 2952 | Rybnik | null | Poland | 
+| 2142 | Yulin | null | China | 
+| 1416 | Malayer | null | Iran | 
+| 1220 | Yamuna Nagar | null | India | 
+| 3255 | al-Qamishliya | null | Syria | 
+| 828 | Santa Maria | null | Philippines | 
+| 2143 | Jinhua | null | China | 
+| 2144 | Liu´an | null | China | 
+| 1526 | Salzburg | null | Austria | 
+| 354 | Chapecó | null | Brazil | 
+| 3938 | Lakewood | null | United States | 
+| 498 | Oxford | null | United Kingdom | 
+| 3390 | Hatay (Antakya) | null | Turkey | 
+| 2617 | Pénjamo | null | Mexico | 
+| 1221 | Sonipat (Sonepat) | null | India | 
+| 497 | Huddersfield | null | United Kingdom | 
+| 1222 | Tenali | null | India | 
+| 1489 | Reggio nell´ Emilia | null | Italy | 
+| 1417 | Bushehr | null | Iran | 
+| 3939 | Vancouver | null | United States | 
+| 982 | Banda Aceh | null | Indonesia | 
+| 1874 | Aqtau | null | Kazakstan | 
+| 570 | Coquimbo | null | Chile | 
+| 1418 | Qaemshahr | null | Iran | 
+| 202 | Banja Luka | null | Bosnia and Herzegovina | 
+| 3940 | Irvine | null | United States | 
+| 1806 | Maroua | null | Cameroon | 
+| 3941 | Aurora | null | United States | 
+| 2785 | Oka-Akoko | null | Nigeria | 
+| 1681 | Omuta | null | Japan | 
+| 983 | Palu | null | Indonesia | 
+| 1419 | Qarchak | null | Iran | 
+| 2145 | Shuangcheng | null | China | 
+| 2904 | Juliaca | null | Peru | 
+| 829 | Pagadian | null | Philippines | 
+| 1875 | Atyrau | null | Kazakstan | 
+| 17 | Almere | null | Netherlands | 
+| 692 | Cádiz | null | Spain | 
+| 3166 | Chingola | null | Zambia | 
+| 3696 | Murom | null | Russian Federation | 
+| 3942 | Moreno Valley | null | United States | 
+| 2146 | Suizhou | null | China | 
+| 2618 | San Andrés Tuxtla | null | Mexico | 
+| 2379 | Kuri | null | South Korea | 
+| 2147 | Ankang | null | China | 
+| 2419 | Pinar del Río | null | Cuba | 
+| 1490 | Salerno | null | Italy | 
+| 693 | Alcorcón | null | Spain | 
+| 3391 | Kirikkale | null | Turkey | 
+| 830 | Cadiz | null | Philippines | 
+| 3234 | al-Fashir | null | Sudan | 
+| 3421 | Dashhowuz | null | Turkmenistan | 
+| 831 | Bago | null | Philippines | 
+| 3186 | al-Khubar | null | Saudi Arabia | 
+| 3943 | Pasadena | null | United States | 
+| 3392 | Adiyaman | null | Turkey | 
+| 2854 | Sadiqabad | null | Pakistan | 
+| 571 | Osorno | null | Chile | 
+| 2619 | Guanajuato | null | Mexico | 
+| 3697 | Kolpino | null | Russian Federation | 
+| 832 | Toledo | null | Philippines | 
+| 3781 | Rach Gia | null | Vietnam | 
+| 499 | Poole | null | United Kingdom | 
+| 2420 | Bayamo | null | Cuba | 
+| 2786 | Ikare | null | Nigeria | 
+| 3187 | Jubayl | null | Saudi Arabia | 
+| 3513 | Margilon | null | Uzbekistan | 
+| 3698 | Norilsk | null | Russian Federation | 
+| 3699 | Almetjevsk | null | Russian Federation | 
+| 199 | Potosí | null | Bolivia | 
+| 694 | Huelva | null | Spain | 
+| 2923 | Caguas | null | Puerto Rico | 
+| 2620 | Navojoa | null | Mexico | 
+| 3256 | Dayr al-Zawr | null | Syria | 
+| 1223 | Raurkela Civil Township | null | India | 
+| 2499 | Beni-Mellal | null | Morocco | 
+| 589 | La Romana | null | Dominican Republic | 
+| 1837 | Oshawa | null | Canada | 
+| 2148 | Weinan | null | China | 
+| 355 | Cotia | null | Brazil | 
+| 3944 | Hayward | null | United States | 
+| 501 | Blackburn | null | United Kingdom | 
+| 3221 | Kandy | null | Sri Lanka | 
+| 1224 | Kollam (Quilon) | null | India | 
+| 1682 | Komaki | null | Japan | 
+| 695 | León | null | Spain | 
+| 3945 | Brownsville | null | United States | 
+| 696 | Castellón de la Plana [Castell | null | Spain | 
+| 159 | Jessore | null | Bangladesh | 
+| 3119 | Heidelberg | null | Germany | 
+| 356 | Lages | null | Brazil | 
+| 3946 | Bridgeport | null | United States | 
+| 1225 | Kumbakonam | null | India | 
+| 2149 | Longjing | null | China | 
+| 646 | Santa Ana | null | El Salvador | 
+| 3947 | Hollywood | null | United States | 
+| 357 | Ferraz de Vasconcelos | null | Brazil | 
+| 1683 | Ome | null | Japan | 
+| 1226 | Ingraj Bazar (English Bazar) | null | India | 
+| 2787 | Sapele | null | Nigeria | 
+| 1838 | Oakville | null | Canada | 
+| 2380 | Chong-up | null | South Korea | 
+| 500 | Bolton | null | United Kingdom | 
+| 502 | Newport | null | United Kingdom | 
+| 2150 | Da´an | null | China | 
+| 1684 | Kadoma | null | Japan | 
+| 1227 | Timkur | null | India | 
+| 3514 | Ürgenc | null | Uzbekistan | 
+| 647 | Mejicanos | null | El Salvador | 
+| 2715 | Monywa | null | Myanmar | 
+| 2788 | Deba Habe | null | Nigeria | 
+| 3257 | Jaramana | null | Syria | 
+| 1491 | Ravenna | null | Italy | 
+| 1420 | Qods | null | Iran | 
+| 3948 | Warren | null | United States | 
+| 3393 | Trabzon | null | Turkey | 
+| 1685 | Yamaguchi | null | Japan | 
+| 2511 | Port-Louis | null | Mauritius | 
+| 112 | La Rioja | null | Argentina | 
+| 3700 | Novomoskovsk | null | Russian Federation | 
+| 18 | Arnhem | null | Netherlands | 
+| 1807 | Bamenda | null | Cameroon | 
+| 2151 | Lengshuijiang | null | China | 
+| 2621 | Zitácuaro | null | Mexico | 
+| 3949 | Torrance | null | United States | 
+| 3950 | Eugene | null | United States | 
+| 833 | Naga | null | Philippines | 
+| 3188 | Hafar al-Batin | null | Saudi Arabia | 
+| 3120 | Darmstadt | null | Germany | 
+| 908 | Batumi | null | Georgia | 
+| 2855 | Jacobabad | null | Pakistan | 
+| 3121 | Paderborn | null | Germany | 
+| 2716 | Sittwe (Akyab) | null | Myanmar | 
+| 2310 | Mwene-Ditu | null | Congo, The Democratic Republic of the | 
+| 3951 | Pembroke Pines | null | United States | 
+| 572 | La Serena | null | Chile | 
+| 3309 | Tanga | null | Tanzania | 
+| 2405 | Peristerion | null | Greece | 
+| 573 | Calama | null | Chile | 
+| 1789 | al-Rusayfa | null | Jordan | 
+| 2994 | Clermont-Ferrand | null | France | 
+| 2152 | Laiyang | null | China | 
+| 2381 | Chechon | null | South Korea | 
+| 1228 | Amroha | null | India | 
+| 1229 | Serampore | null | India | 
+| 1459 | Bat Yam | null | Israel | 
+| 3701 | Dimitrovgrad | null | Russian Federation | 
+| 1686 | Higashimurayama | null | Japan | 
+| 3952 | Salem | null | United States | 
+| 2953 | Walbrzych | null | Poland | 
+| 2789 | Minna | null | Nigeria | 
+| 1230 | Chapra | null | India | 
+| 1231 | Pali | null | India | 
+| 2153 | Xianning | null | China | 
+| 1232 | Maunath Bhanjan | null | India | 
+| 697 | Badajoz | null | Spain | 
+| 2154 | Dali | null | China | 
+| 1687 | Yonago | null | Japan | 
+| 2155 | Anda | null | China | 
+| 2156 | Jincheng | null | China | 
+| 1839 | Saint Catharines | null | Canada | 
+| 1233 | Adoni | null | India | 
+| 3702 | Pervouralsk | null | Russian Federation | 
+| 1234 | Jaunpur | null | India | 
+| 358 | Indaiatuba | null | Brazil | 
+| 2286 | Envigado | null | Colombia | 
+| 1235 | Tirunelveli | null | India | 
+| 359 | Hortolândia | null | Brazil | 
+| 2622 | Boca del Río | null | Mexico | 
+| 19 | Zaanstad | null | Netherlands | 
+| 834 | San Mateo | null | Philippines | 
+| 2995 | Amiens | null | France | 
+| 1236 | Bahraich | null | India | 
+| 160 | Comilla | null | Bangladesh | 
+| 2311 | Boma | null | Congo, The Democratic Republic of the | 
+| 1421 | Sirjan | null | Iran | 
+| 1688 | Matsubara | null | Japan | 
+| 503 | Preston | null | United Kingdom | 
+| 1797 | Podgorica | null | Yugoslavia | 
+| 113 | San Fernando del Valle de Cata | null | Argentina | 
+| 1422 | Bojnurd | null | Iran | 
+| 2382 | Sosan | null | South Korea | 
+| 2623 | Allende | null | Mexico | 
+| 3563 | Ciudad Losada | null | Venezuela | 
+| 2157 | Longyan | null | China | 
+| 1689 | Musashino | null | Japan | 
+| 2158 | Xichang | null | China | 
+| 114 | Río Cuarto | null | Argentina | 
+| 2996 | Aix-en-Provence | null | France | 
+| 188 | Djougou | null | Benin | 
+| 1690 | Tsuchiura | null | Japan | 
+| 1237 | Gadag Betigeri | null | India | 
+| 2624 | Silao | null | Mexico | 
+| 984 | Pasuruan | null | Indonesia | 
+| 360 | Caxias | null | Brazil | 
+| 2997 | Limoges | null | France | 
+| 835 | Panabo | null | Philippines | 
+| 3953 | Pasadena | null | United States | 
+| 1238 | Proddatur | null | India | 
+| 2159 | Wendeng | null | China | 
+| 1460 | Bene Beraq | null | Israel | 
+| 2886 | Ciudad del Este | null | Paraguay | 
+| 179 | Bruxelles [Brussel] | null | Belgium | 
+| 2625 | Macuspana | null | Mexico | 
+| 836 | Koronadal | null | Philippines | 
+| 3703 | Himki | null | Russian Federation | 
+| 2451 | Panevezys | null | Lithuania | 
+| 2626 | San Juan Bautista Tuxtepec | null | Mexico | 
+| 3394 | Ordu | null | Turkey | 
+| 2160 | Hailun | null | China | 
+| 3954 | Escondido | null | United States | 
+| 2161 | Binzhou | null | China | 
+| 1691 | Joetsu | null | Japan | 
+| 1239 | Chittoor | null | India | 
+| 2383 | Shihung | null | South Korea | 
+| 2998 | Nîmes | null | France | 
+| 2887 | San Lorenzo | null | Paraguay | 
+| 361 | São Caetano do Sul | null | Brazil | 
+| 2856 | Shikarpur | null | Pakistan | 
+| 1240 | Barrackpur | null | India | 
+| 1692 | Miyakonojo | null | Japan | 
+| 2162 | Linhe | null | China | 
+| 2954 | Tychy | null | Poland | 
+| 3052 | Linköping | null | Sweden | 
+| 574 | Valdivia | null | Chile | 
+| 1241 | Bharuch (Broach) | null | India | 
+| 2163 | Wuwei | null | China | 
+| 2857 | Khanewal | null | Pakistan | 
+| 2164 | Duyun | null | China | 
+| 1693 | Misato | null | Japan | 
+| 3704 | Balašiha | null | Russian Federation | 
+| 2999 | Tours | null | France | 
+| 504 | Stockport | null | United Kingdom | 
+| 2421 | Cienfuegos | null | Cuba | 
+| 2165 | Mishan | null | China | 
+| 362 | Itu | null | Brazil | 
+| 1242 | Naihati | null | India | 
+| 3782 | Long Xuyen | null | Vietnam | 
+| 3705 | Nevinnomyssk | null | Russian Federation | 
+| 3706 | Pjatigorsk | null | Russian Federation | 
+| 2166 | Shangrao | null | China | 
+| 3203 | Saint-Louis | null | Senegal | 
+| 3707 | Korolev | null | Russian Federation | 
+| 2422 | Victoria de las Tunas | null | Cuba | 
+| 1423 | Maragheh | null | Iran | 
+| 2627 | San Cristóbal de las Casas | null | Mexico | 
+| 2167 | Changji | null | China | 
+| 2168 | Meixian | null | China | 
+| 1492 | Ferrara | null | Italy | 
+| 3708 | Serpuhov | null | Russian Federation | 
+| 2169 | Yushu | null | China | 
+| 1694 | Kakamigahara | null | Japan | 
+| 2818 | Salala | null | Oman | 
+| 2170 | Tiefa | null | China | 
+| 3955 | Sunnyvale | null | United States | 
+| 1243 | Shillong | null | India | 
+| 2384 | Tong-yong | null | South Korea | 
+| 3956 | Savannah | null | United States | 
+| 2717 | Taunggyi (Taunggye) | null | Myanmar | 
+| 3017 | Saint-Denis | null | Réunion | 
+| 4072 | Mutare | null | Zimbabwe | 
+| 363 | Nossa Senhora do Socorro | null | Brazil | 
+| 3564 | Guacara | null | Venezuela | 
+| 2385 | Kongju | null | South Korea | 
+| 3258 | Duma | null | Syria | 
+| 2171 | Huai´an | null | China | 
+| 1244 | Sambalpur | null | India | 
+| 2386 | Yongju | null | South Korea | 
+| 837 | Marawi | null | Philippines | 
+| 1493 | Rimini | null | Italy | 
+| 2955 | Dabrowa Górnicza | null | Poland | 
+| 2956 | Plock | null | Poland | 
+| 1808 | Bafoussam | null | Cameroon | 
+| 3310 | Mbeya | null | Tanzania | 
+| 602 | Ibarra | null | Ecuador | 
+| 1695 | Daito | null | Japan | 
+| 161 | Nawabganj | null | Bangladesh | 
+| 2628 | Valle de Santiago | null | Mexico | 
+| 1245 | Junagadh | null | India | 
+| 1696 | Seto | null | Japan | 
+| 838 | Dagupan | null | Philippines | 
+| 3565 | Valera | null | Venezuela | 
+| 2427 | al-Salimiya | null | Kuwait | 
+| 2858 | Hafizabad | null | Pakistan | 
+| 2172 | Leiyang | null | China | 
+| 2629 | Guaymas | null | Mexico | 
+| 3036 | Satu Mare | null | Romania | 
+| 2173 | Zalantun | null | China | 
+| 58 | Lobito | null | Angola | 
+| 2814 | Yamoussoukro | null | Côte d’Ivoire | 
+| 3462 | Berdjansk | null | Ukraine | 
+| 3529 | Pinsk | null | Belarus | 
+| 1246 | Rae Bareli | null | India | 
+| 648 | Soyapango | null | El Salvador | 
+| 1801 | Battambang | null | Cambodia | 
+| 2957 | Elblag | null | Poland | 
+| 839 | Sagay | null | Philippines | 
+| 364 | Parnaíba | null | Brazil | 
+| 2718 | Meikhtila | null | Myanmar | 
+| 2905 | Huánuco | null | Peru | 
+| 365 | Poços de Caldas | null | Brazil | 
+| 603 | Quevedo | null | Ecuador | 
+| 2958 | Opole | null | Poland | 
+| 2630 | Colima | null | Mexico | 
+| 985 | Kupang | null | Indonesia | 
+| 986 | Tebing Tinggi | null | Indonesia | 
+| 20 | ´s-Hertogenbosch | null | Netherlands | 
+| 987 | Percut Sei Tuan | null | Indonesia | 
+| 3122 | Potsdam | null | Germany | 
+| 1247 | Rewa | null | India | 
+| 3957 | Fontana | null | United States | 
+| 2174 | Weihai | null | China | 
+| 3958 | Orange | null | United States | 
+| 42 | Skikda | null | Algeria | 
+| 3037 | Botosani | null | Romania | 
+| 2631 | Dolores Hidalgo | null | Mexico | 
+| 3395 | Aydin | null | Turkey | 
+| 1248 | Gurgaon | null | India | 
+| 2175 | Loudi | null | China | 
+| 3959 | Naperville | null | United States | 
+| 59 | Benguela | null | Angola | 
+| 3960 | Alexandria | null | United States | 
+| 43 | Biskra | null | Algeria | 
+| 2176 | Qingzhou | null | China | 
+| 3396 | Usak | null | Turkey | 
+| 366 | Teresópolis | null | Brazil | 
+| 4073 | Gweru | null | Zimbabwe | 
+| 3515 | Angren | null | Uzbekistan | 
+| 1249 | Khammam | null | India | 
+| 1840 | Longueuil | null | Canada | 
+| 1697 | Kariya | null | Japan | 
+| 2632 | Lagos de Moreno | null | Mexico | 
+| 698 | [San Cristóbal de] la Laguna | null | Spain | 
+| 2633 | Piedras Negras | null | Mexico | 
+| 758 | Nazret | null | Ethiopia | 
+| 162 | Dinajpur | null | Bangladesh | 
+| 367 | Barreiras | null | Brazil | 
+| 4 | Mazar-e-Sharif | null | Afghanistan | 
+| 3961 | Rancho Cucamonga | null | United States | 
+| 649 | San Miguel | null | El Salvador | 
+| 3783 | Thai Nguyen | null | Vietnam | 
+| 368 | Castanhal | null | Brazil | 
+| 1424 | Birjand | null | Iran | 
+| 1698 | Urayasu | null | Japan | 
+| 2634 | Altamira | null | Mexico | 
+| 1699 | Beppu | null | Japan | 
+| 3784 | Hong Gai | null | Vietnam | 
+| 2456 | Toamasina | null | Madagascar | 
+| 3962 | Grand Prairie | null | United States | 
+| 3709 | Odintsovo | null | Russian Federation | 
+| 3123 | Würzburg | null | Germany | 
+| 44 | Blida (el-Boulaida) | null | Algeria | 
+| 988 | Binjai | null | Indonesia | 
+| 1700 | Niihama | null | Japan | 
+| 1250 | Bulandshahr | null | India | 
+| 1876 | Ekibastuz | null | Kazakstan | 
+| 1448 | Cork | null | Ireland | 
+| 3488 | Györ | null | Hungary | 
+| 633 | Warraq al-Arab | null | Egypt | 
+| 699 | Logroño | null | Spain | 
+| 1701 | Minoo | null | Japan | 
+| 3463 | Pavlograd | null | Ukraine | 
+| 3464 | Sjeverodonetsk | null | Ukraine | 
+| 3465 | Slovjansk | null | Ukraine | 
+| 3466 | Uzgorod | null | Ukraine | 
+| 1461 | Ramat Gan | null | Israel | 
+| 1702 | Fujieda | null | Japan | 
+| 2177 | Qidong | null | China | 
+| 369 | Alagoinhas | null | Brazil | 
+| 2178 | Huaihua | null | China | 
+| 370 | Itapecerica da Serra | null | Brazil | 
+| 1703 | Abiko | null | Japan | 
+| 3326 | Khon Kaen | null | Thailand | 
+| 2635 | Túxpam | null | Mexico | 
+| 2179 | Luohe | null | China | 
+| 3291 | Yuanlin | null | Taiwan | 
+| 2476 | Sibu | null | Malaysia | 
+| 3963 | East Los Angeles | null | United States | 
+| 840 | Roxas | null | Philippines | 
+| 1425 | Ilam | null | Iran | 
+| 3053 | Västerås | null | Sweden | 
+| 3292 | Yangmei | null | Taiwan | 
+| 371 | Uruguaiana | null | Brazil | 
+| 2500 | Témara | null | Morocco | 
+| 1494 | Syrakusa | null | Italy | 
+| 21 | Amersfoort | null | Netherlands | 
+| 2636 | San Pedro Garza García | null | Mexico | 
+| 140 | Hobart | null | Australia | 
+| 2790 | Warri | null | Nigeria | 
+| 1251 | Navsari | null | India | 
+| 372 | Paranaguá | null | Brazil | 
+| 1252 | Malkajgiri | null | India | 
+| 3327 | Pak Kret | null | Thailand | 
+| 2959 | Gorzów Wielkopolski | null | Poland | 
+| 3964 | Fullerton | null | United States | 
+| 2387 | Chinhae | null | South Korea | 
+| 373 | Ibirité | null | Brazil | 
+| 2287 | Cartago | null | Colombia | 
+| 2477 | Sandakan | null | Malaysia | 
+| 374 | Timon | null | Brazil | 
+| 989 | Sukabumi | null | Indonesia | 
+| 2693 | Bender (Tîghina) | null | Moldova | 
+| 3189 | al-Tuqba | null | Saudi Arabia | 
+| 841 | Lubao | null | Philippines | 
+| 575 | Punta Arenas | null | Chile | 
+| 3566 | Guanare | null | Venezuela | 
+| 375 | Luziânia | null | Brazil | 
+| 376 | Macaé | null | Brazil | 
+| 1704 | Nobeoka | null | Japan | 
+| 2791 | Bida | null | Nigeria | 
+| 1253 | Midnapore (Medinipur) | null | India | 
+| 1254 | Miraj | null | India | 
+| 141 | Geelong | null | Australia | 
+| 1255 | Raj Nandgaon | null | India | 
+| 2180 | Chuzhou | null | China | 
+| 2859 | Kohat | null | Pakistan | 
+| 200 | Tarija | null | Bolivia | 
+| 1256 | Alandur | null | India | 
+| 3124 | Regensburg | null | Germany | 
+| 1257 | Puri | null | India | 
+| 842 | Digos | null | Philippines | 
+| 1705 | Tondabayashi | null | Japan | 
+| 3038 | Piatra Neamt | null | Romania | 
+| 1258 | Navadwip | null | India | 
+| 3125 | Recklinghausen | null | Germany | 
+| 1259 | Sirsa | null | India | 
+| 3965 | Corona | null | United States | 
+| 3966 | Flint | null | United States | 
+| 3710 | Orehovo-Zujevo | null | Russian Federation | 
+| 634 | Kafr al-Shaykh | null | Egypt | 
+| 3516 | Cizah | null | Uzbekistan | 
+| 3126 | Göttingen | null | Germany | 
+| 590 | San Pedro de Macorís | null | Dominican Republic | 
+| 2705 | Mocuba | null | Mozambique | 
+| 3967 | Paradise | null | United States | 
+| 3711 | Kamyšin | null | Russian Federation | 
+| 3968 | Mesquite | null | United States | 
+| 1260 | Korba | null | India | 
+| 377 | Teófilo Otoni | null | Brazil | 
+| 3969 | Sterling Heights | null | United States | 
+| 1261 | Faizabad | null | India | 
+| 2478 | Alor Setar | null | Malaysia | 
+| 990 | Waru | null | Indonesia | 
+| 2637 | Cuauhtémoc | null | Mexico | 
+| 2479 | Selayang Baru | null | Malaysia | 
+| 2181 | Kaiyuan | null | China | 
+| 1706 | Ueda | null | Japan | 
+| 3000 | Villeurbanne | null | France | 
+| 3054 | Örebro | null | Sweden | 
+| 604 | Milagro | null | Ecuador | 
+| 2388 | Sangju | null | South Korea | 
+| 115 | Comodoro Rivadavia | null | Argentina | 
+| 1262 | Etawah | null | India | 
+| 2638 | Manzanillo | null | Mexico | 
+| 1707 | Kashihara | null | Japan | 
+| 505 | Norwich | null | United Kingdom | 
+| 991 | Pangkal Pinang | null | Indonesia | 
+| 3530 | Orša | null | Belarus | 
+| 3970 | Sioux Falls | null | United States | 
+| 2182 | Linqing | null | China | 
+| 1263 | Pathankot | null | India | 
+| 3167 | Mufulira | null | Zambia | 
+| 2639 | Iguala de la Independencia | null | Mexico | 
+| 605 | Loja | null | Ecuador | 
+| 2735 | León | null | Nicaragua | 
+| 843 | San Miguel | null | Philippines | 
+| 992 | Magelang | null | Indonesia | 
+| 3328 | Nakhon Sawan | null | Thailand | 
+| 378 | Moji-Guaçu | null | Brazil | 
+| 3001 | Metz | null | France | 
+| 2640 | Zacatecas | null | Mexico | 
+| 2183 | Chaohu | null | China | 
+| 844 | Malaybalay | null | Philippines | 
+| 3971 | New Haven | null | United States | 
+| 1708 | Matsusaka | null | Japan | 
+| 1877 | Kökshetau | null | Kazakstan | 
+| 3712 | Novotšeboksarsk | null | Russian Federation | 
+| 3397 | Edirne | null | Turkey | 
+| 2960 | Wloclawek | null | Poland | 
+| 2184 | Laohekou | null | China | 
+| 1264 | Gandhinagar | null | India | 
+| 2185 | Dujiangyan | null | China | 
+| 2792 | Ikire | null | Nigeria | 
+| 3398 | Çorlu | null | Turkey | 
+| 1265 | Palghat (Palakkad) | null | India | 
+| 1709 | Isesaki | null | Japan | 
+| 2423 | Matanzas | null | Cuba | 
+| 2186 | Zhumadian | null | China | 
+| 2641 | Tlajomulco de Zúñiga | null | Mexico | 
+| 4075 | Khan Yunis | null | Palestine | 
+| 606 | Ríobamba | null | Ecuador | 
+| 2793 | Makurdi | null | Nigeria | 
+| 607 | Esmeraldas | null | Ecuador | 
+| 116 | Mendoza | null | Argentina | 
+| 1266 | Veraval | null | India | 
+| 3127 | Bremerhaven | null | Germany | 
+| 1267 | Hoshiarpur | null | India | 
+| 2719 | Mergui (Myeik) | null | Myanmar | 
+| 3248 | Bern | null | Switzerland | 
+| 2389 | Poryong | null | South Korea | 
+| 993 | Blitar | null | Indonesia | 
+| 1268 | Ambala | null | India | 
+| 2794 | Lafia | null | Nigeria | 
+| 994 | Serang | null | Indonesia | 
+| 1784 | al-Mukalla | null | Yemen | 
+| 3972 | Topeka | null | United States | 
+| 3055 | Norrköping | null | Sweden | 
+| 2916 | Amadora | null | Portugal | 
+| 22 | Maastricht | null | Netherlands | 
+| 2390 | Kwang-yang | null | South Korea | 
+| 1710 | Zama | null | Japan | 
+| 1711 | Kisarazu | null | Japan | 
+| 3128 | Wolfsburg | null | Germany | 
+| 545 | Pleven | null | Bulgaria | 
+| 2187 | Linchuan | null | China | 
+| 2642 | Tulancingo de Bravo | null | Mexico | 
+| 379 | Palmas | null | Brazil | 
+| 3399 | Isparta | null | Turkey | 
+| 380 | Pindamonhangaba | null | Brazil | 
+| 1269 | Sitapur | null | India | 
+| 2815 | Daloa | null | Côte d’Ivoire | 
+| 3973 | Concord | null | United States | 
+| 2643 | Zinacantepec | null | Mexico | 
+| 2961 | Chorzów | null | Poland | 
+| 3713 | Tšerkessk | null | Russian Federation | 
+| 2443 | Misrata | null | Libyan Arab Jamahiriya | 
+| 1270 | Bhiwani | null | India | 
+| 2860 | Muzaffargarh | null | Pakistan | 
+| 3714 | Atšinsk | null | Russian Federation | 
+| 3974 | Evansville | null | United States | 
+| 3975 | Hartford | null | United States | 
+| 2391 | Miryang | null | South Korea | 
+| 2962 | Tarnów | null | Poland | 
+| 1271 | Cuddapah | null | India | 
+| 2188 | Jiaonan | null | China | 
+| 506 | Rotherham | null | United Kingdom | 
+| 1272 | Bhimavaram | null | India | 
+| 381 | Francisco Morato | null | Brazil | 
+| 1273 | Krishnanagar | null | India | 
+| 3129 | Bottrop | null | Germany | 
+| 2644 | San Martín Texmelucan | null | Mexico | 
+| 1712 | Noda | null | Japan | 
+| 3976 | Fayetteville | null | United States | 
+| 507 | Cambridge | null | United Kingdom | 
+| 3715 | Magadan | null | Russian Federation | 
+| 1713 | Ishinomaki | null | Japan | 
+| 2739 | Zinder | null | Niger | 
+| 749 | Randfontein | null | South Africa | 
+| 1495 | Sassari | null | Italy | 
+| 700 | Santa Coloma de Gramenet | null | Spain | 
+| 382 | Bagé | null | Brazil | 
+| 995 | Probolinggo | null | Indonesia | 
+| 3977 | Cedar Rapids | null | United States | 
+| 3241 | Oulu | null | Finland | 
+| 3716 | Mitšurinsk | null | Russian Federation | 
+| 845 | Tuguegarao | null | Philippines | 
+| 3978 | Elizabeth | null | United States | 
+| 2189 | Sanmenxia | null | China | 
+| 3717 | Kislovodsk | null | Russian Federation | 
+| 1274 | Chandannagar | null | India | 
+| 1275 | Mandya | null | India | 
+| 2457 | Antsirabé | null | Madagascar | 
+| 383 | Sapucaia do Sul | null | Brazil | 
+| 163 | Bogra | null | Bangladesh | 
+| 576 | Copiapó | null | Chile | 
+| 1276 | Dibrugarh | null | India | 
+| 3130 | Remscheid | null | Germany | 
+| 2190 | Heyuan | null | China | 
+| 2191 | Manzhouli | null | China | 
+| 1426 | Bukan | null | Iran | 
+| 2192 | Lhasa | null | China | 
+| 846 | Ilagan | null | Philippines | 
+| 1277 | Nandyal | null | India | 
+| 23 | Dordrecht | null | Netherlands | 
+| 2795 | Inisa | null | Nigeria | 
+| 3190 | Yanbu | null | Saudi Arabia | 
+| 1278 | Balurghat | null | India | 
+| 3039 | Râmnicu Vâlcea | null | Romania | 
+| 1714 | Fujinomiya | null | Japan | 
+| 847 | Baliuag | null | Philippines | 
+| 1715 | Kawachinagano | null | Japan | 
+| 3567 | Carúpano | null | Venezuela | 
+| 3500 | Dunedin | null | New Zealand | 
+| 3131 | Heilbronn | null | Germany | 
+| 1496 | Monza | null | Italy | 
+| 384 | Cabo Frio | null | Brazil | 
+| 4076 | Hebron | null | Palestine | 
+| 3718 | Jelets | null | Russian Federation | 
+| 385 | Itapetininga | null | Brazil | 
+| 1716 | Imabari | null | Japan | 
+| 117 | San Nicolás de los Arroyos | null | Argentina | 
+| 1717 | Aizuwakamatsu | null | Japan | 
+| 635 | Mallawi | null | Egypt | 
+| 386 | Patos de Minas | null | Brazil | 
+| 1718 | Higashihiroshima | null | Japan | 
+| 118 | San Juan | null | Argentina | 
+| 3979 | Lansing | null | United States | 
+| 2501 | El Jadida | null | Morocco | 
+| 3467 | Altševsk | null | Ukraine | 
+| 387 | Camaragibe | null | Brazil | 
+| 1719 | Habikino | null | Japan | 
+| 2906 | Ayacucho | null | Peru | 
+| 2645 | Tepatitlán de Morelos | null | Mexico | 
+| 2193 | Lianyuan | null | China | 
+| 577 | Quilpué | null | Chile | 
+| 2646 | Martínez de la Torre | null | Mexico | 
+| 1720 | Ebetsu | null | Japan | 
+| 1721 | Hofu | null | Japan | 
+| 3980 | Lancaster | null | United States | 
+| 3981 | Fort Collins | null | United States | 
+| 3719 | Seversk | null | Russian Federation | 
+| 2194 | Kuytun | null | China | 
+| 3040 | Suceava | null | Romania | 
+| 848 | Surigao | null | Philippines | 
+| 2647 | Orizaba | null | Mexico | 
+| 1722 | Kiryu | null | Japan | 
+| 3400 | Karabük | null | Turkey | 
+| 849 | San Carlos | null | Philippines | 
+| 3401 | Kilis | null | Turkey | 
+| 60 | Namibe | null | Angola | 
+| 2963 | Zielona Góra | null | Poland | 
+| 3168 | Luanshya | null | Zambia | 
+| 1279 | Neyveli | null | India | 
+| 3222 | Sri Jayawardenepura Kotte | null | Sri Lanka | 
+| 3041 | Drobeta-Turnu Severin | null | Romania | 
+| 2648 | Apatzingán | null | Mexico | 
+| 1497 | Bergamo | null | Italy | 
+| 2861 | Khanpur | null | Pakistan | 
+| 3311 | Morogoro | null | Tanzania | 
+| 1723 | Okinawa | null | Japan | 
+| 3056 | Helsingborg | null | Sweden | 
+| 3002 | Besançon | null | France | 
+| 850 | San Juan del Monte | null | Philippines | 
+| 1280 | Fatehpur | null | India | 
+| 3982 | Coral Springs | null | United States | 
+| 851 | Tanauan | null | Philippines | 
+| 164 | Sylhet | null | Bangladesh | 
+| 3402 | Alanya | null | Turkey | 
+| 2195 | Puqi | null | China | 
+| 1724 | Yaizu | null | Japan | 
+| 3132 | Pforzheim | null | Germany | 
+| 2796 | Shagamu | null | Nigeria | 
+| 3720 | Noginsk | null | Russian Federation | 
+| 24 | Leiden | null | Netherlands | 
+| 45 | Béjaïa | null | Algeria | 
+| 3501 | Hamilton | null | New Zealand | 
+| 3057 | Jönköping | null | Sweden | 
+| 3983 | Stamford | null | United States | 
+| 2649 | Atlixco | null | Mexico | 
+| 3568 | Catia La Mar | null | Venezuela | 
+| 3984 | Thousand Oaks | null | United States | 
+| 996 | Cilegon | null | Indonesia | 
+| 388 | Bragança Paulista | null | Brazil | 
+| 1427 | Masjed-e-Soleyman | null | Iran | 
+| 1281 | Mahbubnagar | null | India | 
+| 3985 | Vallejo | null | United States | 
+| 1282 | Budaun | null | India | 
+| 119 | Escobar | null | Argentina | 
+| 1283 | Porbandar | null | India | 
+| 3986 | Palmdale | null | United States | 
+| 3133 | Offenbach am Main | null | Germany | 
+| 120 | Concordia | null | Argentina | 
+| 1841 | Richmond Hill | null | Canada | 
+| 3329 | Ubon Ratchathani | null | Thailand | 
+| 3517 | Navoi | null | Uzbekistan | 
+| 3721 | Velikije Luki | null | Russian Federation | 
+| 1885 | Machakos | null | Kenya | 
+| 3987 | Columbia | null | United States | 
+| 3569 | El Tigre | null | Venezuela | 
+| 180 | Brugge | null | Belgium | 
+| 3722 | Novokuibyševsk | null | Russian Federation | 
+| 2196 | Hongjiang | null | China | 
+| 2406 | Herakleion | null | Greece | 
+| 2650 | Delicias | null | Mexico | 
+| 3134 | Ulm | null | Germany | 
+| 3468 | Lysytšansk | null | Ukraine | 
+| 3988 | El Monte | null | United States | 
+| 3989 | Abilene | null | United States | 
+| 1842 | Thunder Bay | null | Canada | 
+| 3293 | Taliao | null | Taiwan | 
+| 2392 | Hanam | null | South Korea | 
+| 1725 | Toyokawa | null | Japan | 
+| 578 | Curicó | null | Chile | 
+| 3723 | Neftekamsk | null | Russian Federation | 
+| 1498 | Pescara | null | Italy | 
+| 2312 | Uvira | null | Congo, The Democratic Republic of the | 
+| 1726 | Ebina | null | Japan | 
+| 2651 | Ixtlahuaca | null | Mexico | 
+| 3213 | Maribor | null | Slovenia | 
+| 3990 | North Las Vegas | null | United States | 
+| 1284 | Silchar | null | India | 
+| 2393 | Kimje | null | South Korea | 
+| 1428 | Saqqez | null | Iran | 
+| 46 | Mostaganem | null | Algeria | 
+| 852 | Concepcion | null | Philippines | 
+| 853 | Rodriguez (Montalban) | null | Philippines | 
+| 1285 | Berhampore (Baharampur) | null | India | 
+| 1843 | Nepean | null | Canada | 
+| 389 | Queimados | null | Brazil | 
+| 2862 | Gojra | null | Pakistan | 
+| 3235 | Juba | null | Sudan | 
+| 390 | Araguaína | null | Brazil | 
+| 1286 | Purnea (Purnia) | null | India | 
+| 3518 | Olmalik | null | Uzbekistan | 
+| 1287 | Bankura | null | India | 
+| 2435 | Daugavpils | null | Latvia | 
+| 3135 | Ingolstadt | null | Germany | 
+| 1727 | Asaka | null | Japan | 
+| 2480 | Sungai Petani | null | Malaysia | 
+| 1844 | Cape Breton | null | Canada | 
+| 3136 | Gera | null | Germany | 
+| 391 | Garanhuns | null | Brazil | 
+| 2197 | Qinzhou | null | China | 
+| 854 | Sariaya | null | Philippines | 
+| 1379 | Baquba | null | Iraq | 
+| 3249 | Lausanne | null | Switzerland | 
+| 68 | Ajman | null | United Arab Emirates | 
+| 997 | Cianjur | null | Indonesia | 
+| 2198 | Renqiu | null | China | 
+| 3785 | Phan Thiêt | null | Vietnam | 
+| 2407 | Kallithea | null | Greece | 
+| 1288 | Rajapalaiyam | null | India | 
+| 1499 | Latina | null | Italy | 
+| 1289 | Titagarh | null | India | 
+| 2199 | Yuyao | null | China | 
+| 3786 | Cam Ranh | null | Vietnam | 
+| 1845 | East York | null | Canada | 
+| 1290 | Halisahar | null | India | 
+| 2200 | Guigang | null | China | 
+| 3991 | Ann Arbor | null | United States | 
+| 509 | Ipswich | null | United Kingdom | 
+| 3003 | Caen | null | France | 
+| 2201 | Kaili | null | China | 
+| 1846 | Halifax | null | Canada | 
+| 4077 | Jabaliya | null | Palestine | 
+| 3992 | Beaumont | null | United States | 
+| 3724 | Leninsk-Kuznetski | null | Russian Federation | 
+| 3993 | Waco | null | United States | 
+| 636 | Bilbays | null | Egypt | 
+| 392 | Vitória de Santo Antão | null | Brazil | 
+| 2394 | Yongchon | null | South Korea | 
+| 2395 | Sachon | null | South Korea | 
+| 121 | Pilar | null | Argentina | 
+| 3994 | Macon | null | United States | 
+| 3995 | Independence | null | United States | 
+| 1291 | Hathras | null | India | 
+| 2202 | Yan´an | null | China | 
+| 855 | Malasiqui | null | Philippines | 
+| 393 | Santa Rita | null | Brazil | 
+| 3004 | Orléans | null | France | 
+| 3354 | Kairouan | null | Tunisia | 
+| 2408 | Larisa | null | Greece | 
+| 508 | Watford | null | United Kingdom | 
+| 394 | Barbacena | null | Brazil | 
+| 701 | Tarragona | null | Spain | 
+| 2740 | Maradi | null | Niger | 
+| 3996 | Peoria | null | United States | 
+| 3137 | Salzgitter | null | Germany | 
+| 2203 | Beihai | null | China | 
+| 2204 | Xuangzhou | null | China | 
+| 3997 | Inglewood | null | United States | 
+| 3787 | Vinh | null | Vietnam | 
+| 1809 | Nkongsamba | null | Cameroon | 
+| 2652 | El Mante | null | Mexico | 
+| 2502 | Nador | null | Morocco | 
+| 856 | General Mariano Alvarez | null | Philippines | 
+| 1292 | Bhir (Bid) | null | India | 
+| 3489 | Nyiregyháza | null | Hungary | 
+| 2964 | Koszalin | null | Poland | 
+| 2205 | Quzhou | null | China | 
+| 3191 | Abha | null | Saudi Arabia | 
+| 2653 | Lerdo | null | Mexico | 
+| 759 | Gonder | null | Ethiopia | 
+| 702 | Lleida (Lérida) | null | Spain | 
+| 3294 | Kueishan | null | Taiwan | 
+| 47 | Tébessa | null | Algeria | 
+| 510 | Slough | null | United Kingdom | 
+| 3243 | Paramaribo | null | Suriname | 
+| 3403 | Kiziltepe | null | Turkey | 
+| 3469 | Jevpatorija | null | Ukraine | 
+| 1886 | Eldoret | null | Kenya | 
+| 3295 | Tanshui | null | Taiwan | 
+| 1293 | Pallavaram | null | India | 
+| 2206 | Yong´an | null | China | 
+| 1527 | Innsbruck | null | Austria | 
+| 909 | Sohumi | null | Georgia | 
+| 1728 | Higashikurume | null | Japan | 
+| 1729 | Ikoma | null | Japan | 
+| 857 | Urdaneta | null | Philippines | 
+| 3404 | Zonguldak | null | Turkey | 
+| 998 | Ciparay | null | Indonesia | 
+| 3725 | Oktjabrski | null | Russian Federation | 
+| 3998 | Springfield | null | United States | 
+| 858 | Hagonoy | null | Philippines | 
+| 3999 | Simi Valley | null | United States | 
+| 1730 | Kitami | null | Japan | 
+| 395 | Abaetetuba | null | Brazil | 
+| 1429 | Gonbad-e Qabus | null | Iran | 
+| 1430 | Saveh | null | Iran | 
+| 2797 | Awka | null | Nigeria | 
+| 3726 | Sergijev Posad | null | Russian Federation | 
+| 3296 | Taitung | null | Taiwan | 
+| 859 | San Jose | null | Philippines | 
+| 511 | Exeter | null | United Kingdom | 
+| 1731 | Koganei | null | Japan | 
+| 2288 | Girardot | null | Colombia | 
+| 3138 | Cottbus | null | Germany | 
+| 25 | Haarlemmermeer | null | Netherlands | 
+| 860 | Polomolok | null | Philippines | 
+| 3727 | Arzamas | null | Russian Federation | 
+| 2289 | Buga | null | Colombia | 
+| 2654 | Almoloya de Juárez | null | Mexico | 
+| 861 | Santiago | null | Philippines | 
+| 862 | Tanza | null | Philippines | 
+| 2655 | Acámbaro | null | Mexico | 
+| 863 | Ozamis | null | Philippines | 
+| 2656 | Acuña | null | Mexico | 
+| 1529 | Spanish Town | null | Jamaica | 
+| 3005 | Mulhouse | null | France | 
+| 3139 | Reutlingen | null | Germany | 
+| 1294 | Anand | null | India | 
+| 4000 | Lafayette | null | United States | 
+| 48 | Tlemcen (Tilimsen) | null | Algeria | 
+| 26 | Zoetermeer | null | Netherlands | 
+| 122 | San Luis | null | Argentina | 
+| 2207 | Zixing | null | China | 
+| 1732 | Iwatsuki | null | Japan | 
+| 1295 | Mango | null | India | 
+| 2907 | Chincha Alta | null | Peru | 
+| 3531 | Mozyr | null | Belarus | 
+| 3728 | Kiseljovsk | null | Russian Federation | 
+| 913 | Tema | null | Ghana | 
+| 396 | Jaú | null | Brazil | 
+| 1296 | Santipur | null | India | 
+| 142 | Townsville | null | Australia | 
+| 3140 | Fürth | null | Germany | 
+| 1297 | Bhind | null | India | 
+| 2290 | Tunja | null | Colombia | 
+| 1500 | Vicenza | null | Italy | 
+| 1733 | Mishima | null | Japan | 
+| 4001 | Gilbert | null | United States | 
+| 999 | Lhokseumawe | null | Indonesia | 
+| 2863 | Bahawalnagar | null | Pakistan | 
+| 3729 | Novotroitsk | null | Russian Federation | 
+| 4002 | Carrollton | null | United States | 
+| 4003 | Bellevue | null | United States | 
+| 2208 | Liyang | null | China | 
+| 1878 | Rudnyy | null | Kazakstan | 
+| 3519 | Termiz | null | Uzbekistan | 
+| 864 | Mexico | null | Philippines | 
+| 1298 | Gondiya | null | India | 
+| 2816 | Korhogo | null | Côte d’Ivoire | 
+| 2313 | Butembo | null | Congo, The Democratic Republic of the | 
+| 2424 | Manzanillo | null | Cuba | 
+| 2965 | Legnica | null | Poland | 
+| 3204 | Mbour | null | Senegal | 
+| 2209 | Yizheng | null | China | 
+| 703 | Jaén | null | Spain | 
+| 397 | Lauro de Freitas | null | Brazil | 
+| 2210 | Yumen | null | China | 
+| 3141 | Siegen | null | Germany | 
+| 1299 | Tiruvannamalai | null | India | 
+| 1847 | Cambridge | null | Canada | 
+| 1449 | Reykjavík | null | Iceland | 
+| 3570 | Guatire | null | Venezuela | 
+| 704 | Ourense (Orense) | null | Spain | 
+| 2314 | Goma | null | Congo, The Democratic Republic of the | 
+| 165 | Brahmanbaria | null | Bangladesh | 
+| 3470 | Kamjanets-Podilskyi | null | Ukraine | 
+| 398 | Franco da Rocha | null | Brazil | 
+| 3355 | Biserta | null | Tunisia | 
+| 4004 | West Valley City | null | United States | 
+| 2657 | Guadalupe | null | Mexico | 
+| 2810 | Stavanger | null | Norway | 
+| 2396 | Uiwang | null | South Korea | 
+| 4005 | Clarksville | null | United States | 
+| 4006 | Costa Mesa | null | United States | 
+| 1734 | Handa | null | Japan | 
+| 2864 | Muridke | null | Pakistan | 
+| 1300 | Yeotmal (Yavatmal) | null | India | 
+| 2291 | Florencia | null | Colombia | 
+| 1301 | Kulti-Barakar | null | India | 
+| 2211 | Liling | null | China | 
+| 591 | San Francisco de Macorís | null | Dominican Republic | 
+| 399 | Teixeira de Freitas | null | Brazil | 
+| 3297 | Hualien | null | Taiwan | 
+| 3788 | My Tho | null | Vietnam | 
+| 4007 | Peoria | null | United States | 
+| 2212 | Yuncheng | null | China | 
+| 400 | Varginha | null | Brazil | 
+| 1302 | Moga | null | India | 
+| 3730 | Obninsk | null | Russian Federation | 
+| 1303 | Shivapuri | null | India | 
+| 1735 | Muroran | null | Japan | 
+| 865 | San Jose | null | Philippines | 
+| 401 | Ribeirão Pires | null | Brazil | 
+| 3192 | Ara´ar | null | Saudi Arabia | 
+| 2292 | Maicao | null | Colombia | 
+| 3259 | al-Raqqa | null | Syria | 
+| 2658 | Huejutla de Reyes | null | Mexico | 
+| 1304 | Bidar | null | India | 
+| 2908 | Cajamarca | null | Peru | 
+| 3142 | Koblenz | null | Germany | 
+| 1736 | Komatsu | null | Japan | 
+| 2213 | Shanwei | null | China | 
+| 2397 | Naju | null | South Korea | 
+| 2798 | Gombe | null | Nigeria | 
+| 2865 | Pak Pattan | null | Pakistan | 
+| 1431 | Mahabad | null | Iran | 
+| 4008 | South Bend | null | United States | 
+| 402 | Sabará | null | Brazil | 
+| 1501 | Terni | null | Italy | 
+| 403 | Catanduva | null | Brazil | 
+| 404 | Rio Verde | null | Brazil | 
+| 2293 | Sogamoso | null | Colombia | 
+| 866 | Silay | null | Philippines | 
+| 867 | General Trias | null | Philippines | 
+| 405 | Botucatu | null | Brazil | 
+| 1737 | Yatsushiro | null | Japan | 
+| 2720 | Lashio (Lasho) | null | Myanmar | 
+| 1305 | Guntakal | null | India | 
+| 1738 | Iida | null | Japan | 
+| 2819 | Bawshar | null | Oman | 
+| 1502 | Forlì | null | Italy | 
+| 1306 | Unnao | null | India | 
+| 3731 | Kansk | null | Russian Federation | 
+| 1307 | Barasat | null | India | 
+| 406 | Colatina | null | Brazil | 
+| 2214 | Cixi | null | China | 
+| 4009 | Downey | null | United States | 
+| 1848 | Gloucester | null | Canada | 
+| 49 | Béchar | null | Algeria | 
+| 4010 | Waterbury | null | United States | 
+| 1432 | Varamin | null | Iran | 
+| 1308 | Tambaram | null | India | 
+| 868 | Tabaco | null | Philippines | 
+| 1309 | Abohar | null | India | 
+| 3571 | Calabozo | null | Venezuela | 
+| 3405 | Siirt | null | Turkey | 
+| 1739 | Tokuyama | null | Japan | 
+| 2503 | Ksar el Kebir | null | Morocco | 
+| 4011 | Manchester | null | United States | 
+| 2215 | Yuanjiang | null | China | 
+| 513 | Gloucester | null | United Kingdom | 
+| 1000 | Taman | null | Indonesia | 
+| 1740 | Kokubunji | null | Japan | 
+| 1433 | Andimeshk | null | Iran | 
+| 1741 | Akishima | null | Japan | 
+| 3143 | Moers | null | Germany | 
+| 1001 | Depok | null | Indonesia | 
+| 2799 | Igboho | null | Nigeria | 
+| 407 | Santa Cruz do Sul | null | Brazil | 
+| 1742 | Iwakuni | null | Japan | 
+| 2966 | Kalisz | null | Poland | 
+| 4012 | Allentown | null | United States | 
+| 869 | Cabuyao | null | Philippines | 
+| 1310 | Pilibhit | null | India | 
+| 3356 | Gabès | null | Tunisia | 
+| 3006 | Rouen | null | France | 
+| 1311 | Valparai | null | India | 
+| 4013 | McAllen | null | United States | 
+| 3789 | Da Lat | null | Vietnam | 
+| 3406 | Viransehir | null | Turkey | 
+| 3007 | Boulogne-Billancourt | null | France | 
+| 2216 | Bozhou | null | China | 
+| 3732 | Glazov | null | Russian Federation | 
+| 514 | Saint Helens | null | United Kingdom | 
+| 408 | Linhares | null | Brazil | 
+| 1743 | Kusatsu | null | Japan | 
+| 4014 | Joliet | null | United States | 
+| 2659 | Hidalgo | null | Mexico | 
+| 3144 | Bergisch Gladbach | null | Germany | 
+| 1744 | Kuwana | null | Japan | 
+| 1312 | Gonda | null | India | 
+| 3407 | Tekirdag | null | Turkey | 
+| 166 | Tangail | null | Bangladesh | 
+| 515 | Sutton Coldfield | null | United Kingdom | 
+| 512 | Cheltenham | null | United Kingdom | 
+| 2866 | Abottabad | null | Pakistan | 
+| 3532 | Novopolotsk | null | Belarus | 
+| 3733 | Solikamsk | null | Russian Federation | 
+| 1313 | Surendranagar | null | India | 
+| 870 | Calapan | null | Philippines | 
+| 871 | Mati | null | Philippines | 
+| 2800 | Ejigbo | null | Nigeria | 
+| 27 | Emmen | null | Netherlands | 
+| 28 | Zwolle | null | Netherlands | 
+| 750 | Paarl | null | South Africa | 
+| 872 | Midsayap | null | Philippines | 
+| 2721 | Prome (Pyay) | null | Myanmar | 
+| 3734 | Sarapul | null | Russian Federation | 
+| 181 | Schaerbeek | null | Belgium | 
+| 3572 | Pozuelos | null | Venezuela | 
+| 1745 | Sanda | null | Japan | 
+| 1434 | Khorramshahr | null | Iran | 
+| 3490 | Kecskemét | null | Hungary | 
+| 546 | Sliven | null | Bulgaria | 
+| 1746 | Hikone | null | Japan | 
+| 182 | Namur | null | Belgium | 
+| 1849 | Abbotsford | null | Canada | 
+| 1314 | Qutubullapur | null | India | 
+| 1315 | Beawar | null | India | 
+| 2217 | Jinchang | null | China | 
+| 2218 | Fu´an | null | China | 
+| 3735 | Ust-Ilimsk | null | Russian Federation | 
+| 2660 | Los Cabos | null | Mexico | 
+| 4015 | Lowell | null | United States | 
+| 4016 | Provo | null | United States | 
+| 3491 | Székesfehérvár | null | Hungary | 
+| 3008 | Perpignan | null | France | 
+| 409 | Apucarana | null | Brazil | 
+| 1002 | Citeureup | null | Indonesia | 
+| 1802 | Siem Reap | null | Cambodia | 
+| 4017 | West Covina | null | United States | 
+| 2219 | Suqian | null | China | 
+| 551 | Koudougou | null | Burkina Faso | 
+| 2801 | Agege | null | Nigeria | 
+| 3471 | Jenakijeve | null | Ukraine | 
+| 2661 | Comitán de Domínguez | null | Mexico | 
+| 1503 | Trento | null | Italy | 
+| 3736 | Štšolkovo | null | Russian Federation | 
+| 1435 | Shahrud | null | Iran | 
+| 2412 | Osijek | null | Croatia | 
+| 3298 | Nantou | null | Taiwan | 
+| 2722 | Henzada (Hinthada) | null | Myanmar | 
+| 1316 | Hindupur | null | India | 
+| 1317 | Gandhidham | null | India | 
+| 2220 | Shishou | null | China | 
+| 3058 | Umeå | null | Sweden | 
+| 516 | York | null | United Kingdom | 
+| 3737 | Mezduretšensk | null | Russian Federation | 
+| 2221 | Hengshui | null | China | 
+| 3408 | Karaman | null | Turkey | 
+| 4018 | Wichita Falls | null | United States | 
+| 1318 | Haldwani-cum-Kathgodam | null | India | 
+| 2662 | Cunduacán | null | Mexico | 
+| 410 | Barretos | null | Brazil | 
+| 3145 | Zwickau | null | Germany | 
+| 705 | Mataró | null | Spain | 
+| 3146 | Hildesheim | null | Germany | 
+| 3409 | Afyon | null | Turkey | 
+| 1747 | Toda | null | Japan | 
+| 1530 | Kingston | null | Jamaica | 
+| 873 | Cauayan | null | Philippines | 
+| 517 | Oldham | null | United Kingdom | 
+| 2663 | Río Bravo | null | Mexico | 
+| 4019 | Erie | null | United States | 
+| 914 | Sekondi-Takoradi | null | Ghana | 
+| 4020 | Daly City | null | United States | 
+| 3009 | Nancy | null | France | 
+| 2723 | Myingyan | null | Myanmar | 
+| 1850 | Guelph | null | Canada | 
+| 1319 | Tellicherry (Thalassery) | null | India | 
+| 1436 | Marv Dasht | null | Iran | 
+| 189 | Parakou | null | Benin | 
+| 167 | Jamalpur | null | Bangladesh | 
+| 2398 | Namwon | null | South Korea | 
+| 1003 | Pemalang | null | Indonesia | 
+| 3738 | Usolje-Sibirskoje | null | Russian Federation | 
+| 4021 | Citrus Heights | null | United States | 
+| 411 | Guaratinguetá | null | Brazil | 
+| 2802 | Ise-Ekiti | null | Nigeria | 
+| 2867 | Tando Adam | null | Pakistan | 
+| 3147 | Witten | null | Germany | 
+| 1004 | Klaten | null | Indonesia | 
+| 1785 | Ibb | null | Yemen | 
+| 2868 | Jaranwala | null | Pakistan | 
+| 3739 | Elista | null | Russian Federation | 
+| 4022 | Norwalk | null | United States | 
+| 168 | Pabna | null | Bangladesh | 
+| 412 | Cachoeirinha | null | Brazil | 
+| 2222 | Danjiangkou | null | China | 
+| 1748 | Tajimi | null | Japan | 
+| 413 | Codó | null | Brazil | 
+| 706 | Algeciras | null | Spain | 
+| 2223 | Fujin | null | China | 
+| 3299 | Lungtan | null | Taiwan | 
+| 1005 | Salatiga | null | Indonesia | 
+| 1320 | Wardha | null | India | 
+| 3148 | Schwerin | null | Germany | 
+| 2664 | Temapache | null | Mexico | 
+| 2224 | Sanya | null | China | 
+| 2225 | Guangshui | null | China | 
+| 4023 | Gary | null | United States | 
+| 4024 | Berkeley | null | United States | 
+| 2665 | Chilapa de Alvarez | null | Mexico | 
+| 1749 | Ikeda | null | Japan | 
+| 3343 | Olomouc | null | Czech Republic | 
+| 3410 | Aksaray | null | Turkey | 
+| 1321 | Rishra | null | India | 
+| 2226 | Huangshan | null | China | 
+| 903 | Serekunda | null | Gambia | 
+| 2803 | Ugep | null | Nigeria | 
+| 414 | Jaraguá do Sul | null | Brazil | 
+| 3312 | Arusha | null | Tanzania | 
+| 2967 | Grudziadz | null | Poland | 
+| 3411 | Ceyhan | null | Turkey | 
+| 2227 | Xingcheng | null | China | 
+| 874 | Gingoog | null | Philippines | 
+| 415 | Cubatão | null | Brazil | 
+| 2968 | Slupsk | null | Poland | 
+| 4025 | Santa Clara | null | United States | 
+| 4026 | Green Bay | null | United States | 
+| 3412 | Erzincan | null | Turkey | 
+| 2969 | Jastrzebie-Zdrój | null | Poland | 
+| 4027 | Cape Coral | null | United States | 
+| 875 | Dumaguete | null | Philippines | 
+| 932 | Le-Cap-Haïtien | null | Haiti | 
+| 416 | Itabira | null | Brazil | 
+| 2869 | Khairpur | null | Pakistan | 
+| 2428 | Jalib al-Shuyukh | null | Kuwait | 
+| 1322 | Bhuj | null | India | 
+| 1750 | Fukaya | null | Japan | 
+| 4028 | Arvada | null | United States | 
+| 2228 | Zhucheng | null | China | 
+| 4029 | Pueblo | null | United States | 
+| 876 | San Fernando | null | Philippines | 
+| 2229 | Kunshan | null | China | 
+| 1504 | Novara | null | Italy | 
+| 2481 | Shah Alam | null | Malaysia | 
+| 2706 | Tete | null | Mozambique | 
+| 1851 | Saint John´s | null | Canada | 
+| 3740 | Novošahtinsk | null | Russian Federation | 
+| 4030 | Sandy | null | United States | 
+| 1852 | Coquitlam | null | Canada | 
+| 751 | Potchefstroom | null | South Africa | 
+| 205 | Francistown | null | Botswana | 
+| 637 | Mit Ghamr | null | Egypt | 
+| 877 | Arayat | null | Philippines | 
+| 1751 | Ise | null | Japan | 
+| 2870 | Chishtian Mandi | null | Pakistan | 
+| 3741 | Votkinsk | null | Russian Federation | 
+| 1323 | Modinagar | null | India | 
+| 1324 | Gudivada | null | India | 
+| 1752 | Sakata | null | Japan | 
+| 2909 | Puno | null | Peru | 
+| 29 | Ede | null | Netherlands | 
+| 2871 | Daska | null | Pakistan | 
+| 4031 | Athens-Clarke County | null | United States | 
+| 1325 | Basirhat | null | India | 
+| 3413 | Bismil | null | Turkey | 
+| 878 | Bayawan (Tulong) | null | Philippines | 
+| 1853 | Saanich | null | Canada | 
+| 4032 | Cambridge | null | United States | 
+| 1753 | Kasuga | null | Japan | 
+| 2811 | Bærum | null | Norway | 
+| 417 | Itaituba | null | Brazil | 
+| 2315 | Kalemie | null | Congo, The Democratic Republic of the | 
+| 1006 | Cibinong | null | Indonesia | 
+| 924 | Villa Nueva | null | Guatemala | 
+| 169 | Naogaon | null | Bangladesh | 
+| 3792 | Tartu | null | Estonia | 
+| 879 | Kidapawan | null | Philippines | 
+| 707 | Marbella | null | Spain | 
+| 3742 | Kyzyl | null | Russian Federation | 
+| 2910 | Ventanilla | null | Peru | 
+| 418 | Araras | null | Brazil | 
+| 880 | Daraga (Locsin) | null | Philippines | 
+| 881 | Marilao | null | Philippines | 
+| 2804 | Epe | null | Nigeria | 
+| 3422 | Mary | null | Turkmenistan | 
+| 3472 | Krasnyi Lutš | null | Ukraine | 
+| 3473 | Stahanov | null | Ukraine | 
+| 3533 | Lida | null | Belarus | 
+| 3534 | Soligorsk | null | Belarus | 
+| 4033 | Westminster | null | United States | 
+| 518 | Basildon | null | United Kingdom | 
+| 4034 | San Buenaventura | null | United States | 
+| 1437 | Zabol | null | Iran | 
+| 2666 | Hidalgo del Parral | null | Mexico | 
+| 1326 | Uttarpara-Kotrung | null | India | 
+| 1327 | Ongole | null | India | 
+| 1754 | Kamagaya | null | Japan | 
+| 2458 | Mahajanga | null | Madagascar | 
+| 2425 | Sancti-Spíritus | null | Cuba | 
+| 3149 | Erlangen | null | Germany | 
+| 1755 | Tsuruoka | null | Japan | 
+| 1854 | Gatineau | null | Canada | 
+| 419 | Resende | null | Brazil | 
+| 2512 | Beau Bassin-Rose Hill | null | Mauritius | 
+| 4035 | Portsmouth | null | United States | 
+| 4036 | Livonia | null | United States | 
+| 1328 | North Barrackpur | null | India | 
+| 1329 | Guna | null | India | 
+| 2230 | Haining | null | China | 
+| 1438 | Shahr-e Kord | null | Iran | 
+| 638 | al-Arish | null | Egypt | 
+| 3743 | Serov | null | Russian Federation | 
+| 547 | Dobric | null | Bulgaria | 
+| 1798 | Subotica | null | Yugoslavia | 
+| 420 | Atibaia | null | Brazil | 
+| 1330 | Haldia | null | India | 
+| 4037 | Burbank | null | United States | 
+| 1756 | Hoya | null | Japan | 
+| 4078 | Nablus | null | Palestine | 
+| 1331 | Habra | null | India | 
+| 3744 | Zelenodolsk | null | Russian Federation | 
+| 1332 | Kanchrapara | null | India | 
+| 2667 | San Francisco del Rincón | null | Mexico | 
+| 2924 | Arecibo | null | Puerto Rico | 
+| 50 | Tiaret | null | Algeria | 
+| 3745 | Zeleznodoroznyi | null | Russian Federation | 
+| 1333 | Tonk | null | India | 
+| 2925 | Guaynabo | null | Puerto Rico | 
+| 1757 | Nishio | null | Japan | 
+| 421 | Pouso Alegre | null | Brazil | 
+| 3150 | Kaiserslautern | null | Germany | 
+| 519 | Worthing | null | United Kingdom | 
+| 882 | Malita | null | Philippines | 
+| 3223 | Negombo | null | Sri Lanka | 
+| 3746 | Kinešma | null | Russian Federation | 
+| 4038 | Clearwater | null | United States | 
+| 2668 | Taxco de Alarcón | null | Mexico | 
+| 3414 | Nazilli | null | Turkey | 
+| 3151 | Trier | null | Germany | 
+| 883 | Dipolog | null | Philippines | 
+| 1531 | Portmore | null | Jamaica | 
+| 2669 | Zumpango | null | Mexico | 
+| 3152 | Jena | null | Germany | 
+| 1758 | Tokai | null | Japan | 
+| 2670 | San Pedro Cholula | null | Mexico | 
+| 2671 | Lerma | null | Mexico | 
+| 1007 | Palangka Raya | null | Indonesia | 
+| 2888 | Lambaré | null | Paraguay | 
+| 170 | Sirajganj | null | Bangladesh | 
+| 123 | Ezeiza | null | Argentina | 
+| 3338 | Moundou | null | Chad | 
+| 3415 | Tokat | null | Turkey | 
+| 3153 | Iserlohn | null | Germany | 
+| 2707 | Xai-Xai | null | Mozambique | 
+| 3205 | Diourbel | null | Senegal | 
+| 422 | Toledo | null | Brazil | 
+| 884 | Cavite | null | Philippines | 
+| 3573 | Ciudad Ojeda | null | Venezuela | 
+| 2708 | Gurue | null | Mozambique | 
+| 2672 | Tecomán | null | Mexico | 
+| 2231 | Pingliang | null | China | 
+| 2232 | Fuqing | null | China | 
+| 3344 | Liberec | null | Czech Republic | 
+| 2459 | Fianarantsoa | null | Madagascar | 
+| 3474 | Oleksandrija | null | Ukraine | 
+| 3042 | Târgoviste | null | Romania | 
+| 3043 | Focsani | null | Romania | 
+| 423 | Crato | null | Brazil | 
+| 3059 | Lund | null | Sweden | 
+| 3193 | al-Qatif | null | Saudi Arabia | 
+| 3300 | Touliu | null | Taiwan | 
+| 1334 | Champdani | null | India | 
+| 885 | Danao | null | Philippines | 
+| 1759 | Inazawa | null | Japan | 
+| 2233 | Xinzhou | null | China | 
+| 1335 | Orai | null | India | 
+| 1336 | Pudukkottai | null | India | 
+| 2872 | Dadu | null | Pakistan | 
+| 424 | Passos | null | Brazil | 
+| 2234 | Jieyang | null | China | 
+| 3044 | Târgu Jiu | null | Romania | 
+| 2426 | Ciego de Ávila | null | Cuba | 
+| 1439 | Bandar-e Anzali | null | Iran | 
+| 2513 | Vacoas-Phoenix | null | Mauritius | 
+| 2926 | Mayagüez | null | Puerto Rico | 
+| 650 | Nueva San Salvador | null | El Salvador | 
+| 425 | Araguari | null | Brazil | 
+| 1505 | Piacenza | null | Italy | 
+| 171 | Narsinghdi | null | Bangladesh | 
+| 1506 | Ancona | null | Italy | 
+| 426 | São José de Ribamar | null | Brazil | 
+| 1440 | Rafsanjan | null | Iran | 
+| 4039 | Midland | null | United States | 
+| 4040 | Davenport | null | United States | 
+| 1760 | Sakado | null | Japan | 
+| 1337 | Sasaram | null | India | 
+| 708 | Barakaldo | null | Spain | 
+| 1507 | Lecce | null | Italy | 
+| 3747 | Kuznetsk | null | Russian Federation | 
+| 427 | Pinhais | null | Brazil | 
+| 3345 | Ceské Budejovice | null | Czech Republic | 
+| 428 | Sertãozinho | null | Brazil | 
+| 1761 | Isehara | null | Japan | 
+| 3502 | Lower Hutt | null | New Zealand | 
+| 3346 | Hradec Králové | null | Czech Republic | 
+| 4041 | Mission Viejo | null | United States | 
+| 1879 | Taldyqorghan | null | Kazakstan | 
+| 3748 | Uhta | null | Russian Federation | 
+| 2235 | Zhangjiagang | null | China | 
+| 2970 | Jaworzno | null | Poland | 
+| 3749 | Jessentuki | null | Russian Federation | 
+| 886 | Bislig | null | Philippines | 
+| 4042 | Miami Beach | null | United States | 
+| 1338 | Hazaribag | null | India | 
+| 639 | Talkha | null | Egypt | 
+| 1339 | Palayankottai | null | India | 
+| 1762 | Takasago | null | Japan | 
+| 2510 | Nouâdhibou | null | Mauritania | 
+| 3750 | Tobolsk | null | Russian Federation | 
+| 429 | Conselheiro Lafaiete | null | Brazil | 
+| 520 | Chelmsford | null | United Kingdom | 
+| 3751 | Neftejugansk | null | Russian Federation | 
+| 2673 | Las Margaritas | null | Mexico | 
+| 2736 | Chinandega | null | Nicaragua | 
+| 887 | Talavera | null | Philippines | 
+| 760 | Dese | null | Ethiopia | 
+| 2873 | Mandi Bahauddin | null | Pakistan | 
+| 3752 | Bataisk | null | Russian Federation | 
+| 3753 | Nojabrsk | null | Russian Federation | 
+| 430 | Paulo Afonso | null | Brazil | 
+| 1508 | Bolzano | null | Italy | 
+| 1340 | Banda | null | India | 
+| 640 | Qalyub | null | Egypt | 
+| 2674 | Cosoleacaque | null | Mexico | 
+| 2236 | Tong Xian | null | China | 
+| 3574 | Ocumare del Tuy | null | Venezuela | 
+| 3754 | Balašov | null | Russian Federation | 
+| 3790 | Buon Ma Thuot | null | Vietnam | 
+| 752 | Rustenburg | null | South Africa | 
+| 522 | Crawley | null | United Kingdom | 
+| 3535 | Molodetšno | null | Belarus | 
+| 3010 | Roubaix | null | France | 
+| 1763 | Fujimi | null | Japan | 
+| 761 | Mekele | null | Ethiopia | 
+| 3242 | Lahti | null | Finland | 
+| 3755 | Zeleznogorsk | null | Russian Federation | 
+| 3060 | Borås | null | Sweden | 
+| 431 | Angra dos Reis | null | Brazil | 
+| 888 | Guagua | null | Philippines | 
+| 1341 | Godhra | null | India | 
+| 2724 | Tavoy (Dawei) | null | Myanmar | 
+| 3301 | Tsaotun | null | Taiwan | 
+| 3313 | Moshi | null | Tanzania | 
+| 51 | Ech-Chleff (el-Asnam) | null | Algeria | 
+| 172 | Saidpur | null | Bangladesh | 
+| 2675 | San Luis de la Paz | null | Mexico | 
+| 753 | Nigel | null | South Africa | 
+| 173 | Gazipur | null | Bangladesh | 
+| 1509 | Catanzaro | null | Italy | 
+| 2433 | Savannakhet | null | Laos | 
+| 1008 | Mojokerto | null | Indonesia | 
+| 432 | Eunápolis | null | Brazil | 
+| 889 | Bayambang | null | Philippines | 
+| 3756 | Zukovski | null | Russian Federation | 
+| 1441 | Marand | null | Iran | 
+| 433 | Salto | null | Brazil | 
+| 1342 | Hospet | null | India | 
+| 1343 | Ashoknagar-Kalyangarh | null | India | 
+| 434 | Ourinhos | null | Brazil | 
+| 3045 | Tulcea | null | Romania | 
+| 1344 | Achalpur | null | India | 
+| 435 | Parnamirim | null | Brazil | 
+| 2504 | Settat | null | Morocco | 
+| 762 | Bahir Dar | null | Ethiopia | 
+| 436 | Jacobina | null | Brazil | 
+| 890 | Nasugbu | null | Philippines | 
+| 1345 | Patan | null | India | 
+| 2917 | Coímbra | null | Portugal | 
+| 3757 | Anzero-Sudzensk | null | Russian Federation | 
+| 521 | Colchester | null | United Kingdom | 
+| 203 | Zenica | null | Bosnia and Herzegovina | 
+| 1764 | Urasoe | null | Japan | 
+| 2874 | Ahmadpur East | null | Pakistan | 
+| 3475 | Konotop | null | Ukraine | 
+| 437 | Coronel Fabriciano | null | Brazil | 
+| 3575 | Valle de la Pascua | null | Venezuela | 
+| 1009 | Purwakarta | null | Indonesia | 
+| 2237 | Ya´an | null | China | 
+| 1010 | Garut | null | Indonesia | 
+| 2238 | Jinzhou | null | China | 
+| 1346 | Mandasor | null | India | 
+| 1347 | Damoh | null | India | 
+| 891 | Baybay | null | Philippines | 
+| 1765 | Yonezawa | null | Japan | 
+| 1766 | Konan | null | Japan | 
+| 1510 | La Spezia | null | Italy | 
+| 3347 | Ústí nad Labem | null | Czech Republic | 
+| 2399 | Tonghae | null | South Korea | 
+| 2676 | José Azueta | null | Mexico | 
+| 1855 | Delta | null | Canada | 
+| 641 | Jirja | null | Egypt | 
+| 4043 | Sunrise Manor | null | United States | 
+| 2677 | Santiago Ixcuintla | null | Mexico | 
+| 2678 | San Felipe | null | Mexico | 
+| 1011 | Kudus | null | Indonesia | 
+| 2875 | Kamalia | null | Pakistan | 
+| 2889 | Fernando de la Mora | null | Paraguay | 
+| 30 | Delft | null | Netherlands | 
+| 892 | Capas | null | Philippines | 
+| 1767 | Yamatokoriyama | null | Japan | 
+| 1348 | Satara | null | India | 
+| 31 | Heerlen | null | Netherlands | 
+| 3154 | Gütersloh | null | Germany | 
+| 527 | Worcester | null | United Kingdom | 
+| 3476 | Kostjantynivka | null | Ukraine | 
+| 1887 | Meru | null | Kenya | 
+| 2679 | Tejupilco | null | Mexico | 
+| 1511 | Udine | null | Italy | 
+| 3330 | Songkhla | null | Thailand | 
+| 1349 | Meerut Cantonment | null | India | 
+| 893 | Sultan Kudarat | null | Philippines | 
+| 579 | Ovalle | null | Chile | 
+| 1012 | Kendari | null | Indonesia | 
+| 1859 | Praia | null | Cape Verde | 
+| 2725 | Pagakku (Pakokku) | null | Myanmar | 
+| 1768 | Maizuru | null | Japan | 
+| 4044 | New Bedford | null | United States | 
+| 2680 | Tantoyuca | null | Mexico | 
+| 1013 | Jaya Pura | null | Indonesia | 
+| 548 | Šumen | null | Bulgaria | 
+| 438 | Birigui | null | Brazil | 
+| 124 | San Rafael | null | Argentina | 
+| 1442 | Torbat-e Heydariyeh | null | Iran | 
+| 709 | Dos Hermanas | null | Spain | 
+| 4045 | El Cajon | null | United States | 
+| 524 | Solihull | null | United Kingdom | 
+| 1350 | Dehri | null | India | 
+| 1512 | Torre del Greco | null | Italy | 
+| 894 | Laoag | null | Philippines | 
+| 1513 | Andria | null | Italy | 
+| 1351 | Delhi Cantonment | null | India | 
+| 2681 | Salvatierra | null | Mexico | 
+| 525 | Rochdale | null | United Kingdom | 
+| 3576 | Araure | null | Venezuela | 
+| 642 | Idfu | null | Egypt | 
+| 1443 | Jahrom | null | Iran | 
+| 4046 | Norman | null | United States | 
+| 3331 | Nakhon Pathom | null | Thailand | 
+| 3758 | Bugulma | null | Russian Federation | 
+| 4047 | Richmond | null | United States | 
+| 2927 | Toa Baja | null | Puerto Rico | 
+| 1014 | Gorontalo | null | Indonesia | 
+| 2508 | Fort-de-France | null | Martinique | 
+| 2239 | Emeishan | null | China | 
+| 3759 | Zeleznogorsk | null | Russian Federation | 
+| 4048 | Albany | null | United States | 
+| 2709 | Maxixe | null | Mozambique | 
+| 3211 | Prešov | null | Slovakia | 
+| 3046 | Resita | null | Romania | 
+| 3011 | Argenteuil | null | France | 
+| 2971 | Jelenia Góra | null | Poland | 
+| 147 | Mingäçevir | null | Azerbaijan | 
+| 3194 | al-Hawiya | null | Saudi Arabia | 
+| 439 | Tatuí | null | Brazil | 
+| 754 | George | null | South Africa | 
+| 3577 | San Fernando de Apure | null | Venezuela | 
+| 1769 | Onomichi | null | Japan | 
+| 710 | Santiago de Compostela | null | Spain | 
+| 3155 | Marl | null | Germany | 
+| 1352 | Chhindwara | null | India | 
+| 4049 | Brockton | null | United States | 
+| 895 | Bayugan | null | Philippines | 
+| 3012 | Tourcoing | null | France | 
+| 1514 | Brindisi | null | Italy | 
+| 1353 | Bansberia | null | India | 
+| 2682 | Tultepec | null | Mexico | 
+| 4050 | Roanoke | null | United States | 
+| 1354 | Nagaon | null | India | 
+| 440 | Ji-Paraná | null | Brazil | 
+| 1770 | Higashimatsuyama | null | Japan | 
+| 3760 | Novouralsk | null | Russian Federation | 
+| 1515 | Giugliano in Campania | null | Italy | 
+| 896 | Malungon | null | Philippines | 
+| 1771 | Kimitsu | null | Japan | 
+| 1015 | Majalaya | null | Indonesia | 
+| 3061 | Sundsvall | null | Sweden | 
+| 441 | Bacabal | null | Brazil | 
+| 1355 | Kanpur Cantonment | null | India | 
+| 2876 | Khuzdar | null | Pakistan | 
+| 526 | Birkenhead | null | United Kingdom | 
+| 580 | Coronel | null | Chile | 
+| 1772 | Isahaya | null | Japan | 
+| 2240 | Enshi | null | China | 
+| 1773 | Kanuma | null | Japan | 
+| 2241 | Bose | null | China | 
+| 3416 | Kars | null | Turkey | 
+| 4051 | Billings | null | United States | 
+| 1356 | Vidisha | null | India | 
+| 3761 | Puškin | null | Russian Federation | 
+| 2242 | Yuzhou | null | China | 
+| 4052 | Compton | null | United States | 
+| 3314 | Tabora | null | Tanzania | 
+| 442 | Cametá | null | Brazil | 
+| 32 | Alkmaar | null | Netherlands | 
+| 1016 | Pondok Aren | null | Indonesia | 
+| 2505 | Taza | null | Morocco | 
+| 897 | Santa Cruz | null | Philippines | 
+| 1856 | Sudbury | null | Canada | 
+| 2683 | Temixco | null | Mexico | 
+| 1017 | Jombang | null | Indonesia | 
+| 3762 | Vorkuta | null | Russian Federation | 
+| 1357 | Bettiah | null | India | 
+| 1774 | Izumisano | null | Japan | 
+| 1358 | Purulia | null | India | 
+| 898 | Sorsogon | null | Philippines | 
+| 899 | Candelaria | null | Philippines | 
+| 1775 | Kameoka | null | Japan | 
+| 1516 | Pisa | null | Italy | 
+| 1799 | Prizren | null | Yugoslavia | 
+| 1018 | Sunggal | null | Indonesia | 
+| 1462 | Ashqelon | null | Israel | 
+| 2877 | Vihari | null | Pakistan | 
+| 3763 | Derbent | null | Russian Federation | 
+| 4053 | Gainesville | null | United States | 
+| 143 | Cairns | null | Australia | 
+| 711 | Torrejón de Ardoz | null | Spain | 
+| 4054 | Fairfield | null | United States | 
+| 2400 | Mun-gyong | null | South Korea | 
+| 443 | Guaíba | null | Brazil | 
+| 3302 | Kangshan | null | Taiwan | 
+| 3156 | Lünen | null | Germany | 
+| 4055 | Arden-Arcade | null | United States | 
+| 4079 | Rafah | null | Palestine | 
+| 523 | Gillingham | null | United Kingdom | 
+| 528 | Hartlepool | null | United Kingdom | 
+| 530 | Woking/Byfleet | null | United Kingdom | 
+| 3303 | Ilan | null | Taiwan | 
+| 444 | São Lourenço da Mata | null | Brazil | 
+| 2243 | Kaiyuan | null | China | 
+| 1517 | Barletta | null | Italy | 
+| 1019 | Batam | null | Indonesia | 
+| 2684 | Matamoros | null | Mexico | 
+| 4056 | San Mateo | null | United States | 
+| 445 | Santana do Livramento | null | Brazil | 
+| 446 | Votorantim | null | Brazil | 
+| 4057 | Visalia | null | United States | 
+| 1518 | Arezzo | null | Italy | 
+| 643 | al-Hawamidiya | null | Egypt | 
+| 581 | San Pedro de la Paz | null | Chile | 
+| 1776 | Mobara | null | Japan | 
+| 3764 | Kirovo-Tšepetsk | null | Russian Federation | 
+| 2244 | Tumen | null | China | 
+| 1777 | Narita | null | Japan | 
+| 3348 | Pardubice | null | Czech Republic | 
+| 644 | Disuq | null | Egypt | 
+| 1888 | Nyeri | null | Kenya | 
+| 4058 | Boulder | null | United States | 
+| 1778 | Kashiwazaki | null | Japan | 
+| 4059 | Cary | null | United States | 
+| 447 | Campo Largo | null | Brazil | 
+| 1020 | Padang Sidempuan | null | Indonesia | 
+| 1779 | Tsuyama | null | Japan | 
+| 1528 | Klagenfurt | null | Austria | 
+| 125 | Tandil | null | Argentina | 
+| 1021 | Sawangan | null | Indonesia | 
+| 3195 | Unayza | null | Saudi Arabia | 
+| 3157 | Düren | null | Germany | 
+| 4060 | Santa Monica | null | United States | 
+| 3260 | Idlib | null | Syria | 
+| 529 | Halifax | null | United Kingdom | 
+| 582 | Melipilla | null | Chile | 
+| 1444 | Semnan | null | Iran | 
+| 2245 | Putian | null | China | 
+| 3196 | Najran | null | Saudi Arabia | 
+| 3765 | Krasnogorsk | null | Russian Federation | 
+| 531 | Southport | null | United Kingdom | 
+| 3158 | Ratingen | null | Germany | 
+| 3578 | San Felipe | null | Venezuela | 
+| 183 | Mons | null | Belgium | 
+| 532 | Maidstone | null | United Kingdom | 
+| 2246 | Linhai | null | China | 
+| 2820 | Suhar | null | Oman | 
+| 1359 | Hassan | null | India | 
+| 925 | Quetzaltenango | null | Guatemala | 
+| 3062 | Gävle | null | Sweden | 
+| 1360 | Ambala Sadar | null | India | 
+| 2294 | Giron | null | Colombia | 
+| 3013 | Montreuil | null | France | 
+| 2247 | Xilin Hot | null | China | 
+| 2911 | Castilla | null | Peru | 
+| 2733 | Birgunj | null | Nepal | 
+| 900 | Ligao | null | Philippines | 
+| 1361 | Baidyabati | null | India | 
+| 4061 | Fall River | null | United States | 
+| 2685 | Pánuco | null | Mexico | 
+| 2918 | Braga | null | Portugal | 
+| 448 | Patos | null | Brazil | 
+| 449 | Ituiutaba | null | Brazil | 
+| 3417 | Inegöl | null | Turkey | 
+| 2506 | El Araich | null | Morocco | 
+| 2878 | Dera Ismail Khan | null | Pakistan | 
+| 1362 | Morvi | null | India | 
+| 3319 | Frederiksberg | null | Denmark | 
+| 1463 | Rehovot | null | Israel | 
+| 1519 | Alessandria | null | Italy | 
+| 2248 | Shaowu | null | China | 
+| 2249 | Junan | null | China | 
+| 3418 | Bandirma | null | Turkey | 
+| 450 | Corumbá | null | Brazil | 
+| 1445 | Miandoab | null | Iran | 
+| 533 | Eastbourne | null | United Kingdom | 
+| 1880 | Zhezqazghan | null | Kazakstan | 
+| 3215 | Hargeysa | null | Somalia | 
+| 3216 | Kismaayo | null | Somalia | 
+| 3304 | Miaoli | null | Taiwan | 
+| 3477 | Berdytšiv | null | Ukraine | 
+| 3478 | Izmajil | null | Ukraine | 
+| 3479 | Šostka | null | Ukraine | 
+| 3480 | Uman | null | Ukraine | 
+| 3579 | El Limón | null | Venezuela | 
+| 3766 | Klin | null | Russian Federation | 
+| 3767 | Tšaikovski | null | Russian Federation | 
+| 1022 | Banyuwangi | null | Indonesia | 
+| 1023 | Tanjung Pinang | null | Indonesia | 
+| 3159 | Velbert | null | Germany | 
+| 1520 | Cesena | null | Italy | 
+| 1446 | Qomsheh | null | Iran | 
+| 3768 | Novyi Urengoi | null | Russian Federation | 
+| 2879 | Wazirabad | null | Pakistan | 
+| 3160 | Esslingen am Neckar | null | Germany | 
+| 2686 | El Fuerte | null | Mexico | 
+| 451 | Palhoça | null | Brazil | 
+| 4062 | Kenosha | null | United States | 
+| 1857 | Kelowna | null | Canada | 
+| 2436 | Liepaja | null | Latvia | 
+| 592 | San Felipe de Puerto Plata | null | Dominican Republic | 
+| 52 | Ghardaïa | null | Algeria | 
+| 4063 | Elgin | null | United States | 
+| 2250 | Huaying | null | China | 
+| 2880 | Nowshera | null | Pakistan | 
+| 452 | Barra do Piraí | null | Brazil | 
+| 2251 | Pingyi | null | China | 
+| 2444 | al-Zawiya | null | Libyan Arab Jamahiriya | 
+| 4064 | Odessa | null | United States | 
+| 755 | Ladysmith | null | South Africa | 
+| 2252 | Huangyan | null | China | 
+| 1858 | Barrie | null | Canada | 
+| 453 | Bento Gonçalves | null | Brazil | 
+| 454 | Poá | null | Brazil | 
+| 455 | Águas Lindas de Goiás | null | Brazil | 
+| 935 | La Ceiba | null | Honduras | 
+| 1363 | Raigarh | null | India | 
+| 2687 | Tierra Blanca | null | Mexico | 
+| 1790 | Wadi al-Sir | null | Jordan | 
+| 4065 | Carson | null | United States | 
+| 4066 | Charleston | null | United States | 
+| 1364 | Vejalpur | null | India | 
+| 534 | Grimsby | null | United Kingdom | 
+| 3481 | Brovary | null | Ukraine | 
+| 3482 | Mukatševe | null | Ukraine | 
+| 1521 | Pesaro | null | Italy | 
+| 2737 | Masaya | null | Nicaragua | 
+| 651 | Apopa | null | El Salvador | 
+| 2452 | Luxembourg [Luxemburg/Lëtzebuerg] | null | Luxembourg | 
+| 764 | Suva | null | Fiji Islands | 
+| 3493 | Nouméa | null | New Caledonia | 
+| 2463 | Male | null | Maldives | 
+| 918 | Les Abymes | null | Guadeloupe | 
+| 3244 | Mbabane | null | Swaziland | 
+| 3335 | Chaguanas | null | Trinidad and Tobago | 
+| 184 | Belize City | null | Belize | 
+| 2821 | Masqat | null | Oman | 
+| 3014 | Cayenne | null | French Guiana | 
+| 3161 | Honiara | null | Solomon Islands | 
+| 3172 | São Tomé | null | Sao Tome and Principe | 
+| 1522 | Dili | null | East Timor | 
+| 3336 | Port-of-Spain | null | Trinidad and Tobago | 
+| 904 | Banjul | null | Gambia | 
+| 3206 | Victoria | null | Seychelles | 
+| 2972 | Malabo | null | Equatorial Guinea | 
+| 2295 | Moroni | null | Comoros | 
+| 3169 | Apia | null | Samoa | 
+| 3537 | Port-Vila | null | Vanuatu | 
+| 129 | Oranjestad | null | Aruba | 
+| 2429 | Kuwait | null | Kuwait | 
+| 2507 | Dalap-Uliga-Darrit | null | Marshall Islands | 
+| 535 | Saint Helier | null | United Kingdom | 
+| 915 | Gibraltar | null | Gibraltar | 
+| 3015 | Faaa | null | French Polynesia | 
+| 3016 | Papeete | null | French Polynesia | 
+| 63 | Saint John´s | null | Antigua and Barbuda | 
+| 536 | Douglas | null | United Kingdom | 
+| 3334 | Nuku´alofa | null | Tonga | 
+| 192 | Thimphu | null | Bhutan | 
+| 2688 | Weno | null | Micronesia, Federated States of | 
+| 538 | Bandar Seri Begawan | null | Brunei | 
+| 2483 | Birkirkara | null | Malta | 
+| 55 | Andorra la Vella | null | Andorra | 
+| 553 | George Town | null | Cayman Islands | 
+| 3066 | Kingstown | null | Saint Vincent and the Grenadines | 
+| 586 | Roseau | null | Dominica | 
+| 901 | Tórshavn | null | Faroe Islands | 
+| 917 | Nuuk | null | Greenland | 
+| 2694 | Monte-Carlo | null | Monaco | 
+| 4067 | Charlotte Amalie | null | Virgin Islands, U.S. | 
+| 919 | Basse-Terre | null | Guadeloupe | 
+| 2514 | Mamoutzou | null | Mayotte | 
+| 2881 | Koror | null | Palau | 
+| 583 | Avarua | null | Cook Islands | 
+| 3064 | Basseterre | null | Saint Kitts and Nevis | 
+| 920 | Tamuning | null | Guam | 
+| 2913 | Garapan | null | Northern Mariana Islands | 
+| 2689 | Palikir | null | Micronesia, Federated States of | 
+| 537 | Road Town | null | Virgin Islands, British | 
+| 185 | Belmopan | null | Belize | 
+| 2484 | Valletta | null | Malta | 
+| 174 | Bridgetown | null | Barbados | 
+| 3067 | Saint-Pierre | null | Saint Pierre and Miquelon | 
+| 2445 | Schaan | null | Liechtenstein | 
+| 53 | Tafuna | null | American Samoa | 
+| 2255 | Bikenibeu | null | Kiribati | 
+| 2446 | Vaduz | null | Liechtenstein | 
+| 3170 | Serravalle | null | San Marino | 
+| 3423 | Cockburn Town | null | Turks and Caicos Islands | 
+| 916 | Saint George´s | null | Grenada | 
+| 3424 | Funafuti | null | Tuvalu | 
+| 2727 | Yangor | null | Nauru | 
+| 33 | Willemstad | null | Netherlands Antilles | 
+| 54 | Fagatogo | null | American Samoa | 
+| 3065 | Castries | null | Saint Lucia | 
+| 3171 | San Marino | null | San Marino | 
+| 2256 | Bairiki | null | Kiribati | 
+| 2697 | Plymouth | null | Montserrat | 
+| 190 | Saint George | null | Bermuda | 
+| 763 | Stanley | null | Falkland Islands | 
+| 3063 | Jamestown | null | Saint Helena | 
+| 938 | Longyearbyen | null | Svalbard and Jan Mayen | 
+| 2695 | Monaco-Ville | null | Monaco | 
+| 191 | Hamilton | null | Bermuda | 
+| 921 | Agaña | null | Guam | 
+| 3536 | Mata-Utu | null | Wallis and Futuna | 
+| 61 | South Hill | null | Anguilla | 
+| 2806 | Kingston | null | Norfolk Island | 
+| 1791 | Flying Fish Cove | null | Christmas Island | 
+| 2805 | Alofi | null | Niue | 
+| 62 | The Valley | null | Anguilla | 
+| 2728 | Yaren | null | Nauru | 
+| 2316 | Bantam | null | Cocos (Keeling) Islands | 
+| 3538 | Città del Vaticano | null | Holy See (Vatican City State) | 
+| 3333 | Fakaofo | null | Tokelau | 
+| 2317 | West Island | null | Cocos (Keeling) Islands | 
+| 2912 | Adamstown | null | Pitcairn | 
