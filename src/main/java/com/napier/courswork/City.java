@@ -10,7 +10,7 @@ public class City {
     public String Continent;
     public String Capital;
     public Long CityPopulation;
-    public Double RuralPopulation;
+    public Long RuralPopulation;
     public String CountryName;
     public int Rank;
 }

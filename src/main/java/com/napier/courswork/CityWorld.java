@@ -256,7 +256,7 @@ public class CityWorld {
                 city.Region = rset.getString("region");
                 city.Population = rset.getLong("regionpopulation");
                 city.CityPopulation = rset.getLong("citypopulation");
-                city.RuralPopulation = rset.getDouble("ruralpopulation");
+                city.RuralPopulation = rset.getLong("ruralpopulation");
 
                 citypop.add(city);
             }
@@ -339,7 +339,7 @@ public class CityWorld {
                 city.CountryName = rset.getString("name");
                 city.Population = rset.getLong("regionpopulation");
                 city.CityPopulation = rset.getLong("citypopulation");
-                city.RuralPopulation = rset.getDouble("ruralpopulation");
+                city.RuralPopulation = rset.getLong("ruralpopulation");
 
                 citypop.add(city);
             }
@@ -400,6 +400,32 @@ public class CityWorld {
         for (City cont : cities) {
             if (cont == null) continue;
             sb.append("| " + cont.ID + " | " +  cont.Name + " | " + cont.Population + " | " +   cont.CountryName + " |  " + cont.CityPopulation + " | " +   cont.RuralPopulation + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void printRegionCitiesByPopul(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Region |  RegionPopulation | CityPopulation |  Ruralpopulation | \r\n");
+        sb.append("| --- | --- | --- | ---  | \r\n");
+        // Loop over
+        for (City cont : cities) {
+            if (cont == null) continue;
+            sb.append("| " + cont.Region + " | " +  cont.Population + " | " + cont.CityPopulation + " | " +   cont.RuralPopulation + " | \r\n");
         }
         try {
             new File("./reports/").mkdir();

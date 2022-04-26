@@ -51,12 +51,12 @@ public class App
 
 
         // All the cities in a continent organised by largest population to smallest.
-        //
+        //**********************Done********************************************
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
-        ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
-        CIT.printCities(CitiesC, "citiesByContinent.md");
+        //ArrayList<City> CitiesC = CIT.getCityByContinent(a.con);
+        //CIT.printCities(CitiesC, "citiesByContinent.md");
 
 
         // Population
@@ -120,7 +120,7 @@ public class App
         System.out.println("****Region Cities By Population******");
         System.out.println("*************************************************************");
         ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
-        CIT.printRegionCitiesByPopulation(RegionCitiesByPopulation, "RegioncitiesByContinent.md");
+        CIT.printRegionCitiesByPopul(RegionCitiesByPopulation, "RegioncitiesByContinent.md");
 
         // Capital Cities By Populations Desc
         //***********Done*****************************************************************
