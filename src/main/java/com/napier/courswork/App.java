@@ -194,12 +194,14 @@ public class App
         CIT.printTopNPopulatedContinent(CapitalinContinent, "getTopNPopulatedCapitalinContinent.md");
 
 
-        //
+        // Done
         System.out.println("*************************************************************");
-        System.out.println("***** People Cities Countries *****");
+        System.out.println("*****  Cities By Population  *****");
         System.out.println("*************************************************************");
-        ArrayList<City> CitiesCountries = CIT.getPeopleCitiesCountries(a.con);
-        CIT.printPeopleCitiesCountries(CitiesCountries, "getPeopleCitiesCountries.md");
+        ArrayList<City> CitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
+        CIT.printgetRegionCitiesByPopulation(CitiesByPopulation, "getPeopleCitiesCountries.md");
+
+
 
 
 
