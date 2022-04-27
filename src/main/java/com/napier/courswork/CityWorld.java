@@ -806,7 +806,7 @@ public class CityWorld {
         StringBuilder sb = new StringBuilder();
         // Print header
         sb.append("| Name | Population | Country Name |\r\n");
-        sb.append("| --- | --- | --- | --- | \r\n");
+        sb.append("| --- | --- | --- | \r\n");
         // Loop over
         for (City con : cities) {
             if (con == null) continue;

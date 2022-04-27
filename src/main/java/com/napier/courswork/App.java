@@ -167,7 +167,7 @@ public class App
 
         //
         System.out.println("*************************************************************");
-        System.out.println("***** Capital City Region *****");
+        System.out.println("***** Populated Capital City World *****");
         System.out.println("*************************************************************");
         ArrayList<City> CapitalCityWorld = CIT.getTopNPopulatedCapitalCityWorld(a.con);
         CIT.printTopNPopulatedCapitalCityWorld(CapitalCityWorld, "getTopNPopulatedCapitalCityWorld.md");
