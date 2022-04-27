@@ -179,14 +179,19 @@ public class App
         ArrayList<City> CityDistrict = CIT.getTopNPopulatedCityDistrict(a.con);
         CIT.printTopNPopulatedCityDistrict(CityDistrict, "getTopNPopulatedCityDistrict.md");
 
-        //
+        //Done
         System.out.println("*************************************************************");
         System.out.println("***** Populated City District *****");
         System.out.println("*************************************************************");
         ArrayList<City> PopCityCountry = CIT.getTopNPopulatedCityCountry(a.con);
         CIT.printgetTopNPopulatedCityCountry(PopCityCountry, "getTopNPopulatedCityCountry.md");
 
-
+        //
+        System.out.println("*************************************************************");
+        System.out.println("***** Populated City District *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalinContinent = CIT.getTopNPopulatedCapitalinContinent(a.con);
+        CIT.printTopNPopulatedCapitalinContinent(CapitalinContinent, "getTopNPopulatedCapitalinContinent.md");
 
 
         //Disconnect from database
