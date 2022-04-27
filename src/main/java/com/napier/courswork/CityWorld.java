@@ -556,7 +556,8 @@ public class CityWorld {
         }
     }
 
-    public void printFourPopulatedCityWorld(ArrayList<City> cities, String filename) {
+
+    public void printPopulatedCityWorld(ArrayList<City> cities, String filename) {
         // Check employees is not null
         if (cities == null) {
             System.out.println("No Cities");
@@ -565,8 +566,8 @@ public class CityWorld {
 
         StringBuilder sb = new StringBuilder();
         // Print header
-        sb.append("| Name | Country | Population | Continent |\r\n");
-        sb.append("| --- | --- | --- | --- |\r\n");
+        sb.append("| Name |  CountryName | CityPopulation | Continent |\r\n");
+        sb.append("| --- | --- | --- | --- | \r\n");
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
@@ -581,6 +582,9 @@ public class CityWorld {
             e.printStackTrace();
         }
     }
+
+
+
 
 
 }
