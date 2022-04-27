@@ -11,6 +11,6 @@
 
 * Release [![Releases](https://img.shields.io/github/release/AliMorabih/courswork/all.svg?style=flat-square)](https://github.com/AliMorabih/courswork/releases)
 
-
+[![codecov](https://codecov.io/gh/AliMorabih/courswork/branch/master/graph/badge.svg?token=TZFL443TKA)](https://codecov.io/gh/AliMorabih/courswork)
 
 * CodeCoverage  [![codecov](https://codecov.io/gh/AliMorabih/courswork/branch/master/graph/badge.svg?token=TZFL443TKA)](https://codecov.io/gh/AliMorabih/courswork)

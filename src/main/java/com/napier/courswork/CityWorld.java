@@ -531,8 +531,6 @@ public class CityWorld {
                             + " from city c inner join country cc on c.id = cc.Capital "
                             + " order by c.population desc limit 5";
 
-
-
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
 
@@ -806,7 +804,7 @@ public class CityWorld {
         StringBuilder sb = new StringBuilder();
         // Print header
         sb.append("| Name | Population | Country Name |\r\n");
-        sb.append("| --- | --- | --- | \r\n");
+        sb.append("| --- | --- | --- |\r\n");
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
