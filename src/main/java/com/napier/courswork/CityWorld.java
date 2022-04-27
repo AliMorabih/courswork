@@ -168,11 +168,10 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect = "SELECT city.ID, city.Name, city.CountryCode, city.Population, country.Continent, country.Region "
-                +"FROM city, country "
-                +"WHERE city.CountryCode = country.Code"
-                +" AND  (city.Population > '9604900')"
-                +"ORDER BY Population DESC ";
+            String strSelect = "SELECT city.Name as cityname, country.Name as countryname, city.Population as citypopulation, country.Continent"
+            +"FROM city, country"
+            +"WHERE city.CountryCode = country.Code"
+            +"ORDER BY Population DESC limit 4";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
@@ -181,10 +180,10 @@ public class CityWorld {
             while (rset.next())
             {
                 City cin = new City();
-                cin.ID = rset.getInt("city.id");
-                cin.Name = rset.getString("city.name");
-                cin.Population = rset.getLong("city.population");
-                cin.CountryCode = rset.getString("city.countryCode");
+                cin.Name = rset.getString("cityname");
+                cin.CountryName = rset.getString("countryname");
+                cin.CityPopulation = rset.getLong("citypopulation");
+                cin.Continent = rset.getString("country.Continent");
                 cities.add(cin);
 
             }
@@ -556,5 +555,32 @@ public class CityWorld {
             e.printStackTrace();
         }
     }
+
+    public void printFourPopulatedCityWorld(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Name | Country | Population | Continent |\r\n");
+        sb.append("| --- | --- | --- | --- |\r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.Name + " | " +  con.CountryName + " | " + con.CityPopulation + " | " +   con.Continent + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
 
 }

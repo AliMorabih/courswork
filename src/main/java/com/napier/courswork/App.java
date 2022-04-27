@@ -103,11 +103,12 @@ public class App
 
 
         //  Display the top four  populated cities in the world
+        //
         System.out.println("*************************************************************");
         System.out.println("****Display the top four  populated cities in the world******");
         System.out.println("*************************************************************");
         ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
-        CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
+        CIT.printFourPopulatedCityWorld(CitiW, "getFourPopulatedCityWorld.md");
 
 
 
