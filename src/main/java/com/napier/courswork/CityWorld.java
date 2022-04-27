@@ -168,10 +168,11 @@ public class CityWorld {
             // Create an SQL statement
             Statement stmt = con.createStatement();
             // This SQL Query will select City by Continent
-            String strSelect = " SELECT city.Name as cityname, country.Name as countryname, city.Population as citypopulation, country.Continent "
-            +" FROM city, country "
-            +" WHERE city.CountryCode = country.Code "
-            +" ORDER BY Population DESC limit 4 ";
+            String strSelect =
+                    " SELECT city.Name as cityname, country.Name as countryname, city.Population as citypopulation, country.Continent "
+            + " FROM city, country "
+            + " WHERE city.CountryCode = country.Code "
+            + " ORDER BY city.Population DESC limit 4 ";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
