@@ -28,20 +28,23 @@ public class App
         DAL.printCountry(country,"getCountry.md");
 
         // All the countries in a continent organised by largest population to smallest.
+        //********************Done**************************************************
         System.out.println("******************************************");
         System.out.println(" Display Countries by Continent Asia ");
         System.out.println("*******************************************");
         ArrayList<Country> countryC = DAL.getCountryByContinent (a.con);
-        DAL.printCountry(countryC,"getCountryByContinent.md");
+        DAL.printCountryByContinent(countryC,"getCountryByContinent.md");
 
         // All the countries in a region organised by largest population to smallest.
+        //
         System.out.println("*******************************************");
         System.out.println(" Display Countries by Region of Eastern Asia ");
         System.out.println("*******************************************");
-        ArrayList<Country> countryR = DAL.getCountryByRegion(a.con);
-        DAL.printCountry(countryR,"getCountryByRegion.md");
+        ArrayList<Country> countryR = CIT.getCountryByRegion(a.con);
+        CIT.printCountryByRegion(countryR,"getCountryByRegion.md");
 
         // All the cities in the world organised by largest population to smallest.
+        // ****************Done******************************************
         System.out.println("*******************************************");
         System.out.println(" Display the  cities in the world ");
         System.out.println("*******************************************");
@@ -50,6 +53,7 @@ public class App
 
 
         // All the cities in a continent organised by largest population to smallest.
+        //**********************Done********************************************
         System.out.println("*******************************************");
         System.out.println(" Display the  cities by Continent  ");
         System.out.println("*******************************************");
@@ -81,11 +85,12 @@ public class App
 
 
         // Top 4 Populated cities in a Continent of South America
+        //******************************Done*************************************
         System.out.println("**********************************************************************");
         System.out.println("**Display the Top 4 populated cities in a continent Of South America**");
         System.out.println("**********************************************************************");
         ArrayList<City> Citi = CIT.getFourPopulatedCityByContinent(a.con);
-        CIT.printCities(Citi, "getFourPopulatedCityByContinent.md");
+        CIT.printgetFourPopulatedCityByContinent(Citi, "getFourPopulatedCityByContinent.md");
 
 
         // The Top 4 Populated cities in a region of Eastern Europe
@@ -93,16 +98,112 @@ public class App
         System.out.println("**The top 4 populated cities in a region of Eastern Europe **");
         System.out.println("*************************************************************");
         ArrayList<City> CitiR = CIT.getFourPopulatedCityByRegion(a.con);
-        CIT.printCities(CitiR, "getFourPopulatedCityByRegion.md");
+        CIT.printFourPopulatedCityByRegion(CitiR, "getFourPopulatedCityByRegion.md");
 
 
 
         //  Display the top four  populated cities in the world
+        //
         System.out.println("*************************************************************");
         System.out.println("****Display the top four  populated cities in the world******");
         System.out.println("*************************************************************");
         ArrayList<City> CitiW = CIT.getFourPopulatedCityWorld(a.con);
-        CIT.printCities(CitiW, "getFourPopulatedCityWorld.md");
+        CIT.printPopulatedCityWorld(CitiW, "getFourPopulatedCityWorld.md");
+
+
+
+        // Region Cities By Population
+        //*****************************Done**************************************************
+        System.out.println("*************************************************************");
+        System.out.println("****Region Cities By Population******");
+        System.out.println("*************************************************************");
+        //ArrayList<City> RegionCitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
+        //CIT.printRegionCitiesByPopul(RegionCitiesByPopulation, "RegioncitiesByContinent.md");
+
+        // Capital Cities By Populations Desc
+        //***********Done*****************************************************************
+        System.out.println("*************************************************************");
+        System.out.println("****Region Cities By Population DESC******");
+        System.out.println("*************************************************************");
+        //ArrayList<City> CapitalCitiesByPopDesc = CIT.getCapitalCitiesByPopDesc(a.con);
+        //CIT.printCities(CapitalCitiesByPopDesc, "CapitalCitiesByPopDesc.md");
+
+        // People Cities Countries
+        System.out.println("*************************************************************");
+        System.out.println("**** People Cities Countries******");
+        System.out.println("*************************************************************");
+        ArrayList<City> PeopleCitiesC = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printCities(PeopleCitiesC, "PeopleCitiesC.md");
+
+
+        //
+        System.out.println("*************************************************************");
+        System.out.println("**********");
+        System.out.println("*************************************************************");
+        ArrayList<City> PO = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printRegionCitiesByPopulation(PO, "PeopleCitiesCount.md");
+
+
+        //The top N populated capital cities in a region where N is provided by the user.
+        System.out.println("*************************************************************");
+        System.out.println("*****The top N populated capital cities in a region*****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityRegion = CIT.getTopNCapitalCityRegion(a.con);
+        CIT.printTopNCapitalCityRegion(CapitalCityRegion, "getTopNCapitalCityRegion.md");
+
+        //Done
+         System.out.println("*************************************************************");
+        System.out.println("*****All Capital City Continent *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityContinent = CIT.getAllCapitalCityContinent(a.con);
+        CIT.printAllCapitalCityContinent(CapitalCityContinent, "getAllCapitalCityContinent.md");
+
+        //Done
+        System.out.println("*************************************************************");
+        System.out.println("***** Capital City Region *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityRe = CIT.getAllCapitalCityRegion(a.con);
+        CIT.printAllCapitalCityRegion(CapitalCityRe, "getAllCapitalCityRegion.md");
+
+        // Done
+        System.out.println("*************************************************************");
+        System.out.println("***** Populated Capital City World *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityWorld = CIT.getTopNPopulatedCapitalCityWorld(a.con);
+        CIT.printTopNPopulatedCapitalCityWorld(CapitalCityWorld, "getTopNPopulatedCapitalCityWorld.md");
+
+        // Done
+        System.out.println("*************************************************************");
+        System.out.println("***** Populated City District *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CityDistrict = CIT.getTopNPopulatedCityDistrict(a.con);
+        CIT.printTopNPopulatedCityDistrict(CityDistrict, "getTopNPopulatedCityDistrict.md");
+
+        //Done
+        System.out.println("*************************************************************");
+        System.out.println("***** Populated City District *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> PopCityCountry = CIT.getTopNPopulatedCityCountry(a.con);
+        CIT.printgetTopNPopulatedCityCountry(PopCityCountry, "getTopNPopulatedCityCountry.md");
+
+        // Done
+        System.out.println("*************************************************************");
+        System.out.println("***** Populated City District *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalinContinent = CIT.getTopNPopulatedCapitalinContinent(a.con);
+        CIT.printTopNPopulatedContinent(CapitalinContinent, "getTopNPopulatedCapitalinContinent.md");
+
+
+        // Done
+        System.out.println("*************************************************************");
+        System.out.println("*****  Cities By Population  *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiesByPopulation = CIT.getRegionCitiesByPopulation(a.con);
+        CIT.printgetRegionCitiesByPopulation(CitiesByPopulation, "getPeopleCitiesCountries.md");
+
+
+
+
 
 
 
@@ -189,7 +290,7 @@ public class App
                 City ct = new City();
                 ct.ID = rset.getInt("city.ID");
                 ct.Name = rset.getString("city.Name");
-                ct.Population = rset.getInt("city.Population");
+                ct.Population = rset.getLong("city.Population");
                 return ct;
             }
             else

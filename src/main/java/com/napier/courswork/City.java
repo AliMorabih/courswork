@@ -5,6 +5,12 @@ public class City {
     public String Name;
     public String CountryCode;
     public String District;
-    public int Population;
+    public Long Population;
     public String Region;
+    public String Continent;
+    public String Capital;
+    public Long CityPopulation;
+    public Long RuralPopulation;
+    public String CountryName;
+    public int Rank;
 }
