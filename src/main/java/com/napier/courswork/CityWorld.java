@@ -520,7 +520,38 @@ public class CityWorld {
         }
     }
 
+    public ArrayList<City> getTopNPopulatedCapitalCityWorld(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
 
+            System.out.println("The top N populated cities in the world where N is provided by the user. \n");
+            String strSelect =
+                    " select c.name,c.population,cc.name as countryname"
+                            + " from city c inner join country cc on c.id = cc.Capital "
+                            + " order by c.population desc limit 5";
+
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.Name = rset.getString("name");
+                city.CityPopulation = rset.getLong("CityPopulation");
+                city.CountryName = rset.getString("countryname");
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }
 
     /**
      * Outputs to Markdown
@@ -765,6 +796,30 @@ public class CityWorld {
     }
 
 
+    public void printTopNPopulatedCapitalCityWorld(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
 
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Name | Population | Country Name |\r\n");
+        sb.append("| --- | --- | --- | --- | \r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.Name + " | " +  con.CityPopulation + " | " + con.CountryName + " |\r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
 }

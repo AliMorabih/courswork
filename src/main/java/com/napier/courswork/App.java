@@ -158,14 +158,19 @@ public class App
         ArrayList<City> CapitalCityContinent = CIT.getAllCapitalCityContinent(a.con);
         CIT.printAllCapitalCityContinent(CapitalCityContinent, "getAllCapitalCityContinent.md");
 
-        //
+        //Done
         System.out.println("*************************************************************");
         System.out.println("***** Capital City Region *****");
         System.out.println("*************************************************************");
         ArrayList<City> CapitalCityRe = CIT.getAllCapitalCityRegion(a.con);
         CIT.printAllCapitalCityRegion(CapitalCityRe, "getAllCapitalCityRegion.md");
 
-
+        //
+        System.out.println("*************************************************************");
+        System.out.println("***** Capital City Region *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityWorld = CIT.getTopNPopulatedCapitalCityWorld(a.con);
+        CIT.printTopNPopulatedCapitalCityWorld(CapitalCityWorld, "getTopNPopulatedCapitalCityWorld.md");
 
 
         //Disconnect from database
