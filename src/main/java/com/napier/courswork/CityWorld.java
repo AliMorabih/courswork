@@ -558,10 +558,10 @@ public class CityWorld {
 
             System.out.println("The top N populated cities in a country where N is provided by the user. \n");
             String strSelect =
-              " select * from (select c.name,c.population,c.District,cc.name as countryname "
-              + " row_number() over (partition by c.District order by c.population desc) as country_rank "
-              + " from city c inner join country cc on c.CountryCode = cc.Code ) "
-              + " ranks  where country_rank <= 5 and District <> '' " ;
+                    " select * from (select c.name,c.population,c.District,cc.name as countryname,"
+                            + " row_number() over (partition by c.District order by c.population desc) as country_rank"
+                            + " from city c inner join country cc on c.CountryCode = cc.Code"
+                            + " ) ranks  where country_rank <= 5 and District <> ''";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
