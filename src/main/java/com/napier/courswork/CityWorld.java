@@ -527,9 +527,9 @@ public class CityWorld {
 
             System.out.println("The top N populated cities in the world where N is provided by the user. \n");
             String strSelect =
-                    " select c.name,c.population,cc.name as countryname"
+                    " select c.name,c.population as CityPopulation, cc.name as countryname "
                             + " from city c inner join country cc on c.id = cc.Capital "
-                            + " order by c.population desc limit 5";
+                            + " order by c.population desc limit 5 ";
 
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
@@ -803,7 +803,7 @@ public class CityWorld {
 
         StringBuilder sb = new StringBuilder();
         // Print header
-        sb.append("| Name | Population | Country Name |\r\n");
+        sb.append("| Name | CityPopulation | CountryName |\r\n");
         sb.append("| --- | --- | --- |\r\n");
         // Loop over
         for (City con : cities) {
