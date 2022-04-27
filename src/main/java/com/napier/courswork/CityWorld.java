@@ -1020,7 +1020,7 @@ public class CityWorld {
         // Loop over
         for (City con : cities) {
             if (con == null) continue;
-            sb.append("| " + con.Name + " | " + con.Population + " | " + con.CityPopulation + " | " + con.RuralPopulation + " |\r\n");
+            sb.append("| " + con.CountryName + " | " + con.Population + " | " + con.CityPopulation + " | " + con.RuralPopulation + " |\r\n");
         }
         try {
             new File("./reports/").mkdir();
