@@ -201,7 +201,7 @@ public class App
         ArrayList<City> CitiesCountries = CIT.getPeopleCitiesCountries(a.con);
         CIT.printPeopleCitiesCountries(CitiesCountries, "getPeopleCitiesCountries.md");
 
-        
+
 
 
 
