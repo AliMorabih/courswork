@@ -252,8 +252,7 @@ public class CapitalCityDAL {
      *************************************************************************************************
      */
 
-    public ArrayList<CapitalCity> getPeopleCitiesCountries(Connection con) {
-        try {
+c        try {
             // Create an SQL statement
             Statement stmt = con.createStatement();
 

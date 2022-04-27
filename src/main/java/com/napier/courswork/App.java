@@ -186,12 +186,24 @@ public class App
         ArrayList<City> PopCityCountry = CIT.getTopNPopulatedCityCountry(a.con);
         CIT.printgetTopNPopulatedCityCountry(PopCityCountry, "getTopNPopulatedCityCountry.md");
 
-        //
+        // Done
         System.out.println("*************************************************************");
         System.out.println("***** Populated City District *****");
         System.out.println("*************************************************************");
         ArrayList<City> CapitalinContinent = CIT.getTopNPopulatedCapitalinContinent(a.con);
-        CIT.printTopNPopulatedCapitalinContinent(CapitalinContinent, "getTopNPopulatedCapitalinContinent.md");
+        CIT.printTopNPopulatedContinent(CapitalinContinent, "getTopNPopulatedCapitalinContinent.md");
+
+
+        //
+        System.out.println("*************************************************************");
+        System.out.println("***** People Cities Countries *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CitiesCountries = CIT.getPeopleCitiesCountries(a.con);
+        CIT.printPeopleCitiesCountries(CitiesCountries, "getPeopleCitiesCountries.md");
+
+        
+
+
 
 
         //Disconnect from database

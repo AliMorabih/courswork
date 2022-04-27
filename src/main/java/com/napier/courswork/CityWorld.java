@@ -313,43 +313,6 @@ public class CityWorld {
      *************************************************************************************************
      */
 
-    public ArrayList<City> getPeopleCitiesCountries(Connection con) {
-        try {
-            // Create an SQL statement
-            Statement stmt = con.createStatement();
-
-            System.out.println("The population of people, people living in cities, and people not living in cities in each country. \n");
-            String strSelect =
-                    "select cc.name, sum(cc.population) regionpopulation,"
-                            + " sum(cc.population)-sum(c.citypopulation) as ruralpopulation,"
-                            + " sum(c.citypopulation) as citypopulation from country cc inner join"
-                            + " (select CountryCode,sum(population) as citypopulation from city"
-                            + " group by countrycode) c on c.countrycode = cc.Code"
-                            + " group by cc.name";
-
-            // Execute SQL statement
-            ResultSet rset = stmt.executeQuery(strSelect);
-
-            ArrayList<City> citypop = new ArrayList<>();
-
-            while (rset.next()) {
-                City city = new City();
-                city.ID = rset.getInt("city.id");
-                city.Name = rset.getString("city.name");
-                city.CountryName = rset.getString("name");
-                city.Population = rset.getLong("regionpopulation");
-                city.CityPopulation = rset.getLong("citypopulation");
-                city.RuralPopulation = rset.getLong("ruralpopulation");
-
-                citypop.add(city);
-            }
-            return citypop;
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            System.out.println("Failed to get City Capital details");
-            return null;
-        }
-    }
 
 
     public ArrayList<Country> getCountryByRegion(Connection con)
@@ -647,6 +610,42 @@ public class CityWorld {
                 city.CountryName = rset.getString("countryname");
                 city.Rank = rset.getInt("country_rank");
 
+
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }
+
+    public ArrayList<City> getPeopleCitiesCountries(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("The population of people, people living in cities, and people not living in cities in each country. \n");
+            String strSelect =
+                    "select cc.name, sum(cc.population) regionpopulation,"
+                            + " sum(cc.population)-sum(c.citypopulation) as ruralpopulation,"
+                            + " sum(c.citypopulation) as citypopulation from country cc inner join"
+                            + " (select CountryCode,sum(population) as citypopulation from city"
+                            + " group by countrycode) c on c.countrycode = cc.Code"
+                            + " group by cc.name";
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.CountryName = rset.getString("name");
+                city.Population = rset.getLong("regionpopulation");
+                city.CityPopulation = rset.getLong("citypopulation");
+                city.RuralPopulation = rset.getLong("ruralpopulation");
 
                 citypop.add(city);
             }
@@ -981,7 +980,7 @@ public class CityWorld {
     }
 
 
-    public void printTopNPopulatedCapitalinContinent(ArrayList<City> cities, String filename) {
+    public void printTopNPopulatedContinent(ArrayList<City> cities, String filename) {
         // Check employees is not null
         if (cities == null) {
             System.out.println("No Cities");
@@ -1007,5 +1006,29 @@ public class CityWorld {
         }
     }
 
+    public void printPeopleCitiesCountries(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
 
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Name | population | CityPopulation | RuralPopulation |\r\n");
+        sb.append("| --- | --- | --- | --- |\r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.Name + " | " + con.Population + " | " + con.CityPopulation + " | " + con.RuralPopulation + " |\r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 }
