@@ -151,14 +151,19 @@ public class App
         ArrayList<City> CapitalCityRegion = CIT.getTopNCapitalCityRegion(a.con);
         CIT.printTopNCapitalCityRegion(CapitalCityRegion, "getTopNCapitalCityRegion.md");
 
-        //T
+        //Done
          System.out.println("*************************************************************");
         System.out.println("*****All Capital City Continent *****");
         System.out.println("*************************************************************");
         ArrayList<City> CapitalCityContinent = CIT.getAllCapitalCityContinent(a.con);
         CIT.printAllCapitalCityContinent(CapitalCityContinent, "getAllCapitalCityContinent.md");
 
-
+        //
+        System.out.println("*************************************************************");
+        System.out.println("***** Capital City Region *****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityRe = CIT.getAllCapitalCityRegion(a.con);
+        CIT.printAllCapitalCityRegion(CapitalCityRe, "getAllCapitalCityRegion.md");
 
 
 
