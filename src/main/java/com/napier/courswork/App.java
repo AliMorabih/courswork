@@ -149,7 +149,7 @@ public class App
         System.out.println("*****The top N populated capital cities in a region*****");
         System.out.println("*************************************************************");
         ArrayList<City> CapitalCityRegion = CIT.getTopNCapitalCityRegion(a.con);
-        CIT.printPopulatedCityWorld(CapitalCityRegion, "getTopNCapitalCityRegion.md");
+        CIT.printTopNCapitalCityRegion(CapitalCityRegion, "getTopNCapitalCityRegion.md");
 
 
 
