@@ -144,6 +144,15 @@ public class App
         CIT.printRegionCitiesByPopulation(PO, "PeopleCitiesCount.md");
 
 
+        //The top N populated capital cities in a region where N is provided by the user.
+        System.out.println("*************************************************************");
+        System.out.println("*****The top N populated capital cities in a region*****");
+        System.out.println("*************************************************************");
+        ArrayList<City> CapitalCityRegion = CIT.getTopNCapitalCityRegion(a.con);
+        CIT.printPopulatedCityWorld(CapitalCityRegion, "getTopNCapitalCityRegion.md");
+
+
+
 
         //Disconnect from database
         a.disconnect();

@@ -765,7 +765,7 @@ public class CapitalCityDAL {
      */
 
     //The population of people, people living in cities, and people not living in cities in each continent.
-    public ArrayList<CapitalCity> getPopCityContinent(Connection con) {
+   /* public ArrayList<CapitalCity> getPopCityContinent(Connection con) {
         try {
             // Create an SQL statement
             Statement stmt = con.createStatement();
@@ -798,34 +798,8 @@ public class CapitalCityDAL {
             System.out.println("Failed to get City Capital details");
             return null;
         }
-    }
-
-/*
-    public void printPopCityContinent(ArrayList<CapitalCity> CapitalCity) {
-        if (CapitalCity == null) {
-            System.out.println("No Capital City Data");
-            return;
-        }
-        // Print header
-
-        System.out.println(String.format("%-30s %-30s %-30s %-30s ", "Continent", "Population","City Population",  "Rural Population"));
-        // Loop over all employees in the list
-        for (CapitalCity cont : CapitalCity) {
-            if (cont == null)
-                continue;
-
-            String emp_string =
-                    String.format("%-30s %-30s %-30s %-30s ",
-                            cont.Continent, cont.Population,cont.CityPopulation, cont.RuralPopulation);
-            System.out.println(emp_string);
-        }
     }*/
 
-    /*
-     ***********************************End getPopCityContinent***************************************************************
-     *************************************************************************************************
-     **************************************************************************************************
-     *************************************************************************************************
-     */
+
 
 }//end class

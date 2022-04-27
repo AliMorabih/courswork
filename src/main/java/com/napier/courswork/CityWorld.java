@@ -419,6 +419,41 @@ public class CityWorld {
 
 
 
+    /***********************************************/
+    //The top N populated capital cities in a region where N is provided by the user.
+    public ArrayList<City> getTopNCapitalCityRegion(Connection con) {
+        try {
+            // Create an SQL statement
+            Statement stmt = con.createStatement();
+
+            System.out.println("The top N populated capital cities in a region where N is provided by the user. \n");
+            String strSelect =
+                    " select * from (select c.name,c.population,cc.region,cc.name as countryname,"
+                            + " row_number() over (partition by cc.region order by c.population desc) as country_rank"
+                            + " from city c inner join country cc on c.id = cc.Capital) ranks  where country_rank <= 5";
+
+
+
+            // Execute SQL statement
+            ResultSet rset = stmt.executeQuery(strSelect);
+
+            ArrayList<City> citypop = new ArrayList<>();
+
+            while (rset.next()) {
+                City city = new City();
+                city.Name = rset.getString("name");
+                city.CityPopulation = rset.getLong("population");
+                city.CountryName = rset.getString("countryname");
+                city.Region = rset.getString("Region");
+                citypop.add(city);
+            }
+            return citypop;
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+            System.out.println("Failed to get City Capital details");
+            return null;
+        }
+    }
 
     /**
      * Outputs to Markdown
@@ -584,7 +619,31 @@ public class CityWorld {
         }
     }
 
+    public void printTopNCapitalCityRegion(ArrayList<City> cities, String filename) {
+        // Check employees is not null
+        if (cities == null) {
+            System.out.println("No Cities");
+            return;
+        }
 
+        StringBuilder sb = new StringBuilder();
+        // Print header
+        sb.append("| Name | CiyPopulation | CountryName | Region |\r\n");
+        sb.append("| --- | --- | --- | --- | \r\n");
+        // Loop over
+        for (City con : cities) {
+            if (con == null) continue;
+            sb.append("| " + con.Name + " | " +  con.CityPopulation + " | " + con.CountryName + " | " +   con.Region + " | \r\n");
+        }
+        try {
+            new File("./reports/").mkdir();
+            BufferedWriter writer = new BufferedWriter(new FileWriter(new                        File("./reports/" + filename)));
+            writer.write(sb.toString());
+            writer.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
 
 
