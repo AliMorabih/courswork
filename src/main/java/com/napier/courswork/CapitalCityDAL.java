@@ -652,8 +652,6 @@ public class CapitalCityDAL {
                             +" row_number() over (partition by cc.continent order by c.population desc) as country_rank"
                             +" from city c inner join country cc on c.id = cc.Capital) ranks";
 
-
-
             // Execute SQL statement
             ResultSet rset = stmt.executeQuery(strSelect);
 
