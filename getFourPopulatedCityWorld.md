@@ -1,6 +1,6 @@
-| ID |  Name | Population | Country Name |
+| Name |  CountryName | CityPopulation | Continent |
 | --- | --- | --- | --- | 
-| 1024 | Mumbai (Bombay) | 1.05E7 | null | 
-| 2331 | Seoul | 9981619.0 | null | 
-| 206 | São Paulo | 9968485.0 | null | 
-| 1890 | Shanghai | 9696300.0 | null | 
+| Mumbai (Bombay) | India | 10500000 | Asia | 
+| Seoul | South Korea | 9981619 | Asia | 
+| São Paulo | Brazil | 9968485 | South America | 
+| Shanghai | China | 9696300 | Asia | 
